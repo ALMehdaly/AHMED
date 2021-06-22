@@ -139,6 +139,67 @@ https://live.hibridcdn.net/cnbc/liveabr/cnbc/cnbc_720p/chunks.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Shahid""FHD",asharq FHD
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index_1.m3u8
 
@@ -276,29 +337,52 @@ https://shls-footballleague7.shahid.net/footballleague7_1.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Web",Rotana Kids
-https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_1080p/chunks.m3u8
+https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
 
 #EXTINF:-1 group-title="Web",Rotana khalejia
-https://rotananet.hibridcdn.net/rotana/khaleejiya_abr/rotana/khaleejiya_1080p/chunks.m3u8
- 
+https://hiplayer.hibridcdn.net/t/rotana-khaleejiya.m3u8
+
 #EXTINF:-1 group-title="Web",Rotana Drama
-https://rotananet.hibridcdn.net/rotana/drama_abr/rotana/drama_1080p/chunks.m3u8
+https://hiplayer.hibridcdn.net/t/rotana-drama.m3u8
 
 #EXTINF:-1 group-title="Web",Rotana Comedy 
-https://rotananet.hibridcdn.net/rotana/comedy_abr/rotana/comedy_1080p/chunks.m3u8
+https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
  
 #EXTINF:-1 group-title="Web",Rotana cinema 
-https://rotananet.hibridcdn.net/rotana/cinema_abr/rotana/cinema_1080p/chunks.m3u8
+https://hiplayer.hibridcdn.net/t/rotana-cinema.m3u8
 
 #EXTINF:-1 group-title="Web",Rotana classic 
-https://rotananet.hibridcdn.net/rotana/classical_abr/rotana/classical_1080p/chunks.m3u8
+https://hiplayer.hibridcdn.net/t/rotana-classical.m3u8
 
 #EXTINF:-1 group-title="Web",Rotana LBC
-https://rotananet.hibridcdn.net/rotana/lbc_abr/rotana/lbc_1080p/chunks.m3u8
- 
+https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
+
 #EXTINF:-1 group-title="Web",Rotana RISALA
-https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_1080p/chunks.m3u8
+https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1,Saudia  
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
@@ -325,10 +409,12 @@ http://82.212.74.99:8000/live/hls/8117.m3u8?checkedby
 
 #EXTINF:-1 group-title="Web",aldafra 
 http://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8?v=3157391945
+#EXTINF:-1 group-title="Web",aldafra *
+https://iptv-all.lanesh4d0w.codes/saudiarabia/aldafrah
 
+#EXTINF:-1 group-title="Web",AlQamarTV
+https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
 
-
- 
 #EXTINF:-1 group-title="Web",Bahrain tv
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/playlist.m3u8
  
@@ -441,6 +527,8 @@ http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Web",Abu Dhabi SPORT 4
 http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 4 *
+https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Web", Yas
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
@@ -543,7 +631,8 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
 #EXTINF:-1 group-title="Web",Amman TV
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
 
-
+#EXTINF:-1 group-title="Web",3eesh alaan
+https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
 
 
 #EXTINF:-1, alnahar tv
