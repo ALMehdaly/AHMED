@@ -2,9 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Web",BBC ARA
 
-https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd?DVR&v=2550105199
 
 
 
@@ -102,14 +100,16 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
 #EXTINF:-1 group-title="Web", FR 24 AR
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+ 
+#EXTINF:-1 group-title="Web",BBC ARA
+
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd?DVR&v=2550105199
+#EXTINF:-1 group-title="Web", DW AR 
+http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8
 #EXTINF:-1 group-title="Web", almayaden 
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/gmswf.m3u8
 #EXTINF:-1 group-title="Web", almamlka HD
-https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8 
-
-#EXTINF:-1 group-title="Web", DW AR 
-http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8
-
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 group-title="Web",	CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Web""NEWS", abc news
