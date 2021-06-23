@@ -5,8 +5,6 @@
 
 
 
-?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 #EXTINF:-1 group-title="Live",LiveHD 1 auto
 https://hls-origin276.showroom-cdn.com/liveedge/c94b11d8d93e48ac00371f4f96404903eab2fa59e4cb74aad361ed4fbb7cc66a_source/chunklist.m3u8
 
@@ -30,7 +28,6 @@ https://edge2.vedge.infomaniak.com/livecast/ik:tab3kora/chunklist_w561003396.m3u
 https://edge3.vedge.infomaniak.com/livecast/ik:tab3kora2/chunklist_w1229545294.m3u8
 
 
-  
 
 #EXTINF:-1 group-title="GSA Live", GSA LIVE 1 FHD
 https://d356ybovuw0hnc.cloudfront.net/out/v1/b3a7b18e10dc4eb6a374f4b28b9432a0/index_5.m3u8
@@ -56,18 +53,7 @@ https://dszyq0u9yc79f.cloudfront.net/out/v1/667a8322113949179bb170937a1f14ae/ind
 
 
 
-#EXTINF:-1 group-title="Web",Quran_TV
-https://iptv--iptv.repl.co/Arabic/Quran_TV/
-#EXTINF:-1 group-title="Web",Sunnah_TV
-https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
-#EXTINF:-1 group-title="Web",Ekhbariyah
-https://iptv--iptv.repl.co/Arabic/Ekhbariyah/
-#EXTINF:-1 group-title="Web", Saudi HD
-https://iptv--iptv.repl.co/Arabic/Saudi1_TV
-#EXTINF:-1 group-title="Web",SBC HD
-https://iptv--iptv.repl.co/Arabic/SBC
-#EXTINF:-1 group-title="Web",Zikrayat 
-https://iptv--iptv.repl.co/Arabic/Zikrayat/
+
 
 
 
@@ -209,7 +195,18 @@ https://live.hibridcdn.net/cnbc/liveabr/cnbc/cnbc_720p/chunks.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Web",Quran_TV
+https://iptv--iptv.repl.co/Arabic/Quran_TV/
+#EXTINF:-1 group-title="Web",Sunnah_TV
+https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
+#EXTINF:-1 group-title="Web",Ekhbariyah
+https://iptv--iptv.repl.co/Arabic/Ekhbariyah/
+#EXTINF:-1 group-title="Web", Saudi HD
+https://iptv--iptv.repl.co/Arabic/Saudi1_TV
+#EXTINF:-1 group-title="Web",SBC HD
+https://iptv--iptv.repl.co/Arabic/SBC
+#EXTINF:-1 group-title="Web",Zikrayat 
+https://iptv--iptv.repl.co/Arabic/Zikrayat/
 
 
 #EXTINF:-1 group-title="Shahid""FHD",asharq FHD
