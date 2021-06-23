@@ -1,12 +1,15 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Web",	CNN
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Web",	NBC News Now
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Web",	reuters
-https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Web", BLOOMBERG 
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1 group-title="Web", BLOOMBERG  HD
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 
 #EXTINF:-1 group-title="Web",	BBC FOOD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -78,11 +81,9 @@ https://iptv--iptv.repl.co/Arabic/Zikrayat/
 
 
 
-#EXTINF:-1 group-title="Web", almamlka HD
-https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 
-#EXTINF:-1 group-title="Web""FHD", citruss tv HD
-https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
+
+
 
 
 
@@ -102,46 +103,46 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 group-title="Web""NEWS", skynews arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 
-
-
-
-#EXTINF:-1 group-title="Web""NEWS", FR 24 AR
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-
- 
 #EXTINF:-1 group-title="Web", aljazeera
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
 
+#EXTINF:-1 group-title="Web""NEWS", FR 24 AR
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="Web", almayaden 
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/gmswf.m3u8
+#EXTINF:-1 group-title="Web", almamlka HD
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8 
 
 #EXTINF:-1 group-title="Web""NEWS", DW AR 
 http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8
 
-#EXTINF:-1 group-title="Web""NEWS",abc FHD
-
-https://content-ausw2.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/g.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad.vast3=1&ad.vid=$program_id&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.is_lat=0&ad.npa=0&ad.tfcd=0&ad.description_url=https%3A%2F%2Fabcnews.go.com&ad.ppid=089957beef0a4f21a35449e978c33277&ad.cust_params=chan%3Dabc%26beacTyp%3Dssai%26stp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D0%26isAuth%3D0%26lang%3Den%26aff%3Dabc%26noad%3Dt%26swid%3D089957be-ef0a-4f21-a354-49e978c33277%26tag%3D%26objid%3Dabc_live11%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%2FLive&pbs=472473d6db3042afbec46354a3127201
-
-#EXTINF:-1 group-title="Web""NEWS", abc news HD
-
-https://content-aapm1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/g.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad.vast3=1&ad.vid=$program_id&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.is_lat=0&ad.npa=0&ad.tfcd=0&ad.description_url=https%3A%2F%2Fabcnews.go.com&ad.ppid=c0308d265da24984ad896a41b52fd03a&ad.cust_params=chan%3Dabc%26beacTyp%3Dssai%26stp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D0%26isAuth%3D0%26lang%3Den%26aff%3Dabc%26noad%3Dt%26swid%3Dc0308d26-5da2-4984-ad89-6a41b52fd03a%26tag%3D%26objid%3Dabc_live11%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%2FLive&pbs=8a5a2d1cfae9463093002da3db2e380f
-
+#EXTINF:-1 group-title="Web",	CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Web""NEWS", abc news
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-
 #EXTINF:-1 group-title="Web""NEWS", cbs news
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
 #EXTINF:-1 group-title="Web""NEWS", cbs news HD
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
 
-#EXTINF:-1 group-title="Web""NEWS", cbs ET
 
-https://dai.google.com/linear/hls/pa/event/xrVrJYTmTfitfXBQfeZByQ/stream/6e44cc00-a14c-4b27-a9b0-33a5c9cf744d:BRU/variant/2402fe9dca25a309a9844079a7ece291/bandwidth/000.m3u8
+#EXTINF:-1 group-title="Web",	NBC News Now
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Web",	reuters
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Web", DW Channel
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1 group-title="Web",France 24 
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
 
 
-#EXTINF:-1 group-title="Web", almayaden 
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/gmswf.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="Web",cnbc ar
@@ -339,7 +340,8 @@ https://shls-footballleague7.shahid.net/footballleague7_1.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Web""FHD", citruss tv HD
+https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
 
 
 
@@ -777,66 +779,8 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
 
 
 
-#EXTINF:-1 group-title="AR", Cairo_Cinema
-
-http://178.132.3.162:88/Cairo_Cinema/video.m3u8?token=test
-
-#EXTINF:-1 group-title="AR", Al_Nahar_Drama
-
-http://178.132.3.162:88/Al_Nahar_Drama/video.m3u8?token=test
 
 
-#EXTINF:-1 group-title="AR",Al_Nahar_Tv
-http://178.132.3.162:88/Al_Nahar_Tv/video.m3u8?token=test
-
-
-#EXTINF:-1 group-title="AR",canal_algerie
-http://178.132.3.162:88/canal_algerie/video.m3u8?token=test
-
-#EXTINF:-1 group-title="AR",Cairo_Drama
-http://178.132.3.162:88/Cairo_Drama/video.m3u8?token=test
-
-#EXTINF:-1 group-title="AR",CBC_Sofra
-http://178.132.3.162:88/CBC_Sofra/video.m3u8?token=test
-
-
-#EXTINF:-1 group-title="AR",Cima
-http://178.132.3.162:88/Cima/video.m3u8?token=test
-
-
-#EXTINF:-1 group-title="AR",Nile_cinema
-http://178.132.3.162:88/Nile_cinema/video.m3u8?token=test
-
-#EXTINF:-1 group-title="AR",Nile_Culture
-http://178.132.3.162:88/Nile_Culture/video.m3u8?token=test
-
-
-#EXTINF:-1 group-title="AR",Nile_Drama
-http://178.132.3.162:88/Nile_Drama/video.m3u8?token=test
-
-#EXTINF:-1 group-title="AR",Nile_Life
-http://178.132.3.162:88/Nile_Life/video.m3u8?token=test
-
-#EXTINF:-1 group-title="AR",Nile_Sport
-http://178.132.3.162:88/Nile_Sport/video.m3u8?token=test
-
-#EXTINF:-1 group-title="AR",Panorama_Drama
-http://178.132.3.162:88/Panorama_Drama/video.m3u8?token=test
-
-#EXTINF:-1 group-title="AR",FUTURE
-http://178.132.3.162:88/Future_TV/video.m3u8?token=test
-
-#EXTINF:-1 group-title="AR",LBC
-http://178.132.3.162:88/LBC_SAT/video.m3u8?token=test
-
-#EXTINF:-1 group-title="AR",MTV 
-http://178.132.3.162:88/MTV_Lebanon/video.m3u8?token=test
-
-#EXTINF:-1 group-title="AR",OTV
-http://178.132.3.162:88/OTV/video.m3u8?token=test
-
-#EXTINF:-1 group-title="Web", MTV HD
-http://digitalxpress.gcdn.co/live1/mtvlebanon/tracks-v1a1/mono.m3u8?token=1583428461
 
 #EXTINF:-1 group-title="Web", seventeen HD
 https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8?v=1583428461
@@ -846,83 +790,61 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_slA
 
 
 
-#EXTINF:-1 group-title="Web", DW Channel
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:-1 group-title="Web",France 24 
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-
-#EXTINF:-1 group-title="Web",BLOOMBERG
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-
-#EXTINF:-1 group-title="Web", BLOOMBERG 2
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-
-#EXTINF:-1 group-title="Web", BLOOMBERG  HD
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 
 
-
-
-
-
-
-#EXTINF:-1 group-title="TR" , TRT 1 HD,
+#EXTINF:-1 group-title="TR" , TRT 1 HD
 http://tv-trt1.live.trt.com.tr/master_720.m3u8
-
+#EXTINF:-1 group-title="TR" , TRT 2 HD 
+http://tv-trt2.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR" , TRT 3 HD 
+http://tv-trt3.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="TR" ,STAR TV HD
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="TR" , EURO STAR HD 
 http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
-
-
 #EXTINF:-1 group-title="TR" , ATV HD
 http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
-
-
 #EXTINF:-1 group-title="TR" , NTV HD
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8?
-
-
 #EXTINF:-1 group-title="TR" , TRT HABER
 http://tv-trthaber.live.trt.com.tr/master_720.m3u8
-
 #EXTINF:-1 group-title="TR" , BLOOMBERG TV
 http://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-
-
 #EXTINF:-1 group-title="TR" , EBA TV ILKOKUL
 http://tv-e-okul00.live.trt.com.tr/master_720.m3u8
-
 #EXTINF:-1 group-title="TR" , EBA TV ORTAOKUL
 http://tv-e-okul01.live.trt.com.tr/master_720.m3u8
-
 #EXTINF:-1 group-title="TR" , EBA TV LISE
 http://tv-e-okul02.live.trt.com.tr/master_720.m3u8
-
-
-
 #EXTINF:-1 group-title="TR" , TLC TV HD
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-
 #EXTINF:-1 group-title="TR" , TRT COCUK
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
-
-
 #EXTINF:-1 group-title="TR" , MUSIC-KRAL Pop TV
 http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
-
 #EXTINF:-1 group-title="TR" , MUSIC-KRAL HD
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
-
 #EXTINF:-1 group-title="TR" , MUSIC-TRT MUZIK
 http://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
-
 #EXTINF:-1 group-title="TR" , MUSIC-M20
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-
 #EXTINF:-1 group-title="TR" , MUSIC-POWERTÃœRK TV
 https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist.sltur.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
