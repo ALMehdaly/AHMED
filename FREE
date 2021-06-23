@@ -344,35 +344,63 @@ https://shls-footballleague7.shahid.net/footballleague7_1.m3u8
 
 
 
+#EXTINF:-1 group-title="jawwy",jawwy
+
+https://akm.cdn.intigral.net/JAW1/JAW1.isml/manifest.mpd
 
 
 
-
-
-#EXTINF:-1 group-title="Web",Rotana Kids
+#EXTINF:-1 group-title="Rotana",Rotana Kids
 https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
 
-#EXTINF:-1 group-title="Web",Rotana khalejia
+#EXTINF:-1 group-title="Rotana",Rotana khalejia
 https://hiplayer.hibridcdn.net/t/rotana-khaleejiya.m3u8
 
-#EXTINF:-1 group-title="Web",Rotana Drama
+#EXTINF:-1 group-title="Rotana",Rotana Drama
 https://hiplayer.hibridcdn.net/t/rotana-drama.m3u8
 
-#EXTINF:-1 group-title="Web",Rotana Comedy 
+#EXTINF:-1 group-title="Rotana",Rotana Comedy 
 https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
  
-#EXTINF:-1 group-title="Web",Rotana cinema 
+#EXTINF:-1 group-title="Rotana",Rotana cinema 
 https://hiplayer.hibridcdn.net/t/rotana-cinema.m3u8
 
-#EXTINF:-1 group-title="Web",Rotana classic 
+#EXTINF:-1 group-title="Rotana",Rotana classic 
 https://hiplayer.hibridcdn.net/t/rotana-classical.m3u8
 
-#EXTINF:-1 group-title="Web",Rotana LBC
+#EXTINF:-1 group-title="Rotana",Rotana LBC
 https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
 
-#EXTINF:-1 group-title="Web",Rotana RISALA
+#EXTINF:-1 group-title="Rotana",Rotana RISALA
 https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
 
+
+
+
+
+#EXTINF:-1 group-title="Rotana",Rotana Kids
+https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
+
+#EXTINF:-1 group-title="Rotana",Rotana khalejia
+https://hiplayer.hibridcdn.net/t/rotana-khaleejiya.m3u8
+
+#EXTINF:-1 group-title="Rotana",Rotana Drama
+https://hiplayer.hibridcdn.net/t/rotana-drama.m3u8
+
+#EXTINF:-1 group-title="Rotana",Rotana Comedy fhd
+https://rotananet.hibridcdn.net/rotana/comedy_abr/rotana/comedy_1080p/chunks.m3u8
+ 
+#EXTINF:-1 group-title="Rotana",Rotana cinema fhd
+https://rotananet.hibridcdn.net/rotana/cinema_abr/rotana/cinema_1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="Rotana",Rotana classic 
+https://hiplayer.hibridcdn.net/t/rotana-classical.m3u8
+
+#EXTINF:-1 group-title="Rotana",Rotana LBC
+https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
+
+#EXTINF:-1 group-title="Rotana",Rotana RISALA
+https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
 
 
 
@@ -1362,10 +1390,6 @@ https://wktv1-i.akamaihd.net/out/v1/59431963f4e6470bb5ba6d9681e6b604/index_5.m3u
 https://wktv4-i.akamaihd.net/out/v1/57c3329051fe4cd4b5d0577cc0d56e17/index_3.m3u8
 #EXTINF:-1 group-title="WKTV",Rotana DRAMA FHD
 https://wktv2-i.akamaihd.net/out/v1/6f695542e67c45f1bdfa50f8dc6bf576/index_5.m3u8
-
-
-
-
 #EXTINF:-1 group-title="WKTV",Rotana CEINMA FHD
 https://wktv4-i.akamaihd.net/out/v1/b39d3d5332c1455586fb0a7dd4476f7e/index_3.m3u8
 #EXTINF:-1 group-title="WKTV",Rotana CEINMA EGY FHD
@@ -1376,17 +1400,12 @@ https://wktv4-i.akamaihd.net/out/v1/b36031b094ac48178730b4349e3e30ea/index_5.m3u
 https://wktv4-i.akamaihd.net/out/v1/5214a7249a7645378c9127c589355a41/index_3.m3u8
 #EXTINF:-1 group-title="WKTV",Rotana PLUS FHD
 https://wktv2-i.akamaihd.net/out/v1/67773b1f6d424ff082d421a98ed53fda/index_3.m3u8
-
 #EXTINF:-1 group-title="WKTV",Rotana M+ FHD
 https://wktv2-i.akamaihd.net/out/v1/e6d6d91534464326bc0f13cb73a8346f/index_3.m3u8
 #EXTINF:-1 group-title="WKTV",Rotana MUSIC FHD
 https://wktv3-i.akamaihd.net/out/v1/1940437aff2742d7953d8905928e3f14/index_5.m3u8
 #EXTINF:-1 group-title="WKTV",Rotana CLIP FHD
 https://wktv3-i.akamaihd.net/out/v1/4ee1bc4c6de142f5aeab60cbf867de04/index_5.m3u8
-
-
-
-
 #EXTINF:-1 group-title="WKTV",Rotana LBC FHD
 https://wktv3-i.akamaihd.net/out/v1/4b831203c31d4e1ab5eb9843d33add22/index_5.m3u8
 #EXTINF:-1 group-title="WKTV",Rotana risala FHD
@@ -1426,8 +1445,7 @@ https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_1080p/chunks.m3u
 
 
 
-#EXTINF:-1 group-title="Rotana",Rotana khalejia TEST MASTER
-https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/587b518f-9ab1-46e8-a656-d16e04eb69a2:BRU/master.m3u8
+
 
 
 
