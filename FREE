@@ -378,29 +378,12 @@ https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
 
 
 
-#EXTINF:-1 group-title="Rotana",Rotana Kids
-https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
 
-#EXTINF:-1 group-title="Rotana",Rotana khalejia
-https://hiplayer.hibridcdn.net/t/rotana-khaleejiya.m3u8
-
-#EXTINF:-1 group-title="Rotana",Rotana Drama
-https://hiplayer.hibridcdn.net/t/rotana-drama.m3u8
-
-#EXTINF:-1 group-title="Rotana",Rotana Comedy fhd
-https://rotananet.hibridcdn.net/rotana/comedy_abr/rotana/comedy_1080p/chunks.m3u8
  
 #EXTINF:-1 group-title="Rotana",Rotana cinema fhd
-https://rotananet.hibridcdn.net/rotana/cinema_abr/rotana/cinema_1080p/chunks.m3u8
-
-#EXTINF:-1 group-title="Rotana",Rotana classic 
-https://hiplayer.hibridcdn.net/t/rotana-classical.m3u8
-
-#EXTINF:-1 group-title="Rotana",Rotana LBC
-https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
-
-#EXTINF:-1 group-title="Rotana",Rotana RISALA
-https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
+https://rotananet.hibridcdn.net/rotana/cinema_abr/rotana/cinema_1080p/chunks.m3u8?p=50&s=1624409002&e=1624495402&cf=1624495402&h=71b079cfd5198e8a81e2a8f9bd619820
+#EXTINF:-1 group-title="Rotana",Rotana classic fhd
+https://rotananet.hibridcdn.net/rotana/classical_abr/rotana/classical_1080p/chunks.m3u8?p=53&s=1624408817&e=1624495217&cf=1624495217&h=fc6cd1102f40968225e792d30ec722a0
 
 
 
