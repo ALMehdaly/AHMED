@@ -1,6 +1,17 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Web",	CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Web",	NBC News Now
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Web",	reuters
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Web",	BBC FOOD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="Web",	BBC HOME
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 group-title="Live",LiveHD 1 auto
 https://hls-origin276.showroom-cdn.com/liveedge/c94b11d8d93e48ac00371f4f96404903eab2fa59e4cb74aad361ed4fbb7cc66a_source/chunklist.m3u8
@@ -346,7 +357,7 @@ https://shls-footballleague7.shahid.net/footballleague7_1.m3u8
 
 #EXTINF:-1 group-title="jawwy",jawwy
 
-https://akm.cdn.intigral.net/JAW1/JAW1.isml/manifest.mpd
+https://akm.cdn.intigral.net/JAW1/JAW1.isml/manifest/playlist.m3u8
 
 
 
