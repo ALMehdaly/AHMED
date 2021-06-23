@@ -2,6 +2,9 @@
 
 
 
+#EXTINF:-1 group-title="Web",BBC ARA
+
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd?DVR&v=2550105199
 
 
 
@@ -83,28 +86,28 @@ https://iptv--iptv.repl.co/Arabic/Zikrayat/
 https://fm.alarabiya.net/fm/myStream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Web""NEWS",alarabiya
+#EXTINF:-1 group-title="Web",alarabiya
 https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
  
-#EXTINF:-1 group-title="Web""NEWS",alhadath
+#EXTINF:-1 group-title="Web",alhadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Web""NEWS", skynews arabia
+#EXTINF:-1 group-title="Web", skynews arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 
 #EXTINF:-1 group-title="Web", aljazeera
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
 
-#EXTINF:-1 group-title="Web""NEWS", FR 24 AR
+#EXTINF:-1 group-title="Web", FR 24 AR
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:-1 group-title="Web", almayaden 
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/gmswf.m3u8
 #EXTINF:-1 group-title="Web", almamlka HD
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8 
 
-#EXTINF:-1 group-title="Web""NEWS", DW AR 
+#EXTINF:-1 group-title="Web", DW AR 
 http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8
 
 #EXTINF:-1 group-title="Web",	CNN
@@ -114,7 +117,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="Web""NEWS", cbs news
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 group-title="Web""NEWS", cbs news HD
+#EXTINF:-1 group-title="Web", cbs news HD
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
 
 
@@ -211,135 +214,135 @@ https://live.hibridcdn.net/cnbc/liveabr/cnbc/cnbc_720p/chunks.m3u8
 
 
 
-#EXTINF:-1 group-title="Shahid""FHD",asharq FHD
+#EXTINF:-1 group-title="Shahid",asharq FHD
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index_1.m3u8
 
 
 
-#EXTINF:-1 group-title="Shahid""FHD",alarabiya FHD 
+#EXTINF:-1 group-title="Shahid",alarabiya FHD 
 
 https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",alhadath FHD 
+#EXTINF:-1 group-title="Shahid",alhadath FHD 
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",mbc 1 FHD 
+#EXTINF:-1 group-title="Shahid",mbc 1 FHD 
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",mbc drama FHD 
+#EXTINF:-1 group-title="Shahid",mbc drama FHD 
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",mbc drama Plus FHD 
+#EXTINF:-1 group-title="Shahid",mbc drama Plus FHD 
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",mbc iraq FHD 
+#EXTINF:-1 group-title="Shahid",mbc iraq FHD 
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",mbc Masr 1 FHD 
+#EXTINF:-1 group-title="Shahid",mbc Masr 1 FHD 
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",mbc Masr 2 FHD 
+#EXTINF:-1 group-title="Shahid",mbc Masr 2 FHD 
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",mbc 4 FHD 
+#EXTINF:-1 group-title="Shahid",mbc 4 FHD 
 
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",mbc 5 FHD 
+#EXTINF:-1 group-title="Shahid",mbc 5 FHD 
 
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",mbc action FHD 
+#EXTINF:-1 group-title="Shahid",mbc action FHD 
 
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",mbc 2 FHD 
+#EXTINF:-1 group-title="Shahid",mbc 2 FHD 
 
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",mbc Max FHD 
+#EXTINF:-1 group-title="Shahid",mbc Max FHD 
 
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",mbc bollywood FHD 
+#EXTINF:-1 group-title="Shahid",mbc bollywood FHD 
 
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",mbc persia FHD 
+#EXTINF:-1 group-title="Shahid",mbc persia FHD 
 
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",wanasah FHD 
+#EXTINF:-1 group-title="Shahid",wanasah FHD 
 
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",mbc 3 FHD 
+#EXTINF:-1 group-title="Shahid",mbc 3 FHD 
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",spacetoon FHD 
+#EXTINF:-1 group-title="Shahid",spacetoon FHD 
 
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8 
 
-#EXTINF:-1 group-title="Shahid""FHD",cartoon network FHD 
+#EXTINF:-1 group-title="Shahid",cartoon network FHD 
 
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",MBC FM_Riyadh 
+#EXTINF:-1 group-title="Shahid",MBC FM_Riyadh 
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",MBC Panorama FM FHD 
+#EXTINF:-1 group-title="Shahid",MBC Panorama FM FHD 
 
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",LBC FHD 
+#EXTINF:-1 group-title="Shahid",LBC FHD 
 
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_1.m3u8
 
 
-#EXTINF:-1 group-title="Shahid""FHD",rotana kh FHD
+#EXTINF:-1 group-title="Shahid",rotana kh FHD
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",rotana cinema ksa FHD
+#EXTINF:-1 group-title="Shahid",rotana cinema ksa FHD
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",rotana cinema egy FHD
+#EXTINF:-1 group-title="Shahid",rotana cinema egy FHD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD", rotana plus FHD
+#EXTINF:-1 group-title="Shahid", rotana plus FHD
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD", rotanadrama FHD
+#EXTINF:-1 group-title="Shahid", rotanadrama FHD
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",rotana classic FHD
+#EXTINF:-1 group-title="Shahid",rotana classic FHD
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD", rotana music FHD
+#EXTINF:-1 group-title="Shahid", rotana music FHD
 https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",rotana kids FHD
+#EXTINF:-1 group-title="Shahid",rotana kids FHD
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_1.m3u8
 
 
 
-#EXTINF:-1 group-title="Shahid""FHD",TIJI-in-French FHD
+#EXTINF:-1 group-title="Shahid",TIJI-in-French FHD
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",GULLI BIL ARABI FHD
+#EXTINF:-1 group-title="Shahid",GULLI BIL ARABI FHD
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index_1.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",M6 INTERNATIONAL FHD
+#EXTINF:-1 group-title="Shahid",M6 INTERNATIONAL FHD
 https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index_1.m3u8
 
 
 
-#EXTINF:-1 group-title="Shahid""FHD",Shahid live FHD
+#EXTINF:-1 group-title="Shahid",Shahid live FHD
 https://shls-footballleague7.shahid.net/footballleague7_1.m3u8
 
 
 
 
-#EXTINF:-1 group-title="Web""FHD", citruss tv HD
+#EXTINF:-1 group-title="Web", citruss tv HD
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
 
 
