@@ -220,6 +220,8 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 
 #EXTINF:-1 group-title="Shahid",mbc 3 FHD 
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:-1 group-title="Shahid",mbc 3 eur   
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_1.m3u8
 
 #EXTINF:-1 group-title="Shahid",spacetoon FHD 
 
