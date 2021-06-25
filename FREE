@@ -374,6 +374,103 @@ http://82.212.74.99:8000/live/hls/8164.m3u8?v=1559313103&tokenekot=EJApSzLCfdCPw
 http://82.212.74.99:8000/live/hls/8117.m3u8?checkedby
 
 
+#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 4 *
+https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Web", Yas
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Web",AD SP 4K
+https://admk4.cdn.mangomolo.com/k4/smil:channel.stream.smil/chunklist_b18512000.m3u8
+  
+ 
+#EXTINF:-1 group-title="Web",Abu Dhabi Tv
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Web",Alemarat Tv
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Web",Abu Dhabi drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+ 
+
+#EXTINF:-1 group-title="Web",Dubai TV FHD
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="Web",sama Dubai FHD
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+
+
+#EXTINF:-1 group-title="Web",Dubai TV OLD
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8?
+ 
+#EXTINF:-1 group-title="Web",Dubai Zaman
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8?
+ 
+#EXTINF:-1 group-title="Web",sama Dubai
+http://dmieigthvll.cdn.mangomolo.com:80/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="Web",dubai one
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="Web",Dubai sports 1
+ 
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
+ 
+ 
+#EXTINF:-1 group-title="Web",Dubai sports 2
+ 
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="Web",Dubai sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+ 
+ 
+#EXTINF:-1 group-title="Web",dubai racing 1
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Web",dubai racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Web",dubai racing 3
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+ 
+ 
+
+#EXTINF:-1 group-title="Web",Sharjah Sports FHD
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
+#EXTINF:-1 group-title="Web", Sharjah tv FHD
+https://svs.itworkscdn.net/smc1live/smc1.smil/smc1tv_chunks.m3u8
+#EXTINF:-1 group-title="Web", Sharjah TV 2 FHD
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc1tv_chunks.m3u8
+#EXTINF:-1 group-title="Web", kabla tv FHD
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8
+#EXTINF:-1 group-title="Web", alwousta tv FHD
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/alwoustatv_chunks.m3u8
+
+#EXTINF:-1 group-title="Web", Sharjah QURAN FHD
+https://l3a.kwikmotion.net/smcquranvideopublish/smcqv/chunks.m3u8
+
+#EXTINF:-1 group-title="Web",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Web", Sharjah tv 
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Web",Sharjah TV 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Web", kabla tv 
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Web", alwousta tv 
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Web", Sharjah QURAN 
+https://l3a.kwikmotion.net/smcquranvideopublish/smcqv/chunks.m3u8
+#EXTINF:-1 group-title="Web", Sharjah RADIO
+https://svs.itworkscdn.net/smcweblive/sharjahweb/chunks.m3u8
+ 
+ 
 
 #EXTINF:-1 group-title="Web",aldafra 
 http://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8?v=3157391945
@@ -487,103 +584,6 @@ https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
 
  
 
-#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 2
-http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 3
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 4
-http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 4 *
-https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Web", Yas
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Web",AD SP 4K
-https://admk4.cdn.mangomolo.com/k4/smil:channel.stream.smil/chunklist_b18512000.m3u8
-  
- 
-#EXTINF:-1 group-title="Web",Abu Dhabi Tv
-https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Web",Alemarat Tv
-https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Web",Abu Dhabi drama
-https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
- 
-
-#EXTINF:-1 group-title="Web",Dubai TV FHD
-https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 group-title="Web",sama Dubai FHD
-https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-
-
-#EXTINF:-1 group-title="Web",Dubai TV OLD
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8?
- 
-#EXTINF:-1 group-title="Web",Dubai Zaman
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8?
- 
-#EXTINF:-1 group-title="Web",sama Dubai
-http://dmieigthvll.cdn.mangomolo.com:80/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
- 
-#EXTINF:-1 group-title="Web",dubai one
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
- 
-#EXTINF:-1 group-title="Web",Dubai sports 1
- 
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
- 
- 
-#EXTINF:-1 group-title="Web",Dubai sports 2
- 
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
- 
-#EXTINF:-1 group-title="Web",Dubai sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
- 
- 
-#EXTINF:-1 group-title="Web",dubai racing 1
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
- 
-#EXTINF:-1 group-title="Web",dubai racing 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
- 
-#EXTINF:-1 group-title="Web",dubai racing 3
-http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
- 
- 
-
-#EXTINF:-1 group-title="Web",Sharjah Sports FHD
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
-#EXTINF:-1 group-title="Web", Sharjah tv FHD
-https://svs.itworkscdn.net/smc1live/smc1.smil/smc1tv_chunks.m3u8
-#EXTINF:-1 group-title="Web", Sharjah TV 2 FHD
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc1tv_chunks.m3u8
-#EXTINF:-1 group-title="Web", kabla tv FHD
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8
-#EXTINF:-1 group-title="Web", alwousta tv FHD
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/alwoustatv_chunks.m3u8
-
-#EXTINF:-1 group-title="Web", Sharjah QURAN FHD
-https://l3a.kwikmotion.net/smcquranvideopublish/smcqv/chunks.m3u8
-
-#EXTINF:-1 group-title="Web",Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Web", Sharjah tv 
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Web",Sharjah TV 2
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Web", kabla tv 
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Web", alwousta tv 
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Web", Sharjah QURAN 
-https://l3a.kwikmotion.net/smcquranvideopublish/smcqv/chunks.m3u8
-#EXTINF:-1 group-title="Web", Sharjah RADIO
-https://svs.itworkscdn.net/smcweblive/sharjahweb/chunks.m3u8
- 
- 
 #EXTINF:-1 group-title="Web",Oman tv
 http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Web",Oman LIVE
@@ -797,11 +797,11 @@ https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist.sltur.m3u8
 
 
 
+#EXTINF:-1 group-title="TRUEVISION" , 
 
 
 
-
-#EXTINF:-1,CARTOON NETWORK  TRUEVISION
+#EXTINF:-1 group-title="TRUEVISION" ,CARTOON NETWORK
 https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
 
 
