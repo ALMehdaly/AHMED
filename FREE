@@ -968,99 +968,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 
 
 
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 1 HD
-https://d356ybovuw0hnc.cloudfront.net/out/v1/b3a7b18e10dc4eb6a374f4b28b9432a0/index_4.m3u8
- 
- 
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 2 HD
-https://d2kh9ebcjtouxt.cloudfront.net/out/v1/a8d6da6816d14b7aa956c89c35ffaa2d/index_4.m3u8
- 
- 
- 
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 3 HD
-https://ds1yayav1aj41.cloudfront.net/out/v1/f49e42ed020a452ab3484ff15edb85ca/index_4.m3u8
- 
- 
- 
-
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 4 HD
-https://d2lz52dy6sizaj.cloudfront.net/out/v1/f99e38a6497d400288549e645e6f4b52/index_4.m3u8
-
- 
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 5 HD
-https://d389biktia1t50.cloudfront.net/out/v1/2a6b96252b5749a8b7d0e970fa7c004d/index_4.m3u8
- 
- 
- 
- 
- 
-
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 6 HD
-https://d3r5pmjjio9c14.cloudfront.net/out/v1/d83f3a71310e4ee797e1282412d8bfc3/index_4.m3u8
- 
-
-
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 7 HD
-https://dszyq0u9yc79f.cloudfront.net/out/v1/667a8322113949179bb170937a1f14ae/index_4.m3u8 
- 
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 1 SD
-https://d356ybovuw0hnc.cloudfront.net/out/v1/b3a7b18e10dc4eb6a374f4b28b9432a0/index_3.m3u8
- 
- 
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 2 SD
-https://d2kh9ebcjtouxt.cloudfront.net/out/v1/a8d6da6816d14b7aa956c89c35ffaa2d/index_3.m3u8
- 
- 
- 
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 3 SD
-https://ds1yayav1aj41.cloudfront.net/out/v1/f49e42ed020a452ab3484ff15edb85ca/index_3.m3u8
- 
- 
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 4 SD
-https://d2lz52dy6sizaj.cloudfront.net/out/v1/f99e38a6497d400288549e645e6f4b52/index_3.m3u8
-
-
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 5 SD
-https://d389biktia1t50.cloudfront.net/out/v1/2a6b96252b5749a8b7d0e970fa7c004d/index_3.m3u8
- 
-
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 6 SD
-https://d3r5pmjjio9c14.cloudfront.net/out/v1/d83f3a71310e4ee797e1282412d8bfc3/index_3.m3u8
- 
- 
- 
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 7 SD
-https://dszyq0u9yc79f.cloudfront.net/out/v1/667a8322113949179bb170937a1f14ae/index_3.m3u8
- 
- 
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 1 AUTO
-https://d356ybovuw0hnc.cloudfront.net/out/v1/b3a7b18e10dc4eb6a374f4b28b9432a0/index.m3u8
- 
- 
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 2 AUTO
-https://d2kh9ebcjtouxt.cloudfront.net/out/v1/a8d6da6816d14b7aa956c89c35ffaa2d/index.m3u8
- 
- 
- 
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 3 AUTO
-https://ds1yayav1aj41.cloudfront.net/out/v1/f49e42ed020a452ab3484ff15edb85ca/index.m3u8
- 
- 
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 4 AUTO
-https://d2lz52dy6sizaj.cloudfront.net/out/v1/f99e38a6497d400288549e645e6f4b52/index.m3u8
- 
- 
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 5 AUTO
-https://d389biktia1t50.cloudfront.net/out/v1/2a6b96252b5749a8b7d0e970fa7c004d/index.m3u8
- 
- #EXTINF:-1 group-title="GSA Live", GSA LIVE 6 AUTO
-https://d3r5pmjjio9c14.cloudfront.net/out/v1/d83f3a71310e4ee797e1282412d8bfc3/index.m3u8
- 
-
-#EXTINF:-1 group-title="GSA Live", GSA LIVE 7 AUTO
-https://dszyq0u9yc79f.cloudfront.net/out/v1/667a8322113949179bb170937a1f14ae/index.m3u8
- 
-
 
 #EXTINF:0, Bein1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
@@ -1723,9 +1630,6 @@ https://edge2.vedge.infomaniak.com/livecast/ik:tab3kora/chunklist_w561003396.m3u
 #EXTINF:-1 group-title="Live",Tab3 mob
 https://edge3.vedge.infomaniak.com/livecast/ik:tab3kora2/chunklist_w1229545294.m3u8
 
-
-  
-
 #EXTINF:-1 group-title="GSA Live", GSA LIVE 1 FHD
 https://d356ybovuw0hnc.cloudfront.net/out/v1/b3a7b18e10dc4eb6a374f4b28b9432a0/index_5.m3u8
  
@@ -1746,6 +1650,102 @@ https://d3r5pmjjio9c14.cloudfront.net/out/v1/d83f3a71310e4ee797e1282412d8bfc3/in
 
 #EXTINF:-1 group-title="GSA Live", GSA LIVE 7 FHD
 https://dszyq0u9yc79f.cloudfront.net/out/v1/667a8322113949179bb170937a1f14ae/index_5.m3u8
+
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 1 HD
+https://d356ybovuw0hnc.cloudfront.net/out/v1/b3a7b18e10dc4eb6a374f4b28b9432a0/index_4.m3u8
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 2 HD
+https://d2kh9ebcjtouxt.cloudfront.net/out/v1/a8d6da6816d14b7aa956c89c35ffaa2d/index_4.m3u8
+ 
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 3 HD
+https://ds1yayav1aj41.cloudfront.net/out/v1/f49e42ed020a452ab3484ff15edb85ca/index_4.m3u8
+ 
+ 
+ 
+
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 4 HD
+https://d2lz52dy6sizaj.cloudfront.net/out/v1/f99e38a6497d400288549e645e6f4b52/index_4.m3u8
+
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 5 HD
+https://d389biktia1t50.cloudfront.net/out/v1/2a6b96252b5749a8b7d0e970fa7c004d/index_4.m3u8
+ 
+ 
+ 
+ 
+ 
+
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 6 HD
+https://d3r5pmjjio9c14.cloudfront.net/out/v1/d83f3a71310e4ee797e1282412d8bfc3/index_4.m3u8
+ 
+
+
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 7 HD
+https://dszyq0u9yc79f.cloudfront.net/out/v1/667a8322113949179bb170937a1f14ae/index_4.m3u8 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 1 SD
+https://d356ybovuw0hnc.cloudfront.net/out/v1/b3a7b18e10dc4eb6a374f4b28b9432a0/index_3.m3u8
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 2 SD
+https://d2kh9ebcjtouxt.cloudfront.net/out/v1/a8d6da6816d14b7aa956c89c35ffaa2d/index_3.m3u8
+ 
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 3 SD
+https://ds1yayav1aj41.cloudfront.net/out/v1/f49e42ed020a452ab3484ff15edb85ca/index_3.m3u8
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 4 SD
+https://d2lz52dy6sizaj.cloudfront.net/out/v1/f99e38a6497d400288549e645e6f4b52/index_3.m3u8
+
+
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 5 SD
+https://d389biktia1t50.cloudfront.net/out/v1/2a6b96252b5749a8b7d0e970fa7c004d/index_3.m3u8
+ 
+
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 6 SD
+https://d3r5pmjjio9c14.cloudfront.net/out/v1/d83f3a71310e4ee797e1282412d8bfc3/index_3.m3u8
+ 
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 7 SD
+https://dszyq0u9yc79f.cloudfront.net/out/v1/667a8322113949179bb170937a1f14ae/index_3.m3u8
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 1 AUTO
+https://d356ybovuw0hnc.cloudfront.net/out/v1/b3a7b18e10dc4eb6a374f4b28b9432a0/index.m3u8
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 2 AUTO
+https://d2kh9ebcjtouxt.cloudfront.net/out/v1/a8d6da6816d14b7aa956c89c35ffaa2d/index.m3u8
+ 
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 3 AUTO
+https://ds1yayav1aj41.cloudfront.net/out/v1/f49e42ed020a452ab3484ff15edb85ca/index.m3u8
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 4 AUTO
+https://d2lz52dy6sizaj.cloudfront.net/out/v1/f99e38a6497d400288549e645e6f4b52/index.m3u8
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 5 AUTO
+https://d389biktia1t50.cloudfront.net/out/v1/2a6b96252b5749a8b7d0e970fa7c004d/index.m3u8
+ 
+ #EXTINF:-1 group-title="GSA Live", GSA LIVE 6 AUTO
+https://d3r5pmjjio9c14.cloudfront.net/out/v1/d83f3a71310e4ee797e1282412d8bfc3/index.m3u8
+ 
+
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 7 AUTO
+https://dszyq0u9yc79f.cloudfront.net/out/v1/667a8322113949179bb170937a1f14ae/index.m3u8
+ 
+  
+
+
 
 
 
