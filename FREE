@@ -1364,8 +1364,57 @@ https://or.tooliserver.com/live/KSA_Sports_p2_HD/KSA_Sports_p2_HD.m3u8?session=&
 https://or.tooliserver.com/live/iEN_TV/iEN_TV.m3u8?session=&location=
 
 
-#EXTINF:-1 group-title="TOOLI", iEN_Doros
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 1
 https://or.tooliserver.com/live/iEN_Doros_01/iEN_Doros_01.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 2
+https://or.tooliserver.com/live/iEN_Doros_02/iEN_Doros_02.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 3
+https://or.tooliserver.com/live/iEN_Doros_03/iEN_Doros_03.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 4
+https://or.tooliserver.com/live/iEN_Doros_04/iEN_Doros_04.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 5
+https://or.tooliserver.com/live/iEN_Doros_05/iEN_Doros_05.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 6
+https://or.tooliserver.com/live/iEN_Doros_06/iEN_Doros_06.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 7
+https://or.tooliserver.com/live/iEN_Doros_07/iEN_Doros_07.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 8
+https://or.tooliserver.com/live/iEN_Doros_08/iEN_Doros_08.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 9
+https://or.tooliserver.com/live/iEN_Doros_09/iEN_Doros_09.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 10
+https://or.tooliserver.com/live/iEN_Doros_10/iEN_Doros_10.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 11
+https://or.tooliserver.com/live/iEN_Doros_11/iEN_Doros_11.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 12
+https://or.tooliserver.com/live/iEN_Doros_12/iEN_Doros_12.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 13
+https://or.tooliserver.com/live/iEN_Doros_13/iEN_Doros_13.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 14
+https://or.tooliserver.com/live/iEN_Doros_14/iEN_Doros_14.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 15
+https://or.tooliserver.com/live/iEN_Doros_15/iEN_Doros_15.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 16
+https://or.tooliserver.com/live/iEN_Doros_16/iEN_Doros_16.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 17
+https://or.tooliserver.com/live/iEN_Doros_17/iEN_Doros_17.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 18
+https://or.tooliserver.com/live/iEN_Doros_18/iEN_Doros_18.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 19
+https://or.tooliserver.com/live/iEN_Doros_19/iEN_Doros_19.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 20
+https://or.tooliserver.com/live/iEN_Doros_20/iEN_Doros_20.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 21
+https://or.tooliserver.com/live/iEN_Doros_21/iEN_Doros_21.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 22
+https://or.tooliserver.com/live/iEN_Doros_22/iEN_Doros_22.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 23
+https://or.tooliserver.com/live/iEN_Doros_23/iEN_Doros_23.m3u8?session=&location=
+
+
+
 
 
 #EXTINF:-1 group-title="TOOLI", SBC 
@@ -1393,6 +1442,14 @@ https://or.tooliserver.com/live/Asharq_News_Channel_HD/Asharq_News_Channel_HD.m3
 #EXTINF:-1 group-title="TOOLI", Sky_News_Arabia 
 
 https://or.tooliserver.com/live/Sky_News_Arabia/Sky_News_Arabia.m3u8?session=&location=
+
+
+#EXTINF:-1 group-title="TOOLI", CNN_International
+https://or.tooliserver.com/live/CNN_International/CNN_International.m3u8
+#EXTINF:-1 group-title="TOOLI", Euronews
+https://or.tooliserver.com/live/Euronews/Euronews.m3u8
+#EXTINF:-1 group-title="TOOLI", TRT_Arabi
+https://or.tooliserver.com/live/TRT_Arabi_HD/TRT_Arabi_HD.m3u8?token=868d61b0d06c11eb94c39f3d49dc33df
 
 #EXTINF:-1 group-title="TOOLI", CN_Arabia
 
