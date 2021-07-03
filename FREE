@@ -3,6 +3,34 @@
 
 
 
+#EXTINF:-1 group-title="foxlive AS ",natgeo
+
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="foxlive AS ",Blue Ant Entertainment HD
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",National Geographic HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",TLC HD
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",Asian Food Network HD
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",Discovery Channel HD
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",Outdoor Channel HD
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",BBC Lifestyle HD
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8?token=
+
+
 #EXTINF:-1 group-title="Web",Quran_TV
 https://iptv--iptv.repl.co/Arabic/Quran_TV/
 #EXTINF:-1 group-title="Web",Sunnah_TV
