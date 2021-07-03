@@ -1,6 +1,18 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="Entertainment",Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8?token=
+
+
+
+#EXTINF:-1 group-title="foxlive AS ",Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8?token=
+
+
 
 
 #EXTINF:-1 group-title="foxlive AS ",natgeo
