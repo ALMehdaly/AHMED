@@ -1,9 +1,50 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Kuwait",Kuwait TV 1 HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
+
+#EXTINF:-1 group-title="Kuwait",Kuwait TV 2 HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8
+
+#EXTINF:-1 group-title="Kuwait",Khallik Bilbait HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8
+
+#EXTINF:-1 group-title="Kuwait",Kuwait Qurain HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvqurain.m3u8
+
+#EXTINF:-1 group-title="Kuwait",Kuwait Al-Arabi HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvarabi.m3u8 
+
+EXTINF:-1 group-title="Kuwait",Kuwait Ethraa HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
+
+#EXTINF:-1 group-title="Kuwait",Al Majlis HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
+
+#EXTINF:-1 group-title="Kuwait",Kuwait Sports HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+
+#EXTINF:-1 group-title="Kuwait",Kuwait Sports 2 HD	
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
 
 
+#EXTINF:-1 group-title="Kuwait",Kuwait TV 1 FHD
 
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_1080p/chunks.m3u8?p=48&s=1625786748&e=1625873148&cf=1625873148&h=e2b3bcc3c117acc77e828940d450f7e9
+
+#EXTINF:-1 group-title="Kuwait",Kuwait TV 1 FHD. 
+
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_1080p/chunks.m3u8
 
 
 
