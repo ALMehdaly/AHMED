@@ -1,89 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Kuwait",Kuwait TV 1 HD
-
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
-
-#EXTINF:-1 group-title="Kuwait",Kuwait TV 2 HD
-
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8
-
-#EXTINF:-1 group-title="Kuwait",Khallik Bilbait HD
-
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8
-
-#EXTINF:-1 group-title="Kuwait",Kuwait Qurain HD
-
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvqurain.m3u8
-
-#EXTINF:-1 group-title="Kuwait",Kuwait Al-Arabi HD
-
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvarabi.m3u8 
-
-EXTINF:-1 group-title="Kuwait",Kuwait Ethraa HD
-
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
-
-#EXTINF:-1 group-title="Kuwait",Al Majlis HD
-
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvmajlis.m3u8
-
-#EXTINF:-1 group-title="Kuwait",Kuwait Sports HD
-
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
-
-#EXTINF:-1 group-title="Kuwait",Kuwait Sports 2 HD	
-
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
 
 
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="Entertainment",Fox HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8?token=
-
-
-
-#EXTINF:-1 group-title="foxlive AS ",Fox HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8?token=
-
-#EXTINF:-1 group-title="foxlive AS ",Fox Life
-https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8?token=
-
-
-#EXTINF:-1 group-title="foxlive AS ",Blue Ant Entertainment HD
-https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8?token=
-
-#EXTINF:-1 group-title="foxlive AS ",National Geographic HD
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8?token=
-
-
-
-#EXTINF:-1 group-title="foxlive AS ",TLC HD
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8?token=
-
-#EXTINF:-1 group-title="foxlive AS ",Asian Food Network HD
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8?token=
-
-#EXTINF:-1 group-title="foxlive AS ",Discovery Channel HD
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8?token=
-
-#EXTINF:-1 group-title="foxlive AS ",Outdoor Channel HD
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8?token=
-
-#EXTINF:-1 group-title="foxlive AS ",BBC Lifestyle HD
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8?token=
-
-
-
-#EXTINF:-1 group-title="foxlive AS ",natgeo
-
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist.m3u8
 
 
 
@@ -668,30 +590,45 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassFivezm1/master.m3u8?hdnts
 
 
 
- 
- 
+ #EXTINF:-1 group-title="Web",Kuwait TV 1 HD
 
-#EXTINF:-1 group-title="Web",KTV 1 HD
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
 
-https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_1080p/chunks.m3u8?p=48&s=1623799031&e=1623885431&cf=1623885431&h=0f38c7e88bd8c107a9eded4aa8307580
+#EXTINF:-1 group-title="Web",Kuwait TV 2 HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8
+
+#EXTINF:-1 group-title="Web",Khallik Bilbait HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8
+
+#EXTINF:-1 group-title="Web",Kuwait Qurain HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvqurain.m3u8
+
+#EXTINF:-1 group-title="Web",Kuwait Al-Arabi HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvarabi.m3u8 
+
+EXTINF:-1 group-title="Web",Kuwait Ethraa HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
+
+#EXTINF:-1 group-title="Web",Al Majlis HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvmajlis.m3u8
+
+#EXTINF:-1 group-title="Web",Kuwait Sports HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+
+#EXTINF:-1 group-title="Web",Kuwait Sports 2 HD	
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
 
 
-#EXTINF:-1 group-title="Web",KTV 2
 
-https://kwmedia.hibridcdn.net/kwmedia/kwtv2_abr/kwmedia/kwtv2_1080p/chunks.m3u8?p=48&s=1623796872&e=1623883272&cf=1623883272&h=325758ed465df327e5849a16f9a1b74a
 
- 
-
-#EXTINF:-1 group-title="Web",KTV PLUS HD
-https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8
- 
-#EXTINF:-1 group-title="Web",KTV SPORTS HD
-
-https://kwmedia.hibridcdn.net/kwmedia/kwtvsports_abr/kwmedia/kwtvsports_1080p/chunks.m3u8?p=53&s=1623799516&e=1623885916&cf=1623885916&h=750336da52959f850d131fcb7c131e9b
-
-#EXTINF:-1 group-title="Web",KTV home
-
-https://kwmedia.hibridcdn.net/kwmedia/kwtvkids_abr/kwmedia/kwtvkids_1080p/chunks.m3u8?p=51&s=1623797893&e=1623884293&cf=1623884293&h=eff42ebcf9aff55249e28a048b094a0f
 
 
 #EXTINF:-1 group-title="Web",ATV Kuwait
@@ -1927,87 +1864,45 @@ https://dszyq0u9yc79f.cloudfront.net/out/v1/667a8322113949179bb170937a1f14ae/ind
 
 
 
-#EXTINF:-1,BBC One HD
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1,BBC One Wales HD
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1,BBC One Northern Ireland HD
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1,BBC One Scotland HD
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1,BBC Two HD
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1,BBC Two Northern Ireland HD
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1,BBC News HD
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1,BBC Four HD
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1,CBBC HD
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1,CBeebies HD
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1,BBC Scotland
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One Scotland
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One Northern Ireland
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One Wales
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC Four
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,CBBC
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,CBeebies
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC News
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1,BBC Two Wales
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_wales_digital/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC Two England
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1,BBC Two Northen Ireland
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC Two Scotland
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1,BBC Parliament
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC ALBA
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,S4C
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:s4cpbs/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One London
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1,BBC One Cambridge
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_cambridge/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One North West
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One North East
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One South West
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One South East
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One South
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One East Yorkshire
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_yorkshire/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One Yorks
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_yorks/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One West
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One South East
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One South
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One Oxford
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_oxford/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One East Midlands
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One East
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One Channel Islands
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_channel_islands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1,BBC One West Midlands
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="Entertainment",Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8?token=
+
+
+
+#EXTINF:-1 group-title="foxlive AS ",Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8?token=
+
+
+#EXTINF:-1 group-title="foxlive AS ",Blue Ant Entertainment HD
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",National Geographic HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8?token=
+
+
+
+#EXTINF:-1 group-title="foxlive AS ",TLC HD
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",Asian Food Network HD
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",Discovery Channel HD
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",Outdoor Channel HD
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",BBC Lifestyle HD
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8?token=
+
+
+
+#EXTINF:-1 group-title="foxlive AS ",natgeo
+
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist.m3u8
