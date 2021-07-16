@@ -10,7 +10,7 @@ https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000
 chunklist_b4000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 group-title="Live",ESPN
-http://164.68.124.111/espn1.m3u8
+http://164.68.124.111/espn.m3u8
 
 #EXTINF:-1 group-title="Live",ESPN 2
 http://164.68.124.111/espn2.m3u8
