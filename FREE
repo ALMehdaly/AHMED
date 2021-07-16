@@ -4,7 +4,19 @@
 
 
 
+#EXTINF:-1 group-title="Live",espn 1
+http://164.68.124.111/espn1.m3u8
 
+#EXTINF:-1 group-title="Live",espn 2
+http://164.68.124.111/espn2.m3u8
+
+#EXTINF:-1 group-title="Live",WWE 
+
+http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
+
+#EXTINF:-1 group-title="Live",Real madrid
+ 
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
 
 
 
