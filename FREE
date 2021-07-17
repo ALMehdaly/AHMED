@@ -12,6 +12,9 @@ https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b40000
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 
+#EXTINF:-1 group-title="Live",ESPN FHD
+https://content-aapm1.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4/e.m3u8?pbs=cecf143e886c466b89c58807c19c29ab
+
 #EXTINF:-1 group-title="Live",ESPN HD
 http://stream2.grandma.fit/fs2.m3u8
 
