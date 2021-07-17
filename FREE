@@ -28,12 +28,12 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.
 
 #EXTINF:-1 group-title="Live",MTV 2
 
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 
 
 #EXTINF:-1 group-title="Live",MTV 3
 
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
 
 
 
