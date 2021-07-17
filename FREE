@@ -22,6 +22,18 @@ http://stream2.grandma.fit/espn2.m3u8
 
 http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 
+#EXTINF:-1 group-title="Live",MTV 1
+
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
+
+#EXTINF:-1 group-title="Live",MTV 2
+
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
+
+
+#EXTINF:-1 group-title="Live",MTV 3
+
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
 
 
 
