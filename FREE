@@ -3,25 +3,15 @@
 
 #EXTINF:-1 group-title="AHD",Ksa_sp 1 @
 https://raw.github.com/ALMehdaly/AHMED/TV/Ksa_sp1
-#EXTINF:-1 ,Ksa_sp 2 @
+#EXTINF:-1 group-title="AHD",Ksa_sp 2 @
 https://raw.github.com/ALMehdaly/AHMED/TV/ksa_sp2
-#EXTINF:-1 ,kw 1 @
+#EXTINF:-1 group-title="AHD",kw 1 @
 https://raw.github.com/ALMehdaly/AHMED/TV/Kw1
+#EXTINF:-1 group-title="AHD",ESPN2 @
+https://almehdaly.page.link/ESPN02
+#EXTINF:-1 group-title="AHD",WWE @
+https://almehdaly.page.link/WWE
 
-#EXTINF:-1 group-title="ahmed",Ksa_sp 1 @
-https://raw.github.com/ALMehdaly/AHMED/TV/Ksa_sp1
-#EXTINF:-1 ,Ksa_sp 2 @
-https://raw.github.com/ALMehdaly/AHMED/TV/ksa_sp2
-#EXTINF:-1 ,kw 1 @
-https://raw.github.com/ALMehdaly/AHMED/TV/Kw1
-
-
-#EXTINF:-1 group-title="ahd",Ksa_sp 1 @
-https://raw.github.com/ALMehdaly/AHMED/TV/Ksa_sp1
-#EXTINF:-1 ,Ksa_sp 2 @
-https://raw.github.com/ALMehdaly/AHMED/TV/ksa_sp2
-#EXTINF:-1 ,kw 1 @
-https://raw.github.com/ALMehdaly/AHMED/TV/Kw1
 
 
 
@@ -135,11 +125,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.
 
 
 
-#EXTINF:-1 group-title="Live",ESPN2. Me
-https://almehdaly.page.link/ESPN02
 
-#EXTINF:-1 group-title="Live",WWE me
-https://almehdaly.page.link/WWE
 
 #EXTINF:-1 group-title="Sports",Real madrid ES
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
