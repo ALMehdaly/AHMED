@@ -3,12 +3,14 @@
 
 #EXTINF:-1 group-title="AHD",Ksa_sp 1 @
 https://raw.github.com/ALMehdaly/AHMED/TV/Ksa_sp1
+#EXTINF:-1 group-title="AHD",Ksa_sp 2 @
+https://raw.github.com/ALMehdaly/AHMED/TV/ksa_sp2
+
 
 #EXTINF:-1 group-title="AHD",Ksa_sp 2 @
-https://raw.github.com/ALMehdaly/AHMED/TV/Ksa_sp2
+https://raw.githubusercontent.com/ALMehdaly/AHMED/TV/ksa_sp2
 
 #EXTINF:-1 group-title="AHD",kw 1 @
-
 https://raw.github.com/ALMehdaly/AHMED/TV/Kw1
 
 #EXTINF:-1 group-title="Web",Abu Dhabi Tv FHD
