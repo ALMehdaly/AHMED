@@ -20,9 +20,24 @@ https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b40000
 #EXTINF:-1 group-title="Web",Abu Dhabi drama FHD
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
+#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 1 FHD
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 2 FHD
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 3 FHD
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 4 FHD
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 group-title="Live",ESPN FHD
-https://content-aapm1.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4/e.m3u8?pbs=cecf143e886c466b89c58807c19c29ab
+#EXTINF:-1 group-title="Web", Yas
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Live",ESPN HD
 http://stream2.grandma.fit/fs2.m3u8
@@ -481,21 +496,7 @@ http://82.212.74.99:8000/live/hls/8164.m3u8?v=1559313103&tokenekot=EJApSzLCfdCPw
 http://82.212.74.99:8000/live/hls/8117.m3u8?checkedby
 
 
-#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 2
-http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 3
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 4
-http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 4 *
-https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Web", Yas
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Web",AD SP 4K
-https://admk4.cdn.mangomolo.com/k4/smil:channel.stream.smil/chunklist_b18512000.m3u8
   
  
 #EXTINF:-1 group-title="Web",Abu Dhabi Tv
