@@ -161,7 +161,18 @@ https://iptv-all.lanesh4d0w.codes/saudiarabia/ksa sport 2
 #EXTINF:-1 group-title="Web", Atfal Wa Mawaheb
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 
+#EXTINF:-1 group-title="Web", Makkah TV (480p)
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
+#EXTINF:-1 group-title="Web", Makkah TV (480p)
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
+#EXTINF:-1 group-title="Web",Makkah TV
+https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist_w2097348824.m3u8?v=2957056943
+
+#EXTINF:-1 group-title="Web", Makkah TV (480p)
+https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist_w655950915.m3u8
+#EXTINF:-1 group-title="Web",Makkah TV (480p)
+https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Web",alarabiya
