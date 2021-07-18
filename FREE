@@ -294,11 +294,20 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 group-title="Web", BLOOMBERG 
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
-#EXTINF:-1 group-title="Web", BLOOMBERG  HD
+#EXTINF:-1 group-title="Web",BLOOMBERG  HD
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 
 
 
+
+#EXTINF:-1 group-title="Web",TV5Monde Info 1
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Web",TV5Monde Info 2
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
 
 
 
