@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:6
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_audio1",NAME="audio_4",DEFAULT=YES,LANGUAGE="ar",URI="KSA_SPORTS_1_HD_4.m3u8?session=&location="
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_audio1",NAME="audio_4",DEFAULT=YES,LANGUAGE="ar",URI="https://or.tooliserver.com/live/KSA_SPORTS_1_HD/KSA_SPORTS_1_HD_4.m3u8?session=&location=
+"
 #EXT-X-STREAM-INF:BANDWIDTH=2305600,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",AUDIO="group_audio1"
 https://or.tooliserver.com/live/KSA_SPORTS_1_HD/KSA_SPORTS_1_HD_0.m3u8?session=&location=
