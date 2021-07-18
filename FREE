@@ -309,8 +309,11 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plus
 #EXTINF:-1 group-title="Web",TV5Monde Info 2
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
 
+#EXTINF:-1 group-title="Web",rt-arab
+https://rt-arab.secure.footprint.net/1104_4500Kb.m3u8
 
-
+#EXTINF:-1 group-title="Web",trt arabi
+https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
 
 
 #EXTINF:-1 group-title="Web",cnbc ar
