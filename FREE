@@ -12,9 +12,15 @@ https://almehdaly.page.link/ESPN02
 #EXTINF:-1 group-title="AHD",WWE @
 https://almehdaly.page.link/WWE
 
-
-#EXTINF:-1 group-title="AHD",edgesports FHD
+#EXTINF:-1 group-title="rakuten",cnninternational FHD
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 group-title="rakuten",edgesports FHD
 https://edgesports-row-rakuten.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="rakuten",fashiontv FHD
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+
+#EXTINF:-1 group-title="rakuten",ducktv HD
+https://mmm-ducktv-4-eu.rakuten.wurl.com/manifest/54a4dd0715b9e903a03368ad03a9f180.m3u8
 
 
 
