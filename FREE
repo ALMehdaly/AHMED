@@ -152,7 +152,10 @@ https://iptv--iptv.repl.co/Arabic/SBC
 #EXTINF:-1 group-title="Web",Zikrayat 
 https://iptv--iptv.repl.co/Arabic/Zikrayat/
 
-
+#EXTINF:-1 group-title="Web",ksasport1 
+https://iptv-all.lanesh4d0w.codes/saudiarabia/ksa sport 1
+#EXTINF:-1 group-title="Web",ksasport2 
+https://iptv-all.lanesh4d0w.codes/saudiarabia/ksa sport 2
 
 
 #EXTINF:-1 group-title="Web",Ekhbariyah 01
