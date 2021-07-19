@@ -1,2 +1,35 @@
-echo '#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://shashatcom.faulio.com/storage/mediagallery/f3/12/fullhd_6aacb64b11bd07aa726b64ea478a15f7690bb830.png" group-title="",SBC' >> playlist.m3u8;
-curl -s https://shashatcom.faulio.com/api/v1/channels/1 | python -c 'import json, sys; print(json.loads(sys.stdin.read())["streams"]["hls"]);' >> playlist.m3u8;
+const express = require("express");
+const fetch = require('node-fetch');
+const app = express();
+
+var channels = ['blank'];
+// get all channels
+fetch("https://shashatcom.faulio.com/api/v1/channels/")
+    .then(response=>response.json())
+    .then(json => {
+      for (title in json) {
+      if (json.hasOwnProperty(title)) {
+        channels.push(json[title].title);
+      }
+  }
+})
+
+app.get("/stream", function (req, res) {
+  const chosenChannel = channels.indexOf(req.query.ch);
+
+  const urlTest = "https://shashatcom.faulio.com/api/v1/channels/" + chosenChannel;
+
+  res.setHeader('Content-Type', 'application/vnd.apple.mpegurl;');
+
+  fetch(urlTest)
+    .then(response => response.json())
+    .then(json => {
+      res.redirect(json.streams.hls)
+    })
+});
+app.get("/", function (req, res) {
+    res.write('Available channels : ' + channels.slice(1) + ". LaneSh4d0w 2021");
+    res.end();
+});
+app.listen("8080");
+module.exports = app;
