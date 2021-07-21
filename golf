@@ -157,6 +157,7 @@ https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
 #EXTINF:-1 group-title="Web",alrai tv fhd
 http://stream02.fasttelco.net/live/_definst_/alrai.stream/chunklist_w352161505.m3u8
+http://stream02.fasttelco.net/live/_definst_/alrai.stream/manifest.mpd
 
 
 #EXTINF:-1 group-title="Web",alrai tv
@@ -165,6 +166,5 @@ https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
 https://media.streambrothers.com:1936/8724/8724/chunklist_w745373022.m3u8
 #EXTINF:-1 group-title="Web",alrai tv hd
 https://media.streambrothers.com:1936/8724/8724/chunklist_w2009057064.m3u8
-
 
 
