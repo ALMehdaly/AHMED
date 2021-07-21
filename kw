@@ -1,0 +1,50 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Web",Kuwait TV 1 HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
+
+#EXTINF:-1 group-title="Web",Kuwait TV 2 HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8
+
+#EXTINF:-1 group-title="Web",Khallik Bilbait HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8
+
+#EXTINF:-1 group-title="Web",Kuwait Qurain HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvqurain.m3u8
+
+#EXTINF:-1 group-title="Web",Kuwait Al-Arabi HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvarabi.m3u8 
+
+EXTINF:-1 group-title="Web",Kuwait Ethraa HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
+
+#EXTINF:-1 group-title="Web",Al Majlis HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvmajlis.m3u8
+
+#EXTINF:-1 group-title="Web",Kuwait Sports HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+
+#EXTINF:-1 group-title="Web",Kuwait Sports 2 HD	
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Web",ATV Kuwait
+
+https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/chunks.m3u8
+
+#EXTINF:-1 group-title="Web",Funoon
+https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
