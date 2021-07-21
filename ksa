@@ -1,28 +1,27 @@
 #EXTM3U
 
 
-Ksa1
+#EXTINF:-1 group-title="ksa",Ksa1
 https://almehdaly.page.link/ksa1
 
-Ksa news
+#EXTINF:-1 group-title="ksa",Ksa news
 https://almehdaly.page.link/ksa_news
 
-Ksa quran
+#EXTINF:-1 group-title="ksa",Ksa quran
 https://almehdaly.page.link/ksa_quran
 
-Ksa sunnah
+#EXTINF:-1 group-title="ksa",Ksa sunnah
 https://almehdaly.page.link/ksa_sunnah
 
-Ksa sbc
+#EXTINF:-1 group-title="ksa",Ksa sbc
 https://almehdaly.page.link/sbc
 
-Ksa zikrayat
+#EXTINF:-1 group-title="ksa",Ksa zikrayat
 https://almehdaly.page.link/Zikrayat
 
 
-
-Ksa sport 1
+#EXTINF:-1 group-title="ksa",Ksa sport 1
 https://almehdaly.page.link/ksa_sport1
 
-Ksa sport 2
+#EXTINF:-1 group-title="ksa",Ksa sport 2
 https://almehdaly.page.link/ksa_sport2
