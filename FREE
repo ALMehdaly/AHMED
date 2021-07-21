@@ -683,7 +683,14 @@ http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlis
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist.m3u8 
  
  
-
+#EXTINF:-1 group-title="Web",Oman tv
+http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Web",Oman LIVE
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Web",omcultural
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Web",Oman SPORT
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 
 
 #EXTINF:-1 group-title="Web",AlQamarTV
@@ -807,6 +814,7 @@ https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/chunks.m3u8
 https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
 
  
+ 
 
 #EXTINF:-1 group-title="Web",Oman tv
 http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
@@ -816,6 +824,9 @@ http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist_b450000
 http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Web",Oman SPORT
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+
+
+
 #EXTINF:0 group-title="Web",Future
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
  
