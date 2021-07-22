@@ -7,8 +7,25 @@ https://raw.github.com/ALMehdaly/AHMED/TV/Ksa_sp1
 https://raw.github.com/ALMehdaly/AHMED/TV/ksa_sp2
 #EXTINF:-1 group-title="AHD",kw 1 @
 https://raw.github.com/ALMehdaly/AHMED/TV/Kw1
-#EXTINF:-1 group-title="AHD",ESPN2 @
-https://almehdaly.page.link/ESPN02
+
+#EXTINF:-1 group-title="AHD",mbc
+https://almehdaly.page.link/mbc
+
+
+#EXTINF:-1 group-title="AHD", mbc_action @
+https://almehdaly.page.link/mbc_action
+
+
+#EXTINF:-1 group-title="AHD", ksa1
+https://almehdaly.page.link/Ksa1
+
+#EXTINF:-1 group-title="AHD", ksa quran
+https://almehdaly.page.link/ksa_quran
+
+
+#EXTINF:-1 group-title="AHD", ksa_sunnah
+https://almehdaly.page.link/Ksa_sunnah
+
 #EXTINF:-1 group-title="AHD",WWE @
 https://almehdaly.page.link/WWE
 
