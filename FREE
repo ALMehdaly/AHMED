@@ -9,7 +9,7 @@ https://raw.github.com/ALMehdaly/AHMED/TV/ksa_sp2
 https://raw.github.com/ALMehdaly/AHMED/TV/Kw1
 
 #EXTINF:-1 group-title="AHD",mbc
-https://almehdaly.page.link/mbc
+https://almehdaly.page.link/mbc1
 
 
 #EXTINF:-1 group-title="AHD", mbc_action @
@@ -17,14 +17,14 @@ https://almehdaly.page.link/mbc_action
 
 
 #EXTINF:-1 group-title="AHD", ksa1
-https://almehdaly.page.link/Ksa1
+https://almehdaly.page.link/ksa1
 
 #EXTINF:-1 group-title="AHD", ksa quran
 https://almehdaly.page.link/ksa_quran
 
 
 #EXTINF:-1 group-title="AHD", ksa_sunnah
-https://almehdaly.page.link/Ksa_sunnah
+https://almehdaly.page.link/ksa_sunnah
 
 #EXTINF:-1 group-title="AHD",WWE @
 https://almehdaly.page.link/WWE
