@@ -1851,6 +1851,12 @@ https://or149.tooliserver.com/live/149007_0.m3u8?session=&location=
 https://or.tooliserver.com/live/Carthage+/Carthage+_0.m3u8?session=&location=
 
 
+#EXTINF:-1 group-title="Shahid""FHD",F1 ar AUTO 
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+
+#EXTINF:-1 group-title="Shahid""FHD",F1 en AUTO
+https://f1event-eng-prod-dub.shahid.net/out/v1/efbe58d3435d4de1beb1d7e3b27d309f/index.m3u8
+
 #EXTINF:-1 group-title="Shahid",asharq AUTO
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
 #EXTINF:-1 group-title="Shahid",alarabiya AUTO
