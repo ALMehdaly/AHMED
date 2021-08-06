@@ -9,82 +9,6 @@ https://f1event-eng-prod-dub.shahid.net/out/v1/efbe58d3435d4de1beb1d7e3b27d309f/
 
 
 
-#EXTINF:-1 group-title="Shahid""FHD",F1 ar Auto 
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
-
-#EXTINF:-1 group-title="Shahid""FHD",F1 en Auto
-https://f1event-eng-prod-dub.shahid.net/out/v1/efbe58d3435d4de1beb1d7e3b27d309f/index.m3u8 
-
-
-#EXTINF:-1 group-title="AHD",Ksa_sp 1 @
-https://raw.github.com/ALMehdaly/AHMED/TV/Ksa_sp1
-#EXTINF:-1 group-title="AHD",Ksa_sp 2 @
-https://raw.github.com/ALMehdaly/AHMED/TV/ksa_sp2
-#EXTINF:-1 group-title="AHD",kw 1 @
-https://raw.github.com/ALMehdaly/AHMED/TV/Kw1
-
-#EXTINF:-1 group-title="AHD",mbc
-https://almehdaly.page.link/mbc1
-
-
-#EXTINF:-1 group-title="AHD", mbc_action @
-https://almehdaly.page.link/mbc_action
-
-
-#EXTINF:-1 group-title="AHD", ksa1
-https://almehdaly.page.link/ksa1
-
-#EXTINF:-1 group-title="AHD", ksa quran
-https://almehdaly.page.link/ksa_quran
-
-
-#EXTINF:-1 group-title="AHD", ksa_sunnah
-https://almehdaly.page.link/ksa_sunnah
-
-#EXTINF:-1 group-title="AHD",WWE @
-https://almehdaly.page.link/WWE
-
-#EXTINF:-1 group-title="rakuten",cnninternational FHD
-https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 group-title="rakuten",edgesports FHD
-https://edgesports-row-rakuten.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="rakuten",fashiontv FHD
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
-
-#EXTINF:-1 group-title="rakuten",ducktv HD
-https://mmm-ducktv-4-eu.rakuten.wurl.com/manifest/54a4dd0715b9e903a03368ad03a9f180.m3u8
-
-#EXTINF:-1 group-title="Web",absolutereality HD
-https://amc-absolutereality-1.samsung.wurl.com/manifest/3000.m3u8
-
-#EXTINF:-1 group-title="MUSIC",1Mus (BLR)
-http://hz1.teleport.cc/HLS/HD.m3u8
-
-#EXTINF:-1 group-title="MUSIC",VEVO 00's (US)
-https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/9f3e23c231f44bac97866bc8b70c0e4b/live.m3u8
-#EXTINF:-1 group-title="MUSIC",VEVO 2K (US)
-https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
-#EXTINF:-1 group-title="MUSIC",VEVO 70's (US)
-https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/192bbb4ecd484e389101d109ac61cf5d/live.m3u8
-#EXTINF:-1 group-title="MUSIC",VEVO 80's (US)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="MUSIC",VEVO 90's (US)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="MUSIC",VEVO Country (US)
-https://5dcc69faf960dd5dcc551818-s-2.ssai.zype.com/5dcc69faf960dd5dcc551818-s-2/manifest.m3u8
-#EXTINF:-1 group-title="MUSIC",VEVO Hip Hop (US)
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-#EXTINF:-1 group-title="MUSIC",Vevo Holiday (US)
-https://5dcc69bb1621dc5de50b1db7-s-1.ssai.zype.com/5dcc69bb1621dc5de50b1db7-s-1/manifest.m3u8
-#EXTINF:-1 group-title="MUSIC",VEVO Latino (US)
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1 group-title="MUSIC",VEVO Pop (US)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="MUSIC",VEVO R&B (US)
-https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
-#EXTINF:-1 group-title="MUSIC",VEVO Reggeaton & Trap (US)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 
 
 
@@ -435,8 +359,7 @@ https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/
 
 
 #EXTINF:-1 group-title="Shahid",alarabiya FHD 
-
-https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_1.m3u8
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_27.m3u8
 
 #EXTINF:-1 group-title="Shahid",alhadath FHD 
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_1.m3u8
@@ -505,7 +428,7 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
 
 #EXTINF:-1 group-title="Shahid",MBC FM_Riyadh 
-https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_1.m3u8
 
 #EXTINF:-1 group-title="Shahid",MBC Panorama FM FHD 
 
@@ -1448,33 +1371,6 @@ https://wktv1-i.akamaihd.net/out/v1/c8d290982bca4bd1a932e4092bc2e25a/index_5.m3u
 https://wktv1-i.akamaihd.net/out/v1/54faaa9446074c3082a50e935f61a40a/index_5.m3u8
 
 
-#EXTINF:-1 group-title="Rotana",Rotana khalejia FHD
-https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/f2907e10-1e8b-4c4d-831c-1ef32c76a37e:BRU/variant/56a32da228dc4e12d3ec98715d53b72e/bandwidth/2164321.m3u8
-
-#EXTINF:-1 group-title="Rotana",Rotana comedy FHD
-https://rotananet.hibridcdn.net/rotana/comedy_abr/rotana/comedy_1080p/chunks.m3u8?p=50&s=1620232865&e=1620319265&cf=1620319265&h=124a826e6293c1388c2649ea5e27aefe
-
-#EXTINF:-1 group-title="Rotana",Rotana drama FHD
-https://rotananet.hibridcdn.net/rotana/drama_abr/rotana/drama_1080p/chunks.m3u8?p=49&s=1620233397&e=1620319797&cf=1620319797&h=c1615b977a6dcb9b90de7f874a92bcda
-
-#EXTINF:-1 group-title="Rotana",Rotana drama FHD 2
-https://rotananet.hibridcdn.net/rotana/drama_abr/rotana/drama_1080p/chunks.m3u8?p=49&s=1620433300&e=1620519700&cf=1620519700&h=0fdb3d5e6c381462c0d8f8012bc9420a
-
-#EXTINF:-1 group-title="Rotana",Rotana cinema FHD
-https://dai.google.com/linear/hls/pa/event/TTfW9QXGRVCBzHoEKgyrWA/stream/039ab38e-3ade-4478-b6e4-5a7b4b9799e7:BRU/variant/e5aceddeef1d0336be7384252f95b21c/bandwidth/2083677.m3u8
-
-#EXTINF:-1 group-title="Rotana",Rotana classical FHD
-https://rotananet.hibridcdn.net/rotana/classical_abr/rotana/classical_1080p/chunks.m3u8?p=53&s=1620231757&e=1620318157&cf=1620318157&h=e1db5d2cbe68bfd9d0c0061b8122a8a8
-
-#EXTINF:-1 group-title="Rotana",Rotana lbc FHD
-https://rotananet.hibridcdn.net/rotana/lbc_abr/rotana/lbc_1080p/chunks.m3u8?p=47&s=1620233003&e=1620319403&cf=1620319403&h=b4037470171550e273e6109c86440765
-
-#EXTINF:-1 group-title="Rotana",Rotana kids FHD
-https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_1080p/chunks.m3u8?p=48&s=1620233902&e=1620320302&cf=1620320302&h=ab39f947f45aca29557dabbafae837d4
-
-#EXTINF:-1 group-title="Rotana",Rotana risala FHD
-https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_1080p/chunks.m3u8?p=50&s=1620232312&e=1620318712&cf=1620318712&h=020261a4ef8c6856deaf62ac14fefcb5
-
 
 
 
@@ -1851,86 +1747,7 @@ https://or149.tooliserver.com/live/149007_0.m3u8?session=&location=
 https://or.tooliserver.com/live/Carthage+/Carthage+_0.m3u8?session=&location=
 
 
-#EXTINF:-1 group-title="Shahid""FHD",F1 ar AUTO 
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
 
-#EXTINF:-1 group-title="Shahid""FHD",F1 en AUTO
-https://f1event-eng-prod-dub.shahid.net/out/v1/efbe58d3435d4de1beb1d7e3b27d309f/index.m3u8
-
-#EXTINF:-1 group-title="Shahid",asharq AUTO
-https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
-#EXTINF:-1 group-title="Shahid",alarabiya AUTO
-https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 group-title="Shahid",alhadath AUTO
-https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-
-#EXTINF:-1 group-title="Shahid",mbc 1 AUTO
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
-#EXTINF:-1 group-title="Shahid",mbc drama AUTO
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:-1 group-title="Shahid",mbc drama Plus AUTO
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 group-title="Shahid",mbc iraq AUTO
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:-1 group-title="Shahid",mbc Masr 1 AUTO
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
-#EXTINF:-1 group-title="Shahid",mbc Masr 2 AUTO
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1 group-title="Shahid",mbc 4 AUTO
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 group-title="Shahid",mbc 5 AUTO
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 group-title="Shahid",mbc action AUTO
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
-#EXTINF:-1 group-title="Shahid",mbc 2 AUTO
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
-#EXTINF:-1 group-title="Shahid",mbc Max AUTO
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
-#EXTINF:-1 group-title="Shahid",mbc bollywood AUTO
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 group-title="Shahid",mbc persia AUTO
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-#EXTINF:-1 group-title="Shahid",wanasah AUTO
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-#EXTINF:-1 group-title="Shahid",mbc 3 AUTO
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 group-title="Shahid",spacetoon AUTO
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:-1 group-title="Shahid",cartoon network AUTO
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#EXTINF:-1 group-title="Shahid",MBC FM_Riyadh AUTO
-https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
-#EXTINF:-1 group-title="Shahid",MBC Panorama FM AUTO
-https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-
-#EXTINF:-1 group-title="Shahid",LBC AUTO
-https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
-#EXTINF:-1 group-title="Shahid",rotana kh AUTO
-https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
-#EXTINF:-1 group-title="Shahid",rotana cinema ksa AUTO
-https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
-#EXTINF:-1 group-title="Shahid",rotana cinema egy AUTO
-https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
-#EXTINF:-1 group-title="Shahid", rotana plus AUTO
-https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-#EXTINF:-1 group-title="Shahid", rotanadrama AUTO
-https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
-#EXTINF:-1 group-title="Shahid",rotana classic AUTO
-https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
-#EXTINF:-1 group-title="Shahid", rotana music AUTO
-https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
-#EXTINF:-1 group-title="Shahid",rotana kids AUTO
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-
-#EXTINF:-1 group-title="Shahid",TIJI-in-French AUTO
-https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
-#EXTINF:-1 group-title="Shahid",GULLI BIL ARABI AUTO
-https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index.m3u8
-#EXTINF:-1 group-title="Shahid",M6 INTERNATIONAL AUTO
-https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
-
-#EXTINF:-1 group-title="Shahid",Shahid live AUTO
-https://shls-footballleague7.shahid.net/footballleague7_1.m3u8
 
 
 
@@ -2123,3 +1940,163 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8?tok
 #EXTINF:-1 group-title="foxlive AS ",natgeo
 
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Shahid""FHD",F1 ar Auto 
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+
+#EXTINF:-1 group-title="Shahid""FHD",F1 en Auto
+https://f1event-eng-prod-dub.shahid.net/out/v1/efbe58d3435d4de1beb1d7e3b27d309f/index.m3u8 
+
+
+#EXTINF:-1 group-title="AHD",Ksa_sp 1 @
+https://raw.github.com/ALMehdaly/AHMED/TV/Ksa_sp1
+#EXTINF:-1 group-title="AHD",Ksa_sp 2 @
+https://raw.github.com/ALMehdaly/AHMED/TV/ksa_sp2
+#EXTINF:-1 group-title="AHD",kw 1 @
+https://raw.github.com/ALMehdaly/AHMED/TV/Kw1
+
+#EXTINF:-1 group-title="AHD",mbc
+https://almehdaly.page.link/mbc1
+
+
+#EXTINF:-1 group-title="AHD", mbc_action @
+https://almehdaly.page.link/mbc_action
+
+
+#EXTINF:-1 group-title="AHD", ksa1
+https://almehdaly.page.link/ksa1
+
+#EXTINF:-1 group-title="AHD", ksa quran
+https://almehdaly.page.link/ksa_quran
+
+
+#EXTINF:-1 group-title="AHD", ksa_sunnah
+https://almehdaly.page.link/ksa_sunnah
+
+#EXTINF:-1 group-title="AHD",WWE @
+https://almehdaly.page.link/WWE
+
+#EXTINF:-1 group-title="rakuten",cnninternational FHD
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 group-title="rakuten",edgesports FHD
+https://edgesports-row-rakuten.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="rakuten",fashiontv FHD
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+
+#EXTINF:-1 group-title="rakuten",ducktv HD
+https://mmm-ducktv-4-eu.rakuten.wurl.com/manifest/54a4dd0715b9e903a03368ad03a9f180.m3u8
+
+#EXTINF:-1 group-title="Web",absolutereality HD
+https://amc-absolutereality-1.samsung.wurl.com/manifest/3000.m3u8
+
+#EXTINF:-1 group-title="MUSIC",1Mus (BLR)
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 group-title="MUSIC",VEVO 00's (US)
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/9f3e23c231f44bac97866bc8b70c0e4b/live.m3u8
+#EXTINF:-1 group-title="MUSIC",VEVO 2K (US)
+https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
+#EXTINF:-1 group-title="MUSIC",VEVO 70's (US)
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/192bbb4ecd484e389101d109ac61cf5d/live.m3u8
+#EXTINF:-1 group-title="MUSIC",VEVO 80's (US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="MUSIC",VEVO 90's (US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="MUSIC",VEVO Country (US)
+https://5dcc69faf960dd5dcc551818-s-2.ssai.zype.com/5dcc69faf960dd5dcc551818-s-2/manifest.m3u8
+#EXTINF:-1 group-title="MUSIC",VEVO Hip Hop (US)
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:-1 group-title="MUSIC",Vevo Holiday (US)
+https://5dcc69bb1621dc5de50b1db7-s-1.ssai.zype.com/5dcc69bb1621dc5de50b1db7-s-1/manifest.m3u8
+#EXTINF:-1 group-title="MUSIC",VEVO Latino (US)
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1 group-title="MUSIC",VEVO Pop (US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="MUSIC",VEVO R&B (US)
+https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
+#EXTINF:-1 group-title="MUSIC",VEVO Reggeaton & Trap (US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
+
+
+
+#EXTINF:-1 group-title="Shahid""FHD",F1 ar AUTO 
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+
+#EXTINF:-1 group-title="Shahid""FHD",F1 en AUTO
+https://f1event-eng-prod-dub.shahid.net/out/v1/efbe58d3435d4de1beb1d7e3b27d309f/index.m3u8
+
+#EXTINF:-1 group-title="Shahid",asharq AUTO
+https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+#EXTINF:-1 group-title="Shahid",alarabiya AUTO
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 group-title="Shahid",alhadath AUTO
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+
+#EXTINF:-1 group-title="Shahid",mbc 1 AUTO
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc drama AUTO
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc drama Plus AUTO
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc iraq AUTO
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc Masr 1 AUTO
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc Masr 2 AUTO
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc 4 AUTO
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc 5 AUTO
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc action AUTO
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc 2 AUTO
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc Max AUTO
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc bollywood AUTO
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc persia AUTO
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 group-title="Shahid",wanasah AUTO
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc 3 AUTO
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 group-title="Shahid",spacetoon AUTO
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 group-title="Shahid",cartoon network AUTO
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 group-title="Shahid",MBC FM_Riyadh AUTO
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 group-title="Shahid",MBC Panorama FM AUTO
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+
+#EXTINF:-1 group-title="Shahid",LBC AUTO
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
+#EXTINF:-1 group-title="Shahid",rotana kh AUTO
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF:-1 group-title="Shahid",rotana cinema ksa AUTO
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:-1 group-title="Shahid",rotana cinema egy AUTO
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 group-title="Shahid", rotana plus AUTO
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#EXTINF:-1 group-title="Shahid", rotanadrama AUTO
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
+#EXTINF:-1 group-title="Shahid",rotana classic AUTO
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+#EXTINF:-1 group-title="Shahid", rotana music AUTO
+https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
+#EXTINF:-1 group-title="Shahid",rotana kids AUTO
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+
+#EXTINF:-1 group-title="Shahid",TIJI-in-French AUTO
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
+#EXTINF:-1 group-title="Shahid",GULLI BIL ARABI AUTO
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index.m3u8
+#EXTINF:-1 group-title="Shahid",M6 INTERNATIONAL AUTO
+https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
+
+#EXTINF:-1 group-title="Shahid",Shahid live AUTO
+https://shls-footballleague7.shahid.net/footballleague7_1.m3u8
