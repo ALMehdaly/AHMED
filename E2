@@ -1,0 +1,75 @@
+#NAME IPTV
+#SERVICE 4097:0:1:2:0:0:0:0:0:0:https%3a//shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8:F1 ar FHD
+#DESCRIPTION F1 ar FHD
+#SERVICE 4097:0:1:5:0:0:0:0:0:0:https%3a//f1event-eng-prod-dub.shahid.net/out/v1/efbe58d3435d4de1beb1d7e3b27d309f/index_8.m3u8:F1 en FHD
+#DESCRIPTION F1 en FHD
+#SERVICE 4097:0:1:14:0:0:0:0:0:0:https%3a//shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index_1.m3u8:asharq FHD
+#DESCRIPTION asharq FHD
+#SERVICE 4097:0:1:20:0:0:0:0:0:0:https%3a//shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_1.m3u8:alarabiya FHD
+#DESCRIPTION alarabiya FHD
+#SERVICE 4097:0:1:23:0:0:0:0:0:0:https%3a//shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_1.m3u8:alhadath FHD
+#DESCRIPTION alhadath FHD
+#SERVICE 4097:0:1:26:0:0:0:0:0:0:https%3a//shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8:mbc 1 FHD
+#DESCRIPTION mbc 1 FHD
+#SERVICE 4097:0:1:29:0:0:0:0:0:0:https%3a//shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8:mbc drama FHD
+#DESCRIPTION mbc drama FHD
+#SERVICE 4097:0:1:32:0:0:0:0:0:0:https%3a//shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8:mbc drama Plus FHD
+#DESCRIPTION mbc drama Plus FHD
+#SERVICE 4097:0:1:35:0:0:0:0:0:0:https%3a//shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8:mbc iraq FHD
+#DESCRIPTION mbc iraq FHD
+#SERVICE 4097:0:1:38:0:0:0:0:0:0:https%3a//shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8:mbc Masr 1 FHD
+#DESCRIPTION mbc Masr 1 FHD
+#SERVICE 4097:0:1:41:0:0:0:0:0:0:https%3a//shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8:mbc Masr 2 FHD
+#DESCRIPTION mbc Masr 2 FHD
+#SERVICE 4097:0:1:45:0:0:0:0:0:0:https%3a//shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8:mbc 4 FHD
+#DESCRIPTION mbc 4 FHD
+#SERVICE 4097:0:1:49:0:0:0:0:0:0:https%3a//shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8:mbc 5 FHD
+#DESCRIPTION mbc 5 FHD
+#SERVICE 4097:0:1:53:0:0:0:0:0:0:https%3a//shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8:mbc action FHD
+#DESCRIPTION mbc action FHD
+#SERVICE 4097:0:1:57:0:0:0:0:0:0:https%3a//shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8:mbc 2 FHD
+#DESCRIPTION mbc 2 FHD
+#SERVICE 4097:0:1:61:0:0:0:0:0:0:https%3a//shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8:mbc Max FHD
+#DESCRIPTION mbc Max FHD
+#SERVICE 4097:0:1:65:0:0:0:0:0:0:https%3a//shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8:mbc bollywood FHD
+#DESCRIPTION mbc bollywood FHD
+#SERVICE 4097:0:1:69:0:0:0:0:0:0:https%3a//shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8:mbc persia FHD
+#DESCRIPTION mbc persia FHD
+#SERVICE 4097:0:1:73:0:0:0:0:0:0:https%3a//shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8:wanasah FHD
+#DESCRIPTION wanasah FHD
+#SERVICE 4097:0:1:76:0:0:0:0:0:0:https%3a//shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8:mbc 3 FHD
+#DESCRIPTION mbc 3 FHD
+#SERVICE 4097:0:1:80:0:0:0:0:0:0:https%3a//shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8:spacetoon FHD
+#DESCRIPTION spacetoon FHD
+#SERVICE 4097:0:1:84:0:0:0:0:0:0:https%3a//shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8:cartoon network FHD
+#DESCRIPTION cartoon network FHD
+#SERVICE 4097:0:1:87:0:0:0:0:0:0:https%3a//mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8:MBC FM_Riyadh
+#DESCRIPTION MBC FM_Riyadh
+#SERVICE 4097:0:1:91:0:0:0:0:0:0:https%3a//shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_1.m3u8:MBC Panorama FM FHD
+#DESCRIPTION MBC Panorama FM FHD
+#SERVICE 4097:0:1:95:0:0:0:0:0:0:https%3a//shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_1.m3u8:LBC FHD
+#DESCRIPTION LBC FHD
+#SERVICE 4097:0:1:99:0:0:0:0:0:0:https%3a//shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_1.m3u8:rotana kh FHD
+#DESCRIPTION rotana kh FHD
+#SERVICE 4097:0:1:102:0:0:0:0:0:0:https%3a//shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8:rotana cinema ksa FHD
+#DESCRIPTION rotana cinema ksa FHD
+#SERVICE 4097:0:1:105:0:0:0:0:0:0:https%3a//shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8:rotana cinema egy FHD
+#DESCRIPTION rotana cinema egy FHD
+#SERVICE 4097:0:1:108:0:0:0:0:0:0:https%3a//shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8:rotana plus FHD
+#DESCRIPTION rotana plus FHD
+#SERVICE 4097:0:1:111:0:0:0:0:0:0:https%3a//shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_1.m3u8:rotanadrama FHD
+#DESCRIPTION rotanadrama FHD
+#SERVICE 4097:0:1:114:0:0:0:0:0:0:https%3a//shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8:rotana classic FHD
+#DESCRIPTION rotana classic FHD
+#SERVICE 4097:0:1:117:0:0:0:0:0:0:https%3a//shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index_1.m3u8:rotana music FHD
+#DESCRIPTION rotana music FHD
+#SERVICE 4097:0:1:120:0:0:0:0:0:0:https%3a//shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_1.m3u8:rotana kids FHD
+#DESCRIPTION rotana kids FHD
+#SERVICE 4097:0:1:125:0:0:0:0:0:0:https%3a//shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index_1.m3u8:TIJI-in-French FHD
+#DESCRIPTION TIJI-in-French FHD
+#SERVICE 4097:0:1:128:0:0:0:0:0:0:https%3a//shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index_1.m3u8:GULLI BIL ARABI FHD
+#DESCRIPTION GULLI BIL ARABI FHD
+#SERVICE 4097:0:1:131:0:0:0:0:0:0:https%3a//shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index_1.m3u8:M6 INTERNATIONAL FHD
+#DESCRIPTION M6 INTERNATIONAL FHD
+#SERVICE 4097:0:1:136:0:0:0:0:0:0:https%3a//shls-footballleague7.shahid.net/footballleague7_1.m3u8:Shahid live FHD
+#DESCRIPTION Shahid live FHD
