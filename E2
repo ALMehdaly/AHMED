@@ -147,3 +147,5 @@
 #DESCRIPTION F1 en AUTO
 #SERVICE 4097:0:1:219:0:0:0:0:0:0:https%3a//shls-footballleague7.shahid.net/footballleague7_1.m3u8:Shahid live AUTO
 #DESCRIPTION Shahid live AUTO
+#SERVICE 8192:0:1:0:0:0:0:0:0:0:
+#DESCRIPTION HDMI-IN
