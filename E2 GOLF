@@ -27,21 +27,21 @@
 #DESCRIPTION Sharjah RADIO
 #SERVICE 4097:0:1:14:0:0:0:0:0:0:https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8:aldafra 
 #DESCRIPTION aldafra 
-#SERVICE 4097:0:1:15:0:0:0:0:0:0:https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8:-1 group-title="Web",Abu Dhabi SPORT 1 
-#DESCRIPTION -1 group-title="Web",Abu Dhabi SPORT 1 
-#SERVICE 4097:0:1:16:0:0:0:0:0:0:https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8:-1 group-title="Web",Abu Dhabi SPORT 2 
-#DESCRIPTION -1 group-title="Web",Abu Dhabi SPORT 2 
-#SERVICE 4097:0:1:17:0:0:0:0:0:0:https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8:-1 group-title="Web",Abu Dhabi SPORT 3 
-#DESCRIPTION -1 group-title="Web",Abu Dhabi SPORT 3 
-#SERVICE 4097:0:1:18:0:0:0:0:0:0:https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8:-1 group-title="Web",Abu Dhabi SPORT 4 
-#DESCRIPTION -1 group-title="Web",Abu Dhabi SPORT 4 
-#SERVICE 4097:0:1:19:0:0:0:0:0:0:https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8:-1 group-title="Web",Dubai sports 1 
-#DESCRIPTION -1 group-title="Web",Dubai sports 1 
-#SERVICE 4097:0:1:20:0:0:0:0:0:0:http%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8:-1 group-title="Web",Dubai sports 2 
-#DESCRIPTION -1 group-title="Web",Dubai sports 2 
-#SERVICE 4097:0:1:21:0:0:0:0:0:0:https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8:-1 group-title="Web",Dubai sports 3 
-#DESCRIPTION -1 group-title="Web",Dubai sports 3 
-#SERVICE 4097:0:1:22:0:0:0:0:0:0:-1 group-title="Web",Sharjah Sports: 
+#SERVICE 4097:0:1:15:0:0:0:0:0:0:https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8:Abu Dhabi SPORT 1 
+#DESCRIPTION Abu Dhabi SPORT 1 
+#SERVICE 4097:0:1:16:0:0:0:0:0:0:https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8:Abu Dhabi SPORT 2 
+#DESCRIPTION Abu Dhabi SPORT 2 
+#SERVICE 4097:0:1:17:0:0:0:0:0:0:https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8:Abu Dhabi SPORT 3 
+#DESCRIPTION Abu Dhabi SPORT 3 
+#SERVICE 4097:0:1:18:0:0:0:0:0:0:https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8:Abu Dhabi SPORT 4 
+#DESCRIPTION Abu Dhabi SPORT 4 
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8:Dubai sports 1 
+#DESCRIPTION Dubai sports 1 
+#SERVICE 4097:0:1:20:0:0:0:0:0:0:http%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8:Dubai sports 2 
+#DESCRIPTION Dubai sports 2 
+#SERVICE 4097:0:1:21:0:0:0:0:0:0:https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8:Dubai sports 3 
+#DESCRIPTION Dubai sports 3 
+#SERVICE 4097:0:1:22:0:0:0:0:0:0:Sharjah Sports: 
 #DESCRIPTION  
 #SERVICE 4097:0:1:23:0:0:0:0:0:0::https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8 
 #DESCRIPTIONhttps://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8 
