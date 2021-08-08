@@ -1,9 +1,3 @@
-# AHMED
-
-
-#EXTM3U
-
-
 
 Abu Dhabi  
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
@@ -21,29 +15,20 @@ http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunk
 Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8 
 
-
-
-
-
-#EXTINF:-1 group-title="Web", Sharjah tv FHD
-https://svs.itworkscdn.net/smc1live/smc1.smil/smc1tv.m3u8
-#EXTINF:-1 group-title="Web", Sharjah TV 2 FHD
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2tv_chunks.m3u8
-#EXTINF:-1 group-title="Web", kabla tv FHD
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8
-#EXTINF:-1 group-title="Web", alwousta tv FHD
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/alwoustatv_chunks.m3u8
-#EXTINF:-1 group-title="Web", Sharjah QURAN FHD
-https://l3a.kwikmotion.net/smcquranvideopublish/smcqv/chunklist.m3u8
-
+Sharjah tv 
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+Sharjah TV 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+kabla tv 
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+alwousta tv 
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+Sharjah QURAN 
+https://l3a.kwikmotion.net/smcquranvideopublish/smcqv/chunks.m3u8
+Sharjah RADIO
+https://svs.itworkscdn.net/smcweblive/sharjahweb/chunks.m3u8
 aldafra 
-https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index.m3u8
-
-
-
-
-
-
+http://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
 
 #EXTINF:-1 group-title="Web",Abu Dhabi SPORT 1 
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
