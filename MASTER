@@ -27,7 +27,6 @@ Sharjah RADIO
 https://svs.itworkscdn.net/smcweblive/sharjahweb/chunks.m3u8
 aldafra
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
-
 Abu Dhabi SPORT 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
 Abu Dhabi SPORT 2
@@ -36,33 +35,22 @@ Abu Dhabi SPORT 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8
 Abu Dhabi SPORT 4
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8
-
 Dubai sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
 Dubai sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 Dubai sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
- 
 Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
- 
 Yas
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist.m3u8
-
 dubai racing 1
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 dubai racing 2
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 dubai racing 3
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
-
-
-
-
-
-
-
 Oman tv
 https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 Oman LIVE
@@ -71,8 +59,6 @@ Oman cultural
 https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 Oman SPORT
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-
-
 Bahrain tv
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/playlist.m3u8
 Bahrain International
@@ -83,11 +69,6 @@ Bahrain sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
 Bahrain quran
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Quran_all/playlist.m3u8
-
-
-
-
-
 Kuwait TV 1
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
 Kuwait TV 2
@@ -102,13 +83,10 @@ Kuwait Ethraa
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
 Al Majlis
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvmajlis.m3u8
-
 Kuwait Sports 1
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
 Kuwait Sports 2
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
-
-
 ATV Kuwait
 https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/chunks.m3u8
 Funoon
