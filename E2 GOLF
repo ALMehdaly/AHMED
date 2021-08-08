@@ -1,0 +1,97 @@
+#NAME IPTV E2 GOLF
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8:Abu Dhabi  
+#DESCRIPTION Abu Dhabi  
+#SERVICE 4097:0:1:2:0:0:0:0:0:0:https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8:Alemarat
+#DESCRIPTION Alemarat
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist.m3u8:Abu Dhabi drama 
+#DESCRIPTION Abu Dhabi drama 
+#SERVICE 4097:0:1:4:0:0:0:0:0:0:https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8:Dubai TV 
+#DESCRIPTION Dubai TV 
+#SERVICE 4097:0:1:5:0:0:0:0:0:0:https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8:sama Dubai
+#DESCRIPTION sama Dubai
+#SERVICE 4097:0:1:6:0:0:0:0:0:0:https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8:Dubai Zaman 
+#DESCRIPTION Dubai Zaman 
+#SERVICE 4097:0:1:7:0:0:0:0:0:0:https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8:Dubai One
+#DESCRIPTION Dubai One
+#SERVICE 4097:0:1:8:0:0:0:0:0:0:https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8:Sharjah tv 
+#DESCRIPTION Sharjah tv 
+#SERVICE 4097:0:1:9:0:0:0:0:0:0:https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8:Sharjah TV 2
+#DESCRIPTION Sharjah TV 2
+#SERVICE 4097:0:1:10:0:0:0:0:0:0:https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8:kabla tv 
+#DESCRIPTION kabla tv 
+#SERVICE 4097:0:1:11:0:0:0:0:0:0:https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8:alwousta tv 
+#DESCRIPTION alwousta tv 
+#SERVICE 4097:0:1:12:0:0:0:0:0:0:https://l3a.kwikmotion.net/smcquranvideopublish/smcqv/chunks.m3u8:Sharjah QURAN 
+#DESCRIPTION Sharjah QURAN 
+#SERVICE 4097:0:1:13:0:0:0:0:0:0:https://svs.itworkscdn.net/smcweblive/sharjahweb/chunks.m3u8:Sharjah RADIO
+#DESCRIPTION Sharjah RADIO
+#SERVICE 4097:0:1:14:0:0:0:0:0:0:https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8:aldafra 
+#DESCRIPTION aldafra 
+#SERVICE 4097:0:1:15:0:0:0:0:0:0:https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8:-1 group-title="Web",Abu Dhabi SPORT 1 
+#DESCRIPTION -1 group-title="Web",Abu Dhabi SPORT 1 
+#SERVICE 4097:0:1:16:0:0:0:0:0:0:https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8:-1 group-title="Web",Abu Dhabi SPORT 2 
+#DESCRIPTION -1 group-title="Web",Abu Dhabi SPORT 2 
+#SERVICE 4097:0:1:17:0:0:0:0:0:0:https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8:-1 group-title="Web",Abu Dhabi SPORT 3 
+#DESCRIPTION -1 group-title="Web",Abu Dhabi SPORT 3 
+#SERVICE 4097:0:1:18:0:0:0:0:0:0:https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8:-1 group-title="Web",Abu Dhabi SPORT 4 
+#DESCRIPTION -1 group-title="Web",Abu Dhabi SPORT 4 
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8:-1 group-title="Web",Dubai sports 1 
+#DESCRIPTION -1 group-title="Web",Dubai sports 1 
+#SERVICE 4097:0:1:20:0:0:0:0:0:0:http%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8:-1 group-title="Web",Dubai sports 2 
+#DESCRIPTION -1 group-title="Web",Dubai sports 2 
+#SERVICE 4097:0:1:21:0:0:0:0:0:0:https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8:-1 group-title="Web",Dubai sports 3 
+#DESCRIPTION -1 group-title="Web",Dubai sports 3 
+#SERVICE 4097:0:1:22:0:0:0:0:0:0:-1 group-title="Web",Sharjah Sports: 
+#DESCRIPTION  
+#SERVICE 4097:0:1:23:0:0:0:0:0:0::https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8 
+#DESCRIPTIONhttps://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8 
+#SERVICE 4097:0:1:24:0:0:0:0:0:0:https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist.m3u8:Yas 
+#DESCRIPTION Yas 
+#SERVICE 4097:0:1:25:0:0:0:0:0:0:https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8:dubai racing 1 
+#DESCRIPTION dubai racing 1 
+#SERVICE 4097:0:1:26:0:0:0:0:0:0:https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8:dubai racing 2 
+#DESCRIPTION dubai racing 2 
+#SERVICE 4097:0:1:27:0:0:0:0:0:0:https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8:dubai racing 3 
+#DESCRIPTION dubai racing 3 
+#SERVICE 4097:0:1:28:0:0:0:0:0:0:https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist.m3u8:Oman tv
+#DESCRIPTION Oman tv
+#SERVICE 4097:0:1:29:0:0:0:0:0:0:https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist.m3u8:Oman LIVE
+#DESCRIPTION Oman LIVE
+#SERVICE 4097:0:1:30:0:0:0:0:0:0:https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8:Oman cultural
+#DESCRIPTION Oman cultural
+#SERVICE 4097:0:1:31:0:0:0:0:0:0:https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist.m3u8:Oman SPORT
+#DESCRIPTION Oman SPORT
+#SERVICE 4097:0:1:32:0:0:0:0:0:0:https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/playlist.m3u8:Bahrain tv
+#DESCRIPTION Bahrain tv
+#SERVICE 4097:0:1:33:0:0:0:0:0:0:https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20International_all/playlist.m3u8:Bahrain International
+#DESCRIPTION Bahrain International
+#SERVICE 4097:0:1:34:0:0:0:0:0:0:https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8:Bahrain sports 1
+#DESCRIPTION Bahrain sports 1
+#SERVICE 4097:0:1:35:0:0:0:0:0:0:https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8:Bahrain sports 2
+#DESCRIPTION Bahrain sports 2
+#SERVICE 4097:0:1:36:0:0:0:0:0:0:https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Quran_all/playlist.m3u8:Bahrain quran
+#DESCRIPTION Bahrain quran
+#SERVICE 4097:0:1:37:0:0:0:0:0:0:https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8:Kuwait TV 1 
+#DESCRIPTION Kuwait TV 1 
+#SERVICE 4097:0:1:38:0:0:0:0:0:0:https://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8:Kuwait TV 2 
+#DESCRIPTION Kuwait TV 2 
+#SERVICE 4097:0:1:39:0:0:0:0:0:0:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8:Khallik Bilbait 
+#DESCRIPTION Khallik Bilbait 
+#SERVICE 4097:0:1:40:0:0:0:0:0:0:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvqurain.m3u8:Kuwait Qurain 
+#DESCRIPTION Kuwait Qurain 
+#SERVICE 4097:0:1:41:0:0:0:0:0:0:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvarabi.m3u8:Kuwait Al-Arabi 
+#DESCRIPTION Kuwait Al-Arabi 
+#SERVICE 4097:0:1:42:0:0:0:0:0:0:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8:Kuwait Ethraa 
+#DESCRIPTION Kuwait Ethraa 
+#SERVICE 4097:0:1:43:0:0:0:0:0:0:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvmajlis.m3u8:Al Majlis 
+#DESCRIPTION Al Majlis 
+#SERVICE 4097:0:1:44:0:0:0:0:0:0:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8:Kuwait Sports 
+#DESCRIPTION Kuwait Sports 
+#SERVICE 4097:0:1:45:0:0:0:0:0:0:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8:Kuwait Sports 2 
+#DESCRIPTION Kuwait Sports 2 
+#SERVICE 4097:0:1:46:0:0:0:0:0:0:https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/chunks.m3u8:ATV Kuwait
+#DESCRIPTION ATV Kuwait
+#SERVICE 4097:0:1:47:0:0:0:0:0:0:https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8:Funoon
+#DESCRIPTION Funoon
+#SERVICE 4097:0:1:48:0:0:0:0:0:0:https://media.streambrothers.com:1936/8724/8724/playlist.m3u8:alrai tv
+#DESCRIPTION alrai tv
