@@ -1,7 +1,4 @@
 #NAME IPTV E2 GOLF
-
-
-
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8:Abu Dhabi  
 #DESCRIPTION Abu Dhabi  
 #SERVICE 4097:0:1:2:0:0:0:0:0:0:https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8:Alemarat
