@@ -246,7 +246,26 @@ trt arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 trt world
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-aja
+AJA
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-aje
+AJM
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+AJE
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+BBC Arabic 720
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+BBC Arabic 520
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
+NBN LEB
+https://nbntv.me:8443/nbntv/index.m3u8
+mtv LEB
+https://clvod.itworkscdn.net/mtvvod/smil:itwfcdn/mtvlebanon/1140335-WL1815w9C601Qf6.smil/playlist.m3u8
+otv LEB
+https://iptv-all.lanesh4d0w.codes/lebanon/otv
+
+https://iptv-all.lanesh4d0w.codes/lebanon/aljadeed
+
+nogoum fm 
+https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
+
+
