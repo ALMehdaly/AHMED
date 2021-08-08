@@ -1,169 +1,167 @@
 #NAME IPTV ALL
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:asharq:
-#DESCRIPTION 
-#SERVICE 4097:0:1:2:0:0:0:0:0:0:alarabiya:https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
-#DESCRIPTIONhttps://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:alhadath:https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#DESCRIPTIONhttps://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#SERVICE 4097:0:1:4:0:0:0:0:0:0:mbc 1:https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-#DESCRIPTIONhttps://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-#SERVICE 4097:0:1:5:0:0:0:0:0:0:mbc drama:https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
-#DESCRIPTIONhttps://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
-#SERVICE 4097:0:1:6:0:0:0:0:0:0:mbc drama Plus:https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#DESCRIPTIONhttps://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#SERVICE 4097:0:1:7:0:0:0:0:0:0:mbc iraq:https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#DESCRIPTIONhttps://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#SERVICE 4097:0:1:8:0:0:0:0:0:0:mbc Masr 1:https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#DESCRIPTIONhttps://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#SERVICE 4097:0:1:9:0:0:0:0:0:0:mbc Masr 2:https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
-#DESCRIPTIONhttps://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
-#SERVICE 4097:0:1:10:0:0:0:0:0:0:mbc 4:https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#DESCRIPTIONhttps://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#SERVICE 4097:0:1:11:0:0:0:0:0:0:mbc 5:https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#DESCRIPTIONhttps://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#SERVICE 4097:0:1:12:0:0:0:0:0:0:mbc action:https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#DESCRIPTIONhttps://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#SERVICE 4097:0:1:13:0:0:0:0:0:0:mbc 2:https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
-#DESCRIPTIONhttps://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
-#SERVICE 4097:0:1:14:0:0:0:0:0:0:mbc Max:https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
-#DESCRIPTIONhttps://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
-#SERVICE 4097:0:1:15:0:0:0:0:0:0:mbc bollywood:https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
-#DESCRIPTIONhttps://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
-#SERVICE 4097:0:1:16:0:0:0:0:0:0:mbc persia:https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#DESCRIPTIONhttps://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#SERVICE 4097:0:1:17:0:0:0:0:0:0:wanasah:https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-#DESCRIPTIONhttps://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-#SERVICE 4097:0:1:18:0:0:0:0:0:0:mbc 3:https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-#DESCRIPTIONhttps://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-#SERVICE 4097:0:1:19:0:0:0:0:0:0:spacetoon:https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#DESCRIPTIONhttps://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#SERVICE 4097:0:1:20:0:0:0:0:0:0:cartoon network:https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#DESCRIPTIONhttps://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#SERVICE 4097:0:1:21:0:0:0:0:0:0:MBC FM_Riyadh:https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#DESCRIPTIONhttps://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#SERVICE 4097:0:1:22:0:0:0:0:0:0:MBC Panorama FM:https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
-#DESCRIPTIONhttps://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
-#SERVICE 4097:0:1:23:0:0:0:0:0:0:LBC:https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-#DESCRIPTIONhttps://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-#SERVICE 4097:0:1:24:0:0:0:0:0:0:rotana khalijia:https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
-#DESCRIPTIONhttps://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
-#SERVICE 4097:0:1:25:0:0:0:0:0:0:rotana cinema ksa:https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
-#DESCRIPTIONhttps://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
-#SERVICE 4097:0:1:26:0:0:0:0:0:0:rotana cinema egy:https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
-#DESCRIPTIONhttps://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
-#SERVICE 4097:0:1:27:0:0:0:0:0:0:rotana plus:https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
-#DESCRIPTIONhttps://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
-#SERVICE 4097:0:1:28:0:0:0:0:0:0:rotana drama:https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-#DESCRIPTIONhttps://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-#SERVICE 4097:0:1:29:0:0:0:0:0:0:rotana classic:https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
-#DESCRIPTIONhttps://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
-#SERVICE 4097:0:1:30:0:0:0:0:0:0:rotana music:https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
-#DESCRIPTIONhttps://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
-#SERVICE 4097:0:1:31:0:0:0:0:0:0:rotana kids:https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
-#DESCRIPTIONhttps://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
-#SERVICE 4097:0:1:32:0:0:0:0:0:0:TIJI-in-French:https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-#DESCRIPTIONhttps://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-#SERVICE 4097:0:1:33:0:0:0:0:0:0:GULLI BIL ARABI:https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
-#DESCRIPTIONhttps://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:M6 INTERNATIONAL:https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
-#DESCRIPTIONhttps://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
-#SERVICE 4097:0:1:35:0:0:0:0:0:0:MBC F1 AR:https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
-#DESCRIPTIONhttps://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
-#SERVICE 4097:0:1:36:0:0:0:0:0:0:MBC F1 EN:https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
-#DESCRIPTIONhttps://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
-#SERVICE 4097:0:1:37:0:0:0:0:0:0:Abu Dhabi:https://f1event-eng-prod-dub.shahid.net/out/v1/efbe58d3435d4de1beb1d7e3b27d309f/index.m3u8
-#DESCRIPTIONhttps://f1event-eng-prod-dub.shahid.net/out/v1/efbe58d3435d4de1beb1d7e3b27d309f/index.m3u8
-#SERVICE 4097:0:1:38:0:0:0:0:0:0:Alemarat:https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
-#DESCRIPTIONhttps://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
-#SERVICE 4097:0:1:39:0:0:0:0:0:0:Abu Dhabi drama:https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8
-#DESCRIPTIONhttps://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8
-#SERVICE 4097:0:1:40:0:0:0:0:0:0:Dubai TV:https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist.m3u8
-#DESCRIPTIONhttps://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist.m3u8
-#SERVICE 4097:0:1:41:0:0:0:0:0:0:sama Dubai:https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
-#DESCRIPTIONhttps://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
-#SERVICE 4097:0:1:42:0:0:0:0:0:0:Dubai Zaman:https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
-#DESCRIPTIONhttps://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
-#SERVICE 4097:0:1:43:0:0:0:0:0:0:Dubai One:https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
-#DESCRIPTIONhttps://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
-#SERVICE 4097:0:1:44:0:0:0:0:0:0:Sharjah tv:https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#DESCRIPTIONhttps://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#SERVICE 4097:0:1:45:0:0:0:0:0:0:Sharjah TV 2:https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#DESCRIPTIONhttps://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#SERVICE 4097:0:1:46:0:0:0:0:0:0:kabla tv:https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#DESCRIPTIONhttps://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#SERVICE 4097:0:1:47:0:0:0:0:0:0:alwousta tv:https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#DESCRIPTIONhttps://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#SERVICE 4097:0:1:48:0:0:0:0:0:0:Sharjah QURAN:https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#DESCRIPTIONhttps://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#SERVICE 4097:0:1:49:0:0:0:0:0:0:Sharjah RADIO:https://l3a.kwikmotion.net/smcquranvideopublish/smcqv/chunks.m3u8
-#DESCRIPTIONhttps://l3a.kwikmotion.net/smcquranvideopublish/smcqv/chunks.m3u8
-#SERVICE 4097:0:1:50:0:0:0:0:0:0:aldafra:https://svs.itworkscdn.net/smcweblive/sharjahweb/chunks.m3u8
-#DESCRIPTIONhttps://svs.itworkscdn.net/smcweblive/sharjahweb/chunks.m3u8
-#SERVICE 4097:0:1:51:0:0:0:0:0:0:Abu Dhabi SPORT 1:https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
-#DESCRIPTIONhttps://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
-#SERVICE 4097:0:1:52:0:0:0:0:0:0:Abu Dhabi SPORT 2:https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
-#DESCRIPTIONhttps://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
-#SERVICE 4097:0:1:53:0:0:0:0:0:0:Abu Dhabi SPORT 3:https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
-#DESCRIPTIONhttps://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
-#SERVICE 4097:0:1:54:0:0:0:0:0:0:Abu Dhabi SPORT 4:https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8
-#DESCRIPTIONhttps://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8
-#SERVICE 4097:0:1:55:0:0:0:0:0:0:Dubai sports 1:https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8
-#DESCRIPTIONhttps://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8
-#SERVICE 4097:0:1:56:0:0:0:0:0:0:Dubai sports 2:https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
-#DESCRIPTIONhttps://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
-#SERVICE 4097:0:1:57:0:0:0:0:0:0:Dubai sports 3:http%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#DESCRIPTIONhttp%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#SERVICE 4097:0:1:58:0:0:0:0:0:0:Sharjah Sports:https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#DESCRIPTIONhttps://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#SERVICE 4097:0:1:59:0:0:0:0:0:0:Yas:https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
-#DESCRIPTIONhttps://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
-#SERVICE 4097:0:1:60:0:0:0:0:0:0:dubai racing 1:https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist.m3u8
-#DESCRIPTIONhttps://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist.m3u8
-#SERVICE 4097:0:1:61:0:0:0:0:0:0:dubai racing 2:https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#DESCRIPTIONhttps://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#SERVICE 4097:0:1:62:0:0:0:0:0:0:dubai racing 3:https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#DESCRIPTIONhttps://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#SERVICE 4097:0:1:63:0:0:0:0:0:0:Oman tv:https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
-#DESCRIPTIONhttps://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
-#SERVICE 4097:0:1:64:0:0:0:0:0:0:Oman LIVE:https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-#DESCRIPTIONhttps://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-#SERVICE 4097:0:1:65:0:0:0:0:0:0:Oman cultural:https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
-#DESCRIPTIONhttps://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
-#SERVICE 4097:0:1:66:0:0:0:0:0:0:Oman SPORT:https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
-#DESCRIPTIONhttps://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
-#SERVICE 4097:0:1:67:0:0:0:0:0:0:Bahrain tv:https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#DESCRIPTIONhttps://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#SERVICE 4097:0:1:68:0:0:0:0:0:0:Bahrain International:https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/playlist.m3u8
-#DESCRIPTIONhttps://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/playlist.m3u8
-#SERVICE 4097:0:1:69:0:0:0:0:0:0:Bahrain sports 1:https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20International_all/playlist.m3u8
-#DESCRIPTIONhttps://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20International_all/playlist.m3u8
-#SERVICE 4097:0:1:70:0:0:0:0:0:0:Bahrain sports 2:https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
-#DESCRIPTIONhttps://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
-#SERVICE 4097:0:1:71:0:0:0:0:0:0:Bahrain quran:https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
-#DESCRIPTIONhttps://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
-#SERVICE 4097:0:1:72:0:0:0:0:0:0:Kuwait TV 1:https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Quran_all/playlist.m3u8
-#DESCRIPTIONhttps://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Quran_all/playlist.m3u8
-#SERVICE 4097:0:1:73:0:0:0:0:0:0:Kuwait TV 2:https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
-#DESCRIPTIONhttps://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
-#SERVICE 4097:0:1:74:0:0:0:0:0:0:Khallik Bilbait:https://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8
-#DESCRIPTIONhttps://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8
-#SERVICE 4097:0:1:75:0:0:0:0:0:0:Kuwait Qurain:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8
-#DESCRIPTIONhttps://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8
-#SERVICE 4097:0:1:76:0:0:0:0:0:0:Kuwait Al-Arabi:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvqurain.m3u8
-#DESCRIPTIONhttps://hiplayer.hibridcdn.net/t/kwmedia-kwtvqurain.m3u8
-#SERVICE 4097:0:1:77:0:0:0:0:0:0:Kuwait Ethraa:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvarabi.m3u8
-#DESCRIPTIONhttps://hiplayer.hibridcdn.net/t/kwmedia-kwtvarabi.m3u8
-#SERVICE 4097:0:1:78:0:0:0:0:0:0:Al Majlis:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
-#DESCRIPTIONhttps://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
-#SERVICE 4097:0:1:79:0:0:0:0:0:0:Kuwait Sports 1:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvmajlis.m3u8
-#DESCRIPTIONhttps://hiplayer.hibridcdn.net/t/kwmedia-kwtvmajlis.m3u8
-#SERVICE 4097:0:1:80:0:0:0:0:0:0:Kuwait Sports 2:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
-#DESCRIPTIONhttps://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
-#SERVICE 4097:0:1:81:0:0:0:0:0:0:ATV Kuwait:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
-#DESCRIPTIONhttps://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
-#SERVICE 4097:0:1:82:0:0:0:0:0:0:Funoon:https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/chunks.m3u8
-#DESCRIPTIONhttps://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/chunks.m3u8
-#SERVICE 4097:0:1:83:0:0:0:0:0:0:alrai tv:https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
-#DESCRIPTIONhttps://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
-#SERVICE 4097:0:1:84:0:0:0:0:0:0::https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
-#DESCRIPTION https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8:asharq
+#DESCRIPTION asharq
+#SERVICE 4097:0:1:2:0:0:0:0:0:0:https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8:alarabiya
+#DESCRIPTION alarabiya
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8:alhadath
+#DESCRIPTION alhadath
+#SERVICE 4097:0:1:4:0:0:0:0:0:0:https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8:mbc 1
+#DESCRIPTION mbc 1
+#SERVICE 4097:0:1:5:0:0:0:0:0:0:https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8:mbc drama
+#DESCRIPTION mbc drama
+#SERVICE 4097:0:1:6:0:0:0:0:0:0:https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8:mbc drama Plus
+#DESCRIPTION mbc drama Plus
+#SERVICE 4097:0:1:7:0:0:0:0:0:0:https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8:mbc iraq
+#DESCRIPTION mbc iraq
+#SERVICE 4097:0:1:8:0:0:0:0:0:0:https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8:mbc Masr 1
+#DESCRIPTION mbc Masr 1
+#SERVICE 4097:0:1:9:0:0:0:0:0:0:https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8:mbc Masr 2
+#DESCRIPTION mbc Masr 2
+#SERVICE 4097:0:1:10:0:0:0:0:0:0:https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8:mbc 4
+#DESCRIPTION mbc 4
+#SERVICE 4097:0:1:11:0:0:0:0:0:0:https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8:mbc 5
+#DESCRIPTION mbc 5
+#SERVICE 4097:0:1:12:0:0:0:0:0:0:https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8:mbc action
+#DESCRIPTION mbc action
+#SERVICE 4097:0:1:13:0:0:0:0:0:0:https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8:mbc 2
+#DESCRIPTION mbc 2
+#SERVICE 4097:0:1:14:0:0:0:0:0:0:https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8:mbc Max
+#DESCRIPTION mbc Max
+#SERVICE 4097:0:1:15:0:0:0:0:0:0:https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8:mbc bollywood
+#DESCRIPTION mbc bollywood
+#SERVICE 4097:0:1:16:0:0:0:0:0:0:https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8:mbc persia
+#DESCRIPTION mbc persia
+#SERVICE 4097:0:1:17:0:0:0:0:0:0:https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8:wanasah
+#DESCRIPTION wanasah
+#SERVICE 4097:0:1:18:0:0:0:0:0:0:https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8:mbc 3
+#DESCRIPTION mbc 3
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8:spacetoon
+#DESCRIPTION spacetoon
+#SERVICE 4097:0:1:20:0:0:0:0:0:0:https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8:cartoon network
+#DESCRIPTION cartoon network
+#SERVICE 4097:0:1:21:0:0:0:0:0:0:https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8:MBC FM_Riyadh
+#DESCRIPTION MBC FM_Riyadh
+#SERVICE 4097:0:1:22:0:0:0:0:0:0:https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8:MBC Panorama FM
+#DESCRIPTION MBC Panorama FM
+#SERVICE 4097:0:1:23:0:0:0:0:0:0:https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8:LBC
+#DESCRIPTION LBC
+#SERVICE 4097:0:1:24:0:0:0:0:0:0:https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8:rotana khalijia
+#DESCRIPTION rotana khalijia
+#SERVICE 4097:0:1:25:0:0:0:0:0:0:https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8:rotana cinema ksa
+#DESCRIPTION rotana cinema ksa
+#SERVICE 4097:0:1:26:0:0:0:0:0:0:https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8:rotana cinema egy
+#DESCRIPTION rotana cinema egy
+#SERVICE 4097:0:1:27:0:0:0:0:0:0:https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8:rotana plus
+#DESCRIPTION rotana plus
+#SERVICE 4097:0:1:28:0:0:0:0:0:0:https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8:rotana drama
+#DESCRIPTION rotana drama
+#SERVICE 4097:0:1:29:0:0:0:0:0:0:https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8:rotana classic
+#DESCRIPTION rotana classic
+#SERVICE 4097:0:1:30:0:0:0:0:0:0:https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8:rotana music
+#DESCRIPTION rotana music
+#SERVICE 4097:0:1:31:0:0:0:0:0:0:https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8:rotana kids 
+#DESCRIPTION rotana kids 
+#SERVICE 4097:0:1:32:0:0:0:0:0:0:https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8:TIJI-in-French
+#DESCRIPTION TIJI-in-French
+#SERVICE 4097:0:1:33:0:0:0:0:0:0:https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8:GULLI BIL ARABI
+#DESCRIPTION GULLI BIL ARABI
+#SERVICE 4097:0:1:34:0:0:0:0:0:0:https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8:M6 INTERNATIONAL
+#DESCRIPTION M6 INTERNATIONAL
+#SERVICE 4097:0:1:35:0:0:0:0:0:0:https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8:MBC F1 AR
+#DESCRIPTION MBC F1 AR
+#SERVICE 4097:0:1:36:0:0:0:0:0:0:https://f1event-eng-prod-dub.shahid.net/out/v1/efbe58d3435d4de1beb1d7e3b27d309f/index.m3u8:MBC F1 EN
+#DESCRIPTION MBC F1 EN
+#SERVICE 4097:0:1:37:0:0:0:0:0:0:https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8:Abu Dhabi  
+#DESCRIPTION Abu Dhabi  
+#SERVICE 4097:0:1:38:0:0:0:0:0:0:https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8:Alemarat
+#DESCRIPTION Alemarat
+#SERVICE 4097:0:1:39:0:0:0:0:0:0:https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist.m3u8:Abu Dhabi drama 
+#DESCRIPTION Abu Dhabi drama 
+#SERVICE 4097:0:1:40:0:0:0:0:0:0:https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8:Dubai TV 
+#DESCRIPTION Dubai TV 
+#SERVICE 4097:0:1:41:0:0:0:0:0:0:https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8:sama Dubai
+#DESCRIPTION sama Dubai
+#SERVICE 4097:0:1:42:0:0:0:0:0:0:https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8:Dubai Zaman 
+#DESCRIPTION Dubai Zaman 
+#SERVICE 4097:0:1:43:0:0:0:0:0:0:https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8:Dubai One
+#DESCRIPTION Dubai One
+#SERVICE 4097:0:1:44:0:0:0:0:0:0:https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8:Sharjah tv
+#DESCRIPTION Sharjah tv
+#SERVICE 4097:0:1:45:0:0:0:0:0:0:https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8:Sharjah TV 2
+#DESCRIPTION Sharjah TV 2
+#SERVICE 4097:0:1:46:0:0:0:0:0:0:https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8:kabla tv
+#DESCRIPTION kabla tv
+#SERVICE 4097:0:1:47:0:0:0:0:0:0:https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8:alwousta tv
+#DESCRIPTION alwousta tv
+#SERVICE 4097:0:1:48:0:0:0:0:0:0:https://l3a.kwikmotion.net/smcquranvideopublish/smcqv/chunks.m3u8:Sharjah QURAN 
+#DESCRIPTION Sharjah QURAN 
+#SERVICE 4097:0:1:49:0:0:0:0:0:0:https://svs.itworkscdn.net/smcweblive/sharjahweb/chunks.m3u8:Sharjah RADIO
+#DESCRIPTION Sharjah RADIO
+#SERVICE 4097:0:1:50:0:0:0:0:0:0:https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8:aldafra
+#DESCRIPTION aldafra
+#SERVICE 4097:0:1:51:0:0:0:0:0:0:https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8:Abu Dhabi SPORT 1
+#DESCRIPTION Abu Dhabi SPORT 1
+#SERVICE 4097:0:1:52:0:0:0:0:0:0:https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8:Abu Dhabi SPORT 2
+#DESCRIPTION Abu Dhabi SPORT 2
+#SERVICE 4097:0:1:53:0:0:0:0:0:0:https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8:Abu Dhabi SPORT 3
+#DESCRIPTION Abu Dhabi SPORT 3
+#SERVICE 4097:0:1:54:0:0:0:0:0:0:https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8:Abu Dhabi SPORT 4
+#DESCRIPTION Abu Dhabi SPORT 4
+#SERVICE 4097:0:1:55:0:0:0:0:0:0:https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8:Dubai sports 1
+#DESCRIPTION Dubai sports 1
+#SERVICE 4097:0:1:56:0:0:0:0:0:0:http%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8:Dubai sports 2
+#DESCRIPTION Dubai sports 2
+#SERVICE 4097:0:1:57:0:0:0:0:0:0:https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8:Dubai sports 3
+#DESCRIPTION Dubai sports 3
+#SERVICE 4097:0:1:58:0:0:0:0:0:0:https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8:Sharjah Sports
+#DESCRIPTION Sharjah Sports
+#SERVICE 4097:0:1:59:0:0:0:0:0:0:https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist.m3u8:Yas
+#DESCRIPTION Yas
+#SERVICE 4097:0:1:60:0:0:0:0:0:0:https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8:dubai racing 1
+#DESCRIPTION dubai racing 1
+#SERVICE 4097:0:1:61:0:0:0:0:0:0:https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8:dubai racing 2
+#DESCRIPTION dubai racing 2
+#SERVICE 4097:0:1:62:0:0:0:0:0:0:https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8:dubai racing 3
+#DESCRIPTION dubai racing 3
+#SERVICE 4097:0:1:63:0:0:0:0:0:0:https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist.m3u8:Oman tv
+#DESCRIPTION Oman tv
+#SERVICE 4097:0:1:64:0:0:0:0:0:0:https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist.m3u8:Oman LIVE
+#DESCRIPTION Oman LIVE
+#SERVICE 4097:0:1:65:0:0:0:0:0:0:https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8:Oman cultural
+#DESCRIPTION Oman cultural
+#SERVICE 4097:0:1:66:0:0:0:0:0:0:https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist.m3u8:Oman SPORT
+#DESCRIPTION Oman SPORT
+#SERVICE 4097:0:1:67:0:0:0:0:0:0:https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/playlist.m3u8:Bahrain tv
+#DESCRIPTION Bahrain tv
+#SERVICE 4097:0:1:68:0:0:0:0:0:0:https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20International_all/playlist.m3u8:Bahrain International
+#DESCRIPTION Bahrain International
+#SERVICE 4097:0:1:69:0:0:0:0:0:0:https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8:Bahrain sports 1
+#DESCRIPTION Bahrain sports 1
+#SERVICE 4097:0:1:70:0:0:0:0:0:0:https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8:Bahrain sports 2
+#DESCRIPTION Bahrain sports 2
+#SERVICE 4097:0:1:71:0:0:0:0:0:0:https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Quran_all/playlist.m3u8:Bahrain quran
+#DESCRIPTION Bahrain quran
+#SERVICE 4097:0:1:72:0:0:0:0:0:0:https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8:Kuwait TV 1
+#DESCRIPTION Kuwait TV 1
+#SERVICE 4097:0:1:73:0:0:0:0:0:0:https://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8:Kuwait TV 2
+#DESCRIPTION Kuwait TV 2
+#SERVICE 4097:0:1:74:0:0:0:0:0:0:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8:Khallik Bilbait
+#DESCRIPTION Khallik Bilbait
+#SERVICE 4097:0:1:75:0:0:0:0:0:0:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvqurain.m3u8:Kuwait Qurain
+#DESCRIPTION Kuwait Qurain
+#SERVICE 4097:0:1:76:0:0:0:0:0:0:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvarabi.m3u8:Kuwait Al-Arabi
+#DESCRIPTION Kuwait Al-Arabi
+#SERVICE 4097:0:1:77:0:0:0:0:0:0:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8:Kuwait Ethraa
+#DESCRIPTION Kuwait Ethraa
+#SERVICE 4097:0:1:78:0:0:0:0:0:0:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvmajlis.m3u8:Al Majlis
+#DESCRIPTION Al Majlis
+#SERVICE 4097:0:1:79:0:0:0:0:0:0:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8:Kuwait Sports 1
+#DESCRIPTION Kuwait Sports 1
+#SERVICE 4097:0:1:80:0:0:0:0:0:0:https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8:Kuwait Sports 2
+#DESCRIPTION Kuwait Sports 2
+#SERVICE 4097:0:1:81:0:0:0:0:0:0:https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/chunks.m3u8:ATV Kuwait
+#DESCRIPTION ATV Kuwait
+#SERVICE 4097:0:1:82:0:0:0:0:0:0:https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8:Funoon
+#DESCRIPTION Funoon
+#SERVICE 4097:0:1:83:0:0:0:0:0:0:https://media.streambrothers.com:1936/8724/8724/playlist.m3u8:alrai tv
+#DESCRIPTION alrai tv
