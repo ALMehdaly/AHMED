@@ -30,23 +30,23 @@ https://svs.itworkscdn.net/smcweblive/sharjahweb/chunks.m3u8
 aldafra 
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
 
-#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 1 
+Abu Dhabi SPORT 1 
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 2 
+Abu Dhabi SPORT 2 
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 3 
+Abu Dhabi SPORT 3 
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 4 
+Abu Dhabi SPORT 4 
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="Web",Dubai sports 1 
+Dubai sports 1 
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Web",Dubai sports 2 
+Dubai sports 2 
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Web",Dubai sports 3 
+Dubai sports 3 
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
  
-#EXTINF:-1 group-title="Web",Sharjah Sports 
+Sharjah Sports 
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8 
  
 Yas 
