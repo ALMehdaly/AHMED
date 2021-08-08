@@ -164,3 +164,137 @@ Funoon
 https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
 alrai tv
 https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
+
+
+Ekhbariyah
+https://iptv--iptv.repl.co/Arabic/Ekhbariyah/
+Saudi
+https://iptv--iptv.repl.co/Arabic/Saudi1_TV
+SBC
+https://iptv--iptv.repl.co/Arabic/SBC
+Zikrayat
+https://iptv--iptv.repl.co/Arabic/Zikrayat/
+ksa sport 1 
+https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport1
+ksa sport 2 
+https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport2
+Quran_TV
+https://iptv--iptv.repl.co/Arabic/Quran_TV/
+Sunnah_TV
+https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
+
+WWE
+http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
+ESPN 1
+http://stream2.grandma.fit/fs2.m3u8
+ESPN 2
+http://stream2.grandma.fit/espn2.m3u8
+MTV 1
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+MTV 2
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV 3
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+
+
+#EXTINF:-1 group-title="Web",alarabiya
+https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Web",alhadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Web", skynews arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+#EXTINF:-1 group-title="Web", aljazeera
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+
+#EXTINF:-1 group-title="Web", FR 24 AR
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+ 
+#EXTINF:-1 group-title="Web",BBC ARA
+
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd?DVR&v=2550105199
+#EXTINF:-1 group-title="Web", DW AR 
+http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8
+#EXTINF:-1 group-title="Web", almayaden 
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/gmswf.m3u8
+#EXTINF:-1 group-title="Web", almamlka HD
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:-1 group-title="Web",	CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Web", fox news bozztv
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+
+#EXTINF:-1 group-title="Web", fox news HD bozztv
+https://bozztv.com/teleyupp/AsEAeOtIxz/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Web", fox news HD PLAY
+http://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
+
+#EXTINF:-1 group-title="Web", fox news HD V1
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Web", fox news HD MONO
+http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
+
+
+#EXTINF:-1 group-title="Web",MSNBC HD
+
+https://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
+
+#EXTINF:-1 group-title="Web",MSNBC 
+https://1111296894.rsc.cdn77.org/LS-ATL-54548-15/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Web",MSNBC HD MONO
+
+https://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Web",MSNBC MONO
+
+https://1111296894.rsc.cdn77.org/LS-ATL-54548-15/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Web""NEWS", abc news hd
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master_4000.m3u8
+
+#EXTINF:-1 group-title="Web""NEWS", abc news hd
+https://abcnews-streams.akamaized.net/hls/live/2023569-b/abcnews10/master_4000.m3u8
+
+
+#EXTINF:-1 group-title="Web""NEWS", abc news
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+
+
+#EXTINF:-1 group-title="Web""NEWS", cbs news
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 group-title="Web", cbs news HD
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
+
+
+#EXTINF:-1 group-title="Web",	NBC News Now
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Web",	reuters
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Web", DW Channel
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+
+
+#EXTINF:-1 group-title="NEWS",France 24 
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+#EXTINF:-1 group-title="NEWS", BLOOMBERG 
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1 group-title="NEWS",BLOOMBERG  HD
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+
+
+
+
