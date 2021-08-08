@@ -208,6 +208,8 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 FR 24 AR
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 BBC ARA
+https://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+BBC ARA
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd?DVR&v=2550105199
 DW AR 
 http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8
@@ -241,10 +243,13 @@ France 24 en
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 BLOOMBERG 
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-
 rt-arab
 https://rt-arab.secure.footprint.net/1104.m3u8
 trt arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-
-
+trt world
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+aja
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+aje
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
