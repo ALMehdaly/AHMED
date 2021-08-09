@@ -1,7 +1,6 @@
 #NAME IPTV E2 ALL
 #SERVICE 8192:0:1:0:0:0:0:0:0:0:
 #DESCRIPTION HDMI-IN
-#NAME Вип ТВ
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8:asharq
 #DESCRIPTION asharq
 #SERVICE 4097:0:1:2:0:0:0:0:0:0:https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8:alarabiya
@@ -168,99 +167,101 @@
 #DESCRIPTION Funoon
 #SERVICE 4097:0:1:83:0:0:0:0:0:0:https://media.streambrothers.com:1936/8724/8724/playlist.m3u8:alrai tv
 #DESCRIPTION alrai tv
-#SERVICE 4097:0:1:84:0:0:0:0:0:0:Saudi:https://iptv--iptv.repl.co/Arabic/Ekhbariyah/
-#DESCRIPTIONhttps://iptv--iptv.repl.co/Arabic/Ekhbariyah/
-#SERVICE 4097:0:1:85:0:0:0:0:0:0:SBC:https://iptv--iptv.repl.co/Arabic/Saudi1_TV
-#DESCRIPTIONhttps://iptv--iptv.repl.co/Arabic/Saudi1_TV
-#SERVICE 4097:0:1:86:0:0:0:0:0:0:Zikrayat:https://iptv--iptv.repl.co/Arabic/SBC
-#DESCRIPTIONhttps://iptv--iptv.repl.co/Arabic/SBC
-#SERVICE 4097:0:1:87:0:0:0:0:0:0:ksa sport 1:https://iptv--iptv.repl.co/Arabic/Zikrayat/
-#DESCRIPTIONhttps://iptv--iptv.repl.co/Arabic/Zikrayat/
-#SERVICE 4097:0:1:88:0:0:0:0:0:0:ksa sport 2:https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport1
-#DESCRIPTIONhttps://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport1
-#SERVICE 4097:0:1:89:0:0:0:0:0:0:Quran_TV:https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport2
-#DESCRIPTIONhttps://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport2
-#SERVICE 4097:0:1:90:0:0:0:0:0:0:Sunnah_TV:https://iptv--iptv.repl.co/Arabic/Quran_TV/
-#DESCRIPTIONhttps://iptv--iptv.repl.co/Arabic/Quran_TV/
-#SERVICE 4097:0:1:91:0:0:0:0:0:0:WWE:https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
-#DESCRIPTIONhttps://iptv--iptv.repl.co/Arabic/Sunnah_TV/
-#SERVICE 4097:0:1:92:0:0:0:0:0:0:ESPN 1:https://185.180.221.194%3a8278/streams/d/Wwe/playlist.m3u8
-#DESCRIPTIONhttps://185.180.221.194%3a8278/streams/d/Wwe/playlist.m3u8
-#SERVICE 4097:0:1:93:0:0:0:0:0:0:ESPN 2:https://stream2.grandma.fit/fs2.m3u8
-#DESCRIPTIONhttps://stream2.grandma.fit/fs2.m3u8
-#SERVICE 4097:0:1:94:0:0:0:0:0:0:MTV 1:https://stream2.grandma.fit/espn2.m3u8
-#DESCRIPTIONhttps://stream2.grandma.fit/espn2.m3u8
-#SERVICE 4097:0:1:95:0:0:0:0:0:0:MTV 2:https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#DESCRIPTIONhttps://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#SERVICE 4097:0:1:96:0:0:0:0:0:0:MTV 3:https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#DESCRIPTIONhttps://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#SERVICE 4097:0:1:97:0:0:0:0:0:0:aljazeera:https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#DESCRIPTIONhttps://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#SERVICE 4097:0:1:98:0:0:0:0:0:0:alarabiya:https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#DESCRIPTIONhttps://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#SERVICE 4097:0:1:99:0:0:0:0:0:0:alhadath:https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#DESCRIPTIONhttps://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#SERVICE 4097:0:1:100:0:0:0:0:0:0:skynews arabia:https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#DESCRIPTIONhttps://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#SERVICE 4097:0:1:101:0:0:0:0:0:0:FR 24 AR:https://stream.skynewsarabia.com/hls/sna.m3u8
-#DESCRIPTIONhttps://stream.skynewsarabia.com/hls/sna.m3u8
-#SERVICE 4097:0:1:102:0:0:0:0:0:0:BBC ARA:https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#DESCRIPTIONhttps://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#SERVICE 4097:0:1:103:0:0:0:0:0:0:BBC ARA:https://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#DESCRIPTIONhttps://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#SERVICE 4097:0:1:104:0:0:0:0:0:0:DW AR:https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd?DVR&v=2550105199
-#DESCRIPTIONhttps://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd?DVR&v=2550105199
-#SERVICE 4097:0:1:105:0:0:0:0:0:0:almayaden:https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8
-#DESCRIPTIONhttps://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8
-#SERVICE 4097:0:1:106:0:0:0:0:0:0:almamlka:https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/gmswf.m3u8
-#DESCRIPTIONhttps://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/gmswf.m3u8
-#SERVICE 4097:0:1:107:0:0:0:0:0:0:CNN:https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
-#DESCRIPTIONhttps://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
-#SERVICE 4097:0:1:108:0:0:0:0:0:0:fox news bozztv:https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#DESCRIPTIONhttps://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#SERVICE 4097:0:1:109:0:0:0:0:0:0:fox news:https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
-#DESCRIPTIONhttps://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
-#SERVICE 4097:0:1:110:0:0:0:0:0:0:MSNBC:https://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
-#DESCRIPTIONhttps://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
-#SERVICE 4097:0:1:111:0:0:0:0:0:0:MSNBC*:https://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
-#DESCRIPTIONhttps://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
-#SERVICE 4097:0:1:112:0:0:0:0:0:0:abc news:https://1111296894.rsc.cdn77.org/LS-ATL-54548-15/playlist.m3u8
-#DESCRIPTIONhttps://1111296894.rsc.cdn77.org/LS-ATL-54548-15/playlist.m3u8
-#SERVICE 4097:0:1:113:0:0:0:0:0:0:abc news live:https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#DESCRIPTIONhttps://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#SERVICE 4097:0:1:114:0:0:0:0:0:0:abc news live:https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
-#DESCRIPTIONhttps://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
-#SERVICE 4097:0:1:115:0:0:0:0:0:0:cbs news:https://abcnews-streams.akamaized.net/hls/live/2023569-b/abcnews10/master.m3u8
-#DESCRIPTIONhttps://abcnews-streams.akamaized.net/hls/live/2023569-b/abcnews10/master.m3u8
-#SERVICE 4097:0:1:116:0:0:0:0:0:0:NBC News Now:https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#DESCRIPTIONhttps://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#SERVICE 4097:0:1:117:0:0:0:0:0:0:reuters:https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
-#DESCRIPTIONhttps://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
-#SERVICE 4097:0:1:118:0:0:0:0:0:0:France 24 en:https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#DESCRIPTIONhttps://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#SERVICE 4097:0:1:119:0:0:0:0:0:0:BLOOMBERG:https://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#DESCRIPTIONhttps://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#SERVICE 4097:0:1:120:0:0:0:0:0:0:rt-arab:https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#DESCRIPTIONhttps://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#SERVICE 4097:0:1:121:0:0:0:0:0:0:trt arabi:https://rt-arab.secure.footprint.net/1104.m3u8
-#DESCRIPTIONhttps://rt-arab.secure.footprint.net/1104.m3u8
-#SERVICE 4097:0:1:122:0:0:0:0:0:0:trt world:https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#DESCRIPTIONhttps://tv-trtarabi.live.trt.com.tr/master.m3u8
-#SERVICE 4097:0:1:123:0:0:0:0:0:0:AJA:https://tv-trtworld.live.trt.com.tr/master.m3u8
-#DESCRIPTIONhttps://tv-trtworld.live.trt.com.tr/master.m3u8
-#SERVICE 4097:0:1:124:0:0:0:0:0:0:AJM:https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#DESCRIPTIONhttps://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#SERVICE 4097:0:1:125:0:0:0:0:0:0:AJE:https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#DESCRIPTIONhttps://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#SERVICE 4097:0:1:126:0:0:0:0:0:0:BBC Arabic 720:https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#DESCRIPTIONhttps://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#SERVICE 4097:0:1:127:0:0:0:0:0:0:BBC Arabic 520:https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
-#DESCRIPTIONhttps://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
-#SERVICE 4097:0:1:128:0:0:0:0:0:0:NBN LEB:https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
-#DESCRIPTIONhttps://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
-#SERVICE 4097:0:1:129:0:0:0:0:0:0:mtv LEB:https://nbntv.me:8443/nbntv/index.m3u8
-#DESCRIPTIONhttps://nbntv.me:8443/nbntv/index.m3u8
-#SERVICE 4097:0:1:130:0:0:0:0:0:0:otv LEB:https://clvod.itworkscdn.net/mtvvod/smil:itwfcdn/mtvlebanon/1140335-WL1815w9C601Qf6.smil/playlist.m3u8
-#DESCRIPTIONhttps://clvod.itworkscdn.net/mtvvod/smil:itwfcdn/mtvlebanon/1140335-WL1815w9C601Qf6.smil/playlist.m3u8
-#SERVICE 4097:0:1:131:0:0:0:0:0:0:nogoum fm:https://iptv-all.lanesh4d0w.codes/lebanon/otv
-#DESCRIPTION https://iptv-all.lanesh4d0w.codes/lebanon/otv
+#SERVICE 4097:0:1:84:0:0:0:0:0:0:https://iptv--iptv.repl.co/Arabic/Quran_TV:Quran TV
+#DESCRIPTION Quran TV
+#SERVICE 4097:0:1:85:0:0:0:0:0:0:https://iptv--iptv.repl.co/Arabic/Sunnah_TV:Sunnah TV
+#DESCRIPTION Sunnah TV
+#SERVICE 4097:0:1:86:0:0:0:0:0:0:https://iptv--iptv.repl.co/Arabic/Ekhbariyah:Ekhbariyah
+#DESCRIPTION Ekhbariyah
+#SERVICE 4097:0:1:87:0:0:0:0:0:0:https://iptv--iptv.repl.co/Arabic/Saudi1_TV:Saudi
+#DESCRIPTION Saudi
+#SERVICE 4097:0:1:88:0:0:0:0:0:0:https://iptv--iptv.repl.co/Arabic/SBC:SBC
+#DESCRIPTION SBC
+#SERVICE 4097:0:1:89:0:0:0:0:0:0:https://iptv--iptv.repl.co/Arabic/Zikrayat:Zikrayat
+#DESCRIPTION Zikrayat
+#SERVICE 4097:0:1:90:0:0:0:0:0:0:https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport1:ksa sport 1
+#DESCRIPTION ksa sport 1
+#SERVICE 4097:0:1:91:0:0:0:0:0:0:https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport2:ksa sport 2
+#DESCRIPTION ksa sport 2
+#SERVICE 4097:0:1:92:0:0:0:0:0:0:https://185.180.221.194%3a8278/streams/d/Wwe/playlist.m3u8:WWE
+#DESCRIPTION WWE
+#SERVICE 4097:0:1:93:0:0:0:0:0:0:https://stream2.grandma.fit/fs2.m3u8:ESPN 1
+#DESCRIPTION ESPN 1
+#SERVICE 4097:0:1:94:0:0:0:0:0:0:https://stream2.grandma.fit/espn2.m3u8:ESPN 2
+#DESCRIPTION ESPN 2
+#SERVICE 4097:0:1:95:0:0:0:0:0:0:https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8:MTV 1
+#DESCRIPTION MTV 1
+#SERVICE 4097:0:1:96:0:0:0:0:0:0:https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8:MTV 2
+#DESCRIPTION MTV 2
+#SERVICE 4097:0:1:97:0:0:0:0:0:0:https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8:MTV 3
+#DESCRIPTION MTV 3
+#SERVICE 4097:0:1:98:0:0:0:0:0:0:https://live-hls-web-aja.getaj.net/AJA/index.m3u8:aljazeera
+#DESCRIPTION aljazeera
+#SERVICE 4097:0:1:99:0:0:0:0:0:0:https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8:alarabiya
+#DESCRIPTION alarabiya
+#SERVICE 4097:0:1:100:0:0:0:0:0:0:https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8:alhadath
+#DESCRIPTION alhadath
+#SERVICE 4097:0:1:101:0:0:0:0:0:0:https://stream.skynewsarabia.com/hls/sna.m3u8:skynews arabia
+#DESCRIPTION skynews arabia
+#SERVICE 4097:0:1:102:0:0:0:0:0:0:https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8:FR 24 AR
+#DESCRIPTION FR 24 AR
+#SERVICE 4097:0:1:103:0:0:0:0:0:0:https://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8:BBC ARA
+#DESCRIPTION BBC ARA
+#SERVICE 4097:0:1:104:0:0:0:0:0:0:https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd?DVR&v=2550105199:BBC ARA
+#DESCRIPTION BBC ARA
+#SERVICE 4097:0:1:105:0:0:0:0:0:0:https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8:DW Ar
+#DESCRIPTION DW Ar
+#SERVICE 4097:0:1:106:0:0:0:0:0:0:https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/gmswf.m3u8:almayaden
+#DESCRIPTION almayaden
+#SERVICE 4097:0:1:107:0:0:0:0:0:0:https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8:almamlka
+#DESCRIPTION almamlka
+#SERVICE 4097:0:1:108:0:0:0:0:0:0:https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8:CNN
+#DESCRIPTION CNN
+#SERVICE 4097:0:1:109:0:0:0:0:0:0:https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8:fox news bozztv
+#DESCRIPTION fox news bozztv
+#SERVICE 4097:0:1:110:0:0:0:0:0:0:https://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8:fox news
+#DESCRIPTION fox news
+#SERVICE 4097:0:1:111:0:0:0:0:0:0:https://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8:MSNBC
+#DESCRIPTION MSNBC
+#SERVICE 4097:0:1:112:0:0:0:0:0:0:https://1111296894.rsc.cdn77.org/LS-ATL-54548-15/playlist.m3u8:MSNBC*
+#DESCRIPTION MSNBC*
+#SERVICE 4097:0:1:113:0:0:0:0:0:0:https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8:abc news
+#DESCRIPTION abc news
+#SERVICE 4097:0:1:114:0:0:0:0:0:0:https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8:abc news live
+#DESCRIPTION abc news live
+#SERVICE 4097:0:1:115:0:0:0:0:0:0:https://abcnews-streams.akamaized.net/hls/live/2023569-b/abcnews10/master.m3u8:abc news live
+#DESCRIPTION abc news live
+#SERVICE 4097:0:1:116:0:0:0:0:0:0:https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8:cbs news
+#DESCRIPTION cbs news
+#SERVICE 4097:0:1:117:0:0:0:0:0:0:https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8:NBC News Now
+#DESCRIPTION NBC News Now
+#SERVICE 4097:0:1:118:0:0:0:0:0:0:https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8:reuters
+#DESCRIPTION reuters
+#SERVICE 4097:0:1:119:0:0:0:0:0:0:https://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8:France 24 en
+#DESCRIPTION France 24 en
+#SERVICE 4097:0:1:120:0:0:0:0:0:0:https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8:BLOOMBERG
+#DESCRIPTION BLOOMBERG
+#SERVICE 4097:0:1:121:0:0:0:0:0:0:https://rt-arab.secure.footprint.net/1104.m3u8:rt-arab
+#DESCRIPTION rt-arab
+#SERVICE 4097:0:1:122:0:0:0:0:0:0:https://tv-trtarabi.live.trt.com.tr/master.m3u8:trt arabi
+#DESCRIPTION trt arabi
+#SERVICE 4097:0:1:123:0:0:0:0:0:0:https://tv-trtworld.live.trt.com.tr/master.m3u8:trt world
+#DESCRIPTION trt world
+#SERVICE 4097:0:1:124:0:0:0:0:0:0:https://live-hls-web-aja.getaj.net/AJA/index.m3u8:AJA
+#DESCRIPTION AJA
+#SERVICE 4097:0:1:125:0:0:0:0:0:0:https://live-hls-web-ajm.getaj.net/AJM/index.m3u8:AJM
+#DESCRIPTION AJM
+#SERVICE 4097:0:1:126:0:0:0:0:0:0:https://live-hls-web-aje.getaj.net/AJE/index.m3u8:AJE
+#DESCRIPTION AJE
+#SERVICE 4097:0:1:127:0:0:0:0:0:0:https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd:BBC Arabic 720
+#DESCRIPTION BBC Arabic 720
+#SERVICE 4097:0:1:128:0:0:0:0:0:0:https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8:BBC Arabic 520
+#DESCRIPTION BBC Arabic 520
+#SERVICE 4097:0:1:129:0:0:0:0:0:0:https://nbntv.me:8443/nbntv/index.m3u8:NBN LEB
+#DESCRIPTION NBN LEB
+#SERVICE 4097:0:1:130:0:0:0:0:0:0:https://clvod.itworkscdn.net/mtvvod/smil:itwfcdn/mtvlebanon/1140335-WL1815w9C601Qf6.smil/playlist.m3u8:mtv LEB
+#DESCRIPTION mtv LEB
+#SERVICE 4097:0:1:131:0:0:0:0:0:0:https://iptv-all.lanesh4d0w.codes/lebanon/otv:otv LEB
+#DESCRIPTION otv LEB
+#SERVICE 4097:0:1:132:0:0:0:0:0:0:https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8:nogoum fm 
+#DESCRIPTION nogoum fm
