@@ -201,7 +201,7 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 skynews arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 FR 24 AR
-https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+https://static.france24.com/live/F24_AR_HI_HLS/live_web.m3u8
 BBC ARA
 https://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 BBC ARA
@@ -235,7 +235,7 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CD
 reuters
 https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 France 24 en
-https://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 BLOOMBERG
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 rt-arab
