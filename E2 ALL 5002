@@ -239,7 +239,7 @@
 #DESCRIPTION reuters
 #SERVICE 5002:0:1:119:0:0:0:0:0:0:https://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8:France 24 en
 #DESCRIPTION France 24 en
-#SERVICE 5002:0:1:120:0:0:0:0:0:0:https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8:BLOOMBERG
+#SERVICE 5002:0:1:120:0:0:0:0:0:0:https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8:BLOOMBERG
 #DESCRIPTION BLOOMBERG
 #SERVICE 5002:0:1:121:0:0:0:0:0:0:https://rt-arab.secure.footprint.net/1104.m3u8:rt-arab
 #DESCRIPTION rt-arab
