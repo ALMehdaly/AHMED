@@ -1,10 +1,6 @@
 #EXTM3U
 
 
-
-
-
-
 #EXTINF:-1 group-title="Shahid",SSC 1 FHD 
 
 https://shls-live-event1-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_1.m3u8
@@ -13,12 +9,9 @@ https://shls-live-event1-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062dd
 
 https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_1.m3u8
 
-
 #EXTINF:-1 group-title="Shahid",SSC 3 FHD 
 
 https://shls-live-event3-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_1.m3u8
-
-
 
 #EXTINF:-1 group-title="Shahid",SSC 4 FHD 
 
@@ -29,11 +22,9 @@ https://shls-live-event4-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062dd
 
 https://shls-live-event5-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_1.m3u8
 
-
 #EXTINF:-1 group-title="Shahid",SSC 6 FHD 
 
 https://shls-live-event6-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_1.m3u8
-
 
 #EXTINF:-1 group-title="Shahid",SSC 7 FHD 
 
