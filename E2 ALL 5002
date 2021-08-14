@@ -1,19 +1,19 @@
 #NAME IPTV E2 5002
 #SERVICE 8192:0:1:0:0:0:0:0:0:0:
 #DESCRIPTION HDMI-IN
-#SERVICE 5002:0:1:1:0:0:0:0:0:0:http%3a//shls-live-event1-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8:SSC 1
+#SERVICE 5002:0:1:1:0:0:0:0:0:0:http%3a//almehdaly.page.link/ssc1:SSC 1
 #DESCRIPTION SSC 1
-#SERVICE 5002:0:1:2:0:0:0:0:0:0:http%3a//shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8:SSC 2
+#SERVICE 5002:0:1:2:0:0:0:0:0:0:http%3a//almehdaly.page.link/ssc2:SSC 2
 #DESCRIPTION SSC 2
-#SERVICE 5002:0:1:3:0:0:0:0:0:0:http%3a//shls-live-event3-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8:SSC 3
+#SERVICE 5002:0:1:3:0:0:0:0:0:0:http%3a//almehdaly.page.link/ssc3:SSC 3
 #DESCRIPTION SSC 3
-#SERVICE 5002:0:1:4:0:0:0:0:0:0:http%3a//shls-live-event4-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8:SSC 4
+#SERVICE 5002:0:1:4:0:0:0:0:0:0:http%3a//almehdaly.page.link/ssc4:SSC 4
 #DESCRIPTION SSC 4
-#SERVICE 5002:0:1:5:0:0:0:0:0:0:http%3a//shls-live-event5-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8:SSC 5
+#SERVICE 5002:0:1:5:0:0:0:0:0:0:http%3a//almehdaly.page.link/ssc5:SSC 5
 #DESCRIPTION SSC 5
-#SERVICE 5002:0:1:6:0:0:0:0:0:0:http%3a//shls-live-event6-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8:SSC 6
+#SERVICE 5002:0:1:6:0:0:0:0:0:0:http%3a//almehdaly.page.link/ssc6:SSC 6
 #DESCRIPTION SSC 6
-#SERVICE 5002:0:1:7:0:0:0:0:0:0:http%3a//shls-live-event7-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8:SSC 7
+#SERVICE 5002:0:1:7:0:0:0:0:0:0:http%3a//almehdaly.page.link/ssc7:SSC 7
 #DESCRIPTION SSC 7
 #SERVICE 5002:0:1:8:0:0:0:0:0:0:http%3a//shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8:asharq
 #DESCRIPTION asharq
