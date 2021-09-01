@@ -87,19 +87,19 @@
 #DESCRIPTION MBC F1 AR
 #SERVICE 4097:0:1:43:0:0:0:0:0:0:http%3a//f1event-eng-prod-dub.shahid.net/out/v1/efbe58d3435d4de1beb1d7e3b27d309f/index.m3u8:MBC F1 EN
 #DESCRIPTION MBC F1 EN
-#SERVICE 4097:0:1:44:0:0:0:0:0:0:http%3a//admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8:Abu Dhabi  
+#SERVICE 4097:0:1:44:0:0:0:0:0:0:http%3a//admdn2.cdn.mangomolo.com/adtv/smil%3aadtv.stream.smil/chunklist.m3u8:Abu Dhabi  
 #DESCRIPTION Abu Dhabi  
-#SERVICE 4097:0:1:45:0:0:0:0:0:0:http%3a//admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8:Alemarat
+#SERVICE 4097:0:1:45:0:0:0:0:0:0:http%3a//admdn3.cdn.mangomolo.com/emarat/smil%3aemarat.stream.smil/chunklist.m3u8:Alemarat
 #DESCRIPTION Alemarat
-#SERVICE 4097:0:1:46:0:0:0:0:0:0:http%3a//admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist.m3u8:Abu Dhabi drama 
+#SERVICE 4097:0:1:46:0:0:0:0:0:0:http%3a//admdn5.cdn.mangomolo.com/drama/smil%3adrama.stream.smil/chunklist.m3u8:Abu Dhabi drama 
 #DESCRIPTION Abu Dhabi drama 
-#SERVICE 4097:0:1:47:0:0:0:0:0:0:http%3a//dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8:Dubai TV 
+#SERVICE 4097:0:1:47:0:0:0:0:0:0:http%3a//dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil%3adubaitv.stream.smil/chunklist.m3u8:Dubai TV 
 #DESCRIPTION Dubai TV 
-#SERVICE 4097:0:1:48:0:0:0:0:0:0:http%3a//dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8:sama Dubai
+#SERVICE 4097:0:1:48:0:0:0:0:0:0:http%3a//dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil%3asamadubai.stream.smil/chunklist.m3u8:sama Dubai
 #DESCRIPTION sama Dubai
-#SERVICE 4097:0:1:49:0:0:0:0:0:0:http%3a//dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8:Dubai Zaman 
+#SERVICE 4097:0:1:49:0:0:0:0:0:0:http%3a//dmiffthvll.cdn.mangomolo.com/dubaizaman/smil%3adubaizaman.stream.smil/chunklist.m3u8:Dubai Zaman 
 #DESCRIPTION Dubai Zaman 
-#SERVICE 4097:0:1:50:0:0:0:0:0:0:http%3a//dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8:Dubai One
+#SERVICE 4097:0:1:50:0:0:0:0:0:0:http%3a//dminnvll.cdn.mangomolo.com/dubaione/smil%3adubaione.stream.smil/chunklist.m3u8:Dubai One
 #DESCRIPTION Dubai One
 #SERVICE 4097:0:1:51:0:0:0:0:0:0:http%3a//svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8:Sharjah tv
 #DESCRIPTION Sharjah tv
@@ -115,37 +115,37 @@
 #DESCRIPTION Sharjah RADIO
 #SERVICE 4097:0:1:57:0:0:0:0:0:0:http%3a//dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8:aldafra
 #DESCRIPTION aldafra
-#SERVICE 4097:0:1:58:0:0:0:0:0:0:http%3a//admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8:Abu Dhabi SPORT 1
+#SERVICE 4097:0:1:58:0:0:0:0:0:0:http%3a//admdn1.cdn.mangomolo.com/adsports1/smil%3aadsports1.stream.smil/chunklist.m3u8:Abu Dhabi SPORT 1
 #DESCRIPTION Abu Dhabi SPORT 1
-#SERVICE 4097:0:1:59:0:0:0:0:0:0:http%3a//admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8:Abu Dhabi SPORT 2
+#SERVICE 4097:0:1:59:0:0:0:0:0:0:http%3a//admdn5.cdn.mangomolo.com/adsports2/smil%3aadsports2.stream.smil/chunklist.m3u8:Abu Dhabi SPORT 2
 #DESCRIPTION Abu Dhabi SPORT 2
-#SERVICE 4097:0:1:60:0:0:0:0:0:0:http%3a//admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8:Abu Dhabi SPORT 3
+#SERVICE 4097:0:1:60:0:0:0:0:0:0:http%3a//admdn3.cdn.mangomolo.com/adsports3/smil%3aadsports3.stream.smil/chunklist.m3u8:Abu Dhabi SPORT 3
 #DESCRIPTION Abu Dhabi SPORT 3
-#SERVICE 4097:0:1:61:0:0:0:0:0:0:http%3a//admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8:Abu Dhabi SPORT 4
+#SERVICE 4097:0:1:61:0:0:0:0:0:0:http%3a//admdn4.cdn.mangomolo.com/adsports4/smil%3aadsports4.stream.smil/chunklist.m3u8:Abu Dhabi SPORT 4
 #DESCRIPTION Abu Dhabi SPORT 4
-#SERVICE 4097:0:1:62:0:0:0:0:0:0:http%3a//dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8:Dubai sports 1
+#SERVICE 4097:0:1:62:0:0:0:0:0:0:http%3a//dmitnthvll.cdn.mangomolo.com/dubaisports/smil%3adubaisports.smil/chunklist.m3u8:Dubai sports 1
 #DESCRIPTION Dubai sports 1
-#SERVICE 4097:0:1:63:0:0:0:0:0:0:http%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8:Dubai sports 2
+#SERVICE 4097:0:1:63:0:0:0:0:0:0:http%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/chunklist.m3u8:Dubai sports 2
 #DESCRIPTION Dubai sports 2
-#SERVICE 4097:0:1:64:0:0:0:0:0:0:http%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8:Dubai sports 3
+#SERVICE 4097:0:1:64:0:0:0:0:0:0:http%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil%3adubaisportshd5.smil/chunklist.m3u8:Dubai sports 3
 #DESCRIPTION Dubai sports 3
 #SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8:Sharjah Sports
 #DESCRIPTION Sharjah Sports
-#SERVICE 4097:0:1:66:0:0:0:0:0:0:http%3a//admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist.m3u8:Yas
+#SERVICE 4097:0:1:66:0:0:0:0:0:0:http%3a//admdn1.cdn.mangomolo.com/yastv/smil%3ayastv.stream.smil/chunklist.m3u8:Yas
 #DESCRIPTION Yas
-#SERVICE 4097:0:1:67:0:0:0:0:0:0:http%3a//dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8:dubai racing 1
+#SERVICE 4097:0:1:67:0:0:0:0:0:0:http%3a//dmisvthvll.cdn.mangomolo.com/events/smil%3aevents.smil/chunklist.m3u8:dubai racing 1
 #DESCRIPTION dubai racing 1
-#SERVICE 4097:0:1:68:0:0:0:0:0:0:http%3a//dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8:dubai racing 2
+#SERVICE 4097:0:1:68:0:0:0:0:0:0:http%3a//dmithrvll.cdn.mangomolo.com/dubairacing/smil%3adubairacing.smil/chunklist.m3u8:dubai racing 2
 #DESCRIPTION dubai racing 2
-#SERVICE 4097:0:1:69:0:0:0:0:0:0:http%3a//dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8:dubai racing 3
+#SERVICE 4097:0:1:69:0:0:0:0:0:0:http%3a//dmithrvll.cdn.mangomolo.com/dubaimubasher/smil%3adubaimubasher.smil/chunklist.m3u8:dubai racing 3
 #DESCRIPTION dubai racing 3
-#SERVICE 4097:0:1:70:0:0:0:0:0:0:http%3a//partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist.m3u8:Oman tv
+#SERVICE 4097:0:1:70:0:0:0:0:0:0:http%3a//partne.cdn.mangomolo.com/omantv/smil%3aomantv.stream.smil/chunklist.m3u8:Oman tv
 #DESCRIPTION Oman tv
-#SERVICE 4097:0:1:71:0:0:0:0:0:0:http%3a//partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist.m3u8:Oman LIVE
+#SERVICE 4097:0:1:71:0:0:0:0:0:0:http%3a//partwo.cdn.mangomolo.com/omlive/smil%3aomlive.stream.smil/chunklist.m3u8:Oman LIVE
 #DESCRIPTION Oman LIVE
-#SERVICE 4097:0:1:72:0:0:0:0:0:0:http%3a//partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8:Oman cultural
+#SERVICE 4097:0:1:72:0:0:0:0:0:0:http%3a//partwo.cdn.mangomolo.com/omcultural/smil%3aomcultural.stream.smil/chunklist.m3u8:Oman cultural
 #DESCRIPTION Oman cultural
-#SERVICE 4097:0:1:73:0:0:0:0:0:0:http%3a//partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist.m3u8:Oman SPORT
+#SERVICE 4097:0:1:73:0:0:0:0:0:0:http%3a//partne.cdn.mangomolo.com/omsport/smil%3aomsport.stream.smil/chunklist.m3u8:Oman SPORT
 #DESCRIPTION Oman SPORT
 #SERVICE 4097:0:1:74:0:0:0:0:0:0:http%3a//5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/playlist.m3u8:Bahrain tv
 #DESCRIPTION Bahrain tv
@@ -225,7 +225,7 @@
 #DESCRIPTION BBC ARA
 #SERVICE 4097:0:1:112:0:0:0:0:0:0:http%3a//dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8:DW Ar
 #DESCRIPTION DW Ar
-#SERVICE 4097:0:1:113:0:0:0:0:0:0:http%3a//mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/gmswf.m3u8:almayaden
+#SERVICE 4097:0:1:113:0:0:0:0:0:0:http%3a//mdnlv.cdn.octivid.com/almdn/smil%3ampegts.stream.smil/gmswf.m3u8:almayaden
 #DESCRIPTION almayaden
 #SERVICE 4097:0:1:114:0:0:0:0:0:0:http%3a//almamlka-live.ercdn.net/almamlka/almamlka.m3u8:almamlka
 #DESCRIPTION almamlka
@@ -273,7 +273,7 @@
 #DESCRIPTION BBC Arabic 520
 #SERVICE 4097:0:1:136:0:0:0:0:0:0:http%3a//nbntv.me:8443/nbntv/index.m3u8:NBN LEB
 #DESCRIPTION NBN LEB
-#SERVICE 4097:0:1:137:0:0:0:0:0:0:http%3a//clvod.itworkscdn.net/mtvvod/smil:itwfcdn/mtvlebanon/1140335-WL1815w9C601Qf6.smil/playlist.m3u8:mtv LEB
+#SERVICE 4097:0:1:137:0:0:0:0:0:0:http%3a//clvod.itworkscdn.net/mtvvod/smil%3aitwfcdn/mtvlebanon/1140335-WL1815w9C601Qf6.smil/playlist.m3u8:mtv LEB
 #DESCRIPTION mtv LEB
 #SERVICE 4097:0:1:138:0:0:0:0:0:0:http%3a//iptv-all.lanesh4d0w.codes/lebanon/otv:otv LEB
 #DESCRIPTION otv LEB
