@@ -11,10 +11,6 @@ https://domtak.cdn.mangomolo.com/dtch5/smil:dtch5.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Live",OMAN LOCAL FHD
 https://domtak.cdn.mangomolo.com/dtch5/smil:dtch5.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 group-title="Live",OMAN LOCAL
-https://domtak.cdn.mgmlcdn.com/dtch5/smil:dtch5.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Live",OMAN LOCAL FHD
-https://domtak.cdn.mgmlcdn.com/dtch5/smil:dtch5.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 group-title="Live",OMAN LOCAL @
 https://almehdaly.page.link/oman-local
