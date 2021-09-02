@@ -1,6 +1,10 @@
 #NAME IPTV E2 ALL 4097
 #SERVICE 8192:0:1:0:0:0:0:0:0:0:
 #DESCRIPTION HDMI-IN
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//domtak.cdn.mangomolo.com/dtch5/smil:dtch5.stream.smil/playlist.m3u8:OMN LOCAL
+#DESCRIPTION OMN LOCAL
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//domtak.cdn.mangomolo.com/dtch5/smil:dtch5.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8:OMN LOCAL
+#DESCRIPTION OMN LOCAL FHD
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//shls-ssc-1-prod-dub.shahid.net/out/v1/65beb0f7d74b4f9cab22763a48c81f31/index.m3u8:SSC 1
 #DESCRIPTION SSC 1
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//shls-ssc-5-prod-dub.shahid.net/out/v1/10f55f0ff69c44fea4d337004cd65e6a/index.m3u8:SSC 5
@@ -295,6 +299,10 @@
 #DESCRIPTION rt-uk
 #SERVICE 4097:0:1:148:0:0:0:0:0:0:http%3a//rt-france.secure.footprint.net/1107.m3u8:rt-france
 #DESCRIPTION rt-france
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//almehdaly.page.link/oman-local:OMN LOCAL
+#DESCRIPTION OMN LOCAL @
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//almehdaly.page.link/oman-local-FHD:OMN LOCAL
+#DESCRIPTION OMN LOCAL FHD @
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//almehdaly.page.link/SSC-1:SSC 1
 #DESCRIPTION SSC 1 @
 #SERVICE 4097:0:1:2:0:0:0:0:0:0:http%3a//almehdaly.page.link/SSC-2:SSC 2
