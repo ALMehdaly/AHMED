@@ -43,4 +43,7 @@ https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062dd
 https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
 
 
-
+#EXTINF:-1 group-title="Live",OMAN LOCAL
+https://domtak.cdn.mangomolo.com/dtch5/smil:dtch5.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Live",OMAN LOCAL FHD
+https://domtak.cdn.mangomolo.com/dtch5/smil:dtch5.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
