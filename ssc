@@ -1,6 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Live",ssc 7 HD x
+https://google-me.cdn.booyah.live/hls/113130/81439356.m3u8
 
+
+
+#EXTINF:-1 group-title="Live",shahid HD x
+
+https://d1komd5x2s5yw0.cloudfront.net/out/v1/e187e38df555494d8ad3bb3308b6ff7e/index_1.m3u8
 
 #EXTINF:-1 group-title="Live",SSC 1 FHD
 https://shls-ssc-1-prod-dub.shahid.net/out/v1/65beb0f7d74b4f9cab22763a48c81f31/index_3.m3u8
