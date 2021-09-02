@@ -6,8 +6,21 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 #EXTINF:-1 group-title="Shahid""FHD",F1 en FHD
 https://f1event-eng-prod-dub.shahid.net/out/v1/efbe58d3435d4de1beb1d7e3b27d309f/index_8.m3u8 
 
+#EXTINF:-1 group-title="Live",OMAN LOCAL
 https://domtak.cdn.mangomolo.com/dtch5/smil:dtch5.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Live",OMAN LOCAL FHD
+https://domtak.cdn.mangomolo.com/dtch5/smil:dtch5.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 
+#EXTINF:-1 group-title="Live",OMAN LOCAL
+https://domtak.cdn.mgmlcdn.com/dtch5/smil:dtch5.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Live",OMAN LOCAL FHD
+https://domtak.cdn.mgmlcdn.com/dtch5/smil:dtch5.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 group-title="Live",OMAN LOCAL @
+https://almehdaly.page.link/oman-local
+
+#EXTINF:-1 group-title="Live",OMAN LOCAL FHD @
+https://almehdaly.page.link/oman-local-FHD
 
 
 
