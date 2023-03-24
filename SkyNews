@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:6
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_audio1",NAME="audio_4",DEFAULT=YES,LANGUAGE="ar",URI="https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/09_hd.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_audio1",NAME="audio_4",DEFAULT=YES,LANGUAGE="ar",URI="https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/08_hd.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=2305600,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",AUDIO="group_audio1"
-https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd.m3u8"
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/09_hd.m3u8"
