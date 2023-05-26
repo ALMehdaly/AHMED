@@ -218,16 +218,12 @@ skynews arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 FR 24 AR
 https://static.france24.com/live/F24_AR_HI_HLS/live_web.m3u8
-BBC ARA
-https://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-BBC ARA
-https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd?DVR&v=2550105199
-DW Ar
-https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8
+
 almayaden
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/gmswf.m3u8
 almamlka
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+
 CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 fox news bozztv
@@ -252,24 +248,30 @@ reuters
 https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 France 24 en
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+
 BLOOMBERG
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-rt-arab
-https://rt-arab.secure.footprint.net/1104.m3u8
+
+
 trt arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 trt world
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-AJA
+
+aljazeera AR
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-AJM
+aljazeera LIVE
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-AJE
+aljazeera EN
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+aljazeera documentary 
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
 BBC Arabic 720
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
 BBC Arabic 520
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
+
 NBN LEB
 https://nbntv.me:8443/nbntv/index.m3u8
 mtv LEB
@@ -278,10 +280,32 @@ otv LEB
 https://iptv-all.lanesh4d0w.codes/lebanon/otv
 nogoum fm 
 https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
-DW ar
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+
 DW en
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+DW ar
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+DW it
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+DW gr
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+DW gr 2
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+
+
+DW en FHD
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+DW ar FHD
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
+DW it FHD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+DW gr FHD
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream05/streamPlaylist.m3u8
+DW gr 2 FHD
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
+
+
 rt-doc
 https://rt-doc.secure.footprint.net/1101.m3u8
 rt-esp
@@ -299,4 +323,16 @@ https://rt-france.secure.footprint.net/1107.m3u8
 Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 https://almehdaly.page.link/ikhbariya
+
+Qatar TV HD
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+Qatar 2 HD
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+
+Qatar TV HD b
+https://qatartv.akamaized.net/hls/live/2026573-b/qtv1/master.m3u8
+Qatar 2 HD b
+https://qatartv.akamaized.net/hls/live/2026574-b/qtv2/master.m3u8
+
+
 
