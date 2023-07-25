@@ -1,0 +1,2170 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Shahid""FHD",F1 ar FHD 
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid""FHD",F1 en FHD
+https://f1event-eng-prod-dub.shahid.net/out/v1/efbe58d3435d4de1beb1d7e3b27d309f/index_8.m3u8 
+
+#EXTINF:-1 group-title="Live",OMAN LOCAL
+https://domtak.cdn.mangomolo.com/dtch5/smil:dtch5.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Live",OMAN LOCAL FHD
+https://domtak.cdn.mangomolo.com/dtch5/smil:dtch5.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+
+
+#EXTINF:-1 group-title="Live",OMAN LOCAL @
+https://almehdaly.page.link/oman-local
+
+#EXTINF:-1 group-title="Live",OMAN LOCAL FHD @
+https://almehdaly.page.link/oman-local-FHD
+
+
+
+
+#EXTINF:-1 group-title="Web",Abu Dhabi Tv FHD
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Web",Alemarat Tv FHD
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Web",Abu Dhabi drama FHD
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 group-title="Web",Dubai TV FHD
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="Web",sama Dubai FHD
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Web",Dubai Zaman SD
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8 
+#EXTINF:-1 group-title="Web",dubai one FHD
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8 
+
+#EXTINF:-1 group-title="Web", Sharjah tv FHD
+https://svs.itworkscdn.net/smc1live/smc1.smil/smc1tv_chunks.m3u8
+#EXTINF:-1 group-title="Web", Sharjah TV 2 FHD
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2tv_chunks.m3u8
+#EXTINF:-1 group-title="Web", kabla tv FHD
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8
+#EXTINF:-1 group-title="Web", alwousta tv FHD
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/alwoustatv_chunks.m3u8
+#EXTINF:-1 group-title="Web", Sharjah QURAN FHD
+https://l3a.kwikmotion.net/smcquranvideopublish/smcqv/chunks.m3u8
+
+#EXTINF:-1 group-title="Web",aldafra HD
+https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_2_av-p.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 1 FHD
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 2 FHD
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 3 FHD
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 4 FHD
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 group-title="Web",Dubai sports 1 FHD
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Web",Dubai sports 2 FHD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Web",Dubai sports 3 FHD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+ 
+#EXTINF:-1 group-title="Web",Sharjah Sports FHD
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8 
+ 
+#EXTINF:-1 group-title="Web",Yas FHD
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 group-title="Web",dubai racing 1 FHD
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Web",dubai racing 2 FHD
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Web",dubai racing 3 FHD
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Live",ESPN HD
+http://stream2.grandma.fit/fs2.m3u8
+
+#EXTINF:-1 group-title="Live",ESPN 2
+http://stream2.grandma.fit/espn2.m3u8
+
+#EXTINF:-1 group-title="Live",WWE 
+
+http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
+
+#EXTINF:-1 group-title="Live",MTV 1
+
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
+
+#EXTINF:-1 group-title="Live",MTV 2
+
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+
+
+#EXTINF:-1 group-title="Live",MTV 3
+
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Sports",Real madrid ES
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+
+#EXTINF:-1 group-title="Sports",Real madrid EN
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
+
+
+#EXTINF:-1 group-title="Web",Quran_TV
+https://iptv--iptv.repl.co/Arabic/Quran_TV/
+#EXTINF:-1 group-title="Web",Sunnah_TV
+https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
+#EXTINF:-1 group-title="Web",Ekhbariyah
+https://iptv--iptv.repl.co/Arabic/Ekhbariyah/
+#EXTINF:-1 group-title="Web", Saudi HD
+https://iptv--iptv.repl.co/Arabic/Saudi1_TV
+#EXTINF:-1 group-title="Web",SBC HD
+https://iptv--iptv.repl.co/Arabic/SBC
+#EXTINF:-1 group-title="Web",Zikrayat 
+https://iptv--iptv.repl.co/Arabic/Zikrayat/
+
+#EXTINF:-1 group-title="Web",ksasport1 
+https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport1
+#EXTINF:-1 group-title="Web",ksasport2 
+https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport2
+
+
+#EXTINF:-1 group-title="Web", Atfal Wa Mawaheb
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
+#EXTINF:-1 group-title="Web", Makkah TV (480p)
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
+#EXTINF:-1 group-title="Web", Makkah TV (480p)
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Web",Makkah TV
+https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist_w2097348824.m3u8?v=2957056943
+
+#EXTINF:-1 group-title="Web", Makkah TV (480p)
+https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist_w655950915.m3u8
+#EXTINF:-1 group-title="Web",Makkah TV (480p)
+https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Web",alarabiya
+https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Web",alhadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Web", skynews arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+#EXTINF:-1 group-title="Web", aljazeera
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+
+#EXTINF:-1 group-title="Web", FR 24 AR
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+ 
+#EXTINF:-1 group-title="Web",BBC ARA
+
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd?DVR&v=2550105199
+#EXTINF:-1 group-title="Web", DW AR 
+http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8
+#EXTINF:-1 group-title="Web", almayaden 
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/gmswf.m3u8
+#EXTINF:-1 group-title="Web", almamlka HD
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:-1 group-title="Web",	CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Web", fox news bozztv
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+
+#EXTINF:-1 group-title="Web", fox news HD bozztv
+https://bozztv.com/teleyupp/AsEAeOtIxz/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Web", fox news HD PLAY
+http://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
+
+#EXTINF:-1 group-title="Web", fox news HD V1
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Web", fox news HD MONO
+http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
+
+
+#EXTINF:-1 group-title="Web",MSNBC HD
+
+https://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
+
+#EXTINF:-1 group-title="Web",MSNBC 
+https://1111296894.rsc.cdn77.org/LS-ATL-54548-15/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Web",MSNBC HD MONO
+
+https://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Web",MSNBC MONO
+
+https://1111296894.rsc.cdn77.org/LS-ATL-54548-15/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Web""NEWS", abc news hd
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master_4000.m3u8
+
+#EXTINF:-1 group-title="Web""NEWS", abc news hd
+https://abcnews-streams.akamaized.net/hls/live/2023569-b/abcnews10/master_4000.m3u8
+
+
+#EXTINF:-1 group-title="Web""NEWS", abc news
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+
+
+#EXTINF:-1 group-title="Web""NEWS", cbs news
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 group-title="Web", cbs news HD
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
+
+
+#EXTINF:-1 group-title="Web",	NBC News Now
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Web",	reuters
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Web", DW Channel
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+
+
+#EXTINF:-1 group-title="NEWS",France 24 
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+#EXTINF:-1 group-title="NEWS", BLOOMBERG 
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1 group-title="NEWS",BLOOMBERG  HD
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+
+
+
+
+#EXTINF:-1 group-title="NEWS",TV5Monde Info 1
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+
+
+
+
+#EXTINF:-1 group-title="NEWS",TV5Monde Info 2
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+
+#EXTINF:-1 group-title="NEWS",rt-arab
+https://rt-arab.secure.footprint.net/1104_4500Kb.m3u8
+
+#EXTINF:-1 group-title="NEWS",trt arabi
+https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 group-title="NEWS",DW Arabia
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8
+#EXTINF:-1 group-title="NEWS",DW Arabia
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+
+#EXTINF:-1 group-title="NEWS",cnbc ar
+https://live.hibridcdn.net/cnbc/liveabr/cnbc/cnbc_720p/chunks.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Shahid",SSC 1 FHD
+https://shls-ssc-1-prod-dub.shahid.net/out/v1/65beb0f7d74b4f9cab22763a48c81f31/index_3.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Shahid",asharq FHD
+https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index_1.m3u8
+
+
+
+#EXTINF:-1 group-title="Shahid",alarabiya FHD 
+
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_27.m3u8
+
+#EXTINF:-1 group-title="Shahid",alhadath FHD 
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",mbc 1 FHD 
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",mbc drama FHD 
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",mbc drama Plus FHD 
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",mbc iraq FHD 
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",mbc Masr 1 FHD 
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",mbc Masr 2 FHD 
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",mbc 4 FHD 
+
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",mbc 5 FHD 
+
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",mbc action FHD 
+
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",mbc action EN FHD 
+
+https://f1event-eng-prod-dub.shahid.net/out/v1/efbe58d3435d4de1beb1d7e3b27d309f/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",mbc 2 FHD 
+
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",mbc Max FHD 
+
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",mbc bollywood FHD 
+
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",mbc persia FHD 
+
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",wanasah FHD 
+
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",mbc 3 FHD 
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:-1 group-title="Shahid",mbc 3 eur   
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",spacetoon FHD 
+
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8 
+
+#EXTINF:-1 group-title="Shahid",cartoon network FHD 
+
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",MBC FM_Riyadh 
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+
+#EXTINF:-1 group-title="Shahid",MBC Panorama FM FHD 
+
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",LBC FHD 
+
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_1.m3u8
+
+
+#EXTINF:-1 group-title="Shahid",rotana kh FHD
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",rotana cinema ksa FHD
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",rotana cinema egy FHD
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid", rotana plus FHD
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid", rotanadrama FHD
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",rotana classic FHD
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid", rotana music FHD
+https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",rotana kids FHD
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_1.m3u8
+
+#EXTINF:-1 group-title="Shahid",TIJI-in-French FHD
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index_1.m3u8
+#EXTINF:-1 group-title="Shahid",GULLI BIL ARABI FHD
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_1.m3u8
+#EXTINF:-1 group-title="Shahid",M6 INTERNATIONAL FHD
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_1.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Web", citruss tv HD
+https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Shahid",SSC 1 AUTO
+https://shls-ssc-1-prod-dub.shahid.net/out/v1/65beb0f7d74b4f9cab22763a48c81f31/index.m3u8
+
+#EXTINF:-1 group-title="Shahid",asharq AUTO
+https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+#EXTINF:-1 group-title="Shahid",alarabiya AUTO
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 group-title="Shahid",alhadath AUTO
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+
+#EXTINF:-1 group-title="Shahid",mbc 1 AUTO
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc drama AUTO
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc drama Plus AUTO
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc iraq AUTO
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc Masr 1 AUTO
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc Masr 2 AUTO
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc 4 AUTO
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc 5 AUTO
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc action AUTO
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc action EN AUTO 
+https://f1event-eng-prod-dub.shahid.net/out/v1/efbe58d3435d4de1beb1d7e3b27d309f/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc 2 AUTO
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc Max AUTO
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc bollywood AUTO
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc persia AUTO
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 group-title="Shahid",wanasah AUTO
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc 3 AUTO
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 group-title="Shahid",spacetoon AUTO
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 group-title="Shahid",cartoon network AUTO
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 group-title="Shahid",MBC FM_Riyadh AUTO
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 group-title="Shahid",MBC Panorama FM AUTO
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+
+#EXTINF:-1 group-title="Shahid",LBC AUTO
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
+#EXTINF:-1 group-title="Shahid",rotana kh AUTO
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF:-1 group-title="Shahid",rotana cinema ksa AUTO
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:-1 group-title="Shahid",rotana cinema egy AUTO
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 group-title="Shahid", rotana plus AUTO
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#EXTINF:-1 group-title="Shahid", rotanadrama AUTO
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
+#EXTINF:-1 group-title="Shahid",rotana classic AUTO
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+#EXTINF:-1 group-title="Shahid", rotana music AUTO
+https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
+#EXTINF:-1 group-title="Shahid",rotana kids AUTO
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+
+#EXTINF:-1 group-title="Shahid",TIJI-in-French AUTO
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
+#EXTINF:-1 group-title="Shahid",GULLI BIL ARABI AUTO
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+#EXTINF:-1 group-title="Shahid",M6 INTERNATIONAL AUTO
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Rotana",Rotana Kids
+https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
+
+#EXTINF:-1 group-title="Rotana",Rotana khalejia
+https://hiplayer.hibridcdn.net/t/rotana-khaleejiya.m3u8
+
+#EXTINF:-1 group-title="Rotana",Rotana Drama
+https://hiplayer.hibridcdn.net/t/rotana-drama.m3u8
+
+#EXTINF:-1 group-title="Rotana",Rotana Comedy 
+https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
+ 
+#EXTINF:-1 group-title="Rotana",Rotana cinema 
+https://hiplayer.hibridcdn.net/t/rotana-cinema.m3u8
+
+#EXTINF:-1 group-title="Rotana",Rotana classic 
+https://hiplayer.hibridcdn.net/t/rotana-classical.m3u8
+
+#EXTINF:-1 group-title="Rotana",Rotana LBC
+https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
+
+#EXTINF:-1 group-title="Rotana",Rotana RISALA
+https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+#EXTINF:-1,Saudia  
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+
+#EXTINF:-1,SA quran
+http://m.live.net.sa:1935/live/quran/chunklist.m3u8
+#EXTINF:0,SA Sunna
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+
+ 
+
+#EXTINF:-1 group-title="Web",iqraa 1
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:-1 group-title="Web",iqraa 2
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+ 
+#EXTINF:-1 group-title="Web",Beity TV
+http://82.212.74.99:8000/live/hls/8164.m3u8?v=1559313103&tokenekot=EJApSzLCfdCPwZJpuQwq
+
+#EXTINF:0 group-title="Web" ,22 TV
+http://82.212.74.99:8000/live/hls/8117.m3u8?checkedby
+
+
+
+  
+ 
+#EXTINF:-1 group-title="Web",Abu Dhabi Tv
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Web",Alemarat Tv
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Web",Abu Dhabi drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Web",Dubai TV FHD
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Web",sama Dubai FHD
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Web",Dubai Zaman
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8?
+#EXTINF:-1 group-title="Web",dubai one
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Web", Sharjah tv 
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Web",Sharjah TV 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Web", kabla tv 
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Web", alwousta tv 
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Web", Sharjah QURAN 
+https://l3a.kwikmotion.net/smcquranvideopublish/smcqv/chunks.m3u8
+#EXTINF:-1 group-title="Web", Sharjah RADIO
+https://svs.itworkscdn.net/smcweblive/sharjahweb/chunks.m3u8
+
+#EXTINF:-1 group-title="Web",aldafra 
+http://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
+
+
+#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 1 
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist=.m3u8
+#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 2 
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist=.m3u8
+#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 3 
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist=.m3u8
+#EXTINF:-1 group-title="Web",Abu Dhabi SPORT 4 
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist=.m3u8
+
+#EXTINF:-1 group-title="Web",Dubai sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Web",Dubai sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8 
+#EXTINF:-1 group-title="Web",Dubai sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="Web",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Web",dubai racing 1
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1 group-title="Web",dubai racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 group-title="Web",dubai racing 3
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8 
+ 
+#EXTINF:-1 group-title="Web",Yas 
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist.m3u8 
+ 
+ 
+#EXTINF:-1 group-title="Web",Oman tv
+http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Web",Oman LIVE
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Web",omcultural
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Web",Oman SPORT
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+
+
+#EXTINF:-1 group-title="Web",AlQamarTV
+https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Web",Bahrain tv
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Web",Bahrain International
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20International_all/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Web",Bahrain sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Web",Bahrain sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
+#EXTINF:-1 group-title="Web",Bahrain quran
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Quran_all/playlist.m3u8
+ 
+ 
+ 
+ 
+#EXTINF:-1 group-title="Web",roya 
+https://roya-live.ercdn.net/roya/roya.m3u8?st=t6OQvJIpEZBUciu4RVfiMA&e=1587438582
+#EXTINF:-1,alrai 
+https://stream02.fasttelco.net/live/alrai.stream/playlist.m3u8
+
+
+
+ 
+#EXTINF:-1 group-title="Web", qatar tv
+
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+
+#EXTINF:-1 group-title="Web", qatar tv 2
+
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+
+ 
+#EXTINF:-1 group-title="Web",alrayyan
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
+#EXTINF:-1 group-title="Web",alrayyan qadeem
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
+ 
+ 
+ 
+ 
+
+#EXTINF:-1 group-title="Web",Al Kass Sports 1
+
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassONErvb/master.m3u8?hdnts=exp=1623887466~acl=/*~hmac=12bbc91507d321264852ccfcf7aa4ce1da1bcc54b5fd05ba0645f2a42aa3a018
+
+ 
+ 
+ 
+#EXTINF:-1 group-title="Web",Al Kass Sports 2
+
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkasstwvo/master.m3u8?hdnts=exp=1623887437~acl=/*~hmac=00be615d31cea0f6c920843704188eeca7515aee116fc0143f4b47ac145a4c55
+
+ 
+ 
+
+ 
+#EXTINF:-1 group-title="Web",Al Kass Sports 4
+
+https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassFourmz1/master.m3u8?hdnts=exp=1623887638~acl=/*~hmac=e20adc7ce53d7dd29e271bde31d7dc05045a3d2ede572ce294a15b81bd3eb237
+
+ 
+#EXTINF:-1 group-title="Web", Al Kass Sports 5
+
+https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassFivezm1/master.m3u8?hdnts=exp=1623887656~acl=/*~hmac=2e76ef12a9ddababfed4d1e148362317f2d548cf702d465fdcba7a976cc49cd3
+
+
+
+#EXTINF:-1 group-title="Web",Kuwait TV 1 HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
+
+#EXTINF:-1 group-title="Web",Kuwait TV 2 HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8
+
+#EXTINF:-1 group-title="Web",Khallik Bilbait HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8
+
+#EXTINF:-1 group-title="Web",Kuwait Qurain HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvqurain.m3u8
+
+#EXTINF:-1 group-title="Web",Kuwait Al-Arabi HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvarabi.m3u8 
+
+EXTINF:-1 group-title="Web",Kuwait Ethraa HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
+
+#EXTINF:-1 group-title="Web",Al Majlis HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvmajlis.m3u8
+
+#EXTINF:-1 group-title="Web",Kuwait Sports HD
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+
+#EXTINF:-1 group-title="Web",Kuwait Sports 2 HD	
+
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Web",ATV Kuwait
+
+https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/chunks.m3u8
+
+#EXTINF:-1 group-title="Web",Funoon
+https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
+
+ 
+ 
+
+#EXTINF:-1 group-title="Web",Oman tv
+http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Web",Oman LIVE
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Web",omcultural
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Web",Oman SPORT
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+
+
+
+#EXTINF:0 group-title="Web",Future
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+ 
+ 
+#EXTINF:-1 group-title="Web",Amman TV
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
+
+#EXTINF:-1 group-title="Web",3eesh alaan
+https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
+
+
+#EXTINF:-1, alnahar tv
+http://178.132.3.162:88/Al_Nahar_Tv/video.m3u8?token=test
+
+#EXTINF:-1,Future TV
+http://178.132.3.162:88/Future_TV/video.m3u8?token=test
+
+#EXTINF:-1,MTV LEBANON
+http://178.132.3.162:88/MTV_Lebanon/video.m3u8?token=test
+
+#EXTINF:-1,OTV
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+
+#EXTINF:-1,,LBC International
+http://51.15.3.161:8080/LDC/index.m3u8?token=test
+
+
+
+
+#EXTINF:-1 group-title="Web",SYRIA TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Web",Syrian Education TV
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_edu
+
+
+
+#EXTINF:-1 group-title="Web",Halab Today TV
+http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
+
+ 
+#EXTINF:-1 group-title="Web",syria
+http://82.137.248.16:1935/Sat/stream31122019/chunklist.m3u8
+ 
+ 
+#EXTINF:-1 group-title="Web",syria drama
+http://82.137.248.16:1935/Drama/stream31122019/chunklist.m3u8
+ 
+ 
+
+
+ 
+#EXTINF:-1 group-title="Web", alhurra
+https://mbningestmena-i.akamaihd.net/hls/live/586115/alhurramena/master.m3u8
+ 
+ 
+#EXTINF:0 group-title="Web", SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0 group-title="Web", BLOOMBERG
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+
+
+#EXTINF:-1,M24 TV
+https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
+
+#EXTINF:-1,2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+
+
+
+#EXTINF:-1,Télé Maroc
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+
+#EXTINF:-1,Tunisie Immobilier TV
+http://serv30.vintera.tv:8081/africa/tunisieimmob/playlist.m3u8
+
+#EXTINF:-1,Hannibal TV
+http://178.132.3.162:88/hannibal/video.m3u8?token=test
+
+#EXTINF:-1,Canal Algérie
+http://178.132.3.162:88/canal_algerie/video.m3u8
+
+#EXTINF:-1,El Djazair N1
+http://82.212.74.5:8000/live/hls/7728.m3u8
+
+#EXTINF:-1,Ennahar TV
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
+
+#EXTINF:-1,National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Web", Majid TV 
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Web",Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+#EXTINF:-1,Saudi TV 1
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+
+#EXTINF:-1,Al Sunnah Medina
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+
+#EXTINF:-1,al Quran makkah
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Web",makkah tv
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Web",Al Aan TV 
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
+
+#EXTINF:-1 group-title="Web",Noor Dubai
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="Web",Makan 
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
+
+
+
+ 
+
+
+
+
+
+
+#EXTINF:-1 group-title="Web", seventeen HD
+https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8?v=1583428461
+
+#EXTINF:-1 group-title="Web",spacetoon 
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_slAR.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="TR" , TRT 1 HD
+http://tv-trt1.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR" , TRT 2 HD 
+http://tv-trt2.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR" , TRT 3 HD 
+http://tv-trt3.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR" ,STAR TV HD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="TR" , EURO STAR HD 
+http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="TR" , ATV HD
+http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
+#EXTINF:-1 group-title="TR" , NTV HD
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8?
+#EXTINF:-1 group-title="TR" , TRT HABER
+http://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR" , BLOOMBERG TV
+http://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 group-title="TR" , EBA TV ILKOKUL
+http://tv-e-okul00.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR" , EBA TV ORTAOKUL
+http://tv-e-okul01.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR" , EBA TV LISE
+http://tv-e-okul02.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR" , TLC TV HD
+http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 group-title="TR" , TRT COCUK
+http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR" , MUSIC-KRAL Pop TV
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 group-title="TR" , MUSIC-KRAL HD
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1 group-title="TR" , MUSIC-TRT MUZIK
+http://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR" , MUSIC-M20
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 group-title="TR" , MUSIC-POWERTÃœRK TV
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist.sltur.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="TRUEVISION" , 
+
+
+
+#EXTINF:-1 group-title="TRUEVISION" ,CARTOON NETWORK
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Sports", OLYMPIC CHANNEL HD
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+
+#EXTINF:-1 group-title="Sports",WTA
+http://ms003.happytv.com.tw:80/live/OcScNdWHvBx5P4w3/index.m3u8
+
+#EXTINF:-1 group-title="Sports",TENNIS CHANNEL
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1 group-title="Sports",TENNIS PLUS
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+
+
+#EXTINF:-1 group-title="Sports", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1 group-title="Sports", Racing.Com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+#EXTINF: -1 group-title="Sports", DSport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+
+#EXTINF:-1 group-title="Sports", ATGV 1 SPORT
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Sports", BT sport 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", BT sport 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Sports",Sport Tv 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" Sport Tv 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Sport Tv 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Sport Tv 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Sport Tv 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Sports",TRUESPORTS HD 1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",TRUESPORTS HD 2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",TRUESPORTS HD 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",TRUESPORTS HD 4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",TRUESPORTS SD 5
+https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",TRUESPORTS SD 6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",TRUESPORTS SD 7
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Sports", Skynet sport HD
+https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Skynet sport 1
+https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Skynet sport 2
+https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Skynet  sport 3
+https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Skynet sport 4
+https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Skynet sport 5
+https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Skynet sport 6
+https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports",PREMIER LEAGUE 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports", Star sport select 1
+http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist_w1760519830.m3u8
+#EXTINF:-1 group-title="Sports", Star sport select 2
+http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
+
+#EXTINF:-1 group-title="Sports" ,bein sport 1 thailand 
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports",bein sport 2 thailand 
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" ,Bein sport xtra
+https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+
+
+
+#EXTINF:-1 group-title="Sports", FoxSport truevision
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1group-title="Sports", FoxSport2 truevision
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", FoxSport3 truevision
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Sports", WWE NETWORK HD
+http://randomserver.site:2086/live/Bria/Bria/303.m3u8
+#EXTINF:-1 group-title="Sports", WWE NETWORK 2 HD
+http://randomserver.site:2086/live/crystal/12345/303.m3u8
+
+#EXTINF:-1 group-title="Sports",WWE HD
+http://cdnak22.cast4u.info/channels/4/10804.m3u8
+
+#EXTINF:-1 group-title="Sports",Real madrid
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+ 
+
+
+
+
+
+
+#EXTINF:0, Bein1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:0, Bein2
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD4
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:0, Fox Sport1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:0, Fox Sport2
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:0, Fox Sport3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:0, Tennis HD
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:0, NBA HD
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:0, NFLNetwork
+https://www.livedoomovie.com/02_NFLNetwork_720p/chunklist.m3u8
+#EXTINF:0, Golf HD
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:0, HBO HD
+https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:0, HBO Hit
+https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:0, HBOSignature
+https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
+#EXTINF:0, FoxActionHD_TH
+https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxActionHD
+https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:0, FoxMovies_TH
+https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:0, FoxMovies
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:0, FoxFamilyHD_TH
+https://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxFamilyHD
+https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
+#EXTINF:0, FoxThai_TH
+https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxThai
+https://www.livedoomovie.com/02_FoxThai_720p/chunklist.m3u8
+#EXTINF:0, FoxCrimeHD_TH
+https://www.livedoomovie.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxCrimeHD
+https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
+#EXTINF:0, RedbyHBO
+https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:0, AXN HD
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:0, WarnerTV HD
+https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:0, FXThailand
+https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:0, TrueFilmHD1
+https://www.livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
+#EXTINF:0, TrueFilmHD2
+https://www.livedoomovie.com/02_TrueFilmHD2_720p/chunklist.m3u8
+#EXTINF:0, HISTORY HD
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:0, H2 HD
+https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:0, DiscoveryChannel
+https://www.livedoomovie.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:0, DiscoveryHDWorld
+https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:0, NatGeoHD_TH
+https://www.livedoomovie.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+#EXTINF:0, NatGeo HD
+https://www.livedoomovie.com/02_NatGeoHD_720p/chunklist.m3u8
+#EXTINF:0, NatGeo Wild_TH
+https://www.livedoomovie.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+#EXTINF:0, NatGeo People
+https://www.livedoomovie.com/02_NatPeopleHD_720p/chunklist.m3u8
+#EXTINF:0, NatGeoWild
+https://www.livedoomovie.com/02_NatGeoWild_720p/chunklist.m3u8
+#EXTINF:0, AnimalPlanet
+https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:0, Sumrujlok
+https://www.livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:0, MYSCIHD
+https://www.livedoomovie.com/02_MYSCIHD_720p/chunklist.m3u8
+#EXTINF:0, BBCEARTH
+https://www.livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8
+#EXTINF:0, CartoonNetwork
+https://www.livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:0, DisneyXD
+https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:0, T_Sports
+https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
+#EXTINF:0, SMM_TV
+https://www.livedoomovie.com/02_SMM_TV_480p/chunklist.m3u8
+#EXTINF:0, NHANG_DUNK
+https://www.livedoomovie.com/02_NHANG_DUNK_720p/chunklist.m3u8
+#EXTINF:0, MANGORN
+https://www.livedoomovie.com/02_MANGORN_720p/chunklist.m3u8
+#EXTINF:0, MONO_Plus
+https://www.livedoomovie.com/02_MONO_Plus_720p/chunklist.m3u8
+#EXTINF:0, Zee_Nung
+https://www.livedoomovie.com/02_Zee_Nung_720p/chunklist.m3u8
+#EXTINF:0, FOX_Life
+https://www.livedoomovie.com/02_FOX_Life_720p/chunklist.m3u8
+#EXTINF:0, Thrill
+https://www.livedoomovie.com/02_Thrill_720p/chunklist.m3u8
+#EXTINF:0, SCM
+https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
+#EXTINF:0, CMM
+https://www.livedoomovie.com/02_CCM_720p/chunklist.m3u8
+#EXTINF:0, Comedy
+https://www.livedoomovie.com/02_Comedy_HD_720p/chunklist.m3u8
+#EXTINF:0, Baby_TV_HD
+https://www.livedoomovie.com/02_Baby_TV_HD_720p/chunklist.m3u8
+#EXTINF:0, Miao_Mi
+https://www.livedoomovie.com/02_Miao_Mi_720p/chunklist.m3u8
+#EXTINF:0, Nick_Jr
+https://www.livedoomovie.com/02_Nick_Jr_720p/chunklist.m3u8
+#EXTINF:0, Boomerang
+https://www.livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
+#EXTINF:0, FANMUSICHD
+https://www.livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
+#EXTINF:0, SabaideeTV
+https://www.livedoomovie.com/02_SabaideeTV_720p/chunklist.m3u8
+#EXTINF:0, Wish_Channel
+https://www.livedoomovie.com/02_Wish_Channel_720p/chunklist.m3u8
+#EXTINF:0, MTV_China
+https://www.livedoomovie.com/02_MTV_China_720p/chunklist.m3u8
+#EXTINF:0, Channel_V
+https://www.livedoomovie.com/02_Channel_V_720p/chunklist.m3u8
+#EXTINF:0, MTV_Asia
+https://www.livedoomovie.com/02_MTV_Asia_720p/chunklist.m3u8
+#EXTINF:0, MTV_Live_HD
+https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
+#EXTINF:0, KIX_Thailand
+https://www.livedoomovie.com/02_KIX_Thailand_720p/chunklist.m3u8
+#EXTINF:0, NHK_WORLD_TV
+https://www.livedoomovie.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
+
+ 
+#EXTINF:-1 group-title="Sports", Premiere Football HD 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports", Premiere Football HD 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports", Premiere Football HD 3
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports", Premiere Football HD 4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports", Premiere Football HD 5
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports",True Sports HD
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports",True Sports HD 2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports",True Sports HD 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="WKTV",Rotana KH FHD
+https://wktv1-i.akamaihd.net/out/v1/59431963f4e6470bb5ba6d9681e6b604/index_5.m3u8
+#EXTINF:-1 group-title="WKTV",Rotana COMEDY FHD
+https://wktv4-i.akamaihd.net/out/v1/57c3329051fe4cd4b5d0577cc0d56e17/index_3.m3u8
+#EXTINF:-1 group-title="WKTV",Rotana DRAMA FHD
+https://wktv2-i.akamaihd.net/out/v1/6f695542e67c45f1bdfa50f8dc6bf576/index_5.m3u8
+#EXTINF:-1 group-title="WKTV",Rotana CEINMA FHD
+https://wktv4-i.akamaihd.net/out/v1/b39d3d5332c1455586fb0a7dd4476f7e/index_3.m3u8
+#EXTINF:-1 group-title="WKTV",Rotana CEINMA EGY FHD
+https://wktv4-i.akamaihd.net/out/v1/ea7da9c7da6f49228c9d2af331361366/index_5.m3u8
+#EXTINF:-1 group-title="WKTV",Rotana classic FHD
+https://wktv4-i.akamaihd.net/out/v1/b36031b094ac48178730b4349e3e30ea/index_5.m3u8
+#EXTINF:-1 group-title="WKTV",Rotana AFLAM PLUS FHD
+https://wktv4-i.akamaihd.net/out/v1/5214a7249a7645378c9127c589355a41/index_3.m3u8
+#EXTINF:-1 group-title="WKTV",Rotana PLUS FHD
+https://wktv2-i.akamaihd.net/out/v1/67773b1f6d424ff082d421a98ed53fda/index_3.m3u8
+#EXTINF:-1 group-title="WKTV",Rotana M+ FHD
+https://wktv2-i.akamaihd.net/out/v1/e6d6d91534464326bc0f13cb73a8346f/index_3.m3u8
+#EXTINF:-1 group-title="WKTV",Rotana MUSIC FHD
+https://wktv3-i.akamaihd.net/out/v1/1940437aff2742d7953d8905928e3f14/index_5.m3u8
+#EXTINF:-1 group-title="WKTV",Rotana CLIP FHD
+https://wktv3-i.akamaihd.net/out/v1/4ee1bc4c6de142f5aeab60cbf867de04/index_5.m3u8
+#EXTINF:-1 group-title="WKTV",Rotana LBC FHD
+https://wktv3-i.akamaihd.net/out/v1/4b831203c31d4e1ab5eb9843d33add22/index_5.m3u8
+#EXTINF:-1 group-title="WKTV",Rotana risala FHD
+https://wktv1-i.akamaihd.net/out/v1/c8d290982bca4bd1a932e4092bc2e25a/index_5.m3u8
+#EXTINF:-1 group-title="WKTV",Rotana KIDS FHD
+https://wktv1-i.akamaihd.net/out/v1/54faaa9446074c3082a50e935f61a40a/index_5.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="TOOLI",ALMAJD 3 SD
+https://or149.tooliserver.com/live/149196_0.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI",ALRESALA 
+https://or.tooliserver.com/live/60007_.m3u8
+
+#EXTINF:-1 group-title="TOOLI",Alarabiya FHD
+https://or.tooliserver.com/live/60009_.m3u8
+#EXTINF:-1 group-title="TOOLI",Al_Hadath 
+https://or.tooliserver.com/live/Al_Hadath/Al_Hadath.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="TOOLI",CNBC_Arabiya
+https://or.tooliserver.com/live/CNBC_Arabiya/CNBC_Arabiya.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI",France 24_ar 
+https://or.tooliserver.com/live/France24_ar_HD/France24_ar_HD.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI",LBC FHD
+https://or149.tooliserver.com/live/699_0.m3u8?session=&location=
+
+
+
+
+
+
+#EXTINF:-1 group-title="TOOLI", MBC FHD
+https://or149.tooliserver.com/live/149009_0.m3u8
+
+#EXTINF:-1 group-title="TOOLI", MBC 2 FHD
+https://or149.tooliserver.com/live/149010_0.m3u8
+
+#EXTINF:-1 group-title="TOOLI", MBC 3 FHD
+https://or149.tooliserver.com/live/149011_0.m3u8
+
+#EXTINF:-1 group-title="TOOLI", MBC 4 FHD
+https://or149.tooliserver.com/live/149012_0.m3u8
+
+#EXTINF:-1 group-title="TOOLI", MBC ACTION FHD
+https://or149.tooliserver.com/live/149013_0.m3u8
+
+#EXTINF:-1 group-title="TOOLI", MBC Bollywood FHD
+https://or149.tooliserver.com/live/149014_0.m3u8
+
+#EXTINF:-1 group-title="TOOLI", MBC MAX FHD
+https://or149.tooliserver.com/live/149015_0.m3u8
+
+#EXTINF:-1 group-title="TOOLI",mbc + DRAMA FHD
+https://or149.tooliserver.com/live/149016_0.m3u8
+
+#EXTINF:-1 group-title="TOOLI",mbc + variety FHD
+https://or149.tooliserver.com/live/149017_0.m3u8
+
+#EXTINF:-1 group-title="TOOLI", MBC IRAQ FHD
+https://or149.tooliserver.com/live/149018_0.m3u8
+
+
+#EXTINF:-1 group-title="TOOLI", MBC 5 SD
+https://or148.tooliserver.com/live/149291_0.m3u8
+#EXTINF:-1 group-title="TOOLI", MBC DRAMA FHD
+https://or148.tooliserver.com/live/149295_0.m3u8
+#EXTINF:-1 group-title="TOOLI", MBC MASR 1 SD
+https://or149.tooliserver.com/live/149296_0.m3u8
+#EXTINF:-1 group-title="TOOLI", MBC MASR 2 SD
+https://or149.tooliserver.com/live/149297_0.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TOOLI",Wanasah
+https://or.tooliserver.com/live/Wanasah/Wanasah.m3u8
+
+
+#EXTINF:-1 group-title="TOOLI",rotana COMEDY FHD
+https://or148.tooliserver.com/live/701_0.m3u8
+
+#EXTINF:-1 group-title="TOOLI",rotana CINMA EGY
+https://or148.tooliserver.com/live/148043_0.m3u8
+
+#EXTINF:-1 group-title="TOOLI",rotana CINMA FHD
+https://or148.tooliserver.com/live/148044_0.m3u8
+
+#EXTINF:-1 group-title="TOOLI",rotana CLASSIC FHD
+https://or148.tooliserver.com/live/148045_0.m3u8
+
+#EXTINF:-1 group-title="TOOLI",rotana clip FHD
+https://or148.tooliserver.com/live/148046_0.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI",rotana DRAMA FHD
+https://or148.tooliserver.com/live/148047_0.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI",rotana KH FHD
+https://or148.tooliserver.com/live/148048_0.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI",rotana MUSIC FHD
+https://or148.tooliserver.com/live/148049_0.m3u8?session=&location=
+
+
+
+
+#EXTINF:-1 group-title="TOOLI", LBC int FHD
+https://or149.tooliserver.com/live/469_0.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI",Future FHD
+https://or149.tooliserver.com/live/700_0.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI",OTV FHD
+https://or149.tooliserver.com/live/117_0.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI",MTV Leb FHD
+https://or149.tooliserver.com/live/470_0.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI",ALJadeed FHD
+https://or149.tooliserver.com/live/381_0.m3u8?session=&location=
+
+
+
+
+
+
+#EXTINF:-1 group-title="TOOLI", Saudi_ch_for_Quran
+https://or.tooliserver.com/live/Saudi_ch_for_Quran_HD/Saudi_ch_for_Quran_HD.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI",Saudi_Ch_for_Sunnah
+https://or.tooliserver.com/live/Saudi_Ch_for_Sunnah_HD/Saudi_Ch_for_Sunnah_HD.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI""KSA", KSA_Sports_1 
+https://or.tooliserver.com/live/KSA_SPORTS_1_HD/KSA_SPORTS_1_HD.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI", KSA_Sports_2
+https://or.tooliserver.com/live/KSA_SPORTS_2_HD/KSA_SPORTS_2_HD.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI", KSA_Sports_3
+https://or.tooliserver.com/live/KSA_Sports_p1_HD/KSA_Sports_p1_HD.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI", KSA_Sports_4
+https://or.tooliserver.com/live/KSA_Sports_p2_HD/KSA_Sports_p2_HD.m3u8?session=&location=
+
+
+
+#EXTINF:-1 group-title="TOOLI", iEN tv
+https://or.tooliserver.com/live/iEN_TV/iEN_TV.m3u8?session=&location=
+
+
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 1
+https://or.tooliserver.com/live/iEN_Doros_01/iEN_Doros_01.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 2
+https://or.tooliserver.com/live/iEN_Doros_02/iEN_Doros_02.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 3
+https://or.tooliserver.com/live/iEN_Doros_03/iEN_Doros_03.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 4
+https://or.tooliserver.com/live/iEN_Doros_04/iEN_Doros_04.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 5
+https://or.tooliserver.com/live/iEN_Doros_05/iEN_Doros_05.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 6
+https://or.tooliserver.com/live/iEN_Doros_06/iEN_Doros_06.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 7
+https://or.tooliserver.com/live/iEN_Doros_07/iEN_Doros_07.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 8
+https://or.tooliserver.com/live/iEN_Doros_08/iEN_Doros_08.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 9
+https://or.tooliserver.com/live/iEN_Doros_09/iEN_Doros_09.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 10
+https://or.tooliserver.com/live/iEN_Doros_10/iEN_Doros_10.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 11
+https://or.tooliserver.com/live/iEN_Doros_11/iEN_Doros_11.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 12
+https://or.tooliserver.com/live/iEN_Doros_12/iEN_Doros_12.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 13
+https://or.tooliserver.com/live/iEN_Doros_13/iEN_Doros_13.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 14
+https://or.tooliserver.com/live/iEN_Doros_14/iEN_Doros_14.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 15
+https://or.tooliserver.com/live/iEN_Doros_15/iEN_Doros_15.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 16
+https://or.tooliserver.com/live/iEN_Doros_16/iEN_Doros_16.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 17
+https://or.tooliserver.com/live/iEN_Doros_17/iEN_Doros_17.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 18
+https://or.tooliserver.com/live/iEN_Doros_18/iEN_Doros_18.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 19
+https://or.tooliserver.com/live/iEN_Doros_19/iEN_Doros_19.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 20
+https://or.tooliserver.com/live/iEN_Doros_20/iEN_Doros_20.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 21
+https://or.tooliserver.com/live/iEN_Doros_21/iEN_Doros_21.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 22
+https://or.tooliserver.com/live/iEN_Doros_22/iEN_Doros_22.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", iEN_Doros 23
+https://or.tooliserver.com/live/iEN_Doros_23/iEN_Doros_23.m3u8?session=&location=
+
+
+
+
+
+#EXTINF:-1 group-title="TOOLI", SBC 
+https://or.tooliserver.com/live/SBC_HD/SBC_HD.m3u8?session=&location=
+
+
+#EXTINF:-1 group-title="TOOLI", Thikrayat
+https://or.tooliserver.com/live/Thikrayat_HD/Thikrayat_HD.m3u8?session=&location=
+
+
+#EXTINF:-1 group-title="TOOLI", Saudi_TV
+
+https://or.tooliserver.com/live/Saudi_TV_HD/Saudi_TV_HD.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI", Al_Ekhbaria
+
+https://or.tooliserver.com/live/Al_Ekhbaria_HD/Al_Ekhbaria_HD.m3u8?session=&location=
+
+
+#EXTINF:-1 group-title="TOOLI", Asharq_News 
+
+https://or.tooliserver.com/live/Asharq_News_Channel_HD/Asharq_News_Channel_HD.m3u8?session=&location=
+
+
+#EXTINF:-1 group-title="TOOLI", Sky_News_Arabia 
+
+https://or.tooliserver.com/live/Sky_News_Arabia/Sky_News_Arabia.m3u8?session=&location=
+
+
+#EXTINF:-1 group-title="TOOLI", CNN_International
+https://or.tooliserver.com/live/CNN_International/CNN_International.m3u8
+#EXTINF:-1 group-title="TOOLI", Euronews
+https://or.tooliserver.com/live/Euronews/Euronews.m3u8
+#EXTINF:-1 group-title="TOOLI", TRT_Arabi
+https://or.tooliserver.com/live/TRT_Arabi_HD/TRT_Arabi_HD.m3u8?token=868d61b0d06c11eb94c39f3d49dc33df
+
+#EXTINF:-1 group-title="TOOLI", CN_Arabia
+
+https://or.tooliserver.com/live/CN_Arabia/CN_Arabia.m3u8?session=&location=
+
+
+
+#EXTINF:-1 group-title="TOOLI",Abu_Dhabi_TV 
+https://or.tooliserver.com/live/Abu_Dhabi_TVHD/Abu_Dhabi_TVHD.m3u8
+#EXTINF:-1 group-title="TOOLI",Al_Emarat_TV
+https://or.tooliserver.com/live/Al_Emarat_TV/Al_Emarat_TV.m3u8
+#EXTINF:-1 group-title="TOOLI",AD_Nat_Geo 
+https://or.tooliserver.com/live/AD_Nat_Geo/AD_Nat_Geo.m3u8
+#EXTINF:-1 group-title="TOOLI",Majid_Kids 
+https://or.tooliserver.com/live/Majid_Kids_TV/Majid_Kids_TV.m3u8
+
+
+#EXTINF:-1 group-title="TOOLI",ADSport_1 
+https://or.tooliserver.com/live/ADSport_1HD/ADSport_1HD.m3u8
+#EXTINF:-1 group-title="TOOLI",ADSport_2 
+https://or.tooliserver.com/live/AD_Sport_2/AD_Sport_2.m3u8
+
+
+#EXTINF:-1 group-title="TOOLI",Dubai_TV
+https://or.tooliserver.com/live/Dubai_TV/Dubai_TV.m3u8
+#EXTINF:-1 group-title="TOOLI",Sama_Dubai
+https://or.tooliserver.com/live/Sama_Dubai/Sama_Dubai.m3u8
+#EXTINF:-1 group-title="TOOLI",Dubai_Zaman
+https://or.tooliserver.com/live/Dubai_Zaman/Dubai_Zaman.m3u8
+#EXTINF:-1 group-title="TOOLI",Noor_Dubai
+https://or.tooliserver.com/live/Noor_Dubai/Noor_Dubai.m3u8
+
+#EXTINF:-1 group-title="TOOLI",Dubai_Racing_2
+https://or.tooliserver.com/live/Dubai_Racing_2/Dubai_Racing_2.m3u8
+#EXTINF:-1 group-title="TOOLI",Dubai_Racing_3
+https://or.tooliserver.com/live/Dubai_Racing_3/Dubai_Racing_3.m3u8
+
+#EXTINF:-1 group-title="TOOLI",Dubai_Sports_2
+https://or.tooliserver.com/live/Dubai_Sports_2/Dubai_Sports_2.m3u8
+#EXTINF:-1 group-title="TOOLI",Dubai_Sports_3
+https://or.tooliserver.com/live/Dubai_Sports_3/Dubai_Sports_3.m3u8
+
+
+
+#EXTINF:-1 group-title="TOOLI",Omdurman_TV
+https://or.tooliserver.com/live/Omdurman_TV/Omdurman_TV.m3u8
+
+#EXTINF:-1 group-title="TOOLI",Arriadia_MR
+https://or.tooliserver.com/live/Arriadia_MR/Arriadia_MR.m3u8
+
+#EXTINF:-1 group-title="TOOLI", Bahrain 
+
+https://or.tooliserver.com/live/Bahrain_TV_HD/Bahrain_TV_HD.m3u8?session=&location=
+
+
+#EXTINF:-1 group-title="TOOLI", Bahrain_International
+
+https://or.tooliserver.com/live/Bahrain_International_HD/Bahrain_International_HDm3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI", Bahrain_Sport_1
+https://or.tooliserver.com/live/Bahrain_Sport_1_HD/Bahrain_Sport_1_HD.m3u8
+
+#EXTINF:-1 group-title="TOOLI", Bahrain_Sport_2
+https://or.tooliserver.com/live/Bahrain_Sport_2_HD/Bahrain_Sport_2_HD.m3u8
+
+
+#EXTINF:-1 group-title="TOOLI",KW TV ALMAJLES 
+https://or.tooliserver.com/live/60020_.m3u8
+
+#EXTINF:-1 group-title="TOOLI",KW TV ALQRIN 
+https://or.tooliserver.com/live/60021_.m3u8
+
+#EXTINF:-1 group-title="TOOLI",KW TV ARA
+https://or.tooliserver.com/live/60022_.m3u8
+
+#EXTINF:-1 group-title="TOOLI",KW TV 1 
+https://or.tooliserver.com/live/60023_.m3u8
+
+#EXTINF:-1 group-title="TOOLI",KW TV SP 
+https://or.tooliserver.com/live/60024_.m3u8
+
+#EXTINF:-1 group-title="TOOLI",KW TV 2 
+https://or.tooliserver.com/live/60025_.m3u8
+
+#EXTINF:-1 group-title="TOOLI",KW TV ETHRA 
+https://or.tooliserver.com/live/60026_.m3u8
+#EXTINF:-1 group-title="TOOLI",KW @HOME 
+https://or.tooliserver.com/live/60027.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI",KW PLUS
+https://or.tooliserver.com/live/KTVS_Plus/KTVS_Plus.m3u8
+
+
+
+#EXTINF:-1 group-title="TOOLI",oman sport FHD
+https://or149.tooliserver.com/live/148012_0.m3u8?session=&location=
+
+
+
+#EXTINF:-1 group-title="TOOLI", Jordan_TV
+https://or.tooliserver.com/live/Jordan_TV/Jordan_TV.m3u8?session=&location=
+
+
+
+
+#EXTINF:-1 group-title="TOOLI",aghani FHD
+https://or149.tooliserver.com/live/461_0.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI",ARABICA FHD
+https://or149.tooliserver.com/live/466_0.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI",hawacom FHD
+https://or149.tooliserver.com/live/382_0.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI",360 Tune box HD
+https://or149.tooliserver.com/live/149000_0.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", DOCUBOX HD
+https://or149.tooliserver.com/live/149001_0.m3u8
+#EXTINF:-1 group-title="TOOLI", fashion box HD
+https://or149.tooliserver.com/live/149002_0.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", fast & fun box HD
+https://or149.tooliserver.com/live/149003_0.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI", FIGHT BOX FHD
+https://or149.tooliserver.com/live/149004_0.m3u8
+#EXTINF:-1 group-title="TOOLI",Filmbox AFRICA FHD
+https://or149.tooliserver.com/live/149005_3.m3u8?session=&location=
+#EXTINF:-1 group-title="TOOLI",Filmbox ARTHOUSE SD
+https://or149.tooliserver.com/live/149006_3.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI",Game toon HD
+https://or149.tooliserver.com/live/149007_0.m3u8?session=&location=
+
+#EXTINF:-1 group-title="TOOLI",Carthage+ SD
+https://or.tooliserver.com/live/Carthage+/Carthage+_0.m3u8?session=&location=
+
+
+
+
+
+
+#EXTINF:-1 group-title="Web""NEWS""FHD", aljazeera FHD
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+
+
+#EXTINF:-1 group-title="Live",LiveHD 1 auto
+https://hls-origin276.showroom-cdn.com/liveedge/c94b11d8d93e48ac00371f4f96404903eab2fa59e4cb74aad361ed4fbb7cc66a_source/chunklist.m3u8
+
+#EXTINF:-1 group-title="Live", LiveHD 2 auto
+https://05bce4580d95b32a.mediapackage.ap-southeast-1.amazonaws.com/out/v1/15fb8a7bdd17445491de125484fbda9c/index.m3u8
+
+#EXTINF:-1 group-title="Live",yalla live 1 auto
+https://d23oy2lhqs27z5.cloudfront.net/out/v1/f2304e69c54a4c59bcb3902c926e8a5b/index.m3u8
+
+#EXTINF:-1 group-title="Live",yalla live 2 auto
+https://google-me.cdn.booyah.live/hls/113137/71976509.m3u8
+
+#EXTINF:-1 group-title="Live",yalla live 3 auto
+https://d1muiuvky80o4d.cloudfront.net/out/v1/30d8588475484353bd2d58db40e6d618/index.m3u8
+
+
+#EXTINF:-1 group-title="Live",Tab3 HQ
+https://edge2.vedge.infomaniak.com/livecast/ik:tab3kora/chunklist_w561003396.m3u8
+
+#EXTINF:-1 group-title="Live",Tab3 mob
+https://edge3.vedge.infomaniak.com/livecast/ik:tab3kora2/chunklist_w1229545294.m3u8
+
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 1 FHD
+https://d356ybovuw0hnc.cloudfront.net/out/v1/b3a7b18e10dc4eb6a374f4b28b9432a0/index_5.m3u8
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 2 FHD
+https://d2kh9ebcjtouxt.cloudfront.net/out/v1/a8d6da6816d14b7aa956c89c35ffaa2d/index_5.m3u8
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 3 FHD
+https://ds1yayav1aj41.cloudfront.net/out/v1/f49e42ed020a452ab3484ff15edb85ca/index_5.m3u8
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 4 FHD
+https://d2lz52dy6sizaj.cloudfront.net/out/v1/f99e38a6497d400288549e645e6f4b52/index_5.m3u8
+
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 5 FHD
+https://d389biktia1t50.cloudfront.net/out/v1/2a6b96252b5749a8b7d0e970fa7c004d/index_5.m3u8
+
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 6 FHD
+https://d3r5pmjjio9c14.cloudfront.net/out/v1/d83f3a71310e4ee797e1282412d8bfc3/index_5.m3u8
+
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 7 FHD
+https://dszyq0u9yc79f.cloudfront.net/out/v1/667a8322113949179bb170937a1f14ae/index_5.m3u8
+
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 1 HD
+https://d356ybovuw0hnc.cloudfront.net/out/v1/b3a7b18e10dc4eb6a374f4b28b9432a0/index_4.m3u8
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 2 HD
+https://d2kh9ebcjtouxt.cloudfront.net/out/v1/a8d6da6816d14b7aa956c89c35ffaa2d/index_4.m3u8
+ 
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 3 HD
+https://ds1yayav1aj41.cloudfront.net/out/v1/f49e42ed020a452ab3484ff15edb85ca/index_4.m3u8
+ 
+ 
+ 
+
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 4 HD
+https://d2lz52dy6sizaj.cloudfront.net/out/v1/f99e38a6497d400288549e645e6f4b52/index_4.m3u8
+
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 5 HD
+https://d389biktia1t50.cloudfront.net/out/v1/2a6b96252b5749a8b7d0e970fa7c004d/index_4.m3u8
+ 
+ 
+ 
+ 
+ 
+
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 6 HD
+https://d3r5pmjjio9c14.cloudfront.net/out/v1/d83f3a71310e4ee797e1282412d8bfc3/index_4.m3u8
+ 
+
+
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 7 HD
+https://dszyq0u9yc79f.cloudfront.net/out/v1/667a8322113949179bb170937a1f14ae/index_4.m3u8 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 1 SD
+https://d356ybovuw0hnc.cloudfront.net/out/v1/b3a7b18e10dc4eb6a374f4b28b9432a0/index_3.m3u8
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 2 SD
+https://d2kh9ebcjtouxt.cloudfront.net/out/v1/a8d6da6816d14b7aa956c89c35ffaa2d/index_3.m3u8
+ 
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 3 SD
+https://ds1yayav1aj41.cloudfront.net/out/v1/f49e42ed020a452ab3484ff15edb85ca/index_3.m3u8
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 4 SD
+https://d2lz52dy6sizaj.cloudfront.net/out/v1/f99e38a6497d400288549e645e6f4b52/index_3.m3u8
+
+
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 5 SD
+https://d389biktia1t50.cloudfront.net/out/v1/2a6b96252b5749a8b7d0e970fa7c004d/index_3.m3u8
+ 
+
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 6 SD
+https://d3r5pmjjio9c14.cloudfront.net/out/v1/d83f3a71310e4ee797e1282412d8bfc3/index_3.m3u8
+ 
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 7 SD
+https://dszyq0u9yc79f.cloudfront.net/out/v1/667a8322113949179bb170937a1f14ae/index_3.m3u8
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 1 AUTO
+https://d356ybovuw0hnc.cloudfront.net/out/v1/b3a7b18e10dc4eb6a374f4b28b9432a0/index.m3u8
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 2 AUTO
+https://d2kh9ebcjtouxt.cloudfront.net/out/v1/a8d6da6816d14b7aa956c89c35ffaa2d/index.m3u8
+ 
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 3 AUTO
+https://ds1yayav1aj41.cloudfront.net/out/v1/f49e42ed020a452ab3484ff15edb85ca/index.m3u8
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 4 AUTO
+https://d2lz52dy6sizaj.cloudfront.net/out/v1/f99e38a6497d400288549e645e6f4b52/index.m3u8
+ 
+ 
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 5 AUTO
+https://d389biktia1t50.cloudfront.net/out/v1/2a6b96252b5749a8b7d0e970fa7c004d/index.m3u8
+ 
+ #EXTINF:-1 group-title="GSA Live", GSA LIVE 6 AUTO
+https://d3r5pmjjio9c14.cloudfront.net/out/v1/d83f3a71310e4ee797e1282412d8bfc3/index.m3u8
+ 
+
+#EXTINF:-1 group-title="GSA Live", GSA LIVE 7 AUTO
+https://dszyq0u9yc79f.cloudfront.net/out/v1/667a8322113949179bb170937a1f14ae/index.m3u8
+ 
+  
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="Entertainment",Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8?token=
+
+
+
+#EXTINF:-1 group-title="foxlive AS ",Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8?token=
+
+
+#EXTINF:-1 group-title="foxlive AS ",Blue Ant Entertainment HD
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",National Geographic HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8?token=
+
+
+
+#EXTINF:-1 group-title="foxlive AS ",TLC HD
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",Asian Food Network HD
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",Discovery Channel HD
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",Outdoor Channel HD
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8?token=
+
+#EXTINF:-1 group-title="foxlive AS ",BBC Lifestyle HD
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8?token=
+
+
+
+#EXTINF:-1 group-title="foxlive AS ",natgeo
+
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Shahid""FHD",F1 ar Auto 
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+
+#EXTINF:-1 group-title="Shahid""FHD",F1 en Auto
+https://f1event-eng-prod-dub.shahid.net/out/v1/efbe58d3435d4de1beb1d7e3b27d309f/index.m3u8 
+
+
+#EXTINF:-1 group-title="AHD",Ksa_sp 1 @
+https://raw.github.com/ALMehdaly/AHMED/TV/Ksa_sp1
+#EXTINF:-1 group-title="AHD",Ksa_sp 2 @
+https://raw.github.com/ALMehdaly/AHMED/TV/ksa_sp2
+#EXTINF:-1 group-title="AHD",kw 1 @
+https://raw.github.com/ALMehdaly/AHMED/TV/Kw1
+
+#EXTINF:-1 group-title="AHD",mbc
+https://almehdaly.page.link/mbc1
+
+
+#EXTINF:-1 group-title="AHD", mbc_action @
+https://almehdaly.page.link/mbc_action
+
+
+#EXTINF:-1 group-title="AHD", ksa1
+https://almehdaly.page.link/ksa1
+
+#EXTINF:-1 group-title="AHD", ksa quran
+https://almehdaly.page.link/ksa_quran
+
+
+#EXTINF:-1 group-title="AHD", ksa_sunnah
+https://almehdaly.page.link/ksa_sunnah
+
+#EXTINF:-1 group-title="AHD",WWE @
+https://almehdaly.page.link/WWE
+
+#EXTINF:-1 group-title="rakuten",cnninternational FHD
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 group-title="rakuten",edgesports FHD
+https://edgesports-row-rakuten.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="rakuten",fashiontv FHD
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+
+#EXTINF:-1 group-title="rakuten",ducktv HD
+https://mmm-ducktv-4-eu.rakuten.wurl.com/manifest/54a4dd0715b9e903a03368ad03a9f180.m3u8
+
+#EXTINF:-1 group-title="Web",absolutereality HD
+https://amc-absolutereality-1.samsung.wurl.com/manifest/3000.m3u8
+
+#EXTINF:-1 group-title="MUSIC",1Mus (BLR)
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 group-title="MUSIC",VEVO 00's (US)
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/9f3e23c231f44bac97866bc8b70c0e4b/live.m3u8
+#EXTINF:-1 group-title="MUSIC",VEVO 2K (US)
+https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
+#EXTINF:-1 group-title="MUSIC",VEVO 70's (US)
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/192bbb4ecd484e389101d109ac61cf5d/live.m3u8
+#EXTINF:-1 group-title="MUSIC",VEVO 80's (US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="MUSIC",VEVO 90's (US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="MUSIC",VEVO Country (US)
+https://5dcc69faf960dd5dcc551818-s-2.ssai.zype.com/5dcc69faf960dd5dcc551818-s-2/manifest.m3u8
+#EXTINF:-1 group-title="MUSIC",VEVO Hip Hop (US)
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:-1 group-title="MUSIC",Vevo Holiday (US)
+https://5dcc69bb1621dc5de50b1db7-s-1.ssai.zype.com/5dcc69bb1621dc5de50b1db7-s-1/manifest.m3u8
+#EXTINF:-1 group-title="MUSIC",VEVO Latino (US)
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1 group-title="MUSIC",VEVO Pop (US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="MUSIC",VEVO R&B (US)
+https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
+#EXTINF:-1 group-title="MUSIC",VEVO Reggeaton & Trap (US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
+
+
+
+
+#EXTINF:-1 group-title="Shahid",asharq AUTO
+https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+#EXTINF:-1 group-title="Shahid",alarabiya AUTO
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 group-title="Shahid",alhadath AUTO
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+
+#EXTINF:-1 group-title="Shahid",mbc 1 AUTO
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc drama AUTO
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc drama Plus AUTO
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc iraq AUTO
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc Masr 1 AUTO
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc Masr 2 AUTO
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc 4 AUTO
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc 5 AUTO
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc action AUTO
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc 2 AUTO
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc Max AUTO
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc bollywood AUTO
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc persia AUTO
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 group-title="Shahid",wanasah AUTO
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 group-title="Shahid",mbc 3 AUTO
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 group-title="Shahid",spacetoon AUTO
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 group-title="Shahid",cartoon network AUTO
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 group-title="Shahid",MBC FM_Riyadh AUTO
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 group-title="Shahid",MBC Panorama FM AUTO
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+
+#EXTINF:-1 group-title="Shahid",LBC AUTO
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
+#EXTINF:-1 group-title="Shahid",rotana kh AUTO
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF:-1 group-title="Shahid",rotana cinema ksa AUTO
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:-1 group-title="Shahid",rotana cinema egy AUTO
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 group-title="Shahid", rotana plus AUTO
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#EXTINF:-1 group-title="Shahid", rotanadrama AUTO
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
+#EXTINF:-1 group-title="Shahid",rotana classic AUTO
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+#EXTINF:-1 group-title="Shahid", rotana music AUTO
+https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
+#EXTINF:-1 group-title="Shahid",rotana kids AUTO
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+
+#EXTINF:-1 group-title="Shahid",TIJI-in-French AUTO
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
+#EXTINF:-1 group-title="Shahid",GULLI BIL ARABI AUTO
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+#EXTINF:-1 group-title="Shahid",M6 INTERNATIONAL AUTO
+https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
+
+#EXTINF:-1 group-title="Shahid""FHD",F1 ar AUTO 
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+
+#EXTINF:-1 group-title="Shahid""FHD",F1 en AUTO
+https://f1event-eng-prod-dub.shahid.net/out/v1/efbe58d3435d4de1beb1d7e3b27d309f/index.m3u8
+
+#EXTINF:-1 group-title="Shahid",Shahid live AUTO
+https://shls-footballleague7.shahid.net/footballleague7_1.m3u8
