@@ -1570,12 +1570,6 @@ https://pastebin.com/raw/UfxD0N3v
 https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd.m3u8
 
 
-#EXTINF:-1 group-title="main",kwtv1
-https://hiplayer.hibridcdn.net/p/kwmedia-kwtv1?p=48&s=1688709101&e=1688795501&cf=1688795501&h=5191aca873919a7aaa1faffd9ccfd281
-
-
-#EXTINF:-1 group-title="main",kwtv1_1080p 
-https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_1080p/chunks.m3u8?p=48&s=1688707937&e=1688794337&cf=1688794337&h=eee5558d035f521eef50e61d1ef3bfc8
 
 
 
@@ -1584,37 +1578,35 @@ https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_1080p/chunks.m3u8?
 
 
 
-
-
-#EXTINF:-1 group-title="Live",alarabiya FM
+#EXTINF:-1 group-title="main",alarabiya FM
 https://fm.alarabiya.net/fm/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Live",ufm
+#EXTINF:-1 group-title="main",ufm
 http://stream.ufmradio.com:8000/
 
-#EXTINF:-1 group-title="Live",alarabiya FHD
+#EXTINF:-1 group-title="main",alarabiya FHD
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiya_1080p_chunks.m3u8
 
-#EXTINF:-1 group-title="Live",alhadath FHD
+#EXTINF:-1 group-title="main",alhadath FHD
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/alhadath_1080p_chunks.m3u8
 
 
-#EXTINF:-1 group-title="Live",alsharq News channel  FHD
+#EXTINF:-1 group-title="main",alsharq News channel  FHD
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_source/chunks_dvr.m3u8
 
 
-#EXTINF:-1 group-title="Live",alsharq News channel  FHD *
+#EXTINF:-1 group-title="main",alsharq News channel  FHD *
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 group-title="Live",CNBC ar FHD
+#EXTINF:-1 group-title="main",CNBC ar FHD
 https://stream-11.dc3.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW37-ud863qvyD34MKLFwAvM2IYorm1AZWq3xoLXuB1zO)/dm/3/x7zjeht/s/live-4.m3u8#cell=lcore
 
-#EXTINF:-1 group-title="Live",alarabiya FHD $
+#EXTINF:-1 group-title="main",alarabiya FHD $
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_38.m3u8
-#EXTINF:-1 group-title="Live",RT rutube  $
+#EXTINF:-1 group-title="main",RT rutube  $
 https://bl.rutube.ru/livestream/1bf2ee9dc3e20b4cb5a7ed4833bd7cb2/index.m3u8?s=XsPwRkxOsF27N351_0Quqg&e=1688801156&scheme=https
 
 
-#EXTINF:-1 group-title="Live",mbc 1 FHD
+#EXTINF:-1 group-title="main",mbc 1 FHD
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
 
 
@@ -1701,170 +1693,7 @@ https://shls-ssc-1-sd-prod-dub.shahid.net/out/v1/502681d44d444344af50db41f4dc1d7
 
 
 
-#EXTINF:-1 group-title="Live",abc d
-https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/d.m3u8?pbs=72e94b531dd949fab92c519bcaf761c0
 
-#EXTINF:-1 group-title="Live",abc e
-https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/e.m3u8?pbs=72e94b531dd949fab92c519bcaf761c0
-
-#EXTINF:-1 group-title="Live",abc ifo
-https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/ifo.m3u8?pbs=72e94b531dd949fab92c519bcaf761c0"
-
-#EXTINF:-1 group-title="Live",abc f
-https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/f.m3u8?pbs=72e94b531dd949fab92c519bcaf761c0
-
-
-#EXTINF:-1 group-title="Live",abc g
-https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/g.m3u8?pbs=72e94b531dd949fab92c519bcaf761c0
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="ALMehdaly",Ksa 1
-https://almehdaly.page.link/ksa1
-#EXTINF:-1 group-title="ALMehdaly",Sbc
-https://almehdaly.page.link/sbc
-#EXTINF:-1 group-title="ALMehdaly",Zikrayat
-https://almehdaly.page.link/Zikrayat
-#EXTINF:-1 group-title="ALMehdaly",Ksa quran
-https://almehdaly.page.link/ksa_quran
-#EXTINF:-1 group-title="ALMehdaly",Ksa sunnah
-https://almehdaly.page.link/ksa_sunnah
-
-#EXTINF:-1 group-title="ALMehdaly",Ksa sport 1
-https://almehdaly.page.link/ksa_sport1
-#EXTINF:-1 group-title="ALMehdaly",Ksa sport 2
-https://almehdaly.page.link/ksa_sport2
-
-#EXTINF:-1 group-title="ALMehdaly",Ksa sport 3
-https://almehdaly.page.link/ksa_sport3
-#EXTINF:-1 group-title="ALMehdaly",Ksa sport 4
-https://almehdaly.page.link/ksa_sport4
-
-#EXTINF:-1 group-title="ALMehdaly",ikhbariya
-https://almehdaly.page.link/ikhbariya
-#EXTINF:-1 group-title="ALMehdaly",alsharq
-https://almehdaly.page.link/alsharq
-#EXTINF:-1 group-title="ALMehdaly",alarabiya
-https://almehdaly.page.link/alarabiya
-#EXTINF:-1 group-title="ALMehdaly",alhadath
-https://almehdaly.page.link/AR-alhadath
-#EXTINF:-1 group-title="ALMehdaly",SkyNews Ar
-https://almehdaly.page.link/SkyNewsAr
-#EXTINF:-1 group-title="ALMehdaly",aljazeera
-https://almehdaly.page.link/aljazeera
-#EXTINF:-1 group-title="ALMehdaly",FR24 AR
-https://almehdaly.page.link/FR24AR
-#EXTINF:-1 group-title="ALMehdaly",BBC ar
-https://almehdaly.page.link/BBCar
-#EXTINF:-1 group-title="ALMehdaly",DW ar
-https://almehdaly.page.link/DWar
-
-
-
-
-#EXTINF:-1 group-title="ALMehdaly",Rotana-khalijia
-https://almehdaly.page.link/Rotana-khalijia
-
-#EXTINF:-1 group-title="ALMehdaly",MBC
-https://almehdaly.page.link/MBC
-
-#EXTINF:-1 group-title="ALMehdaly",MBC 1
-https://almehdaly.page.link/MBC1
-#EXTINF:-1 group-title="ALMehdaly",MBCdrama
-https://almehdaly.page.link/MBCdrama
-#EXTINF:-1 group-title="ALMehdaly",MBCdrama+
-https://almehdaly.page.link/MBCdramaplus
-#EXTINF:-1 group-title="ALMehdaly",MBC 4
-https://almehdaly.page.link/MBC4
-#EXTINF:-1 group-title="ALMehdaly",MBC 5
-https://almehdaly.page.link/MBC5
-#EXTINF:-1 group-title="ALMehdaly",MBCiraq
-https://almehdaly.page.link/MBCiraq
-#EXTINF:-1 group-title="ALMehdaly",MBCmasr 1
-https://almehdaly.page.link/MBCmasr1
-#EXTINF:-1 group-title="ALMehdaly",MBCmasr 2
-https://almehdaly.page.link/MBCmasr2
-
-#EXTINF:-1 group-title="ALMehdaly",MBC 3
-https://almehdaly.page.link/MBC3
-#EXTINF:-1 group-title="ALMehdaly",spacetoon
-https://almehdaly.page.link/spacetoon
-#EXTINF:-1 group-title="ALMehdaly",cartoonNetwork Ar
-https://almehdaly.page.link/cartoonNetworkAr
-
-#EXTINF:-1 group-title="ALMehdaly",MTV-leb
-https://almehdaly.page.link/MTV-leb
-#EXTINF:-1 group-title="ALMehdaly",NBN
-https://almehdaly.page.link/NBN
-
-
-
-
-
-
-#EXTINF:-1 group-title="ALMehdaly",Emarat tv
-https://almehdaly.page.link/emarat
-
-#EXTINF:-1 group-title="ALMehdaly",AD tv
-https://almehdaly.page.link/ADTV
-
-#EXTINF:-1 group-title="ALMehdaly",Sharjah tv
-https://almehdaly.page.link/SharjahTV
-
-#EXTINF:-1 group-title="ALMehdaly",Sama dubai
-https://almehdaly.page.link/samaDubai
-
-#EXTINF:-1 group-title="ALMehdaly",Dubai zaman
-https://almehdaly.page.link/DubaiZaman
-
-#EXTINF:-1 group-title="ALMehdaly",Dubai tv
-https://almehdaly.page.link/DubaiTV
-
-
-#EXTINF:-1 group-title="ALMehdaly",AD SPORT 1
-https://almehdaly.page.link/AD-sport-1
-#EXTINF:-1 group-title="ALMehdaly",AD SPORT 2
-https://almehdaly.page.link/AD-sport-2
-#EXTINF:-1 group-title="ALMehdaly",YAS
-https://almehdaly.page.link/YAS
-
-#EXTINF:-1 group-title="ALMehdaly",Sharjah-Sports
-https://almehdaly.page.link/Sharjah-Sports
-
-#EXTINF:-1 group-title="ALMehdaly",DUsport-1
-https://almehdaly.page.link/DUsport-1
-
-#EXTINF:-1 group-title="ALMehdaly",DUsport-2
-https://almehdaly.page.link/DUsport-2
-
-
-#EXTINF:-1 group-title="ALMehdaly",DUsport-3
-https://almehdaly.page.link/DUsport-3
-
-
-
-#EXTINF:-1 group-title="ALMehdaly",AD SPORT 1 FHD
-https://almehdaly.page.link/AD-sport-1-FHD
-#EXTINF:-1 group-title="ALMehdaly",AD SPORT 2 FHD
-https://almehdaly.page.link/AD-sport-2-FHD
-
-#EXTINF:-1 group-title="ALMehdaly",Sharjah-Sports test
-https://raw.github.com/ALMehdaly/AHMED/TV/Shar
-
-
-#EXTINF:-1 group-title="ALMehdaly",Sharjah-Sport 1
-https://raw.github.com/ALMehdaly/AHMED/iptv/Sharjah-Sport-1
-
-#EXTINF:-1 group-title="ALMehdaly",Sharjah-Sport 2
-https://raw.github.com/ALMehdaly/AHMED/iptv/Sharjah-Sport-2
-
-
-#EXTINF:-1 group-title="ALMehdaly",Ksapage
-https://raw.githubusercontent.com/ALMehdaly/AHMED/iptv/Ksapage
 
 
 
