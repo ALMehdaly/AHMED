@@ -1547,7 +1547,7 @@ Bloomberg,https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazona
 
 #EXTINF:-1 group-title="main",Al Jadeed 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/aljadeedtv
-#EXTINF:-1 group-title="leb",MTV Lebanon 
+#EXTINF:-1 group-title="main",MTV Lebanon 
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 group-title="main",One TV Lebanon 
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
