@@ -1458,6 +1458,8 @@ https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JlXNVz7.png" group-title="News",Al Arabiya business HD*
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JlXNVz7.png" group-title="News",Al Arabiya HD*
+https://live.alarabiya.net/alarabiapublish/arabiav.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3EKvZCD.png" group-title="News",BBC Arabic HD
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
