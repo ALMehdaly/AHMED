@@ -1455,13 +1455,16 @@ https://partwo.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ga6NXb9.png" group-title="main",Al Ghad HD
-https://ythls.onrender.com/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ue2VZLn.png" group-title="main",Al Arabiya bis HD 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ue2VZLn.png" group-title="News",Al Arabiya business HD*
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ue2VZLn.png" group-title="News",Al Arabiya business HD 
+https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index_2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3EKvZCD.png" group-title="main",BBC Arabic HD
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ga6NXb9.png" group-title="main",Al Ghad HD
+https://ythls.onrender.com/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
 
 
 #EXTINF:-1 group-title="main",shahid event 1 auto
