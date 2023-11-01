@@ -1458,7 +1458,7 @@ https://partwo.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ue2VZLn.png" group-title="News",Al Arabiya business HD*
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ue2VZLn.png" group-title="News",Al Arabiya business HD 
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2022%2FAmr%2FThumps%2Funtitled0%2FLogo_Alarabia_Business_Update%2Foriginal%2FLogo_Alarabia_Business_Update.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="News",Al Arabiya business HD 
 https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3EKvZCD.png" group-title="main",BBC Arabic HD
