@@ -44,7 +44,7 @@ https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/ind
 https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qkj5mTs.png" group-title="General",MBC Masr 1 HD 
-https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_20.m3u8
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qkj5mTs.png" group-title="General",MBC Masr 1 USA HD 
 https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index_2.m3u8
