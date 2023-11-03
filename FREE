@@ -1502,6 +1502,13 @@ https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="main", Bloomberg TV+ UHD 60
 https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8
 
+#EXTINF:-1 group-title="main",fubo Sports Network
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#EXTINF:-1 group-title="main",IGN 
+https://ign-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="main",Yahoo! Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
 
 
 
