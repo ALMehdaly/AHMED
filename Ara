@@ -7,7 +7,7 @@ https://saudi-tv-prod-dub-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da998
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTou5ZY.png",KSA Now HD
 https://edge.taghtia.com/sa/17.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xngS0N1.png", SBC HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xngS0N1.png",SBC HD
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KNx4V2X.png",Thikrayat HD
