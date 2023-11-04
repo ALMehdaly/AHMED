@@ -59,6 +59,59 @@ https://mbcpersia-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mCJ8GAA.png",Wanasah HD 
 https://wanasah-prod-dub-ak.akamaized.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mcsSGDe.png",Rotana Khalijiah HD
+https://rotanakhalijia-prod-dub-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bPpUI9c.png", Rotana Plus HD
+https://rotanaplus-prod-dub-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8tgj98W.png", Rotana Drama HD
+https://rotanadrama-prod-dub-ak.akamaized.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPzO9T8.png", Rotana Comedy HD
+https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/8b19722f7772362323148961d5a4c446.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J384tWI.png",Rotana Cinema KSA HD
+https://rotanacinema-ksa-prod-dub-ak.akamaized.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ah8thlB.png",Rotana Cinema EGY HD
+https://rotanacinema-egy-prod-dub-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jabz4P.png",Rotana Classic HD
+https://rotanaclassic-prod-dub-ak.akamaized.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aSxms1m.png",Rotana Music HD
+https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/95c78e52a02cff6529ec6a8b9032d558.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHpkbWH.png",MTV One HD
+https://live.3cd.io/v1/broadcast/one/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5npZbDs.png",LBC HD
+https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/eaf11f1dee71a76c8bd4ac4f55ce95ca.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/doSEfng.png",Roya TV HD
+https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index_13.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uWuiVh0.png",Al Araby2 HD
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rW5lUXw.png",Al Aan HD
+https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index_6.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T7oNjKq.png",MTV Lebanon HD
+https://live.3cd.io/v1/broadcast/mtv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5SjHFq.png",TeN
+https://weyyak-live.akamaized.net/weyyak_ten_tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6bhiO3y.png",Zee Alwan
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8KzeMhL.png",Zee Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aksGvQq.png",Oman TV General
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b4500000.m3u8
 
@@ -114,57 +167,6 @@ https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/li
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qf0ibZ2.png",Al Rayyan Al Qadeem HD
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_1080p/chunks_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/doSEfng.png",Roya TV HD
-https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index_13.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uWuiVh0.png",Al Araby2 HD
-https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rW5lUXw.png",Al Aan HD
-https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T7oNjKq.png",MTV Lebanon HD
-https://live.3cd.io/v1/broadcast/mtv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5npZbDs.png",LBC HD
-https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/eaf11f1dee71a76c8bd4ac4f55ce95ca.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mcsSGDe.png",Rotana Khalijiah HD
-https://rotanakhalijia-prod-dub-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bPpUI9c.png", Rotana Plus HD
-https://rotanaplus-prod-dub-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8tgj98W.png", Rotana Drama HD
-https://rotanadrama-prod-dub-ak.akamaized.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NPzO9T8.png", Rotana Comedy HD
-https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/8b19722f7772362323148961d5a4c446.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J384tWI.png",Rotana Cinema KSA HD
-https://rotanacinema-ksa-prod-dub-ak.akamaized.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ah8thlB.png",Rotana Cinema EGY HD
-https://rotanacinema-egy-prod-dub-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jabz4P.png",Rotana Classic HD
-https://rotanaclassic-prod-dub-ak.akamaized.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aSxms1m.png",Rotana Music HD
-https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/95c78e52a02cff6529ec6a8b9032d558.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gHpkbWH.png",MTV One HD
-https://live.3cd.io/v1/broadcast/one/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g5SjHFq.png",TeN
-https://weyyak-live.akamaized.net/weyyak_ten_tv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6bhiO3y.png",Zee Alwan
-https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8KzeMhL.png",Zee Aflam
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
 
 
 
