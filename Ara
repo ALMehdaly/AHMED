@@ -311,8 +311,10 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/strea
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N9JDBmJ.png",TRT Arabia HD
 https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CtgHPlQ.png",CNBC Arabia HD
-https://ythls.onrender.com/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3EKvZCD.png",BBC Arabic HD
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CL22wwo.png" ,Asharq Documentary HD
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentary_source_chunks_dvr.m3u8
@@ -331,3 +333,6 @@ https://quran-tv-prod-dub-ak.akamaized.net/out/v1/9885cab0a3ec4008b53bae57a27ca7
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EcKTI3S.png",Sunna TV HD
 https://sunna-tv-prod-dub-ak.akamaized.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JlXNVz7.png",Al Arabiya business HD*
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
