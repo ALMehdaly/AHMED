@@ -263,5 +263,16 @@ https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtgHPlQ.png",CNBC Arabia HD
 https://ythls.onrender.com/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CL22wwo.png" ,Asharq Documentary HD
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentary_source_chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yszVEyu.png" ,Asharq Discovery HD
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqd_source_chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QhUkmML.png" ,National Geographic Abu Dhabi HD
+https://admdn2ta.cdn.mgmlcdn.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yhwf8Mo.png" ,Al Jazeera Documentary HD
+https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
 
 
