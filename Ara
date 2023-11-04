@@ -104,14 +104,7 @@ https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index
 https://live.3cd.io/v1/broadcast/mtv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g5SjHFq.png",TeN
-https://weyyak-live.akamaized.net/weyyak_ten_tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6bhiO3y.png",Zee Alwan
-https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8KzeMhL.png",Zee Aflam
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aksGvQq.png",Oman TV General
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b4500000.m3u8
 
