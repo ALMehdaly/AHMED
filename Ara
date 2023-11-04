@@ -238,6 +238,9 @@ https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QYBNCkd.png", Yas HD
 https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/owSN4dC.png",Sharjah Sport HD
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/smc4tv_source_chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJI3Blz.png",Dubai Sports 1 HD
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b9000000.m3u8
  
@@ -265,8 +268,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w14441257
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CjXvhtQ.png",Bahrain Sports 2 HD
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist_w733618473_b1700000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/owSN4dC.png",Sharjah Sport HD
-https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/smc4tv_source_chunks.m3u8
+
 
 
 
