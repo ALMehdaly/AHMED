@@ -124,7 +124,7 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rW5lUXw.png",Al Aan HD
 https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index_6.m3u8
 
-#EXTINF:-1 tvg-logo=https://i.imgur.com/T7oNjKq.png",MTV Lebanon HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T7oNjKq.png",MTV Lebanon HD
 https://live.3cd.io/v1/broadcast/mtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5npZbDs.png",LBC HD
