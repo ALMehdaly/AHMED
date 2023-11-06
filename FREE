@@ -56,6 +56,9 @@ https://pastebin.com/raw/pUPH7vU2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qkj5mTs.png" group-title="General",MBC Masr 1 HD ahd
 https://pastebin.com/raw/MrUg8gfk
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkj5mTs.png" group-title="General",MBC Masr 1 HD ahdgit
+https://raw.githubusercontent.com/ALMehdaly/AHMED/TV/mbcMsr1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qkj5mTs.png" group-title="General",MBC Masr 1 USA HD 
 https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index_2.m3u8
 
