@@ -218,16 +218,19 @@ https://edge.taghtia.com/sa/10.m3u8
 https://edge.taghtia.com/sa/16.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/879Jv9I.png",Al Kass 1 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1ewp/master1080.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1laq/master1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmqD2e7.png",Al Kass 2 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2e/master1080.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2laq/master1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nfj53pF.png",Al Kass 3 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3ea/master1080.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3laq/master1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfpcSsW.png",Al Kass 4 HD
 https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/chunklist_b6128000_sleng.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png",Abu Dhabi Sports 1 HD
 https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
