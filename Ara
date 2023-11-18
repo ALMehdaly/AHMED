@@ -50,8 +50,6 @@ https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEAgd1p.png",MBC Bollywood HD 
 https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c0eA6Do.png",MBC Persia HD 
-https://mbcpersia-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mCJ8GAA.png",Wanasah HD 
 https://wanasah-prod-dub-ak.akamaized.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
@@ -354,3 +352,5 @@ https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index
 https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qkj5mTs.png",MBC Masr 1 USA HD 
 https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c0eA6Do.png",MBC Persia HD 
+https://mbcpersia-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
