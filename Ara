@@ -19,14 +19,11 @@ https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/ind
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GQZbVKn.png",MBC1 HD 
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GQZbVKn.png",MBC1 USA HD 
-https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index_6.m3u8 
+ 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OdaIfw3.png",MBC Drama HD 
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OdaIfw3.png",MBC Drama USA HD 
-https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pPb91xM.png",MBC+ Drama HD
 https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
@@ -42,8 +39,7 @@ https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qkj5mTs.png",MBC Masr 1 HD 
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qkj5mTs.png",MBC Masr 1 USA HD 
-https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index_2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2II3Cru.jpg",MBC Masr 2 HD 
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
@@ -341,7 +337,6 @@ https://admdn2ta.cdn.mgmlcdn.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000
 https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EcKTI3S.png",Sunna TV HD
 https://sunna-tv-prod-dub-ak.akamaized.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppecvzJ.png",Quran TV HD
@@ -350,4 +345,12 @@ https://quran-tv-prod-dub-ak.akamaized.net/out/v1/9885cab0a3ec4008b53bae57a27ca7
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UCDPjUj.png",Action Maa Walid HD
 https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_1.m3u8
- 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQZbVKn.png",MBC1 USA HD 
+https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index_6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdaIfw3.png",MBC Drama USA HD 
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkj5mTs.png",MBC Masr 1 USA HD 
+https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index_2.m3u8
