@@ -171,11 +171,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/chunklist_w8785
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png",MBC3 HD 
 https://mbc3-prod-dub-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png",MBC3 Europe
-https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png",MBC3 USA HD 
-https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index_2.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uaN5qm8.png",Cartoon Network Arabia
 https://cartoon-network-prod-dub-ak.akamaized.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
@@ -358,3 +354,7 @@ https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/in
 https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c0eA6Do.png",MBC Persia HD 
 https://mbcpersia-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png",MBC3 Europe
+https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png",MBC3 USA HD 
+https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index_2.m3u8 
