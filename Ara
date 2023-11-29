@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppecvzJ.png",Quran TV HD
-https://quran-tv-prod-dub-ak.akamaized.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EcKTI3S.png",Sunna TV HD
-https://sunna-tv-prod-dub-ak.akamaized.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_9.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTou5ZY.png",KSA Now HD
+https://edge.taghtia.com/sa/17.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yFRMk0b.png",Al Ekhbaria HD
 https://al-ekhbaria-prod-dub-ak.akamaized.net/out/v1/d443f3203b444032896e3233cb6eaa84/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JlXNVz7.png",Al Arabiya business HD*
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ue2VZLn.png",Al Arabiya HD 
 https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_38.m3u8
@@ -68,8 +68,7 @@ https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LCp0hUL.png",Saudi TV HD
 https://saudi-tv-prod-dub-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YTou5ZY.png",KSA Now HD
-https://edge.taghtia.com/sa/17.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xngS0N1.png",SBC HD
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_8.m3u8
@@ -95,6 +94,8 @@ https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BkuTVss.png",MBC4 HD 
 https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FKBOQLb.png",MBC5 HD 
+https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLmSYGx.png",MBC Iraq HD 
@@ -108,8 +109,6 @@ https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2II3Cru.jpg",MBC Masr 2 HD 
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FKBOQLb.png",MBC5 HD 
-https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEAgd1p.png",MBC Bollywood HD 
 https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
@@ -333,10 +332,12 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist_w7
 https://live-hls-klca.livepush.io/live_abr_cdn/emndjgOp_V8Ege2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UCDPjUj.png",Action Maa Walid HD
 https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JlXNVz7.png",Al Arabiya business HD*
-https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppecvzJ.png",Quran TV HD
+https://quran-tv-prod-dub-ak.akamaized.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EcKTI3S.png",Sunna TV HD
+https://sunna-tv-prod-dub-ak.akamaized.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_9.m3u8
 
 
 
