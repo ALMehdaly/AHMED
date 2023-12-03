@@ -246,10 +246,10 @@ https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b45000
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h9UwGar.png",Alrai HD
-https://svs.itworkscdn.net/alraitvlive/alraitv.smil/alraitv_source_chunks.m3u8
+https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gbra6fM.png",Bahrain HD
-https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/chunklist_w878530751_b2487000.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 
 
 
@@ -350,11 +350,9 @@ https://dmithrvll.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklis
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pGR9hI7.png",Bahrain Sports 1 HD
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w1444125780_b2487000.m3u8
-
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CjXvhtQ.png",Bahrain Sports 2 HD
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist_w733618473_b1700000.m3u8
-
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258753_BZLlt.png",Shasha live
 https://live-hls-klca.livepush.io/live_abr_cdn/emndjgOp_V8Ege2/index.m3u8
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=178&width=auto&croppingPoint=mc&type=webp",SHAHID LIVE 1 HD
