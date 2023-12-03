@@ -33,7 +33,7 @@ https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_ara
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MNB0ppx.png",AL Mashhad HD
-https://bcovlive-a.akamaihd.net/385ca06841b3430f99327f0c44d6d008/ap-south-1/6313884884001/profile_0/chunklist.m3u8
+https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwvFJyj.png",RT Arabic HD
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
