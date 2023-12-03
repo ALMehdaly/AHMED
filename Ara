@@ -163,7 +163,7 @@ https://daiconnect.com/live/hls/rotana/drama/.m3u8
 https://daiconnect.com/live/hls/rotana/music/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhREk0o.png",Rotana clip HD
 https://daiconnect.com/live/hls/rotana/clip/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5npZbDs.png",LBC HD*
+#EXTINF:-1 tvg-logo="https://d1rjxhevrfxjk0.cloudfront.net/channels/1688402500.webp",LBC HD*
 https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 #EXTINF:-1 tvg-logo="https://d1rjxhevrfxjk0.cloudfront.net/channels/romance.png",Rotana romance HD*
 https://daiconnect.com/live/hls/rotana/romance/.m3u8
