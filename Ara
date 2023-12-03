@@ -141,20 +141,43 @@ https://rotanacinema-egy-prod-dub-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e911
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8jabz4P.png",Rotana Classic HD
 https://rotanaclassic-prod-dub-ak.akamaized.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aSxms1m.png",Rotana Music HD
-https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/95c78e52a02cff6529ec6a8b9032d558.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mcsSGDe.png",Rotana Khalijiah HD*
+https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J384tWI.png",Rotana Cinema KSA HD*
+https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ah8thlB.png",Rotana Cinema EGY HD*
+https://daiconnect.com/live/hls/rotana/cinema-masr-egypt/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jabz4P.png",Rotana Classic HD*
+https://daiconnect.com/live/hls/rotana/classical/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPzO9T8.png", Rotana Comedy HD*
+https://daiconnect.com/live/hls/rotana/comedy/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8tgj98W.png", Rotana Drama HD
+https://daiconnect.com/live/hls/rotana/drama/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aSxms1m.png",Rotana Music HD*
+https://daiconnect.com/live/hls/rotana/music/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhREk0o.png",Rotana clip HD
-https://rotananet.hibridcdn.net/rotana/clip_abr/rotana/clip_720p/chunks.m3u8
+https://daiconnect.com/live/hls/rotana/clip/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5npZbDs.png",LBC HD*
+https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
+#EXTINF:-1 tvg-logo="https://d1rjxhevrfxjk0.cloudfront.net/channels/romance.png",Rotana romance HD*
+https://daiconnect.com/live/hls/rotana/romance/.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHpkbWH.png",MTV One HD
 https://live.3cd.io/v1/broadcast/one/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T7oNjKq.png",MTV Lebanon HD
 https://live.3cd.io/v1/broadcast/mtv/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5npZbDs.png",LBC HD
-https://daiconnect.com/live/hls/rotana/lbc-cdn/10615d074af5ef429540b8d6e1b76fa9/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rW5lUXw.png",Al Aan HD
 https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index_6.m3u8
