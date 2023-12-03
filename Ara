@@ -355,7 +355,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w14441257
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CjXvhtQ.png",Bahrain Sports 2 HD
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist_w733618473_b1700000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0000.png",Shasha live
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258753_BZLlt.png",Shasha live
 https://live-hls-klca.livepush.io/live_abr_cdn/emndjgOp_V8Ege2/index.m3u8
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=178&width=auto&croppingPoint=mc&type=webp",SHAHID LIVE 1 HD
 https://shls-live-event1-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_1.m3u8
