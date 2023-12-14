@@ -353,9 +353,10 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CjXvhtQ.png",Bahrain Sports 2 HD
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258753_BZLlt.png",Shasha live
-https://live-hls-klca.livepush.io/live_abr_cdn/emb2SaC4ucpYotU/tracks-v1a1/mono.m3u8  
+https://live-hls-klca.livepush.io/live_abr_cdn/emb2SaC4ucpYotU/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258753_BZLlt.png",Shasha live fhd
+https://live-hls-klca.livepush.io/live_abr_cdn/emb2SaC4ucpYotU/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258753_BZLlt.png",Shasha live FM
 https://live-hls-klca.livepush.io/live_abr_cdn/emndjgOp_V8Ege2/index.m3u8
 
