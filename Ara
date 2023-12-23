@@ -244,7 +244,8 @@ https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b45000
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h9UwGar.png",Alrai HD
-https://videos-cloudfront-usp.jwpsrv.com/656c8f14_baff8c52c13ebf70638eb138dcad3999729531f1/site/ETy8q3fh/media/53NoNc86/version/53NoNc86/manifest.ism/manifest-audio_eng=112017-video_eng=764388.m3u8
+https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gbra6fM.png",Bahrain HD
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 
