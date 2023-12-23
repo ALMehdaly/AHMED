@@ -130,7 +130,7 @@ https://rotanaplus-prod-dub-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00f
 https://rotanadrama-prod-dub-ak.akamaized.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J384tWI.png",Rotana Cinema KSA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pGgp38I.png",Rotana Cinema KSA HD
 https://rotanacinema-ksa-prod-dub-ak.akamaized.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ah8thlB.png",Rotana Cinema EGY HD
@@ -147,7 +147,7 @@ https://rotanaclassic-prod-dub-ak.akamaized.net/out/v1/4eebed211c8441228321b4f67
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcsSGDe.png",Rotana Khalijiah HD*
 https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J384tWI.png",Rotana Cinema KSA HD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pGgp38I.png",Rotana Cinema KSA HD*
 https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ah8thlB.png",Rotana Cinema EGY HD*
 https://daiconnect.com/live/hls/rotana/cinema-masr-egypt/.m3u8
