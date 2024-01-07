@@ -196,13 +196,13 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5hPjCys.png",Al Emarat TV HD
-https://admdn3ta.cdn.mgmlcdn.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FkaYAoc.png",Abu Dhabi TV HD
-https://admdn2ta.cdn.mgmlcdn.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jlgCGGP.png",Baynounah TV HD
-https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wF65a3L.png",Dubai TV HD
 https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b8500000.m3u8
@@ -314,13 +314,13 @@ https://liveak.alkassdigital.net/livehttporigin/smil:Alkass5a.smil/chunklist.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png",Abu Dhabi Sports 1 HD
-https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aDpGL8T.png",Abu Dhabi Sports 2 HD
-https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QYBNCkd.png", Yas HD
-https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/owSN4dC.png",Sharjah Sport HD
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/smc4tv_source_chunks.m3u8
