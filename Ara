@@ -315,6 +315,9 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/owSN4dC.png",Sharjah Sport HD
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/smc4tv_source_chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png",Abu Dhabi Sports 1 HD me
+https://raw.githubusercontent.com/ALMehdaly/AHMED/TV/ADsport1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png",Abu Dhabi Sports 1 HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
