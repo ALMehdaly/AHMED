@@ -298,19 +298,19 @@ https://edge.taghtia.com/sa/16.m3u8
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b4500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.alkass.net/alkass/assets/images/one.png",Al Kass 1 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtgb/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtgb/master1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.alkass.net/alkass/assets/images/two.png",Al Kass 2 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uyce/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uyce/master1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.alkass.net/alkass/assets/images/three.png",Al Kass 3 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavya/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavya/master1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.alkass.net/alkass/assets/images/four.png",Al Kass 4 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtgb//master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtgb/master1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.alkass.net/alkass/assets/images/five.png",Al Kass 5 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/owSN4dC.png",Sharjah Sport HD
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/smc4tv_source_chunks.m3u8
