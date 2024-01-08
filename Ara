@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YTou5ZY.png",KSA Now HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTou5ZY.png",Saudia Alaan HD
 https://edge.taghtia.com/sa/17.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yFRMk0b.png",Al Ekhbaria HD
@@ -20,7 +20,7 @@ https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloom
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xOGYO75.png",Sky News Arabia HD
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DMg5VRh.png",Al Jazeera Channel HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DMg5VRh.png",Al Jazeera HD
 https://live-hls-aja-ak.getaj.net/AJA/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LK875fY.png",Al Jazeera Mubasher HD
@@ -273,7 +273,7 @@ https://gulli-bil-arabi-prod-dub-ak.akamaized.net/out/v1/5454d215afba410c90b233f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Do0uarT.png",Rotana Kids HD
 https://rotanakids-prod-dub-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Bun2IX.png",Majid Kids TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Bun2IX.png",Majd Kids TV HD
 https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/246vm7R.png",ZooMoo HD
