@@ -273,7 +273,7 @@ https://gulli-bil-arabi-prod-dub-ak.akamaized.net/out/v1/5454d215afba410c90b233f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Do0uarT.png",Rotana Kids HD
 https://rotanakids-prod-dub-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Bun2IX.png",Majid TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Bun2IX.png",Majid Kids TV HD
 https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/246vm7R.png",ZooMoo HD
@@ -315,13 +315,13 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/owSN4dC.png",Sharjah Sport HD
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/smc4tv_source_chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png",Abu Dhabi Sports 1 HD me
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png",AD Sport 1 HD*
 https://raw.githubusercontent.com/ALMehdaly/AHMED/TV/ADsport1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png",Abu Dhabi Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png",AD Sport 1 HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aDpGL8T.png",Abu Dhabi Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aDpGL8T.png",AD Sport 2 HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QYBNCkd.png", Yas HD
