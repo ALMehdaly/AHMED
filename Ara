@@ -219,13 +219,13 @@ https://dmiffthvll.cdn.mgmlcdn.com/dubaizaman/smil:dubaizaman.stream.smil/chunkl
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TuB4qwK.png",Sharjah HD
-https://svs.itworkscdn.net/smc1live/smc1tv.smil//smc1tvhd_source_chunks.m3u8
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OK3yj5F.png",Al Wousta from Al Dhaid HD
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil//alwoustatv_source_chunks.m3u8
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LDJASwK.png",Sharqiya from Kalba HD
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_source_chunks.m3u8
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAcokdv.png",Qatar TV HD
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/4.m3u8
@@ -312,10 +312,10 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtgb/master1080.m3u8
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/owSN4dC.png",Sharjah Sport HD
-https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/smc4tv_source_chunks.m3u8
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png",AD Sport 1 HD*
-https://raw.githubusercontent.com/ALMehdaly/AHMED/TV/ADsport1.m3u8
+https://raw.github.com/ALMehdaly/AHMED/TV/ADsport1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png",AD Sport 1 HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
