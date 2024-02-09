@@ -356,7 +356,10 @@ https://dmithrvll.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklis
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CjXvhtQ.png",Bahrain Sports 2 HD
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f8WcqRY.png",Voice of Lebanon
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png",Lana TV
+https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258753_BZLlt.png",Shasha live
 https://live-hls-klca.livepush.io/live_abr_cdn/emb2SaC4ucpYotU/tracks-v1a1/index.m3u8
 
@@ -370,6 +373,7 @@ https://live-hls-klca.livepush.io/live_abr_cdn/emndjgOp_V8Ege2/index.m3u8
 https://shls-live-event1-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",ssc
 https://af.ayassport.ir/hls2/ssc1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppecvzJ.png",Quran TV HD
 https://quran-tv-prod-dub-ak.akamaized.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8
