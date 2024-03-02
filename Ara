@@ -146,15 +146,15 @@ https://rotanaclassic-prod-dub-ak.akamaized.net/out/v1/4eebed211c8441228321b4f67
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcsSGDe.png",Rotana Khalijiah HD*
-https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
+https://rotananet.hibridcdn.net/rotana/khaleejiya_abr/token=p=54~e=1709373850~h=59dac227f5f966c42d717f6e0417ce01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pGgp38I.png",Rotana Cinema KSA HD*
-https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8
+https://rotananet.hibridcdn.net/rotana/cinema_abr/token=p=50~e=1709374749~h=323278458f106ea2775da95e84579f5e/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ah8thlB.png",Rotana Cinema EGY HD*
-https://daiconnect.com/live/hls/rotana/cinema-masr-egypt/.m3u8
+https://rotananet.hibridcdn.net/rotana/cinemamasr_abr/token=p=54~e=1709374720~h=758d6c6f774e37f7af2ae7aa52f95fb4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8jabz4P.png",Rotana Classic HD*
-https://daiconnect.com/live/hls/rotana/classical/.m3u8
+https://rotananet.hibridcdn.net/rotana/classical_abr/token=p=53~e=1709374797~h=32d3617508d24e4ca49ee097433ff406/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NPzO9T8.png", Rotana Comedy HD*
-https://daiconnect.com/live/hls/rotana/comedy/.m3u8
+https://rotananet.hibridcdn.net/rotana/comedy_abr/token=p=50~e=1709374859~h=fb51f324bcbefac3839ef82e046469e4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8tgj98W.png", Rotana Drama HD*
 https://daiconnect.com/live/hls/rotana/drama/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aSxms1m.png",Rotana Music HD*
