@@ -156,11 +156,11 @@ https://rotananet.hibridcdn.net/rotana/classical_abr/token=p=53~e=1709374797~h=3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NPzO9T8.png", Rotana Comedy HD*
 https://rotananet.hibridcdn.net/rotana/comedy_abr/token=p=50~e=1709374859~h=fb51f324bcbefac3839ef82e046469e4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8tgj98W.png", Rotana Drama HD*
-https://daiconnect.com/live/hls/rotana/drama/.m3u8
+https://rotananet.hibridcdn.net/rotana/drama_abr/token=p=49~e=1709374990~h=65bdaf9e892ee45862e76ade228e0b1c/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aSxms1m.png",Rotana Music HD*
 https://daiconnect.com/live/hls/rotana/music/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhREk0o.png",Rotana clip HD
-https://daiconnect.com/live/hls/rotana/clip/.m3u8
+https://rotananet.hibridcdn.net/rotana/clip_abr/token=p=48~e=1709375053~h=3261e8636153d5df7ba8ad29821e5865/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1rjxhevrfxjk0.cloudfront.net/channels/1688402500.webp",LBC HD*
 https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 #EXTINF:-1 tvg-logo="https://d1rjxhevrfxjk0.cloudfront.net/channels/romance.png",Rotana romance HD*
