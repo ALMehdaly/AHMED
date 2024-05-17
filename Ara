@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YTou5ZY.png",Saudia Alaan TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTou5ZY.png",Saudia Alaan TV HD*
 https://edge.taghtia.com/sa/17.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yFRMk0b.png",Al Ekhbaria HD
@@ -140,7 +140,7 @@ https://rotananet.hibridcdn.net/rotana/comedy_abr/token=p=50~e=1709374859~h=fb51
 https://rotananet.hibridcdn.net/rotana/drama_abr/token=p=49~e=1709374990~h=65bdaf9e892ee45862e76ade228e0b1c/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aSxms1m.png",Rotana Music HD*
 https://daiconnect.com/live/hls/rotana/music/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nhREk0o.png",Rotana clip HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nhREk0o.png",Rotana clip HD*
 https://rotananet.hibridcdn.net/rotana/clip_abr/token=p=48~e=1709375053~h=3261e8636153d5df7ba8ad29821e5865/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1rjxhevrfxjk0.cloudfront.net/channels/1688402500.webp",LBC HD*
 https://rotananet.hibridcdn.net/rotana/lbc_abr/token=p=47~e=1709374058~h=e64fd5afb4c9528e66e9eeb0092a1b32/playlist.m3u8
@@ -152,10 +152,10 @@ https://daiconnect.com/live/hls/rotana/romance/.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gHpkbWH.png",MTV One HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHpkbWH.png",MTV One HD*
 https://live.3cd.io/v1/broadcast/one/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T7oNjKq.png",MTV Lebanon HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T7oNjKq.png",MTV Lebanon HD*
 https://live.3cd.io/v1/broadcast/mtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rW5lUXw.png",Al Aan HD
