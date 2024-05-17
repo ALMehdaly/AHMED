@@ -374,12 +374,23 @@ https://shls-live-event1-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062dd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",ssc
 https://af.ayassport.ir/hls2/ssc1.m3u8
 
-#EXTINF:-1,kw 1 HD
+#EXTINF:-1,KTV 1 HD
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,kw sport HD
+#EXTINF:-1,KTV 2 HD
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+#EXTINF:-1,KTV Drama HD
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+#EXTINF:-1,KTV Al Qurain HD
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+#EXTINF:-1,KTV Ethraa
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+#EXTINF:-1, KTV Arabe HD
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+#EXTINF:-1,KTV sport HD
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,kw sport plus HD
+#EXTINF:-1,KTV sport plus HD
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppecvzJ.png",Quran TV HD
 https://quran-tv-prod-dub-ak.akamaized.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8
