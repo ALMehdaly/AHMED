@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YTou5ZY.png",Saudia Alaan TV HD*
-https://edge.taghtia.com/sa/17.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yFRMk0b.png",Al Ekhbaria HD
 https://al-ekhbaria-prod-dub-ak.akamaized.net/out/v1/d443f3203b444032896e3233cb6eaa84/index_1.m3u8
