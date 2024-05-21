@@ -1,0 +1,110 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yFRMk0b.png",Al Ekhbaria HD
+https://al-ekhbaria-prod-dub-ak.akamaized.net/out/v1/d443f3203b444032896e3233cb6eaa84/index_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ue2VZLn.png",Al Arabiya HD 
+https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_38.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZy3Sxq.png",Al Hadath HD 
+https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zYleCsq.png",Asharq News Channel HD
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_source/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xOGYO75.png",Sky News Arabia HD
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DMg5VRh.png",Al Jazeera HD
+https://live-hls-aja-ak.getaj.net/AJA/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LK875fY.png",Al Jazeera Mubasher HD
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3EKvZCD.png",BBC Arabic HD
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WqMfXqB.png",Al Araby HD
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MNB0ppx.png",AL Mashhad HD
+https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwvFJyj.png",RT Arabic HD
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qGmNnz8.png",Al Hurra HD
+https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/master_11.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lRUGXdU.png",DW Arabia HD
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N9JDBmJ.png",TRT Arabia HD
+https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JlXNVz7.png",Al Arabiya business HD*
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CL22wwo.png" ,Asharq Documentary HD
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentary_source_chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yszVEyu.png" ,Asharq Discovery HD
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqd_source_chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QhUkmML.png" ,National Geographic Abu Dhabi HD
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yhwf8Mo.png" ,Al Jazeera Documentary HD
+https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LCp0hUL.png",Saudi TV HD
+https://saudi-tv-prod-dub-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xngS0N1.png",SBC HD
+https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KNx4V2X.png",Thikrayat HD
+https://thikrayat-tv-prod-dub-ak.akamaized.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzLfkl4.png",Al Thaqafeya HD
+https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQZbVKn.png",MBC1 HD 
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
+
+ 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdaIfw3.png",MBC Drama HD 
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pPb91xM.png",MBC+ Drama HD
+https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BkuTVss.png",MBC4 HD 
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FKBOQLb.png",MBC5 HD 
+https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wLmSYGx.png",MBC Iraq HD 
+https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkj5mTs.png",MBC Masr 1 HD 
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2II3Cru.jpg",MBC Masr 2 HD 
+https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
