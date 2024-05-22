@@ -52,17 +52,10 @@ https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JlXNVz7.png",Al Arabiya business HD*
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CL22wwo.png" ,Asharq Documentary HD
-https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentary_source_chunks_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yszVEyu.png" ,Asharq Discovery HD
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqd_source_chunks_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QhUkmML.png" ,National Geographic Abu Dhabi HD
-https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yhwf8Mo.png" ,Al Jazeera Documentary HD
-https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LCp0hUL.png",Saudi TV HD
@@ -104,7 +97,3 @@ https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qkj5mTs.png",MBC Masr 1 HD 
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2II3Cru.jpg",MBC Masr 2 HD 
-https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
