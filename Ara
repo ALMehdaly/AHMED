@@ -378,8 +378,15 @@ https://quran-tv-prod-dub-ak.akamaized.net/out/v1/9885cab0a3ec4008b53bae57a27ca7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EcKTI3S.png",Sunna TV HD
 https://sunna-tv-prod-dub-ak.akamaized.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_9.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxxx.png",IT SKY SPORT F1
+http://164.132.206.27:8000/stream/skyitalia/skysportf1fhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxxx.png",IT SKY UNO
+http://164.132.206.27:8000/stream/skyitalia/skyunofhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxxx.png",IT SKY CALCIO
+http://164.132.206.27:8000/stream/skyitalia/skysportcalciofhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxxx.png",IT SKY ATLANTIC
+http://164.132.206.27:8000/stream/skyitalia/skyatlanticfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+ 
