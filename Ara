@@ -454,5 +454,5 @@ http://88.99.177.78:1234/stream/empty/fussballtv2/master.m3u8?u=kawazaki&p=c1c0f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png" group-title="Sky Italia", LA 1
 http://164.132.206.27:8000/stream/csat/la14k?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="Sky Italia", LA 2
-#SERVICE 4097:0:1:7474:3F0:1:C00000:0:0:0:http://164.132.206.27:8000/stream/csat/la2fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://164.132.206.27:8000/stream/csat/la2fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
