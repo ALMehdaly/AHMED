@@ -464,30 +464,30 @@ http://164.132.206.27:8000/stream/skyitalia/skysport251fhd/master.m3u8?u=skyit&p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZhualO.png" group-title="Europe",Eurosport 1 
 http://164.132.206.27:8000/stream/skyitalia/eurosportfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9j8QDSh.png" group-title="Europe",ES La1 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9j8QDSh.png" group-title="Europe",ES La1 
 http://164.132.206.27:8000/stream/csat/la14k?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GyxEwBz.png" group-title="Europe",ES La2 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GyxEwBz.png" group-title="Europe",ES La2 
 http://164.132.206.27:8000/stream/csat/la2fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SL2Y6ag.png" group-title="Europe",ES Antena 3 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SL2Y6ag.png" group-title="Europe",ES Antena 3 
 http://164.132.206.27:8000/stream/csat/antena3hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KuOzmsT.png" group-title="Europe",ES Cuatro FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KuOzmsT.png" group-title="Europe",ES Cuatro 
 http://164.132.206.27:8000/stream/csat/cuatro?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lwA9JT9.png" group-title="Europe",ES Telecinco FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lwA9JT9.png" group-title="Europe",ES Telecinco 
 http://164.132.206.27:8000/stream/csat/telecincofhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wPBc8KY.png" group-title="Europe",ES Lasexta FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wPBc8KY.png" group-title="Europe",ES Lasexta 
 http://164.132.206.27:8000/stream/csat/lasextafhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nZzu1tr.png" group-title="Europe",ES Gol Play FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nZzu1tr.png" group-title="Europe",ES Gol Play 
 http://164.132.206.27:8000/stream/csat/goltv?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ghx1dl.png" group-title="Europe",DE FussballTV1 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ghx1dl.png" group-title="Europe",DE FussballTV1 
 http://88.99.177.78:1234/stream/empty/fussballtv1/master.m3u8?u=kawazaki&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ghx1dl.png" group-title="Europe",DE FussballTV2 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ghx1dl.png" group-title="Europe",DE FussballTV2 
 http://88.99.177.78:1234/stream/empty/fussballtv2/master.m3u8?u=kawazaki&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
