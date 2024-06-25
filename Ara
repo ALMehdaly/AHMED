@@ -398,7 +398,7 @@ https://sunna-tv-prod-dub-ak.akamaized.net/out/v1/b09bbb8d9b684763be4211b088168d
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2dqTyvr.png" group-title="Europe",IT Sky Uno FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2dqTyvr.png" group-title="Europe",IT Sky Uno HD
 http://164.132.206.27:8000/stream/skyitalia/skyunofhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nhy5n6r.png" group-title="Europe",IT Sky Atlantic FHD
@@ -410,7 +410,7 @@ http://164.132.206.27:8000/stream/skyitalia/skyseriefhd/master.m3u8?u=skyit&p=c1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZUYQBT.png" group-title="Europe",IT Sky Investigation FHD
 http://164.132.206.27:8000/stream/skyitalia/skyinvestigationfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A0rUHhh.png" group-title="Europe",IT Sky Arte FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A0rUHhh.png" group-title="Europe",IT Sky Arte HD
 http://164.132.206.27:8000/stream/skyitalia/skyartefhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QKAb6Vn.png" group-title="Europe",IT Sky Documentaries FHD
@@ -470,13 +470,13 @@ http://164.132.206.27:8000/stream/csat/la14k?u=skyit&p=c1c0fafc22209e4f81d172e9a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GyxEwBz.png" group-title="Europe",ES La2 FHD
 http://164.132.206.27:8000/stream/csat/la2fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SL2Y6ag.png" group-title="Europe",ES Atena 3 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SL2Y6ag.png" group-title="Europe",ES Antena 3 FHD
 http://164.132.206.27:8000/stream/csat/antena3hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KuOzmsT.png" group-title="Europe",ES Cuatro FHD
 http://164.132.206.27:8000/stream/csat/cuatro?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lwA9JT9.png" group-title="Europe",ES Telecineco FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lwA9JT9.png" group-title="Europe",ES Telecinco FHD
 http://164.132.206.27:8000/stream/csat/telecincofhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wPBc8KY.png" group-title="Europe",ES Lasexta FHD
