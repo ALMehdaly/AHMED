@@ -485,6 +485,25 @@ http://164.132.206.27:8000/stream/csat/lasextafhd?u=skyit&p=c1c0fafc22209e4f81d1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nZzu1tr.png" group-title="Europe",ES Gol Play 
 http://164.132.206.27:8000/stream/csat/goltv?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nzp0dYj.png" group-title="Europe",tdp 
+http://164.132.206.27:8000/stream/csat/teledeportehd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmrzdHq.png" group-title="Europe",24h 
+http://164.132.206.27:8000/stream/csat/24hhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MIwJInl.png" group-title="Europe",Energy 
+http://164.132.206.27:8000/stream/csat/energy?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TQC0Y4Z.png" group-title="Europe",Nova 
+http://164.132.206.27:8000/stream/csat/nova?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zol8hH8.png" group-title="Europe",Calle 13 
+http://164.132.206.27:8000/stream/csat/calle13?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qsOYv1Q.png" group-title="Europe",Comedy Central
+http://164.132.206.27:8000/stream/csat/comedycentral?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Ghx1dl.png" group-title="Europe",DE FussballTV1 
 http://88.99.177.78:1234/stream/empty/fussballtv1/master.m3u8?u=kawazaki&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
