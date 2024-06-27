@@ -163,3 +163,9 @@ http://164.132.206.27:8000/stream/tv/sportdigitalfussball2?u=skyit&p=c1c0fafc222
 
 #EXTINF:-1 tvg-logo="https://sdf-1a81f.kxcdn.com/assets/img/SCOOORE_Logo.png" group-title="Germany",DE Scooore*** 
 http://164.132.206.27:8000/stream/tv/scooore?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+#EXTINF:-1 tvg-logo="https://sdf-1a81f.xxxx.png" group-title="Germany",SA ssc 1 
+http://164.132.206.27:8000/stream/ssc/ssc1fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
