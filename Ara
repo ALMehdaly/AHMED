@@ -535,7 +535,7 @@ http://164.132.206.27:8000/stream/tv/daznf1es?u=skyit&p=c1c0fafc22209e4f81d172e9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uzp196G.png" group-title="Spain",ES DAZN LALIGA 
 http://164.132.206.27:8000/stream/tv/daznlaliga?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/93p0tGZ.png" group-title="Spain",ES DAZN HyperMotion 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93p0tGZ.png" group-title="Spain",ES DAZN LaligaTv HyperMotion 
 http://164.132.206.27:8000/stream/tv/daznhyper?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
@@ -557,10 +557,10 @@ http://164.132.206.27:8000/stream/tv/fussball2?u=skyit&p=c1c0fafc22209e4f81d172e
 #EXTINF:-1 tvg-logo="https://sdf-1a81f.kxcdn.com/assets/img/SDF_Logo.png" group-title="Germany",DE Sportdigital fussball 
 http://164.132.206.27:8000/stream/tv/sportdigitalfussball?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://sdf-1a81f.kxcdn.com/assets/img/SDF2_Logo.png" group-title="Germany",DE Sportdigital fussball 2***
+#EXTINF:-1 tvg-logo="https://sdf-1a81f.kxcdn.com/assets/img/SDF2_Logo.png" group-title="Germany",DE Sportdigital fussball 2*
 http://164.132.206.27:8000/stream/tv/sportdigitalfussball2?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://sdf-1a81f.kxcdn.com/assets/img/SCOOORE_Logo.png" group-title="Germany",DE Scooore*** 
+#EXTINF:-1 tvg-logo="https://sdf-1a81f.kxcdn.com/assets/img/SCOOORE_Logo.png" group-title="Germany",DE Scooore*
 http://164.132.206.27:8000/stream/tv/scooore?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://www.telekom.de/resources/images/1028024/sportdigital-fussball.png" group-title="Germany",DE Sportdigital fussball 
