@@ -545,8 +545,7 @@ http://164.132.206.27:8000/stream/tv/daznhyper?u=skyit&p=c1c0fafc22209e4f81d172e
 
 
 
-#EXTINF:-1 tvg-logo="https://www.telekom.de/resources/images/1028024/sportdigital-fussball.png
-" group-title="Germany",DE FussballTV 1 
+#EXTINF:-1 tvg-logo="https://www.telekom.de/resources/images/1028024/sportdigital-fussball.png" group-title="Germany",DE FussballTV 1 
 http://164.132.206.27:8000/stream/tv/fussball1?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
