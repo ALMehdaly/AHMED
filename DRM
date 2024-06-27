@@ -150,7 +150,11 @@ http://164.132.206.27:8000/stream/tv/daznhyper?u=skyit&p=c1c0fafc22209e4f81d172e
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Ghx1dl.png" group-title="Germany",DE FussballTV 1 
-http://88.99.177.78:1234/stream/empty/fussballtv1/master.m3u8?u=kawazaki&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://164.132.206.27%3A8000/stream/tv/fussball1?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Ghx1dl.png" group-title="Germany",DE FussballTV 2 
-http://88.99.177.78:1234/stream/empty/fussballtv2/master.m3u8?u=kawazaki&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://164.132.206.27%3A8000/stream/tv/fussball2?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ghx1dl.png" group-title="Germany",DE Sportdigital fussball 
+http://164.132.206.27%3A8000/stream/tv/sportdigitalfussball?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
