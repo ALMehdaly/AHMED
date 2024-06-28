@@ -398,6 +398,39 @@ https://sunna-tv-prod-dub-ak.akamaized.net/out/v1/b09bbb8d9b684763be4211b088168d
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vakfc0h.png" group-title="SSC",SSC NEWS HD
+http://164.132.206.27:8000/stream/ssc/sscnewshd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKTlyT3.png" group-title="SSC",SSC 1 HD
+http://164.132.206.27:8000/stream/ssc/ssc1fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p3ggxmk.png" group-title="SSC",SSC 2 HD
+http://164.132.206.27:8000/stream/ssc/ssc2hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WES4hOT.png" group-title="SSC",SSC 3 HD
+http://164.132.206.27:8000/stream/ssc/ssc3hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0pSMsaX.png" group-title="SSC",SSC 4 HD
+http://164.132.206.27:8000/stream/ssc/ssc4hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0pVvvh.png" group-title="SSC",SSC 5 HD
+http://164.132.206.27:8000/stream/ssc/ssc5hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SgalaJK.png" group-title="SSC",SSC Extra 1 HD
+http://164.132.206.27:8000/stream/ssc/sscextra1fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hK5xf7t.png" group-title="SSC",SSC Extra 2 HD
+http://164.132.206.27:8000/stream/ssc/sscextra2fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2xDvYM.png" group-title="SSC",SSC Extra 3 HD
+http://164.132.206.27:8000/stream/ssc/sscextra3fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2dqTyvr.png" group-title="Italy",IT Sky Uno 
 http://164.132.206.27:8000/stream/skyitalia/skyunofhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
@@ -535,9 +568,8 @@ http://164.132.206.27:8000/stream/tv/daznf1es?u=skyit&p=c1c0fafc22209e4f81d172e9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uzp196G.png" group-title="Spain",ES DAZN LALIGA 
 http://164.132.206.27:8000/stream/tv/daznlaliga?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/93p0tGZ.png" group-title="Spain",ES DAZN LaligaTv HyperMotion 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93p0tGZ.png" group-title="Spain",ES DAZN HyperMotion 
 http://164.132.206.27:8000/stream/tv/daznhyper?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-
 
 
 
@@ -563,34 +595,8 @@ http://164.132.206.27:8000/stream/tv/sportdigitalfussball2?u=skyit&p=c1c0fafc222
 #EXTINF:-1 tvg-logo="https://sdf-1a81f.kxcdn.com/assets/img/SCOOORE_Logo.png" group-title="Germany",DE Scooore*
 http://164.132.206.27:8000/stream/tv/scooore?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://www.telekom.de/resources/images/1028024/sportdigital-fussball.png" group-title="Germany",DE Sportdigital fussball 
-http://164.132.206.27:8000/stream/tv/sportdigitalfussball?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://sdf-1a81f.xxxx.png" group-title="KSA",SA ssc news 
-http://164.132.206.27:8000/stream/ssc/sscnewshd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://sdf-1a81f.xxxx.png" group-title="KSA",SA ssc 1 
-http://164.132.206.27:8000/stream/ssc/ssc1fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-
-#EXTINF:-1 tvg-logo="https://sdf-1a81f.xxxx.png" group-title="KSA",SA ssc 2
-http://164.132.206.27:8000/stream/ssc/ssc2hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-
-#EXTINF:-1 tvg-logo="https://sdf-1a81f.xxxx.png" group-title="KSA",SA ssc 3
-http://164.132.206.27:8000/stream/ssc/ssc3hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-
-#EXTINF:-1 tvg-logo="https://sdf-1a81f.xxxx.png" group-title="KSA",SA ssc 4
-http://164.132.206.27:8000/stream/ssc/ssc4hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://sdf-1a81f.xxxx.png" group-title="KSA",SA ssc 5
-http://164.132.206.27:8000/stream/ssc/ssc5hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-
-#EXTINF:-1 tvg-logo="https://sdf-1a81f.xxxx.png" group-title="KSA",SA sscextra 1
-http://164.132.206.27:8000/stream/ssc/sscextra1fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-
-#EXTINF:-1 tvg-logo="https://sdf-1a81f.xxxx.png" group-title="KSA",SA sscextra 2
-http://164.132.206.27:8000/stream/ssc/sscextra2fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-
-#EXTINF:-1 tvg-logo="https://sdf-1a81f.xxxx.png" group-title="KSA",SA sscextra 3
-http://164.132.206.27:8000/stream/ssc/sscextra3fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
