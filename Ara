@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2024%2FBedour%2FLogo_RSL%2Foriginal%2FLogo_RSL.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75",SSC RSL HD
+
+https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_1.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yFRMk0b.png",Al Ekhbaria HD
