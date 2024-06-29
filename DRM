@@ -48,13 +48,13 @@ http://31.200.241.16:1234/stream/movistar/bein5?u=drm02&p=c1c0fafc22209e4f81d172
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtY8PQk/tf1.png" group-title="France",TF1 HD
 http://31.200.241.16:1234/stream/movistar/tf1?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BtY8PQk/tf1.png" group-title="France",TF1 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nkFKtF2/frtf14k.png" group-title="France",TF1 4K
 http://31.200.241.16:1234/stream/movistar/tf14K?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SmpD0B6/m6.png" group-title="France",M6 HD
 http://31.200.241.16:1234/stream/movistar/m6?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SmpD0B6/m6.png" group-title="France",M6 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kqrVQcc/frm64k.png" group-title="France",M6 4K
 http://31.200.241.16:1234/stream/movistar/m64k?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
