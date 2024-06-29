@@ -30,31 +30,31 @@ http://164.132.206.27:8000/stream/ssc/sscextra3fhd?u=skyit&p=c1c0fafc22209e4f81d
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OZwCOlF.png" group-title="France",FR beIN SPORTS 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jrwnYtN/beinsports1.png" group-title="France",beIN SPORTS 1 HD
 http://31.200.241.16:1234/stream/movistar/bein1?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j5XTEoP.png" group-title="France",FR beIN SPORTS 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X2RzdHV/beinsports2.png" group-title="France",beIN SPORTS 2 HD
 http://31.200.241.16:1234/stream/movistar/bein2?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oBWdO50.png" group-title="France",FR beIN SPORTS 3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y0dSKc3/beinsports3.png" group-title="France",beIN SPORTS 3 HD
 http://31.200.241.16:1234/stream/movistar/bein3?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E0YVKpz.png" group-title="France",FR beIN SPORTS MAX 4 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vYJwF8q/beinsports4.png" group-title="France",beIN SPORTS MAX 4 HD
 http://31.200.241.16:1234/stream/movistar/bein4?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5mpX8SV.png" group-title="France",FR beIN SPORTS MAX 5 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcLDywS/beinsports5.png" group-title="France",beIN SPORTS MAX 5 HD
 http://31.200.241.16:1234/stream/movistar/bein5?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VmC6umI.png" group-title="France",FR TF1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VmC6umI.png" group-title="France",TF1 HD
 http://31.200.241.16:1234/stream/movistar/tf1?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fHyygm1.png" group-title="France",FR TF1 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BtY8PQk/tf1.png" group-title="France",TF1 4K
 http://31.200.241.16:1234/stream/movistar/tf14K?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNxJBRS.png" group-title="France",FR M6 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SmpD0B6/m6.png" group-title="France",M6 HD
 http://31.200.241.16:1234/stream/movistar/m6?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uwK553g.png" group-title="France",FR M6 4K
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uwK553g.png" group-title="France",M6 4K
 http://31.200.241.16:1234/stream/movistar/m64k?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
