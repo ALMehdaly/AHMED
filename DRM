@@ -197,7 +197,7 @@ http://164.132.206.27:8000/stream/tv/dazn2es?u=skyit&p=c1c0fafc22209e4f81d172e9a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KUuOwb.png" group-title="Spain",DAZN F1 HD
 http://164.132.206.27:8000/stream/tv/daznf1es?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uzp196G.png" group-title="Spain",ES DAZN LALIGA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uzp196G.png" group-title="Spain",DAZN LALIGA HD
 http://164.132.206.27:8000/stream/tv/daznlaliga?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
