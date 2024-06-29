@@ -209,5 +209,5 @@ http://31.200.241.16:1234/stream/movistar/movistarcopaamerica?u=drm02&p=c1c0fafc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G9GLTgx/laligatvpormplus.png" group-title="Spain",ES LALIGA POR M+ HD
 http://31.200.241.16:1234/stream/movistar/mlaliga?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NFxX8H4/laligatvbar.png" group-title="Spain",ES LALIGA BAR 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NFxX8H4/laligatvbar.png" group-title="Spain",ES LALIGA BAR HD
 http://31.200.241.16:1234/stream/movistar/bartv?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
