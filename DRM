@@ -114,7 +114,7 @@ http://164.132.206.27:8000/stream/skyitalia/skytg24fhd/master.m3u8?u=skyit&p=c1c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/grBYK1c.png" group-title="Italy",IT Sky Sport 24 HD
 http://164.132.206.27:8000/stream/skyitalia/skysport24fhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f978Rp2.png" group-title="Italy",IT Sky Sport Clacio HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f978Rp2.png" group-title="Italy",IT Sky Sport Calcio HD
 http://164.132.206.27:8000/stream/skyitalia/skysportcalciofhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxCtUUY.png" group-title="Italy",IT Sky Sport Arena HD
