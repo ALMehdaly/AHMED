@@ -200,7 +200,7 @@ http://164.132.206.27:8000/stream/tv/daznf1es?u=skyit&p=c1c0fafc22209e4f81d172e9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uzp196G.png" group-title="Spain",ES DAZN LALIGA HD
 http://164.132.206.27:8000/stream/tv/daznlaliga?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s3Lx9S5/laligatvhypermotion.png" group-title="Spain",ES Laliga Tv HyperMotion HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s3Lx9S5/laligatvhypermotion.png" group-title="Spain",ES LALIGA Tv HyperMotion HD
 http://164.132.206.27:8000/stream/tv/daznhyper?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DfBBRjC/copaamericapormplus.png" group-title="Spain",ES Copa America POR M+ HD
