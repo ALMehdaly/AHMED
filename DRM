@@ -62,7 +62,7 @@ http://31.200.241.16:1234/stream/movistar/m64k?u=drm02&p=c1c0fafc22209e4f81d172e
 http://31.200.241.16:1234/stream/movistar/infosport?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D4JdkBZ/discoverychannel.png" group-title="France",Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bL4VBD0/discoverychannel.png" group-title="France",Discovery Channel HD
 http://31.200.241.16:1234/stream/movistar/discovery?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
