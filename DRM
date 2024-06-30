@@ -83,8 +83,7 @@ http://164.132.206.27:8000/stream/tv/sportdigitalfussball2?u=skyit&p=c1c0fafc222
 http://164.132.206.27:8000/stream/tv/scooore?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tK8rH75/skyuno.png
-" group-title="Italy",IT Sky Uno HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tK8rH75/skyuno.png" group-title="Italy",IT Sky Uno HD
 http://164.132.206.27:8000/stream/skyitalia/skyunofhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nhy5n6r.png" group-title="Italy",IT Sky Atlantic HD
