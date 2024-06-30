@@ -278,14 +278,14 @@ http://31.200.241.16:1234/stream/movistar/bartv?u=drm02&p=c1c0fafc22209e4f81d172
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3Lx9S5/laligatvhypermotion.png" group-title="Spain",LALIGA Tv HyperMotion HD
 http://164.132.206.27:8000/stream/tv/daznhyper?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DfBBRjC/copaamericapormplus.png" group-title="Spain",M+ CopaAmÃ©rica HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfBBRjC/copaamericapormplus.png" group-title="Spain",M+ Copa América HD
 http://31.200.241.16:1234/stream/movistar/movistarcopaamerica?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DfBBRjC/copaamericapormplus.png" group-title="Spain",M+ CopaAmÃ©rica2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfBBRjC/copaamericapormplus.png" group-title="Spain",M+ Copa América 2 HD
 http://31.200.241.16:1234/stream/movistar/movistarcopaamerica?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xx/xx.png" group-title="Spain", M+ ACCIÃ“N HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xx/xx.png" group-title="Spain", M+ ACCIÓN HD
 http://31.200.241.16:1234/stream/movistar/maction?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxxx.png" group-title="Spain", M+ SERIES HD
