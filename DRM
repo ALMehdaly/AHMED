@@ -83,10 +83,16 @@ http://164.132.206.27:8000/stream/tv/sportdigitalfussball2?u=skyit&p=c1c0fafc222
 http://164.132.206.27:8000/stream/tv/scooore?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tK8rH75/skyuno.png" group-title="Italy",IT Sky Uno HD
 http://164.132.206.27:8000/stream/skyitalia/skyunofhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nhy5n6r.png" group-title="Italy",IT Sky Atlantic HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NrXwC7X/skyatlantic.png" group-title="Italy",IT Sky Atlantic HD
 http://164.132.206.27:8000/stream/skyitalia/skyatlanticfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FbYCMQ3/skyserie.png" group-title="Italy",IT Sky Serie HD
@@ -101,7 +107,7 @@ http://164.132.206.27:8000/stream/skyitalia/skyartefhd/master.m3u8?u=skyit&p=c1c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vVwd8hJ/skydocumentaries.png" group-title="Italy",IT Sky Documentaries HD
 http://164.132.206.27:8000/stream/skyitalia/skydocumentariesfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nzNwdRq/skynature.png" group-title="Italy",IT Sky Nature HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0Xm4wtg/skynature.png" group-title="Italy",IT Sky Nature HD
 http://164.132.206.27:8000/stream/skyitalia/skynaturefhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5stStdG.png" group-title="Italy",IT Sky Cinema Uno HD
