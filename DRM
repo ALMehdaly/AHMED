@@ -156,55 +156,55 @@ http://164.132.206.27:8000/stream/skyitalia/eurosport2fhd/master.m3u8?u=skyit&p=
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9j8QDSh.png" group-title="Spain",La 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kqxQZV4/la1.png" group-title="Spain",La 1 HD
 http://164.132.206.27:8000/stream/csat/la14k?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GyxEwBz.png" group-title="Spain",La 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vd7TsyB/la2.png" group-title="Spain",La 2 HD
 http://164.132.206.27:8000/stream/csat/la2fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SL2Y6ag.png" group-title="Spain",Antena 3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HKz0y/ANTENA3.png" group-title="Spain",Antena 3 HD
 http://164.132.206.27:8000/stream/csat/antena3hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KuOzmsT.png" group-title="Spain",Cuatro HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x7nxPLS/CUATRO.png" group-title="Spain",Cuatro HD
 http://164.132.206.27:8000/stream/csat/cuatro?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lwA9JT9.png" group-title="Spain",Telecinco HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1X6rmCf/TELECINCO.png" group-title="Spain",Telecinco HD
 http://164.132.206.27:8000/stream/csat/telecincofhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wPBc8KY.png" group-title="Spain",La Sexta HD
 http://164.132.206.27:8000/stream/csat/lasextafhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nZzu1tr.png" group-title="Spain",Gol Play HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SxMzDrY/golplay.png" group-title="Spain",Gol Play HD
 http://164.132.206.27:8000/stream/csat/goltv?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nzp0dYj.png" group-title="Spain",Teledeporte HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SKDsH5W/TELEDEPORTE.png" group-title="Spain",Teledeporte HD
 http://164.132.206.27:8000/stream/csat/teledeportehd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmrzdHq.png" group-title="Spain",24h HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7GD6Yy6/24h.png" group-title="Spain",24h HD
 http://164.132.206.27:8000/stream/csat/24hhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MIwJInl.png" group-title="Spain",Energy HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gkh2Tr0/ENERGY.png" group-title="Spain",Energy HD
 http://164.132.206.27:8000/stream/csat/energy?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TQC0Y4Z.png" group-title="Spain",Nova HD
 http://164.132.206.27:8000/stream/csat/nova?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zol8hH8.png" group-title="Spain",Calle 13 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LnTSBpy/CALLE13.png" group-title="Spain",Calle 13 HD
 http://164.132.206.27:8000/stream/csat/calle13?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qsOYv1Q.png" group-title="Spain",Comedy Central HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JHT9Q5V/comedycentral.png" group-title="Spain",Comedy Central HD
 http://164.132.206.27:8000/stream/csat/comedycentral?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TamqLhT.png" group-title="Spain",DAZN 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j802SBP/dazn1.png" group-title="Spain",DAZN 1 HD
 http://164.132.206.27:8000/stream/tv/dazn1es?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/btOUo6P.png" group-title="Spain",DAZN 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4pZz54/dazn2.png" group-title="Spain",DAZN 2 HD
 http://164.132.206.27:8000/stream/tv/dazn2es?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3KUuOwb.png" group-title="Spain",DAZN F1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x3Z1ghL/daznf1.png" group-title="Spain",DAZN F1 HD
 http://164.132.206.27:8000/stream/tv/daznf1es?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uzp196G.png" group-title="Spain",DAZN LALIGA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3hwhD4S/daznlaliga.png" group-title="Spain",DAZN LALIGA HD
 http://164.132.206.27:8000/stream/tv/daznlaliga?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
