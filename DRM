@@ -67,17 +67,20 @@ http://31.200.241.16:1234/stream/skyuk/skyuktennis?u=drm02&p=c1c0fafc22209e4f81d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSV94hx/skysportsgolf.png" group-title="UK", SKY SPORTS GOLF
 http://31.200.241.16:1234/stream/skyuk/skyukgolf?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxxx/xxxx.png" group-title="UK", TNT SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R9jgP9g/tntsports1.png" group-title="UK", TNT SPORTS 1
 http://185.135.157.72:1234/stream/sky-uk/bt-sports-1-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxxx/xxxx.png" group-title="UK", TNT SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/61zM8Ds/tntsports2.png" group-title="UK", TNT SPORTS 2
 http://185.135.157.72:1234/stream/sky-uk/bt-sports-2-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxxx/xxxx.png" group-title="UK", TNT SPORTS 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PDtFn0M/tntsports3.png" group-title="UK", TNT SPORTS 3
 http://185.135.157.72:1234/stream/sky-uk/bt-sports-3-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxxx/xxxx.png" group-title="UK", TNT SPORTS 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VttYQjh/tntsports4.png" group-title="UK", TNT SPORTS 4
 http://185.135.157.72:1234/stream/sky-uk/bt-sports-4-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+
 
 
 
