@@ -35,6 +35,9 @@ http://164.132.206.27:8000/stream/ssc/sscextra3fhd?u=skyit&p=c1c0fafc22209e4f81d
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xxxx/xxxx.png" group-title="UK", EUROSPORT 1
 http://185.135.157.72:1234/stream/sky-uk/eurosports-1-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
@@ -44,22 +47,22 @@ http://185.135.157.72:1234/stream/sky-uk/eurosports-2-hd?u=drm03&p=c1c0fafc22209
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xxxx/xxxx.png" group-title="UK", SKY SPORTS ACTION
 http://185.135.157.72:1234/stream/sky-uk/sky-sports-action-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxxx/xxxx.png" group-title="UK", SKY SPORTS NEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WSDxTg/skysportsnews.png" group-title="UK", SKY SPORTS NEWS
 http://185.135.157.72:1234/stream/sky-uk/sky-sports-news-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxxx/xxxx.png" group-title="UK", SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxZqHVd/skysports-PREMIERLEAGUE.png" group-title="UK", SKY SPORTS PREMIER LEAGUE
 http://185.135.157.72:1234/stream/sky-uk/sky-sports-premier-league-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxxx/xxxx.png" group-title="UK", SKY SPORTS RACING
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S5VP2dC/skysportsracing.png" group-title="UK", SKY SPORTS RACING
 http://185.135.157.72:1234/stream/sky-uk/sky-sports-racing-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxxx/xxxx.png" group-title="UK", SKY SPORTS FOOTBALL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/471Yt87/skysportsfootball.png" group-title="UK", SKY SPORTS FOOTBALL
 http://31.200.241.16:1234/stream/skyuk/skyukfootball?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xxxx/xxxx.png" group-title="UK", SKY SPORTS TENNIS
 http://31.200.241.16:1234/stream/skyuk/skyuktennis?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxxx/xxxx.png" group-title="UK", SKY SPORTS GOLF
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSV94hx/skysportsgolf.png" group-title="UK", SKY SPORTS GOLF
 http://31.200.241.16:1234/stream/skyuk/skyukgolf?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xxxx/xxxx.png" group-title="UK", TNT SPORTS 1
