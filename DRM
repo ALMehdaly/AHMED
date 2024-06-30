@@ -38,10 +38,11 @@ http://164.132.206.27:8000/stream/ssc/sscextra3fhd?u=skyit&p=c1c0fafc22209e4f81d
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxxx/xxxx.png" group-title="UK", EUROSPORT 1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cFDFxG3/eurosport1.png" group-title="UK", EUROSPORT 1
 http://185.135.157.72:1234/stream/sky-uk/eurosports-1-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxxx/xxxx.png" group-title="UK", EUROSPORT 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGvpSds/eurosport2.png" group-title="UK", EUROSPORT 2 
 http://185.135.157.72:1234/stream/sky-uk/eurosports-2-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xxxx/xxxx.png" group-title="UK", SKY SPORTS ACTION
