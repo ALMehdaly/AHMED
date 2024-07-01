@@ -186,7 +186,7 @@ http://164.132.206.27:8000/stream/skyitalia/skyseriefhd/master.m3u8?u=skyit&p=c1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yWQFsCk/skyinvestigation.png" group-title="Italy",IT Sky Investigation HD
 http://164.132.206.27:8000/stream/skyitalia/skyinvestigationfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A0rUHhh.png" group-title="Italy",IT Sky Arte HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgny0LM/skyarte.png" group-title="Italy",IT Sky Arte HD
 http://164.132.206.27:8000/stream/skyitalia/skyartefhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vVwd8hJ/skydocumentaries.png" group-title="Italy",IT Sky Documentaries HD
