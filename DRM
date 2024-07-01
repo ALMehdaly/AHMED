@@ -328,7 +328,7 @@ http://31.200.241.16:1234/stream/movistar/lcampeones?u=drm02&p=c1c0fafc22209e4f8
 http://31.200.241.16:1234/stream/movistar/movistarcopaamerica?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CBpa0Ph.png" group-title="Spain",M+ Copa America 2 HD
-http://31.200.241.16:1234/stream/movistar/movistarcopaamerica?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/movistar/movistarcopaamerica2?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKxVLk0.png" group-title="Spain",M+ Vamos HD
 http://31.200.241.16:1234/stream/movistar/vamos?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
