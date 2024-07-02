@@ -41,26 +41,25 @@ http://181.215.205.43:1234/stream/me/abd2?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XXX.png" group-title="TOD",BEIN SPORTS MAX LIVE
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3D8dTE.png" group-title="TOD",beIN SPORTS News HD
+http://181.215.205.43:1234/stream/me/beinews?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W3QkHbQ.png" group-title="TOD",beIN SPORTS HD
 http://181.215.205.43:1234/stream/me/bein?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XXX.png" group-title="TOD",BEIN SPORTS 1 MAX 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LtLVqan.png" group-title="TOD",beIN SPORTS MAX 1 HD
+http://181.215.205.43:1234/stream/me/bein?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-http://181.215.205.43:1234/stream/me/bein1?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XXX.png" group-title="TOD",BEIN SPORTS 2 MAX 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJRy2Ya.png" group-title="TOD",beIN SPORTS MAX 2 HD
 http://181.215.205.43:1234/stream/me/bein2?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XXX.png" group-title="TOD",BEIN SPORTS 3 MAX 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K7cDjwX.png" group-title="TOD",beIN SPORTS MAX 3 HD
 http://181.215.205.43:1234/stream/me/bein3?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XXX.png" group-title="TOD",BEIN SPORTS news
-
-http://181.215.205.43:1234/stream/me/beinews?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
