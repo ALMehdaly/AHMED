@@ -136,7 +136,11 @@ http://31.200.241.16:1234/stream/movistar/m6?u=drm02&p=c1c0fafc22209e4f81d172e9a
 http://31.200.241.16:1234/stream/movistar/m64k?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zllIHou.png" group-title="France",13 Emerue HD
+http://31.200.241.16:1234/stream/movistar/13emerue?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sGJv1Pv.png" group-title="France",Paris Premiere HD
+http://31.200.241.16:1234/stream/movistar/parispremiere?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
