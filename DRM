@@ -45,9 +45,22 @@ http://181.215.205.43:1234/stream/me/abd2?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3
 
 http://181.215.205.43:1234/stream/me/bein?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXX.png" group-title="TOD",BEIN SPORTS 1 MAX 
+
+http://181.215.205.43:1234/stream/me/bein1?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXX.png" group-title="TOD",BEIN SPORTS 2 MAX 
+
+http://181.215.205.43:1234/stream/me/bein2?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXX.png" group-title="TOD",BEIN SPORTS 3 MAX 
+
+http://181.215.205.43:1234/stream/me/bein3?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXX.png" group-title="TOD",BEIN SPORTS 4 MAX 
 
+http://181.215.205.43:1234/stream/me/bein4?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
