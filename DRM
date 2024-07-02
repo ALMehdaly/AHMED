@@ -165,7 +165,7 @@ http://164.132.206.27:8000/stream/tv/fussball1?u=skyit&p=c1c0fafc22209e4f81d172e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Ghx1dl.png" group-title="Germany",FussballTV2 HD
 http://164.132.206.27:8000/stream/tv/fussball2?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mlX9Tew.png" group-title="Germany",Sportdigital fussball HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p4kcRj0.png" group-title="Germany",Sportdigital fussball HD
 http://164.132.206.27:8000/stream/tv/sportdigitalfussball?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
