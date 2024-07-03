@@ -48,15 +48,15 @@ http://181.215.205.43:1234/stream/me/abd2?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3D8dTE.png" group-title="TOD",beIN SPORTS News HD
 http://181.215.205.43:1234/stream/me/beinews?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LtLVqan.png" group-title="TOD",beIN SPORTS MAX 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nrr8W6y/beinsportsmax1hd.png" group-title="TOD",beIN SPORTS MAX 1 HD
 http://181.215.205.43:1234/stream/me/bein?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mJRy2Ya.png" group-title="TOD",beIN SPORTS MAX 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jf5D3JR/beinsportsmax2hd.png" group-title="TOD",beIN SPORTS MAX 2 HD
 http://181.215.205.43:1234/stream/me/bein2?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K7cDjwX.png" group-title="TOD",beIN SPORTS MAX 3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qpXCZjw/beinsportsmax3hd.png" group-title="TOD",beIN SPORTS MAX 3 HD
 http://181.215.205.43:1234/stream/me/bein3?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
@@ -67,16 +67,16 @@ http://181.215.205.43:1234/stream/me/beinsd?u=drm04&p=c1c0fafc22209e4f81d172e9a3
 http://181.215.205.43:1234/stream/me/bein2sd?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png" group-title="TOD",beIN SPORTS NBA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YQ5SDm7/beinsportsnba.png" group-title="TOD",beIN SPORTS NBA
 http://181.215.205.43:1234/stream/me/beinnba?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png" group-title="TOD",beIN Moveis 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kg1Zpjy/beinmovies1.png" group-title="TOD",beIN Moveis 1 HD
 http://181.215.205.43:1234/stream/me/beinmv1?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png" group-title="TOD",beIN Moveis 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3DxnWS/beinmovies2.png" group-title="TOD",beIN Moveis 2 HD
 http://181.215.205.43:1234/stream/me/beinmv2?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
