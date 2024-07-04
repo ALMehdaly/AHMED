@@ -2,17 +2,18 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png" group-title="Stctv",Stctv Cinema 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vb3AEFh.png" group-title="Stctv",Stctv Cinema HD
 http://181.215.205.43:1234/stream/sct/stctvcinema?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png" group-title="Stctv",Stctv DRAMA 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUa8jdP.png" group-title="Stctv",Stctv Drama HD 
 http://181.215.205.43:1234/stream/sct/stctvdrama?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png" group-title="Stctv",Stctv FAMILY 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mnZRkak.png" group-title="Stctv",Stctv Family HD 
 http://181.215.205.43:1234/stream/sct/stctvfamily?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yrMi096.png" group-title="Stctv",Stctv kids HD
+http://181.215.205.43:1234/stream/sct/stctvkids?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
