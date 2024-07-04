@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png" group-title="Stctv",Stctv Cinema 
 
 http://181.215.205.43:1234/stream/sct/stctvcinema?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
@@ -18,6 +19,12 @@ http://181.215.205.43:1234/stream/sct/stctvfamily?u=drm04&p=c1c0fafc22209e4f81d1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png" group-title="Stctv",Stctv kids
 
 http://181.215.205.43:1234/stream/sct/stctvkids?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1sh70R9/mbc1.png" group-title="Shahid",mbc 1 HD
+
+http://181.215.205.43:1234/stream/me/mbc?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vakfc0h.png" group-title="Shahid",SSC NEWS HD
