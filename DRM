@@ -70,7 +70,11 @@ http://181.215.205.43:1234/stream/me/bein2sd?u=drm04&p=c1c0fafc22209e4f81d172e9a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YQ5SDm7/beinsportsnba.png" group-title="TOD",beIN SPORTS NBA
 http://181.215.205.43:1234/stream/me/beinnba?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xm49tRb.png" group-title="TOD",beIN Series 1 HD
+http://181.215.205.43:1234/stream/me/beinsr1?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0FUjTO4.png" group-title="TOD",beIN Series 2 HD
+http://181.215.205.43:1234/stream/me/beinsr2?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kg1Zpjy/beinmovies1.png" group-title="TOD",beIN Moveis 1 HD
