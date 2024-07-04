@@ -83,7 +83,8 @@ http://181.215.205.43:1234/stream/me/beinmv1?u=drm04&p=c1c0fafc22209e4f81d172e9a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3DxnWS/beinmovies2.png" group-title="TOD",beIN Moveis 2 HD
 http://181.215.205.43:1234/stream/me/beinmv2?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xx/beinmovies3.png" group-title="TOD",beIN Moveis 3 HD
+http://181.215.205.43:1234/stream/me/beinmv2?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WSDxTg/skysportsnews.png" group-title="UK", SKY SPORTS NEWS
 http://185.135.157.72:1234/stream/sky-uk/sky-sports-news-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
