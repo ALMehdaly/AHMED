@@ -112,10 +112,10 @@ http://181.215.205.107:1234/stream/me/beinmv2?u=uae02&p=c1c0fafc22209e4f81d172e9
 http://181.215.205.107:1234/stream/me/beinmv3?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WSDxTg/skysportsnews.png" group-title="UK", SKY SPORTS NEWS
-http://181.215.205.107:1234/stream/sky-uk/sky-sports-news-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://185.135.157.72:1234/stream/sky-uk/sky-sports-news-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PxZqHVd/skysports-PREMIERLEAGUE.png" group-title="UK", SKY SPORTS PREMIER LEAGUE
-http://181.215.205.107:1234/stream/sky-uk/sky-sports-premier-league-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://185.135.157.72:1234/stream/sky-uk/sky-sports-premier-league-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
