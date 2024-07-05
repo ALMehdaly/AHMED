@@ -69,6 +69,9 @@ http://181.215.205.107:1234/stream/tod/abd2?u=uae02&p=c1c0fafc22209e4f81d172e9a3
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rhb8yWQ/tod.png" group-title="TOD",TOD 
+http://181.215.205.107:1234/stream/tod/beinnba?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3D8dTE.png" group-title="TOD",beIN SPORTS News HD
 http://181.215.205.107:1234/stream/tod/beinews?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
@@ -92,8 +95,7 @@ http://181.215.205.107:1234/stream/tod/beinsd?u=uae02&p=c1c0fafc22209e4f81d172e9
 http://181.215.205.107:1234/stream/tod/bein2sd?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YQ5SDm7/beinsportsnba.png" group-title="TOD",beIN SPORTS NBA
-http://181.215.205.107:1234/stream/tod/beinnba?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xm49tRb.png" group-title="TOD",beIN Series 1 HD
 http://181.215.205.107:1234/stream/tod/beinsr1?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
