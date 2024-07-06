@@ -159,6 +159,17 @@ http://185.135.157.72:1234/stream/sky-uk/eurosports-2-hd?u=drm03&p=c1c0fafc22209
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/471Yt87/skysportsfootball.png" group-title="UK", SKY SPORTS FOOTBALL*
+http://185.135.157.72:1234/stream/sky-uk/skyukfootball?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fthRThZ/skysportstennis.png" group-title="UK", SKY SPORTS TENNIS*
+http://185.135.157.72:1234/stream/sky-uk/skyuktennis?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSV94hx/skysportsgolf.png" group-title="UK", SKY SPORTS GOLF*
+http://185.135.157.72:1234/stream/sky-uk/skyukgolf?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+
 
 
 
