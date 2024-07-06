@@ -224,6 +224,23 @@ https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/li
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aksGvQq.png",Oman TV General
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b4500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xmXnFCE.png" group-title="General",Kuwait TV 1 HD
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Lh2WOi.png" group-title="General",Kuwait TV 2 HD
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldFn09Y.png" group-title="General",Kuwait Drama HD
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/74gzjtR.png" group-title="General",Kuwait Qurain HD
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJifVOt.png" group-title="General",Kuwait Al-Arabi HD
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmFkaGZ.png" group-title="General",Kuwait Ethraa HD
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h9UwGar.png",Alrai HD
 https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
@@ -327,7 +344,11 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunkli
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
  
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9mr72Q.png" group-title="Sports",Kuwait Sports HD
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bG1lIa0.png" group-title="Sports",Kuwait Sports 2 HD
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
 
 
 
@@ -353,22 +374,11 @@ https://shls-live-event1-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062dd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",ssc
 https://af.ayassport.ir/hls2/ssc1.m3u8
 
-#EXTINF:-1,KTV 1 HD
-https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,KTV 2 HD
-https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
-#EXTINF:-1,KTV Drama HD
-https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,KTV Al Qurain HD
-https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,KTV Ethraa
-https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
-#EXTINF:-1, KTV Arabe HD
-https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
-#EXTINF:-1,KTV sport HD
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,KTV sport plus HD
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2024%2FBedour%2FLogo_RSL%2Foriginal%2FLogo_RSL.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75",SSC RSL HD
 
