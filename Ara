@@ -188,18 +188,20 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u
 https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wF65a3L.png",Dubai TV HD
-https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b8500000.m3u8
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b850000.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sIlBMSX.png",Dubai One HD
-https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W6O0xtF.png",Sama Dubai HD
-https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b8500000.m3u8
+https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b850000.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zfz0ANH.png",Dubai Zaman HD
-https://dmiffthvll.cdn.mgmlcdn.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1700000.m3u8
+https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b725000.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sIlBMSX.png",Dubai One HD
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TuB4qwK.png",Sharjah HD
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
@@ -318,22 +320,18 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJI3Blz.png",Dubai Sports 1 HD
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b9000000.m3u8
+https://dmitnthfrta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b9000000.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbBjoum.png",Dubai Sports 2 HD
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XSO4yPK.png",Dubai Sports 3 HD
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kb25WAr.png",Dubai Racing 1 HD
-https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b4000000.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N3VgYrI.png",Dubai Racing 2 HD
-https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hUQ8h0s.png",Dubai Racing 3 HD
-https://dmithrvll.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8
+
 
 
 
