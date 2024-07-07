@@ -229,18 +229,18 @@ http://31.200.241.16:1234/stream/movistar/discovery?u=drm02&p=c1c0fafc22209e4f81
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxx.png" group-title="France",CANAL+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0nFRMXH/Canal.png" group-title="France",CANAL+
 http://31.200.241.16:1234/stream/movistar/cplus?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxx.png" group-title="France",CANAL+ BOXOFFICE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nbB5fGb/canalplusboxoffice.png" group-title="France",CANAL+ BOXOFFICE
 http://31.200.241.16:1234/stream/movistar/cplusbox1?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxx.png" group-title="France",CANAL+ SERIES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mFQD5Mh/Canalseries.png" group-title="France",CANAL+ SERIES
 http://31.200.241.16:1234/stream/movistar/cpluss?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
@@ -248,14 +248,14 @@ http://31.200.241.16:1234/stream/movistar/cpluss?u=drm02&p=c1c0fafc22209e4f81d17
 http://31.200.241.16:1234/stream/movistar/cplusd?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxx.png" group-title="France",CANAL+ SPORT 360
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rgr5Nzz/Canalsport360.png" group-title="France",CANAL+ SPORT 360
 http://31.200.241.16:1234/stream/movistar/cplus360?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxx.png" group-title="France",CANAL+ FOOT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkcVWff/canalplusfoot.png" group-title="France",CANAL+ FOOT
 http://31.200.241.16:1234/stream/movistar/cplusfoot?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
