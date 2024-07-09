@@ -5,6 +5,11 @@ http://homeip.biz/FR_TF1HD/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png",BBC 1
 http://homeip.biz/IN_B1/mpegts
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png",Real Madrid
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yFRMk0b.png",Al Ekhbaria HD
 https://al-ekhbaria-prod-dub-ak.akamaized.net/out/v1/d443f3203b444032896e3233cb6eaa84/index_1.m3u8
 
