@@ -1,5 +1,43 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxx.png" group-title="OSNtv",OSN showcase
+http://181.215.205.107:1234/stream/osn/osnshowcase?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxx.png" group-title="OSNtv",OSN popup rocky
+http://181.215.205.107:1234/stream/osn/osnpopuprocky?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxx.png" group-title="OSNtv", OSN News
+http://181.215.205.107:1234/stream/osn/osnnews?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxx.png" group-title="OSNtv",OSN Movies Premium
+
+http://181.215.205.107:1234/stream/osn/osnmoviespremium?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxx.png" group-title="OSNtv",OSN Movies Hollywod
+http://181.215.205.107:1234/stream/osnmovieshollywod?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxx.png" group-title="OSNtv",OSN movies family
+http://181.215.205.107:1234/stream/osn/osnmoviesfamily?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxx.png" group-title="OSNtv",OSN movies action
+http://181.215.205.107:1234/stream/osn/osnmoviesaction?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxx.png" group-title="OSNtv",OSN kid zone
+http://181.215.205.107:1234/stream/osn/osnkidzone?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxx.png" group-title="OSNtv",OSN comedy
+http://181.215.205.107:1234/stream/osn/osncomedy?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxx.png" group-title="OSNtv",OSN nat geo
+http://181.215.205.107:1234/stream/osn/natgeo?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxx.png" group-title="OSNtv",OSN discovery
+http://181.215.205.107:1234/stream/osn/discovery?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
 
 
 
