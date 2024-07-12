@@ -225,6 +225,11 @@ http://31.200.241.16:1234/stream/movistar/bein4?u=drm02&p=c1c0fafc22209e4f81d172
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZcLDywS/beinsports5.png" group-title="France",beIN SPORTS MAX 5 HD
 http://31.200.241.16:1234/stream/movistar/bein5?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1GRkxsf/beinsports6.png" group-title="France",beIN SPORTS MAX 6 HD
+http://31.200.241.16:1234/stream/movistar/bein6?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bJMGZJ0/infosportplus.png" group-title="France",InfoSport+ HD
 http://31.200.241.16:1234/stream/movistar/infosport?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
