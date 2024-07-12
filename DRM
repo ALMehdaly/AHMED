@@ -27,25 +27,25 @@ http://181.215.205.107:1234/stream/osn/osnkidzone?u=uae02&p=c1c0fafc22209e4f81d1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ulpX490.png" group-title="OSNtv", OSN News HD
 http://181.215.205.107:1234/stream/osn/osnnews?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n6E6XKk.png" group-title="OSNtv",OSN Discovery HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n6E6XKk.png" group-title="OFF",OSN Discovery HD
 http://181.215.205.107:1234/stream/osn/discovery?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EH2boc6.png" group-title="OSNtv",OSN Nat Geo HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EH2boc6.png" group-title="OFF",OSN Nat Geo HD
 http://181.215.205.107:1234/stream/osn/natgeo?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vb3AEFh.png" group-title="Stctv",Stctv Cinema HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vb3AEFh.png" group-title="OFF",Stctv Cinema HD
 http://181.215.205.107:1234/stream/sct/stctvcinema?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nUa8jdP.png" group-title="Stctv",Stctv Drama HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUa8jdP.png" group-title="OFF",Stctv Drama HD 
 http://181.215.205.107:1234/stream/sct/stctvdrama?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mnZRkak.png" group-title="Stctv",Stctv Family HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mnZRkak.png" group-title="OFF",Stctv Family HD 
 http://181.215.205.107:1234/stream/sct/stctvfamily?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yrMi096.png" group-title="Stctv",Stctv kids HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yrMi096.png" group-title="OFF",Stctv kids HD
 http://181.215.205.107:1234/stream/sct/stctvkids?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
@@ -54,7 +54,7 @@ http://181.215.205.107:1234/stream/sct/stctvkids?u=uae02&p=c1c0fafc22209e4f81d17
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1sh70R9/mbc1.png" group-title="Shahid",mbc 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1sh70R9/mbc1.png" group-title="OFF",mbc 1 HD
 
 http://181.215.205.107:1234/stream/tod/mbc?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
@@ -102,7 +102,7 @@ http://181.215.205.107:1234/stream/tod/abd2?u=uae02&p=c1c0fafc22209e4f81d172e9a3
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rhb8yWQ/tod.png" group-title="TOD",TOD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rhb8yWQ/tod.png" group-title="OFF",TOD 
 http://181.215.205.107:1234/stream/tod/beinnba?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
@@ -121,29 +121,29 @@ http://38.180.26.144:1234/stream/bein/beinmx2?u=test2&p=c1c0fafc22209e4f81d172e9
 http://181.215.205.107:1234/stream/tod/bein3?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LtLVqan.png" group-title="TOD",beIN SPORTS MAX 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LtLVqan.png" group-title="OFF",beIN SPORTS MAX 1
 http://181.215.205.107:1234/stream/tod/beinsd?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mJRy2Ya.png" group-title="TOD",beIN SPORTS MAX 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJRy2Ya.png" group-title="OFF",beIN SPORTS MAX 2
 http://181.215.205.107:1234/stream/tod/bein2sd?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xm49tRb.png" group-title="TOD",beIN Series 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xm49tRb.png" group-title="OFF",beIN Series 1 HD
 http://181.215.205.107:1234/stream/tod/beinsr1?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0FUjTO4.png" group-title="TOD",beIN Series 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0FUjTO4.png" group-title="OFF",beIN Series 2 HD
 http://181.215.205.107:1234/stream/tod/beinsr2?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kg1Zpjy/beinmovies1.png" group-title="TOD",beIN Moveis 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kg1Zpjy/beinmovies1.png" group-title="OFF",beIN Moveis 1 HD
 http://181.215.205.107:1234/stream/tod/beinmv1?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F3DxnWS/beinmovies2.png" group-title="TOD",beIN Moveis 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3DxnWS/beinmovies2.png" group-title="OFF",beIN Moveis 2 HD
 http://181.215.205.107:1234/stream/tod/beinmv2?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eg3g0E3.png" group-title="TOD",beIN Movies 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eg3g0E3.png" group-title="OFF",beIN Movies 3 HD
 http://181.215.205.107:1234/stream/tod/beinmv3?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WSDxTg/skysportsnews.png" group-title="UK", SKY SPORTS NEWS
@@ -234,30 +234,30 @@ http://31.200.241.16:1234/stream/canalsat/bein6?u=drm02&p=c1c0fafc22209e4f81d172
 http://31.200.241.16:1234/stream/canalsat/infosport?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uOFyBP6.png" group-title="France",Le Equipe HD
-http://31.200.241.16:1234/stream/canalsat/lequipe?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/equipe?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BtY8PQk/tf1.png" group-title="France",TF1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BtY8PQk/tf1.png" group-title="OFF",TF1 HD
 http://31.200.241.16:1234/stream/canalsat/tf1?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nkFKtF2/frtf14k.png" group-title="France",TF1 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nkFKtF2/frtf14k.png" group-title="OFF",TF1 4K
 http://31.200.241.16:1234/stream/canalsat/tf14K?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SmpD0B6/m6.png" group-title="France",M6 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SmpD0B6/m6.png" group-title="OFF",M6 HD
 http://31.200.241.16:1234/stream/canalsat/m6?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kqrVQcc/frm64k.png" group-title="France",M6 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kqrVQcc/frm64k.png" group-title="OFF",M6 4K
 http://31.200.241.16:1234/stream/canalsat/m64k?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zllIHou.png" group-title="France",13 Emerue HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zllIHou.png" group-title="OFF",13 Emerue HD
 http://31.200.241.16:1234/stream/canalsat/13emerue?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sGJv1Pv.png" group-title="France",Paris Premiere HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sGJv1Pv.png" group-title="OFF",Paris Premiere HD
 http://31.200.241.16:1234/stream/canalsat/parispremiere?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bL4VBD0/discoverychannel.png" group-title="France",Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bL4VBD0/discoverychannel.png" group-title="OFF",Discovery Channel HD
 http://31.200.241.16:1234/stream/canalsat/discovery?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
@@ -267,22 +267,22 @@ http://31.200.241.16:1234/stream/canalsat/discovery?u=drm02&p=c1c0fafc22209e4f81
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0nFRMXH/Canal.png" group-title="France",CANAL+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0nFRMXH/Canal.png" group-title="OFF",CANAL+
 http://31.200.241.16:1234/stream/canalsat/cplus?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nbB5fGb/canalplusboxoffice.png" group-title="France",CANAL+ BOXOFFICE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nbB5fGb/canalplusboxoffice.png" group-title="OFF",CANAL+ BOXOFFICE
 http://31.200.241.16:1234/stream/canalsat/cplusbox1?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mFQD5Mh/Canalseries.png" group-title="France",CANAL+ SERIES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mFQD5Mh/Canalseries.png" group-title="OFF",CANAL+ SERIES
 http://31.200.241.16:1234/stream/canalsat/cpluss?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hVRFhNg/canalplusdocs.png" group-title="France",CANAL+ DOCS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVRFhNg/canalplusdocs.png" group-title="OFF",CANAL+ DOCS
 http://31.200.241.16:1234/stream/canalsat/cplusd?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
@@ -293,11 +293,11 @@ http://31.200.241.16:1234/stream/canalsat/c360?u=drm02&p=c1c0fafc22209e4f81d172e
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rvTcVkd/canalplussport.png" group-title="France",CANAL+ SPORT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rvTcVkd/canalplussport.png" group-title="OFF",CANAL+ SPORT
 http://31.200.241.16:1234/stream/canalsat/csport?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rkcVWff/canalplusfoot.png" group-title="France",CANAL+ FOOT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkcVWff/canalplusfoot.png" group-title="OFF",CANAL+ FOOT
 http://31.200.241.16:1234/stream/canalsat/cfoot?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
