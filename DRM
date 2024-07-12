@@ -211,54 +211,54 @@ http://185.135.157.72:1234/stream/sky-uk/skyukf1?u=drm03&p=c1c0fafc22209e4f81d17
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jrwnYtN/beinsports1.png" group-title="France",beIN SPORTS 1 HD
-http://31.200.241.16:1234/stream/movistar/bein1?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/bein1?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X2RzdHV/beinsports2.png" group-title="France",beIN SPORTS 2 HD
-http://31.200.241.16:1234/stream/movistar/bein2?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/bein2?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y0dSKc3/beinsports3.png" group-title="France",beIN SPORTS 3 HD
-http://31.200.241.16:1234/stream/movistar/bein3?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/bein3?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vYJwF8q/beinsports4.png" group-title="France",beIN SPORTS MAX 4 HD
-http://31.200.241.16:1234/stream/movistar/bein4?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/bein4?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZcLDywS/beinsports5.png" group-title="France",beIN SPORTS MAX 5 HD
-http://31.200.241.16:1234/stream/movistar/bein5?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/bein5?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1GRkxsf/beinsports6.png" group-title="France",beIN SPORTS MAX 6 HD
-http://31.200.241.16:1234/stream/movistar/bein6?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/bein6?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bJMGZJ0/infosportplus.png" group-title="France",InfoSport+ HD
-http://31.200.241.16:1234/stream/movistar/infosport?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/infosport?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uOFyBP6.png" group-title="France",Le Equipe HD
-http://31.200.241.16:1234/stream/movistar/lequipe?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/lequipe?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtY8PQk/tf1.png" group-title="France",TF1 HD
-http://31.200.241.16:1234/stream/movistar/tf1?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/tf1?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nkFKtF2/frtf14k.png" group-title="France",TF1 4K
-http://31.200.241.16:1234/stream/movistar/tf14K?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/tf14K?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SmpD0B6/m6.png" group-title="France",M6 HD
-http://31.200.241.16:1234/stream/movistar/m6?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/m6?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kqrVQcc/frm64k.png" group-title="France",M6 4K
-http://31.200.241.16:1234/stream/movistar/m64k?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/m64k?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zllIHou.png" group-title="France",13 Emerue HD
-http://31.200.241.16:1234/stream/movistar/13emerue?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/13emerue?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sGJv1Pv.png" group-title="France",Paris Premiere HD
-http://31.200.241.16:1234/stream/movistar/parispremiere?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/parispremiere?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bL4VBD0/discoverychannel.png" group-title="France",Discovery Channel HD
-http://31.200.241.16:1234/stream/movistar/discovery?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/discovery?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
@@ -268,37 +268,37 @@ http://31.200.241.16:1234/stream/movistar/discovery?u=drm02&p=c1c0fafc22209e4f81
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0nFRMXH/Canal.png" group-title="France",CANAL+
-http://31.200.241.16:1234/stream/movistar/cplus?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/cplus?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nbB5fGb/canalplusboxoffice.png" group-title="France",CANAL+ BOXOFFICE
-http://31.200.241.16:1234/stream/movistar/cplusbox1?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/cplusbox1?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mFQD5Mh/Canalseries.png" group-title="France",CANAL+ SERIES
-http://31.200.241.16:1234/stream/movistar/cpluss?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/cpluss?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hVRFhNg/canalplusdocs.png" group-title="France",CANAL+ DOCS
-http://31.200.241.16:1234/stream/movistar/cplusd?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/cplusd?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rgr5Nzz/Canalsport360.png" group-title="France",CANAL+ SPORT 360
-http://31.200.241.16:1234/stream/movistar/cplus360?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/c360?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rvTcVkd/canalplussport.png" group-title="France",CANAL+ SPORT
-http://31.200.241.16:1234/stream/movistar/cplusfoot?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/csport?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkcVWff/canalplusfoot.png" group-title="France",CANAL+ FOOT
-http://31.200.241.16:1234/stream/movistar/cplusfoot?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://31.200.241.16:1234/stream/canalsat/cfoot?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
