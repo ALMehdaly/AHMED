@@ -35,3 +35,125 @@ https://svs.itworkscdn.net/smc1live/smc1tv.smil//smc1tvhd_source_chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TuB4qwK.png" group-title="UAE",Sharjah 2 HD
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N2TLvLB.png" group-title="OSNtv",OSN Showcase HD
+http://181.215.205.107:1234/stream/osn/osnshowcase?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0n5E8A7.png" group-title="OSNtv",OSN Comedy HD
+http://181.215.205.107:1234/stream/osn/osncomedy?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UCnbjp0.png" group-title="OSNtv",OSN Movies Premium HD
+http://181.215.205.107:1234/stream/osn/osnmoviespremium?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JNb7Air.png" group-title="OSNtv",OSN Popup HD
+http://181.215.205.107:1234/stream/osn/osnpopuprocky?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnVAt3q.png" group-title="OSNtv",OSN Movies Action HD
+http://181.215.205.107:1234/stream/osn/osnmoviesaction?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wkbeb30.png" group-title="OSNtv",OSN Movies Hollywood HD
+http://181.215.205.107:1234/stream/osnmovieshollywod?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGVg4wc.png" group-title="OSNtv",OSN Movies Family HD
+http://181.215.205.107:1234/stream/osn/osnmoviesfamily?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTRfxcG.png" group-title="OSNtv",OSN Kidzone HD
+http://181.215.205.107:1234/stream/osn/osnkidzone?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ulpX490.png" group-title="OSNtv", OSN News HD
+http://181.215.205.107:1234/stream/osn/osnnews?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n6E6XKk.png" group-title="OSNtv",OSN Discovery HD
+http://181.215.205.107:1234/stream/osn/discovery?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EH2boc6.png" group-title="OSNtv",OSN Nat Geo HD
+http://181.215.205.107:1234/stream/osn/natgeo?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vb3AEFh.png" group-title="Stctv",Stctv Cinema HD
+http://181.215.205.107:1234/stream/sct/stctvcinema?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUa8jdP.png" group-title="Stctv",Stctv Drama HD 
+http://181.215.205.107:1234/stream/sct/stctvdrama?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mnZRkak.png" group-title="Stctv",Stctv Family HD 
+http://181.215.205.107:1234/stream/sct/stctvfamily?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yrMi096.png" group-title="Stctv",Stctv kids HD
+http://181.215.205.107:1234/stream/sct/stctvkids?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vakfc0h.png" group-title="Shahid",SSC NEWS HD
+http://164.132.206.27:8000/stream/ssc/sscnewshd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKTlyT3.png" group-title="Shahid",SSC 1 HD
+http://164.132.206.27:8000/stream/ssc/ssc1fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p3ggxmk.png" group-title="Shahid",SSC 2 HD
+http://164.132.206.27:8000/stream/ssc/ssc2hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WES4hOT.png" group-title="Shahid",SSC 3 HD
+http://164.132.206.27:8000/stream/ssc/ssc3hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0pSMsaX.png" group-title="Shahid",SSC 4 HD
+http://164.132.206.27:8000/stream/ssc/ssc4hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0pVvvh.png" group-title="Shahid",SSC 5 HD
+http://164.132.206.27:8000/stream/ssc/ssc5hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SgalaJK.png" group-title="Shahid",SSC Extra 1 HD
+http://164.132.206.27:8000/stream/ssc/sscextra1fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hK5xf7t.png" group-title="Shahid",SSC Extra 2 HD
+http://164.132.206.27:8000/stream/ssc/sscextra2fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2xDvYM.png" group-title="Shahid",SSC Extra 3 HD
+http://164.132.206.27:8000/stream/ssc/sscextra3fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EeG40kA.png" group-title="StarzPlay",Abu Dhabi Sports 1 Premium HD
+http://181.215.205.107:1234/stream/tod/abd1?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aARh5WM.png" group-title="StarzPlay",Abu Dhabi Sports 2 Premium HD
+http://181.215.205.107:1234/stream/tod/abd2?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rhb8yWQ/tod.png" group-title="TOD",TOD 
+http://181.215.205.107:1234/stream/tod/beinnba?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3D8dTE.png" group-title="TOD",beIN SPORTS News HD
+http://38.180.26.144:1234/stream/bein/beinnews?u=test2&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nrr8W6y/beinsportsmax1hd.png" group-title="TOD",beIN SPORTS MAX 1 HD
+http://38.180.26.144:1234/stream/bein/beinmx1?u=test2&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jf5D3JR/beinsportsmax2hd.png" group-title="TOD",beIN SPORTS MAX 2 HD
+http://38.180.26.144:1234/stream/bein/beinmx2?u=test2&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qpXCZjw/beinsportsmax3hd.png" group-title="TOD",beIN SPORTS MAX 3 HD
+http://181.215.205.107:1234/stream/tod/bein3?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
