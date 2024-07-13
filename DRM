@@ -6,11 +6,13 @@ http://181.215.205.107:1234/stream/osn/osnshowcase?u=uae02&p=c1c0fafc22209e4f81d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0n5E8A7.png" group-title="OSNtv",OSN Comedy HD
 http://181.215.205.107:1234/stream/osn/osncomedy?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JNb7Air.png" group-title="OSNtv",OSN Popup HD
+http://181.215.205.107:1234/stream/osn/osnpopuprocky?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UCnbjp0.png" group-title="OSNtv",OSN Movies Premium HD
 http://181.215.205.107:1234/stream/osn/osnmoviespremium?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JNb7Air.png" group-title="OSNtv",OSN Popup HD
-http://181.215.205.107:1234/stream/osn/osnpopuprocky?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZnVAt3q.png" group-title="OSNtv",OSN Movies Action HD
 http://181.215.205.107:1234/stream/osn/osnmoviesaction?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
