@@ -38,14 +38,21 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xmXnFCE.png" group-title="Kuwait",Kuwait TV 1 HD
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Lh2WOi.png" group-title="Kuwait",Kuwait TV 2 HD
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldFn09Y.png" group-title="Kuwait",Kuwait Drama HD
-https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/74gzjtR.png" group-title="Kuwait",Kuwait Qurain HD
 https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
