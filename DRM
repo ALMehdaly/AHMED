@@ -314,7 +314,7 @@ http://31.200.241.16:1234/stream/canalsat/c360?u=drm02&p=c1c0fafc22209e4f81d172e
 http://31.200.241.16:1234/stream/canalsat/csport?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rkcVWff/canalplusfoot.png" group-title="OFF",CANAL+ FOOT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkcVWff/canalplusfoot.png" group-title="France",CANAL+ FOOT
 http://31.200.241.16:1234/stream/canalsat/cfoot?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
