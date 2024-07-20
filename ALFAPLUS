@@ -189,3 +189,9 @@ http://38.180.26.144:1234/stream/bein/beinmx2?u=test2&p=c1c0fafc22209e4f81d172e9
 http://181.215.205.107:1234/stream/tod/bein3?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xx/cxx.png" group-title="CLUB",MAN U HD
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
