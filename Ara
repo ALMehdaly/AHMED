@@ -402,7 +402,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xx/cxx.png" group-title="CLUB",MU TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xx/cxx.png" group-title="CLUB",MU TV*
