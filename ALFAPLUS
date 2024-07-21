@@ -70,17 +70,32 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b8000000_t64M
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="CLUB",Real Madrid TV
+https://stream.ads.ottera.tv/cl/240721cqe59u06pee49ka0lna0/1920x1080_5701132_5_f.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="CLUB",MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N2TLvLB.png" group-title="OSNtv",OSN Showcase HD
 http://181.215.205.107:1234/stream/osn/osnshowcase?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0n5E8A7.png" group-title="OSNtv",OSN Comedy HD
 http://181.215.205.107:1234/stream/osn/osncomedy?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JNb7Air.png" group-title="OSNtv",OSN Popup HD
+http://181.215.205.107:1234/stream/osn/osnpopuprocky?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UCnbjp0.png" group-title="OSNtv",OSN Movies Premium HD
 http://181.215.205.107:1234/stream/osn/osnmoviespremium?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JNb7Air.png" group-title="OSNtv",OSN Popup HD
-http://181.215.205.107:1234/stream/osn/osnpopuprocky?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZnVAt3q.png" group-title="OSNtv",OSN Movies Action HD
 http://181.215.205.107:1234/stream/osn/osnmoviesaction?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
@@ -97,26 +112,9 @@ http://181.215.205.107:1234/stream/osn/osnkidzone?u=uae02&p=c1c0fafc22209e4f81d1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ulpX490.png" group-title="OSNtv", OSN News HD
 http://181.215.205.107:1234/stream/osn/osnnews?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n6E6XKk.png" group-title="OSNtv",OSN Discovery HD
-http://181.215.205.107:1234/stream/osn/discovery?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EH2boc6.png" group-title="OSNtv",OSN Nat Geo HD
-http://181.215.205.107:1234/stream/osn/natgeo?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vb3AEFh.png" group-title="Stctv",Stctv Cinema HD
-http://181.215.205.107:1234/stream/sct/stctvcinema?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nUa8jdP.png" group-title="Stctv",Stctv Drama HD 
-http://181.215.205.107:1234/stream/sct/stctvdrama?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mnZRkak.png" group-title="Stctv",Stctv Family HD 
-http://181.215.205.107:1234/stream/sct/stctvfamily?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yrMi096.png" group-title="Stctv",Stctv kids HD
-http://181.215.205.107:1234/stream/sct/stctvkids?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
@@ -170,19 +168,17 @@ http://181.215.205.107:1234/stream/tod/abd2?u=uae02&p=c1c0fafc22209e4f81d172e9a3
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rhb8yWQ/tod.png" group-title="TOD",TOD 
-http://181.215.205.107:1234/stream/tod/beinnba?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3D8dTE.png" group-title="TOD",beIN SPORTS News HD
-http://38.180.26.144:1234/stream/bein/beinnews?u=test2&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://38.180.26.144:1234/stream/tod/beinews?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nrr8W6y/beinsportsmax1hd.png" group-title="TOD",beIN SPORTS MAX 1 HD
-http://38.180.26.144:1234/stream/bein/beinmx1?u=test2&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://38.180.26.144:1234/stream/tod/bein?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jf5D3JR/beinsportsmax2hd.png" group-title="TOD",beIN SPORTS MAX 2 HD
-http://38.180.26.144:1234/stream/bein/beinmx2?u=test2&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://38.180.26.144:1234/stream/tod/bein2?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qpXCZjw/beinsportsmax3hd.png" group-title="TOD",beIN SPORTS MAX 3 HD
@@ -190,8 +186,13 @@ http://181.215.205.107:1234/stream/tod/bein3?u=uae02&p=c1c0fafc22209e4f81d172e9a
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="CLUB",Real Madrid TV
-https://stream.ads.ottera.tv/cl/240721cqe59u06pee49ka0lna0/1920x1080_5701132_5_f.m3u8
 
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="CLUB",MU TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+
+
+
+
+
+
+
+
+
