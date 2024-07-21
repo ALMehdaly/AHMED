@@ -428,6 +428,9 @@ https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0
 
 
 
+#EXTINF:-1 tvg-logo="https://publish-p47754-e237306.adobeaemcloud.com/adobe/dynamicmedia/deliver/dm-aid--515a8f0b-15ae-4a38-ac79-bc021775b1d5/FOTO_ESCUDO_COMUNICADO_OFICIAL.app.png?preferwebp=true&width=1440" group-title="CLUB",Real Madrid TV**
+https://dice-live-eu.cdnfastly.endeavorstreaming.net/1721609090_zZCAYBjQGj1jlFxd_2c4871859a7c3f0de3b30052660a8f1f7f77b7d5/id=3cab081d-42f4-4175-aeb1-2e02b48d22f7/data=dWlkPVB6Nkw5UHwwZDNkOWFmYy0yNTg0LTQzZjMtOWVkMS03ZDIyMjAzNzBlZTkmaXA9NTEuMjUzLjE4NS45OSZleHA9MTcyMTYwOTExOSZlaWQ9MjM5MjA4JmNpZD1kY2UucmVhbG1hZHJpZCZvaWQ9MzQ3/~/hls/live/2019440/239208-272394/exchange239208gyfwr_239208_412/chunklist-d.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png",TF1
 http://homeip.biz/FR_TF1HD/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png",BBC 1
