@@ -454,8 +454,7 @@ https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b350000
 https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJifVOt.png" group-title="Kuwait",Kuwait Al-Arabi HD
-https://kwtktvata.cdn.mangomolo.com/ktvaaa/smil:ktva.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-
+https://kwtalmta.cdn.mangomolo.com/alm/smil:alm.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EmFkaGZ.png" group-title="Kuwait",Kuwait Ethraa HD
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
