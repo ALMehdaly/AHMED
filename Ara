@@ -6,14 +6,14 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yFRMk0b.png",Al Ekhbaria HD
-https://al-ekhbaria-prod-dub-ak.akamaized.net/out/v1/d443f3203b444032896e3233cb6eaa84/index_1.m3u8
+https://al-ekhbaria-prod-dub-enc.edgenextcdn.net/out/v1/d443f3203b444032896e3233cb6eaa84/index_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ue2VZLn.png",Al Arabiya HD 
 https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_38.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rZy3Sxq.png",Al Hadath HD 
-https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_1.m3u8
+https://hadath-prod-dub-enc.edgenextcdn/out/v1/0e1a306399c346faac4226aa0858f99b/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zYleCsq.png",Asharq News Channel HD
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_source/chunks_dvr.m3u8
@@ -69,18 +69,18 @@ https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LCp0hUL.png",Saudi TV HD
-https://saudi-tv-prod-dub-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
+https://saudi-tv-prod-dub-enc.edgenextcdn.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xngS0N1.png",SBC HD
-https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_8.m3u8
+https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KNx4V2X.png",Thikrayat HD
-https://thikrayat-tv-prod-dub-ak.akamaized.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index_1.m3u8
+https://thikrayat-tv-prod-dub-enc.edgenextcdn.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzLfkl4.png",Al Thaqafeya HD
-https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_2.m3u8
+https://thaqafeyyah-enc.edgenextcdn.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GQZbVKn.png",MBC1 HD 
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
@@ -96,17 +96,17 @@ https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_2
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pPb91xM.png",MBC+ Drama HD
-https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BkuTVss.png",MBC4 HD 
-https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+https://mbc4-prod-dub-enc.edgenextcdn.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FKBOQLb.png",MBC5 HD 
-https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+https://mbc5-prod-dub-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLmSYGx.png",MBC Iraq HD 
-https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+https://iraq-prod-dub-enc.edgenextcdn.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qkj5mTs.png",MBC Masr 1 HD 
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
@@ -114,15 +114,16 @@ https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2II3Cru.jpg",MBC Masr 2 HD 
-https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+
+https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEAgd1p.png",MBC Bollywood HD 
-https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mCJ8GAA.png",Wanasah HD 
-https://wanasah-prod-dub-ak.akamaized.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
+https://wanasah-prod-dub-enc.edgenextcdn.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
 
 
 
@@ -164,10 +165,10 @@ https://live.3cd.io/v1/broadcast/one/tracks-v1a1/mono.m3u8
 https://live.3cd.io/v1/broadcast/mtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rW5lUXw.png",Al Aan HD
-https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index_6.m3u8
+https://shls-live-enc.edgenextcdn.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index_6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/doSEfng.png",Roya TV HD
-https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index_13.m3u8
+https://shls-live-enc.edgenextcdn.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index_13.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uWuiVh0.png",Al Araby2 HD
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
@@ -246,21 +247,21 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png",MBC3 HD 
-https://mbc3-prod-dub-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+https://mbc3-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uaN5qm8.png",Cartoon Network Arabia
-https://cartoon-network-prod-dub-ak.akamaized.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
+https://cartoon-network-prod-dub-enc.edgenextcdn.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6gZB1IC.png",Spacetoon
-https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8
+https://spacetoon-prod-dub-enc.edgenextcdn.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zcpSCqB.png",Gulli Bil Arabi HD
-https://gulli-bil-arabi-prod-dub-ak.akamaized.net/out/v1/5454d215afba410c90b233f400730958/index_1.m3u8
+https://gulli-bil-arabi-prod-dub-enc.edgenextcdn.net/out/v1/5454d215afba410c90b233f400730958/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Do0uarT.png",Rotana Kids HD
-https://rotanakids-prod-dub-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+https://rotanakids-prod-dub-enc.edgenextcdn.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Bun2IX.png",Majd Kids TV HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
@@ -367,12 +368,12 @@ https://af.ayassport.ir/hls2/ssc1.m3u8
 
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2024%2FBedour%2FLogo_RSL%2Foriginal%2FLogo_RSL.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75",SSC RSL HD
 
-https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_1.m3u8
+https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppecvzJ.png",Quran TV HD
-https://quran-tv-prod-dub-ak.akamaized.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8
+https://quran-tv-prod-dub-enc.edgenextcdn.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EcKTI3S.png",Sunna TV HD
-https://sunna-tv-prod-dub-ak.akamaized.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_9.m3u8
+https://sunna-tv-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_9.m3u8
 
 
 
