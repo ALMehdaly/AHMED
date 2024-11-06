@@ -104,6 +104,8 @@ https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rZy3Sxq.png",Al Hadath  *
 
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png",Fox news 
+https://247.foxnews.com/hls/live/2003586/FNCHLSv3/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png",Fox news  *
