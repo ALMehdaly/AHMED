@@ -106,7 +106,8 @@ https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSIyAwT.png",Fox News
 https://247.foxnews.com/hls/live/2003586/FNCHLSv3/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eLniv0y.png",CNN 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i2fCRg5.png" group-title="News"",NBC News Now HD
