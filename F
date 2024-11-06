@@ -110,38 +110,7 @@ https://247.foxnews.com/hls/live/2003586/FNCHLSv3/master.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i2fCRg5.png" group-title="News"",NBC News Now HD
-https://lnc-nbc-news-now.tubi.video/master_5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qysand6.png" group-title="News",ABC News Live HD
-https://lnc-abc-news.tubi.video/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EHUe1il.png" group-title="News",ABC News 7 HD
-https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H20CNib.png" group-title="News", CBSN HD
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wbIl9vB.png" group-title="News",CBSN New York HD
-https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dyzedsk.png" group-title="News",CBSN Los Angeles HD
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eLniv0y.png" group-title="News",CNN International HD
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eLniv0y.png" group-title="News",CNN USA HD
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yspEfw4.png" group-title="News",HLN HD
-https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CSIyAwT.png" group-title="News",Fox News
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qEpPVUR.png" group-title="News",Fox News Now HD
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
 
 
