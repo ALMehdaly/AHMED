@@ -108,7 +108,8 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://247.foxnews.com/hls/live/2003586/FNCHLSv3/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eLniv0y.png",CNN 
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180509/khq/kisspng-nbc-news-correspondent-news-presenter-graffiti-in-violation-of-morality-5af28a5f092c58.5744812215258445750376.jpg",NBC News 
+https://prodamdnewsencoding.akamaized.net/NBC_News_Digital/nbc_spec_moreno_senate_241105/1/abs/index.m3u8
 
 
 
