@@ -281,13 +281,16 @@ https://edge.taghtia.com/sa/10.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XyjrYZY.png",KSA Sports 3 HD
 https://edge.taghtia.com/sa/16.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JeUlOGA.png",Oman TV Sport HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeUlOGA.png"group-title="SPORT",Oman TV Sport HD
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b4500000.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9mr72Q.png" group-title="SPORT",Kuwait Sports HD
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8?stime=20241216170733&etime=20241223233413&token=02de7503fb92e76a1f795
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png"group-title="SPORT",AD Sport 1 HD*
+https://raw.github.com/ALMehdaly/AHMED/TV/ADsport1.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/10mmlha.png",Al Kass 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10mmlha.png"group-title="SPORT",Al Kass 1 HD
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1buo/master1080.m3u8
 
 
@@ -305,11 +308,10 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xiuytgfficcn/master.m
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/owSN4dC.png",Sharjah Sport HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/owSN4dC.png"group-title="SPORT",Sharjah Sport HD
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png",AD Sport 1 HD*
-https://raw.github.com/ALMehdaly/AHMED/TV/ADsport1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png",AD Sport 1 HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
@@ -320,7 +322,7 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QYBNCkd.png", Yas Sports HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iJI3Blz.png",Dubai Sports 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iJI3Blz.png"group-title="SPORT",Dubai Sports 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJI3Blz.png",Dubai Sports 1 HD
@@ -338,7 +340,7 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunk
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pGR9hI7.png",Bahrain Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pGR9hI7.png"group-title="SPORT",Bahrain Sports 1 HD
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CjXvhtQ.png",Bahrain Sports 2 HD
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
