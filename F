@@ -116,5 +116,31 @@ https://prodamdnewsencoding.akamaized.net/NBC_News_Digital/nbc_spec_moreno_senat
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png",AD Sport 1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aDpGL8T.png",AD Sport 2 
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iJI3Blz.png",Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/owSN4dC.png" ,Sharjah Sport 
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10mmlha.png",Al Kass 1 
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1buo/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8w61kFX.png",Al Kass 2
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeUlOGA.png",Oman TV Sport 
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
 
 
