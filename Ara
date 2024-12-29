@@ -282,12 +282,13 @@ https://edge.taghtia.com/sa/10.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XyjrYZY.png",KSA Sports 3 HD
 https://edge.taghtia.com/sa/16.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeUlOGA.png"group-title="SPORT",Oman TV Sport HD
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b4500000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C9mr72Q.png" group-title="SPORT",Kuwait Sports HD
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8?stime=20241216170733&etime=20241223233413&token=02de7503fb92e76a1f795
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png"group-title="SPORT",AD Sport 1 HD*
 https://raw.github.com/ALMehdaly/AHMED/TV/ADsport1.m3u8
 
