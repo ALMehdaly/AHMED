@@ -306,7 +306,7 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iDL65Wu.png"group-title="SPORT",Al Kass 4 HD
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/iDL65Wu"group-title="SPORT",Al Kass 5 HD
+#EXTINF:-1 tvg-logo="https://imgur.com/iDL65Wu.png"group-title="SPORT",Al Kass 5 HD
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnh/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CrPSPSC.png"group-title="SPORT",Al Kass 6 HD
