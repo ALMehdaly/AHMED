@@ -460,33 +460,12 @@ https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist_b40
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C9mr72Q.png" group-title="Kuwait",Kuwait Sports HD
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8?stime=20241216170733&etime=20241223233413&token=02de7503fb92e76a1f795
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bG1lIa0.png" group-title="Kuwait",Kuwait Sports 2 HD
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png"group-title="adtv",AD Sport 1 HD exp
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8?expires=1735457067&md5=7rrlHvVAxHV4LanckJCtrQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png"group-title="adtv",AD Sport 1 HD exp MPD
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd?expires=1735457067&md5=7rrlHvVAxHV4LanckJCtrQ
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FkaYAoc.png"group-title="adtv",Abu Dhabi TV HD exp
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8?expires=1735457275&md5=5VL1PVf6jrsmszcoIsIo_g
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FkaYAoc.png"group-title="adtv",Abu Dhabi TV HD exp MPD
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/DASH/master.mpd?expires=1735457275&md5=5VL1PVf6jrsmszcoIsIo_g
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png"group-title="adtv",AD Sport 1 HD  MPD
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FkaYAoc.png"group-title="adtv",Abu Dhabi TV HD  MPD
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/DASH/master.mpd
-
-https://vo-live-media.cdb.cdn.orange.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pVxvKJf.png"group-title="adtv",AD Sport 1 HD NEW
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FkaYAoc.png"group-title="adtv",Abu Dhabi TV HD NEW
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9mr72Q.png" group-title="SPORT",Kuwait Sports
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
