@@ -306,10 +306,10 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iDL65Wu.png"group-title="SPORT",Al Kass 4 HD
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png"group-title="SPORT",Al Kass 5 HD
+#EXTINF:-1 tvg-logo="https://imgur.com/iDL65Wu"group-title="SPORT",Al Kass 5 HD
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnh/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png"group-title="SPORT",Al Kass 6 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CrPSPSC.png"group-title="SPORT",Al Kass 6 HD
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buza/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/owSN4dC.png"group-title="SPORT",Sharjah Sport HD
@@ -473,5 +473,5 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C9mr72Q.png" group-title="SPORT",Kuwait Sports
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="SPORT",iNews
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9lOuzHQ.png" group-title="SPORT",iNews
 https://live.i-news.tv/hls/stream.m3u8
