@@ -5,5 +5,3 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6965262,RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="audio1"
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/stream_04/index.m3u8
 
-
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
