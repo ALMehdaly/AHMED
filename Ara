@@ -375,11 +375,13 @@ https://live-hls-klca.livepush.io/live_abr_cdn/emndjgOp_V8Ege2/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=178&width=auto&croppingPoint=mc&type=webp"group-title="SPORT",SHAHID LIVE 1 HD
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=178&width=auto&croppingPoint=mc&type=webp",SHAHID LIVE 1 HD
 https://shls-live-event1-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=178&width=auto&croppingPoint=mc&type=webp",SHAHID LIVE 4 HD
+https://live-event-4-enc.edgenextcdn.net/out/v1/de16bd22e8854f80b0a6cd6815bacc14/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=178&width=auto&croppingPoint=mc&type=webp"group-title="SPORT",SHAHID LIVE 4 HD
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=178&width=auto&croppingPoint=mc&type=webp"group-title="SPORT",SHAHID LIVE x HD
 
 https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_1.m3u8
 
