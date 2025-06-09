@@ -1,7 +1,7 @@
 #EXTM3U
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png"group-title="NEWS",APPLE WWDC 25
+https://events-delivery.apple.com/0705ssefukzgmvtafvdghmccmofevkcb/m3u8/main_fa_ak.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yFRMk0b.png"group-title="NEWS",Al Ekhbaria HD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
