@@ -1,6 +1,6 @@
 #EXTM3U
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png"group-title="NEWS",rotana comdy
+https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/TV/RotanaComedy
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yFRMk0b.png"group-title="NEWS",Al Ekhbaria HD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
