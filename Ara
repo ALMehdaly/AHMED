@@ -410,3 +410,6 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9lOuzHQ.png" group-title="SPORT",iNews
 https://live.i-news.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="SHORT",ROTANA Comedy
+https://pastebin.com/raw/msyD3cia
