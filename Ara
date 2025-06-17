@@ -429,3 +429,40 @@ https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://rotana.net/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA khaleejiya
 https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
+ 
+#EXTVLCOPT:http-referrer=https://rotana.net/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA Cinema 
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
+
+#EXTVLCOPT:http-referrer=https://rotana.net/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA Cinema Masr
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
+#EXTVLCOPT:http-referrer=https://rotana.net/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA classic
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
+#EXTVLCOPT:http-referrer=https://rotana.net/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA Clip
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+
+ 
+
+#EXTVLCOPT:http-referrer=https://rotana.net/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA Drama
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://rotana.net/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",LBC
+https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
+#EXTVLCOPT:http-referrer=https://rotana.net/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ALRisala
+https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
