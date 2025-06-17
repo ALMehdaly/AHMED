@@ -416,7 +416,6 @@ https://pastebin.com/raw/msyD3cia
 
 
 
-
-#EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="Comedy" http-referrer="https://rotana.net/",Rotana Comedy (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="SHORTnn",ROTANA Comedy
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
