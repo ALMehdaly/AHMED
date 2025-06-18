@@ -466,3 +466,20 @@ https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://rotana.net/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ALRisala
 https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png" group-title="dazn", dazn inter en60
+
+https://dai.google.com/linear/dash/pa/event/XuBZz4TqTVK8H_rsiRxkjQ/stream/1aa512a6-3e2f-456a-bac4-93f698d5f9e8:GRQ/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png" group-title="dazn",dazn inter ar60
+https://dai.google.com/linear/dash/pa/event/xEV1eTxmRfiPC47TmMm3CA/stream/099844a2-d4d9-49f4-b42e-8c80e6f2e960:BRU/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png" group-title="dazn",dazn inter en30
+
+https://dai.google.com/linear/dash/pa/event/uts24EjrQjq2LdFLGxP0jQ/stream/627fb820-db33-44a7-a64a-6e5fb04557f5:GRQ/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png" group-title="dazn",dazn inter ar30
+https://dai.google.com/linear/dash/pa/event/bLPBA0UUS5us-aaqcgfxjQ/stream/4d43af82-e44f-46fd-8b86-364014f867d1:BRU/manifest.mpd
