@@ -413,8 +413,8 @@ https://live.i-news.tv/hls/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png"group-title="SHORT",rotana comdy git
-https://raw.githubusercontent.com/ALMehdaly/AHMED/TV/RotanaComedy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png"group-title="SHORT",rotana kh git
+https://raw.githubusercontent.com/ALMehdaly/AHMED/TV/Rotanakh
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="SHORT",ROTANA kh hd
 https://pastebin.com/raw/qtnfAXjQ
