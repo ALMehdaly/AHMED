@@ -494,3 +494,5 @@ https://dcb-by-livedazn.daznedge.net/yg7b5g1zg06e1wgqnink2xyd9/web/stream.mpd?ch
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png" group-title="dazn",dazn ahly 2 en30
 https://dcb-ak-livedazn.akamaized.net/1lf3qymy5nsc41k0kz1tj5as9a/web/stream.mpd?channel=2650&outlet=dazn-mena&plang=en
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png" group-title="dazn",dazn ahly 2 en60
+https://dai.google.com/linear/dash/pa/event/Niq24MvJTl2BVwwpTB8OZg/stream/5b5eb06d-a192-4e53-ba8c-c1ae9c85e408:GRQ/manifest.mpd
