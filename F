@@ -4,15 +4,19 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yFRMk0b.png",Al Ekhbaria HD
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index_1.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zYleCsq.png",Asharq News Channel HD
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_source/chunks_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ue2VZLn.png",Al Arabiya HD 
-https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_38.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ue2VZLn.png",Al Arabiya *
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rZy3Sxq.png",Al Hadath HD 
-https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_1.m3u8
+https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZy3Sxq.png",Al Hadath  *
+
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+
 
 
 
@@ -100,13 +104,7 @@ https://shls-live-event1-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062dd
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=178&width=auto&croppingPoint=mc&type=webp",SHAHID LIVE 4 HD
 https://live-event-4-enc.edgenextcdn.net/out/v1/de16bd22e8854f80b0a6cd6815bacc14/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ue2VZLn.png",Al Arabiya *
 
-https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rZy3Sxq.png",Al Hadath  *
-
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSIyAwT.png",Fox News
 https://247.foxnews.com/hls/live/2003586/FNCHLSv3/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eLniv0y.png",CNN 
