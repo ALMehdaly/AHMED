@@ -67,6 +67,9 @@ https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ue2VZLn.png"group-title="NEWS",Al Arabiya HD  sh
 https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_38.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZy3Sxq.png"group-title="NEWS",Al Hadath HD sh
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LCp0hUL.png"group-title="Main",Saudi TV HD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 
@@ -99,8 +102,7 @@ https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2II3Cru.jpg"group-title="Main",MBC Masr 2 HD 
-
-https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 
  
 
