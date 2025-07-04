@@ -5,6 +5,8 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yFRMk0b.png"group-title="NEWS",Al Ekhbaria HD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zYleCsq.png"group-title="NEWS",Asharq News Channel HD
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ue2VZLn.png"group-title="NEWS",Al Arabiya HD 
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
@@ -13,8 +15,6 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rZy3Sxq.png"group-title="NEWS",Al Hadath HD 
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zYleCsq.png"group-title="NEWS",Asharq News Channel HD
-https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_source/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xOGYO75.png"group-title="NEWS",Sky News Arabia HD
 https://stream.skynewsarabia.com/ott/ott.m3u8
@@ -104,7 +104,8 @@ https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2II3Cru.jpg"group-title="Main",MBC Masr 2 HD 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 
- 
+#EXTINF:-1 tvg-id="MBCMasrDrama.sa" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="Main",MBC Masr Drama
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OdaIfw3.png"group-title="Main",MBC Drama HD 
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
@@ -471,9 +472,6 @@ https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
 https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xx.png" group-title="dazn", dazn inter en60
-
-https://dai.google.com/linear/dash/pa/event/XuBZz4TqTVK8H_rsiRxkjQ/stream/1aa512a6-3e2f-456a-bac4-93f698d5f9e8:GRQ/manifest.mpd
 
 
 
@@ -498,15 +496,15 @@ https://dai.google.com/linear/dash/pa/event/XuBZz4TqTVK8H_rsiRxkjQ/stream/1aa512
 
 
 
-
-#EXTINF:-1 tvg-id="AlResalah.sa" http-referrer="https://rotana.net/",Al Resalah (1080p)
+#EXTINF:-1 tvg-id="AlResalah.sa" http-referrer="https://rotana.net/",Al Resalah  t1
 #EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlResalah.sa" http-referrer="https://rotana.net/",Al Resalah  t2
 https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MBCMasrDrama.sa",MBC Masr Drama
-https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
 
 
 
@@ -515,12 +513,52 @@ https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/in
 
 
 
-#EXTINF:-1 tvg-id="AsharqNews.sa",Asharq News (1080p)
-https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
 
 
-#EXTINF:-1 tvg-id="AsharqNews.sa",Asharq News (1080p)
-https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="AsharqRadio.sa",Asharq Radio (1080p)
-https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AlJadeed.lb@SD" tvg-logo="https://i.imgur.com/CfxR8o3.png" group-title="Arabic",Al Jadeed 
+http://185.9.2.18/chid_391/mono.m3u8
+
+#EXTINF:-1 tvg-id="MTV.lb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" group-title="Arabic",MTV 
+https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlMashhad.ae" tvg-logo="https://i.imgur.com/6G6fxs5.png" group-title="Arabic",Al Mashhad
+https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlGhadTV.eg" tvg-logo="https://i.imgur.com/ga6NXb9.png" group-title="Arabic",Al Ghad TV (1080p)
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+
+
+#EXTINF:-1 tvg-id="AlQaheraNews.eg" tvg-logo="https://i.imgur.com/37t7yfO.png" group-title="Arabic",Al Qahera News 
+https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="OnE.eg" tvg-logo="https://i.imgur.com/EPln9yU.png" group-title="Arabic",On E 
+https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="DMC.eg" tvg-logo="https://i.imgur.com/iy70Xxr.png" group-title="Arabic",DMC (1080p)
+https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlhayatTV.eg@SD" tvg-logo="https://i.imgur.com/bl9ie9u.png" group-title="Arabic",Alhayat TV
+https://fl1002.bozztv.com/ga-alhayah/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="https://yt3.googleusercontent.com/dB8EHJ6PctY5KeLwv1As_a8cRlEechp5LSCsQ-aKmohEicId1H1dChy5OIK5vv1Ehuzv_tIr_g=s160-c-k-c0x00ffffff-no-rj" group-title="Arabic",Al-Nahar
+https://fl1002.bozztv.com/ga-alnahar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CBC.eg" tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="Arabic",CBC 
+https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="AlkassSHOOF.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="Arabic",Alkass SHOOF (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
