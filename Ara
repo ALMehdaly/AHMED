@@ -6,10 +6,10 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/AlEkhbaria.png"group-title="NEWS",Al Ekhbaria *
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlEkhbaria.png"group-title="NEWS",Al Ekhbaria *
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/AsharqNews.png"group-title="NEWS",Asharq News Channel *
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AsharqNews.png"group-title="NEWS",Asharq News Channel *
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 
 
