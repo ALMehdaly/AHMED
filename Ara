@@ -55,20 +55,11 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/strea
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N9JDBmJ.png"group-title="NEWS",TRT Arabia HD
 http://185.234.111.229:8000/play/a002
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/KuwaitNews.png" group-title="NEWS",Kuwait News
+https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CL22wwo.png" group-title="NEWS",Asharq Documentary HD
-https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yszVEyu.png"group-title="NEWS" ,Asharq Discovery HD
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QhUkmML.png" group-title="NEWS",National Geographic Abu Dhabi HD
-https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yhwf8Mo.png"group-title="NEWS" ,Al Jazeera Documentary HD
-https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/ALArabiyaBusiness.png"group-title="NEWS",AL Arabiya Business 
@@ -386,16 +377,27 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CL22wwo.png" group-title="Documentary",Asharq Documentary HD
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yszVEyu.png"group-title="Documentary" ,Asharq Discovery HD
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QhUkmML.png" group-title="Documentary",National Geographic Abu Dhabi HD
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yhwf8Mo.png"group-title="Documentary" ,Al Jazeera Documentary HD
+https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
+
+
+
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xmXnFCE.png" group-title="Kuwait",Kuwait TV 1 HD
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="Kuwait",Kuwait news HD
-https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Lh2WOi.png" group-title="Kuwait",Kuwait TV 2 HD
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
