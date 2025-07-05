@@ -6,14 +6,14 @@
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/AHMED/PICON/AlEkhbaria.png"group-title="NEWS",Al Ekhbaria
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/AHMED/TvLink/ASHARQ.png"group-title="NEWS",Asharq News Channel 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/AHMED/PICON/AsharqNews.png"group-title="NEWS",Asharq News Channel 
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zYleCsq.png"group-title="NEWS",Asharq News Channel HD
-https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ue2VZLn.png"group-title="NEWS",Al Arabiya HD 
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
