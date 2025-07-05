@@ -64,7 +64,8 @@ https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b8000000_t64
 
 
 
-
+#EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/CNBCArabiya.png" group-title="NEWS",CNBC Arabiya 
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/ALArabiyaBusiness.png"group-title="NEWS",AL Arabiya Business 
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
