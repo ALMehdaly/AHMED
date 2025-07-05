@@ -2,8 +2,16 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yFRMk0b.png"group-title="NEWS",Al Ekhbaria HD
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/AlEkhbaria.png"group-title="NEWS",Al Ekhbaria *
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/AsharqNews.png"group-title="NEWS",Asharq News Channel *
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/AHMED/PICON/AlEkhbaria.png"group-title="NEWS",Al Ekhbaria
