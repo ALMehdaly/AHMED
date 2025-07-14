@@ -82,8 +82,12 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png"group-title="NEWS",BBC news uk
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png"group-title="NEWS",BBC news ww
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png"group-title="NEWS",BBC news ww mpd
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png"group-title="NEWS",BBC news * ww
+
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png"group-title="NEWS",BBC news skygo
