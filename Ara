@@ -602,3 +602,60 @@ https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/60579
 
 #EXTINF:-1 tvg-id="AlkassSHOOF.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="Arabic",Alkass SHOOF (1080p)
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME SAFARI UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1444571
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME JUNGLE UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1444570
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME FOREST UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1444572
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME OCEAN UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1444575
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME EARTH UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1448304
+#EXTINF:-1 group-title="RELAX TIME",RL ▎ RELAXTIME BEACH UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1448305
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME CAMPFIRE UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1444574
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME MOUNTAIN UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1448302
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME VOLCANO UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1444577
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME TROPICAL ISLAND UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1444576
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME NORWAY UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1448295
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME TURKEY UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1448296
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME BALI UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1448297
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME GREECE UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1448298
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME MOROCCO UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1448299
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME CHINA UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1448300
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME SPAIN UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1456227
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME FRANCE UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1456226
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME DUBAI UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1448301
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME ICELAND UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1448303
+#EXTINF:-1 group-title="RELAX TIME",RL ▎RELAXTIME THE ALPS UHD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1448306
