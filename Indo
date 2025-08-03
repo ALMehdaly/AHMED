@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",SPOTV
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",SPOTV 2
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",NBA TV
+https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",FIGHT SPORTS
+https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",FUN PLANET
+https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",ANTV
+https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",SCTV
+https://cdn09jtedge.indihometv.com/atm/hlsv3/sctv/sctv-avc1_1200000=4-mp4a_96000=2.m3u8
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",INDOSIAR
+https://cdn09jtedge.indihometv.com/atm/hlsv3/indosiar/indosiar-avc1_1200000=4-mp4a_96000=2.m3u8
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",THRILL
+https://cdn09jtedge.indihometv.com/atm/hlsv3/thrill/thrill-avc1_1200000=4-mp4a_96000=2.m3u8
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",AXN
+https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_1200000=4-mp4a_96000=2.m3u8
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",AL QURAN AL KAREEM
+https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",RODJA TV
+https://cdn09jtedge.indihometv.com/joss/130/rodjatv/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",MUI TV
+https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",TV9
+https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",TVN MOVIES
+https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",IMC
+https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",GALAXY PREMIUM
+https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",GALAXY
+https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",FLIK
+https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",BIOSKOP INDONESIA
+https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",CELESTIAL MOVIE
+https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",MY CINEMA
+https://cdn09jtedge.indihometv.com/joss/133/mycinema/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",CINEMAWORLD
+https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",CNBC INDONESIA
+https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",CNN INTERNATIONAL
+https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",TVN
+https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",HISTORY
+https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",DUNIA LAIN
+https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",CITRA DRAMA
+https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",ONE
+https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",KIX
+https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",KUNGFU TV
+https://cdn09jtedge.indihometv.com/joss/130/kungfutv/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",GEM
+https://cdn09jtedge.indihometv.com/joss/133/sgem/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",ZHEJIANG TV
+https://cdn09jtedge.indihometv.com/joss/130/zhejiang/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",SHENZEN TV
+https://cdn09jtedge.indihometv.com/joss/130/shenzen/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",CARTOON NETWORK
+https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",HOREE
+https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",DISCOVERY
+https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",TECHSTORM
+https://cdn09jtedge.indihometv.com/joss/133/techstorm/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",CRIME INVESTIGATION
+https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",PANDA TV
+https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",ASIA FOOD NETWORK
+https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",EAT&GO
+https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",CITRA DANGDUT
+https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",INSERT
+https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",NICKJR
+https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",NET
+https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",DAAI TV
+https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",CURIOSITY
+https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",LOVE NATURE
+https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",ANIMAL PLANET
+https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",DISCOVERY ASIA
+https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",DUNIA ANAK
+https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",HITS NOW
+https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME",MAXSTREAM
+https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
