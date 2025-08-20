@@ -23,7 +23,8 @@ https://cdn.live.servers8.com/ch09/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="NEWS",Thmanyah• 10
 https://cdn.live.servers8.com/ch10/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="NEWS",Thmanyah• 8 4k
+https://cdn.live.servers8.com/ch08/index_7.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlEkhbaria.png"group-title="NEWS",Al Ekhbaria 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
