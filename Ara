@@ -1,9 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="NEWS",Thmanyah• 1
+https://cdn.live.servers8.com/ch01/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="NEWS",Thmanyah• 2
+https://cdn.live.servers8.com/ch02/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="NEWS",Thmanyah• 3
+https://cdn.live.servers8.com/ch03/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="NEWS",Thmanyah• 4
+https://cdn.live.servers8.com/ch04/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="NEWS",Thmanyah• 5
+https://cdn.live.servers8.com/ch05/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="NEWS",Thmanyah• 6
+https://cdn.live.servers8.com/ch06/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="NEWS",Thmanyah• 7
+https://cdn.live.servers8.com/ch07/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="NEWS",Thmanyah• 8
+https://cdn.live.servers8.com/ch08/index.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="NEWS",Thmanyah•1 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="NEWS",Thmanyah• 9
 https://cdn.live.servers8.com/ch09/index.m3u8
 
 
