@@ -1,3 +1,4 @@
+#EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="default-audio",NAME="audio",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="ar",URI="https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/audio/96kbps/audio.m3u8"
