@@ -154,6 +154,11 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mCJ8GAA.png"group-title="Main",Wanasah HD 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBCgaming.png"group-title="Main",MBC Gaming
+https://shls-live-enc.edgenextcdn.net/out/v1/8ae5c35ffc5247a58e71a5c86dd31ad6/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBC1.png"group-title="Main",MBC1 *
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
