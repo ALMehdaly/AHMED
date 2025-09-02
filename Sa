@@ -30,17 +30,17 @@ https://alibaba.servers8.com/ch04/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="VOD",Thmanyah• Hil R1 auto 25/26
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• Hil R1 auto 25/26
 
 https://v2.thmanyahcdn.com/v2/59249013667266576_auto.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="VOD",Thmanyah• HIL 720p30
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• HIL 720p30
 https://v2.thmanyahcdn.com/v1/41233994069639168_720p_30fps_h264_v3.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="VOD",Thmanyah• HIL 720p50
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• HIL 720p50
 https://v2.thmanyahcdn.com/v2/59249013667266576_720p.mp4
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="VOD",Thmanyah• HIL 1080p50
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• HIL 1080p50
 https://v2.thmanyahcdn.com/v2/59249013667266576_1080p.mp4
