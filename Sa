@@ -30,6 +30,13 @@ https://alibaba.servers8.com/ch04/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="SSC1" tvg-logo="" group-title="SHAHID VIP", shahid. Vod
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 9678c2aca35a4d5faf2bbe4893e48e3f:db2828dac53e4a43b3ab3d55d05b226e
+https://mbcvod-enc.edgenextcdn.net/out/v1/ac79d3b1b48f4ee8a74fd292426b5d99/index.mpd
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• Hil R1 auto 25/26
 
 https://v2.thmanyahcdn.com/v2/59249013667266576_auto.m3u8
