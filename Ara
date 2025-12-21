@@ -1,51 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 1
- 
-https://cdn.live.servers8.com/ch01/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 2
- 
-https://cdn.live.servers8.com/ch02/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 3
- 
-https://cdn.live.servers8.com/ch03/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 4
- 
-https://cdn.live.servers8.com/ch04/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 1@
-https://alibaba.servers8.com/ch01/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 2@
-https://alibaba.servers8.com/ch02/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 3@
-https://alibaba.servers8.com/ch03/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 4@
-https://alibaba.servers8.com/ch04/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 1 FHD
-https://raw.github.com/ALMehdaly/AHMED/refs/heads/TV/801FHD.m3u
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 2 FHD
-https://raw.github.com/ALMehdaly/AHMED/refs/heads/TV/802FHD.m3u
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 3 FHD
-https://raw.github.com/ALMehdaly/AHMED/refs/heads/TV/803FHD.m3u
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 1 HD
-https://raw.github.com/ALMehdaly/AHMED/refs/heads/TV/801HD.m3u
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 2 HD
-https://raw.github.com/ALMehdaly/AHMED/refs/heads/TV/802HD.m3u
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 3 HD
-https://raw.github.com/ALMehdaly/AHMED/refs/heads/TV/803HD.m3u
 
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlEkhbaria.png"group-title="NEWS",Al Ekhbaria 
@@ -714,3 +669,51 @@ http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1448306
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 1
+ 
+https://cdn.live.servers8.com/ch01/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 2
+ 
+https://cdn.live.servers8.com/ch02/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 3
+ 
+https://cdn.live.servers8.com/ch03/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 4
+ 
+https://cdn.live.servers8.com/ch04/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 1@
+https://alibaba.servers8.com/ch01/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 2@
+https://alibaba.servers8.com/ch02/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 3@
+https://alibaba.servers8.com/ch03/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 4@
+https://alibaba.servers8.com/ch04/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 1 FHD
+https://raw.github.com/ALMehdaly/AHMED/refs/heads/TV/801FHD.m3u
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 2 FHD
+https://raw.github.com/ALMehdaly/AHMED/refs/heads/TV/802FHD.m3u
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 3 FHD
+https://raw.github.com/ALMehdaly/AHMED/refs/heads/TV/803FHD.m3u
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 1 HD
+https://raw.github.com/ALMehdaly/AHMED/refs/heads/TV/801HD.m3u
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 2 HD
+https://raw.github.com/ALMehdaly/AHMED/refs/heads/TV/802HD.m3u
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 3 HD
+https://raw.github.com/ALMehdaly/AHMED/refs/heads/TV/803HD.m3u
