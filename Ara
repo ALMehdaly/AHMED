@@ -726,6 +726,10 @@ https://raw.github.com/ALMehdaly/AHMED/refs/heads/TV/802HD.m3u
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 3 HD
 https://raw.github.com/ALMehdaly/AHMED/refs/heads/TV/803HD.m3u
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8live",Thmanyah• 1X1h
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15
+https://cloudfront-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAxLWZ0YSIsImlwIjoiMTguMjM0LjE2NS4xODciLCJpcF92NCI6IjE4LjIzNC4xNjUuMTg3IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMjYuMSBTYWZhcmkvNjA1LjEuMTUiLCJuYmYiOjE3NjY3Njc5NTAsImV4cCI6MTc2Njc3ODc1MCwiaWF0IjoxNzY2NzY3OTUwfQ.pYvEgsiei_wjWLChNnrmm7eOj5_8x-eJIo_JNeIKGQw/live/ch01-fta/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8live",Thmanyah• 1X1
  
