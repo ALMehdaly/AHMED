@@ -732,6 +732,11 @@ https://raw.github.com/ALMehdaly/AHMED/refs/heads/TV/803HD.m3u
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15
 https://cloudfront-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAxLWZ0YSIsImlwIjoiMzQuMjI5LjAuNiIsImlwX3Y0IjoiMzQuMjI5LjAuNiIsImlwX3Y2IjoiIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI2LjEgU2FmYXJpLzYwNS4xLjE1IiwibmJmIjoxNzY2NzU0OTMxLCJleHAiOjE3NjY3NjU3MzEsImlhdCI6MTc2Njc1NDkzMX0.ENrFrryty4Dg2p5wP9w1vgNW6E3Bn0kdRbOPGZPJSNQ/live/ch01-fta/index.m3u8?auth_key=1766754961-546a065d15e042c4a27cc72481c9c6bb-0-7f4c8522176eadff307642bdc008ce6d
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8live",Thmanyah• 1X2
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15
+https://alibaba-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAyLWZ0YSIsImlwIjoiOTguOTMuNTYuNTIiLCJpcF92NCI6Ijk4LjkzLjU2LjUyIiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMjYuMSBTYWZhcmkvNjA1LjEuMTUiLCJuYmYiOjE3NjY3NjI3NDUsImV4cCI6MTc2Njc3MzU0NSwiaWF0IjoxNzY2NzYyNzQ1fQ.pCToM_t1NocPocn8RT_d8s3tKG1SjZhotoepDwMAUEE/live/ch02-fta/index.m3u8?auth_key=1766762775-726521af457749f9b29a7221f608177c-0-ecfe1e7bb569b10172fd7f0525bb248a
+
+
 
 
 
@@ -743,11 +748,6 @@ https://alibaba-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyS
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8live",Thmanyah• Y3X1
- 
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15
-
-https://cloudfront-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAzLWZ0YSIsImlwIjoiMzQuMjI5LjAuNiIsImlwX3Y0IjoiMzQuMjI5LjAuNiIsImlwX3Y2IjoiIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI2LjEgU2FmYXJpLzYwNS4xLjE1IiwibmJmIjoxNzY2NzU1NTA2LCJleHAiOjE3NjY3NjYzMDYsImlhdCI6MTc2Njc1NTUwNn0.zwGJBGB4X-retTyPbu_Jrx4lPhswenQheXoo1RQBEKw/live/ch03-fta/index.m3u8?auth_key=1766755536-32cb44a11cd945e08c905cb4a5e48742-0-71d3785a30b3aaa062704995025297cd
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8live",Thmanyah•Y4X1
  
@@ -815,6 +815,12 @@ https://alibaba-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyS
  
 #EXTVLCOPT:http-user-agent= * Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://alibaba-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAzLWZ0YSIsImlwIjoiMTMuMjE4LjgxLjEyNyIsImlwX3Y0IjoiMTMuMjE4LjgxLjEyNyIsImlwX3Y2IjoiIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI2LjIgU2FmYXJpLzYwNS4xLjE1IiwibmJmIjoxNzY2NzUzMzAwLCJleHAiOjE3NjY3NjQxMDAsImlhdCI6MTc2Njc1MzMwMH0.me_HfBz2cQzJjQo1NoUV3TmmOvo9tCuwVK6Ng9iIZpc/live/ch03-fta/index.m3u8?auth_key=1766753330-4a67c5404c0b482fa4fc0dcdbb68221f-0-22a5fa3d27105c38740fb837fbdeb0c5
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8live",Thmanyah• Y3X1
+ 
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15
+
+https://cloudfront-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAzLWZ0YSIsImlwIjoiMzQuMjI5LjAuNiIsImlwX3Y0IjoiMzQuMjI5LjAuNiIsImlwX3Y2IjoiIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI2LjEgU2FmYXJpLzYwNS4xLjE1IiwibmJmIjoxNzY2NzU1NTA2LCJleHAiOjE3NjY3NjYzMDYsImlhdCI6MTc2Njc1NTUwNn0.zwGJBGB4X-retTyPbu_Jrx4lPhswenQheXoo1RQBEKw/live/ch03-fta/index.m3u8?auth_key=1766755536-32cb44a11cd945e08c905cb4a5e48742-0-71d3785a30b3aaa062704995025297cd
 
 
 
