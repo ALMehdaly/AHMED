@@ -730,6 +730,13 @@ https://raw.github.com/ALMehdaly/AHMED/refs/heads/TV/803HD.m3u
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15
 https://alibaba-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAxLWZ0YSIsImlwIjoiMy4yMzMuMjMyLjE3OSIsImlwX3Y0IjoiMy4yMzMuMjMyLjE3OSIsImlwX3Y2IjoiIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI2LjEgU2FmYXJpLzYwNS4xLjE1IiwibmJmIjoxNzY2ODQ3MzMzLCJleHAiOjE3NjY4NTgxMzMsImlhdCI6MTc2Njg0NzMzM30.TZQuakGEmn9XGzkK1cPYsPk2x6PjxbCWP2Qq4fOuHq4/live/ch01-fta/index.m3u8?auth_key=1766847363-716a2e030e7949e58532a25d4560e06c-0-a9b789b1a9e98d2487735b3323b4e036
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8live",Thmanyah•1win n
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+
+ 
+https://cloudfront-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAxLWZ0YSIsImlwIjoiMzQuMjM4LjEzMS4xMTIiLCJpcF92NCI6IjM0LjIzOC4xMzEuMTEyIiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQzLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJuYmYiOjE3NjY4NDg5MDEsImV4cCI6MTc2Njg1OTcwMSwiaWF0IjoxNzY2ODQ4OTAxfQ.fgsloTLfwB-h7NYYV22u-UVchNO_mH37j0KVQzcZucc/live/ch01-fta/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8live",Thmanyah• 1X1
  
@@ -851,8 +858,3 @@ https://cloudfront-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15
 https://cloudfront-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDA0LWZ0YSIsImlwIjoiMzQuMjI5LjEzMS40OCIsImlwX3Y0IjoiMzQuMjI5LjEzMS40OCIsImlwX3Y2IjoiIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI2LjEgU2FmYXJpLzYwNS4xLjE1IiwibmJmIjoxNzY2NjgyNjI3LCJleHAiOjE3NjY2OTM0MjcsImlhdCI6MTc2NjY4MjYyN30.w81OPjGqOUm52mt5D-EfOzrI6VFrbrSRvXg0JXGCBoY/live/ch04-fta/index.m3u8?auth_key=1766682657-0fcf0ee478584ac1a1fe0b75537db358-0-a0b352c1f9007bbcdfac86e88a75a4e1
  
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8live",Thmanyah•1win ch
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-
- 
-https://alibaba-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAyLWZ0YSIsImlwIjoiNTQuOTIuMTQ5LjEwIiwiaXBfdjQiOiI1NC45Mi4xNDkuMTAiLCJpcF92NiI6IiIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsIm5iZiI6MTc2Njg0NTA4NSwiZXhwIjoxNzY2ODU1ODg1LCJpYXQiOjE3NjY4NDUwODV9.vTrcNNV8_Ri_78iCQukGJ5hmdVDedL4fEfzDAyyMpJQ/live/ch02-fta/index.m3u8
