@@ -726,7 +726,11 @@ https://raw.github.com/ALMehdaly/AHMED/refs/heads/TV/802HD.m3u
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 3 HD
 https://raw.github.com/ALMehdaly/AHMED/refs/heads/TV/803HD.m3u
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8live",Thmanyah• 1X1n
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8live",Thmanyah• 1X1n iphone
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://cloudfront-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAxLWZ0YSIsImlwIjoiMzQuMjAxLjE2OC4xOTYiLCJpcF92NCI6IjM0LjIwMS4xNjguMTk2IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMjYuMiBTYWZhcmkvNjA1LjEuMTUiLCJuYmYiOjE3NjY4NTQzMDAsImV4cCI6MTc2Njg2NTEwMCwiaWF0IjoxNzY2ODU0MzAwfQ.A4gwbCegs_up0b_xHf9McH70wjNUAPyRWxKA84mr7to/live/ch01-fta/index.m3u8?auth_key=1766854330-878f5de9ff7e45e7ade7b3aa4c54e3c9-0-150f647fb3895f392b845909f76f6040
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8live",Thmanyah• 1X1n ipad
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15
 https://alibaba-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAxLWZ0YSIsImlwIjoiMy4yMzMuMjMyLjE3OSIsImlwX3Y0IjoiMy4yMzMuMjMyLjE3OSIsImlwX3Y2IjoiIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI2LjEgU2FmYXJpLzYwNS4xLjE1IiwibmJmIjoxNzY2ODQ3MzMzLCJleHAiOjE3NjY4NTgxMzMsImlhdCI6MTc2Njg0NzMzM30.TZQuakGEmn9XGzkK1cPYsPk2x6PjxbCWP2Qq4fOuHq4/live/ch01-fta/index.m3u8?auth_key=1766847363-716a2e030e7949e58532a25d4560e06c-0-a9b789b1a9e98d2487735b3323b4e036
 
