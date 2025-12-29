@@ -879,3 +879,51 @@ https://cloudfront-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15
 https://cloudfront-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDA0LWZ0YSIsImlwIjoiMzQuMjI5LjEzMS40OCIsImlwX3Y0IjoiMzQuMjI5LjEzMS40OCIsImlwX3Y2IjoiIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI2LjEgU2FmYXJpLzYwNS4xLjE1IiwibmJmIjoxNzY2NjgyNjI3LCJleHAiOjE3NjY2OTM0MjcsImlhdCI6MTc2NjY4MjYyN30.w81OPjGqOUm52mt5D-EfOzrI6VFrbrSRvXg0JXGCBoY/live/ch04-fta/index.m3u8?auth_key=1766682657-0fcf0ee478584ac1a1fe0b75537db358-0-a0b352c1f9007bbcdfac86e88a75a4e1
  
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R1 full auto 25/26x
+https://v2.thmanyahcdn.com/v2/59255600809345024_auto.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R2 full auto 25/26x
+https://v2.thmanyahcdn.com/v2/59255581498638337_auto.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R3 full auto 25/26
+https://v2.thmanyahcdn.com/v2/59256323391422464_auto.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R4 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-601ed10a04a183fe9c055766299eeed4tt26_transcode_auto_1513595.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R5 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-b05ea07d862762541c9b8ba944cfe706tt26_transcode_auto_1513595.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R6 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-4a9c99e573068a0c19d1f343a966e64ctt26_transcode_auto_1513595.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R7 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-0f1aaa1925f73fa2b87f72e8940af023tt26_transcode_auto_1513595.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R8 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-affdb80dd68d784c6c7bc42accb2f69att26_transcode_auto_1513595.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R9 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-76a83a2001364f80743713141aa56788tt26_transcode_auto_1513595.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R11 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-de5d184eb1a247f94950d8453469ce23tt26_transcode_auto_1513595.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil KingCup 32 full auto 25/26
+https://v2.thmanyahcdn.com/v2/59257347116072960_auto.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil KingCup 16 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-0b0977ce66dc15db4aaf36b8b718670ctt26_transcode_auto_1513595.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil KingCup 8 full auto 25/26
+
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-4ff91d5780d7d1d7bb9ab327a1862563tt26_transcode_auto_1513595.m3u8
