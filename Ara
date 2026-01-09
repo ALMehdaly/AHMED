@@ -1,5 +1,14 @@
 #EXTM3U
 
+
+
+
+#EXTINF:-1,MBC_Plus_eLife
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=867c8d7670eab5e7aa10571830ad3d8c:030cf68626950b12145bc7147d6a9bda
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd
+
+
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/tv.png"group-title="NEWS",stc tv
 https://pop1e7.cdn.intigral-ott.net/bpk-token/4ar@ogp0sy2w2jlctfjgrlxkv4ufrbsztwegoklw2lda/bpk-tv/STC/fp/index.m3u8
 
