@@ -1,9 +1,14 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="DRM",MBC ACTION
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://shahid-ga.la.drm.cloud/acquire-license/widevine?BrandGuid=2be49af0-6fbd-4511-8e11-3d6523185bb4&UserToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjEuNzY4MDAwNjE0RTksImRybVRva2VuSW5mbyI6eyJleHAiOiIyMDI2LTAxLTA5VDIzOjE2OjU0LjAwMDQ3NSIsImtpZCI6WyIqIl0sInAiOnsicGVycyI6ZmFsc2UsImVkIjoiMjAyNi0wMS0wOVQyMzoxNjo1NC4wMDA0NzUiLCJleGMiOnsiV2lkZXZpbmVDYW5SZW5ldyI6ZmFsc2UsIkZhaXJwbGF5UmVudGFsRHVyYXRpb25TZWNvbmRzIjo4NjAwMCwiRmFpcnBsYXlMZWFzZUR1cmF0aW9uU2Vjb25kcyI6ODYwMDB9fX19.eUl3qvnuFlakXsdxfMXruhtzGid1oL1B21a-SYHYZO4
+ 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
 
-
-#EXTINF:-1,MBC_Plus_eLife
+#EXTINF:-1 group-title="DRM"MBC_Plus_eLife
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=867c8d7670eab5e7aa10571830ad3d8c:030cf68626950b12145bc7147d6a9bda
 https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd
