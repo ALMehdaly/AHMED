@@ -32,6 +32,18 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/2cea83644508440266f
 https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd
 
 
+
+
+
+#EXTINF:-1 group-title="DRM",DAZN COMBAT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=502ae9931ed21f09e3f992724aafbcbb:240c73b5e0b1967ae73be351bad6675a
+ 
+https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/DAZN_1/dash/drm/index.mpd
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/tv.png"group-title="NEWS",stc tv
 https://pop1e7.cdn.intigral-ott.net/bpk-token/4ar@ogp0sy2w2jlctfjgrlxkv4ufrbsztwegoklw2lda/bpk-tv/STC/fp/index.m3u8
 
