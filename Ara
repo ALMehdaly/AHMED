@@ -20,7 +20,10 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eec
 #KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052":"17774f82a3b9e33ea7a149596acbb20f
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
 
-
+#EXTINF:-1 group-title="DRM",thikrayat
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052":"17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/2cea83644508440266f3f48cbbb9fa36/index.mpd
 
 
 #EXTINF:-1 group-title="DRM",MBC_Plus_eLife
