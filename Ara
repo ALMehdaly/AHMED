@@ -16,7 +16,21 @@ https://shd-mediacdn-live.akamaized.net/live/bitmovin-quran-tv/5ade268066b7ec605
 
 https://shd-mediacdn-live.akamaized.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd
 
-
+#EXTINF:-1 group-title="DRM",mbc shahid-sports-1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1768140000/index.mpd
+ 
+ 
+ 
+ 
+#EXTINF:-1 group-title="DRM",mbc shahid-sports-VOD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbf9affc0f9d4a02afd3057829b4783f:c8d565c8ba689c36ef33ff1f99aa3d0f
+https://mbcvod-enc.edgenextcdn.net/out/v1/c79ac0d9171c4559b446980940c13c08/7c201da305b543e0ae55a3673f9aa3a5/840aa317c6f34c8fb0ef18117f07c496/index.mpd
+ 
+ 
+https://sfile.mobi/download/2120702/660777/f2b8a2fe1174330dd0c35eb67da9c1d9/ns-player-v7.7-no-ads.apk?is=cecee5fbf0cd70bc35f5fb090e45af51&k=1413461714411a1cc04721b3b3133b85
 
 #EXTINF:-1 group-title="DRM",MBC ACTION
  
