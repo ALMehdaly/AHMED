@@ -16,10 +16,7 @@ https://shd-mediacdn-live.akamaized.net/live/bitmovin-quran-tv/5ade268066b7ec605
 
 https://shd-mediacdn-live.akamaized.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd
 
-#EXTINF:-1 group-title="DRM",MBC ACTION n
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fbd94d137c0b4807a72bac82dcde9e2e:c59166fc489f4217e9ad137b0bf49022
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
+
 
 #EXTINF:-1 group-title="DRM",MBC ACTION
  
