@@ -16,7 +16,10 @@ https://shd-mediacdn-live.akamaized.net/live/bitmovin-quran-tv/5ade268066b7ec605
 
 https://shd-mediacdn-live.akamaized.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd
 
-
+#EXTINF:-1 group-title="DRM",MBC ACTION n
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbd94d137c0b4807a72bac82dcde9e2e:c59166fc489f4217e9ad137b0bf49022
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
 
 #EXTINF:-1 group-title="DRM",MBC ACTION
  
@@ -50,10 +53,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3/946fc698e47c30df2193962
 #KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052":"17774f82a3b9e33ea7a149596acbb20f
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time/2295a0b3be424fb57734cd622aaea0a9/index.mpd
 
-#EXTINF:-1 group-title="DRM",ANIME
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052":"17774f82a3b9e33ea7a149596acbb20f
-https://mbcvod-enc.edgenextcdn.net/out/v1/645e7f9dea5641d1bcd44b4c69926479/7c201da305b543e0ae55a3673f9aa3a5/840aa317c6f34c8fb0ef18117f07c496/index.
 
 
 #EXTINF:-1 group-title="DRM",thikrayat
@@ -96,10 +95,6 @@ https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.m
 https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
 
 
-#EXTINF:-1 group-title="DRM",starzplay sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
-https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
 
 #EXTINF:-1 group-title="DRM",Wedo_Sports_MENA x
 #KODIPROP:inputstream.adaptive.license_type=clearkey
