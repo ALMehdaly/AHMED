@@ -74,7 +74,6 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus
 #EXTINF:-1 group-title="DRM",DAZN COMBAT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=502ae9931ed21f09e3f992724aafbcbb:240c73b5e0b1967ae73be351bad6675a
- 
 https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/DAZN_1/dash/drm/index.mpd
 
 
@@ -88,14 +87,24 @@ https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.m
 
 #EXTINF:-1 group-title="DRM",starzplay sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
+#KODIPROP:inputstream.adaptive.license_key=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
 https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd
 
 #EXTINF:-1 group-title="DRM",starzplay sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
+#KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
 https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
 
+
+#EXTINF:-1 group-title="DRM",starzplay sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
+https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
+
+#EXTINF:-1 group-title="DRM",Wedo_Sports_MENA x
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
+https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/Wedo_Sports_MENA/DASH/Wedo_Sports_MENA.mpd
 
 
 
