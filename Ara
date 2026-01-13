@@ -22,11 +22,18 @@ https://shd-mediacdn-live.akamaized.net/live/bitmovin-sunna-tv/4c4285a859e7a6e97
 https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1768140000/index.mpd
  
  
- #EXTINF:-1 group-title="DRM",mbc shahid-sports-4
+#EXTINF:-1 group-title="DRM",mbc shahid-sports-4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb
 https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/start/1768332600/index.mpd
- 
+
+
+#EXTINF:-1 group-title="DRM",mbc shahid-sports-5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2df3c205b674360bc6f364ba1090e70:93da2c77bc812bc05a6e20ad8d35ea78
+https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/start/1768332600/index.mpd
+
+
  
 #EXTINF:-1 group-title="DRM",mbc shahid-sports-VOD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
