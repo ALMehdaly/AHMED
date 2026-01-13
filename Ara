@@ -205,10 +205,10 @@ https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/tv.png"group-title="NEWS",stc tv
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/tv.png"group-title="DRM",stc tv
 https://pop1e7.cdn.intigral-ott.net/bpk-token/4ar@ogp0sy2w2jlctfjgrlxkv4ufrbsztwegoklw2lda/bpk-tv/STC/fp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/tv.png"group-title="NEWS",8888 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/tv.png"group-title="DRM",8888 
 
 https://pastebin.com/raw/48xqFPcS
 
