@@ -192,6 +192,10 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/91
 
 
 
+
+#EXTINF:-1 group-title="DRM",prime 1
+https://otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/1xsggbtjku/out/v1/bfd93216daf6417298bfcc7d3015d823/cenc.mpd|drmScheme=clearkey&drmLicense=2f5ed0dd0a0ca671dee3948dbbe023d4:7039b2570d5d429c7f4a7a4058ba5135
+
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="DRM",Thmanyah• 1
  
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
