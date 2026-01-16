@@ -60,6 +60,15 @@ https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04
 #KODIPROP:inputstream.adaptive.license_key=487073be27a94a18af3f8c2d17c12bde:cc668b04c6f99b3afb2188a5fd6a7f97
 https://live-event-1-enc.edgenextcdn.net/out/v1/5e6bf6cec93b4d70be12d109cdd43d4c/start/1768497200/index.mpd
 
+#EXTINF:-1 group-title="DRM",mbc live-event-1 shd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=487073be27a94a18af3f8c2d17c12bde:cc668b04c6f99b3afb2188a5fd6a7f97
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-live-event-2/5e6bf6cec93b4d70be12d109cdd43d4c/index.mpd
+
+#EXTINF:-1 group-title="DRM",mbc live-event-2 shd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=487073be27a94a18af3f8c2d17c12bde:cc668b04c6f99b3afb2188a5fd6a7f97
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-live-event-2/899baeae44c4ea810d6783728a85b22e/index.mpd
 
 
 #EXTINF:-1 group-title="DRM",mbc live-event-3
