@@ -197,13 +197,31 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/91
 https://otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/1xsggbtjku/out/v1/bfd93216daf6417298bfcc7d3015d823/cenc.mpd|drmScheme=clearkey&drmLicense=2f5ed0dd0a0ca671dee3948dbbe023d4:7039b2570d5d429c7f4a7a4058ba5135
 
 
-
+#EXTINF:-1 group-title="DRM",stan
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47d7323b1dc94aefb93575777fc39f88:921a0f8dd21e57ab2daeb26b952a96f9
+https://awslive01.stan.video/out/v1/9fabd94957f74cb1965cabd9c8f411e3/index.mpd?|drmScheme=clearkey&drmLicense=
 
 
 #EXTINF:-1 group-title="DRM",prime 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f5ed0dd0a0ca671dee3948dbbe023d4:7039b2570d5d429c7f4a7a4058ba5135
 https://otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/1xsggbtjku/out/v1/bfd93216daf6417298bfcc7d3015d823/cenc.mpd
+
+
+#EXTINF:-1 group-title="DRM",prime 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51d0a028b213b7df472b5f39dc15a8f:bc00a08336fa155814a2e7f47cd42a03
+https://abhzpiqaaaaaaaamhzmpatoiwhf4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/startover/clients/dash/manipulated-manifest-syd-prod/enc/pkygrmovvp/out/v1/d346b8e088254045bf5ecde7cf5d335a/345069ed-8de3-4ef9-9d3e-7e8ea4e9703e-cenc.mpd
+
+
+
+
+#EXTINF:-1 group-title="DRM",prime 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d28475494eb39cef95e5175c028ea814:8ac4fc085792b7bf8b7c38246f40d9c9
+https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/ebgsyorlcl/out/v1/ce95d81f287040d5a3fa6d4b145be849/cenc.mpd
+
 
 
 
