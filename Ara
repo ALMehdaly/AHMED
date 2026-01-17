@@ -634,8 +634,9 @@ https://moonbug-rokuus.amagi.tv/playlist1080-p.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeUlOGA.png"group-title="SPORT",FIFA+
 
-
+https://shls-live-enc.edgenextcdn.net/out/v1/b0e399f5d80a4f5a84167830f4baea38/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeUlOGA.png"group-title="SPORT",Oman TV Sport HD
