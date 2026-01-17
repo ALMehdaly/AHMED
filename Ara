@@ -1012,19 +1012,19 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 
 
 
+#EXTINF:-1 group-title="key roll",mbc shahid-sports-5 free 1768 65 16/1
+https://shahid-sports-5-enc.edgenextcdn.net/out/v1/192f2ebefbfc47459aa83620540c83f7/start/1768653000/index.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176849 16/1
+#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176849 16/1 x
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
 https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1768497200/index.mpd
 
 
 
-#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176857
+#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176857 x
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
 https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1768577200/index.mpd
