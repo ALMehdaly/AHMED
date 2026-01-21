@@ -1091,11 +1091,23 @@ https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87b
 https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1768897200/index.mpd
 
 
-#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176897
+#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176897 7200
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
-https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1768797200/index.mpd
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1768977200/index.mpd
 
+
+
+#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176905 7200
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1769057200/index.mpd
+
+
+#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176913 7200
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1769137200/index.mpd
 
 
 
