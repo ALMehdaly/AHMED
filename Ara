@@ -231,8 +231,7 @@ https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec6
 #EXTINF:-1 group-title="DRM",dubai f
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e030f37f88b3bed880c90b0826e6611:daac262ebb7dd4f2391eaac98139d76e
-https://dmi-live-a.akamaized.net/Content/Channel/dubai/DASH/master.mpd?hdntl=exp=1769323046~acl=%2f*~data=hdntl~hmac=6d2da214f59aacb1f372e9b973bd0e453fb69bd4eccea59d65ac5497245dfbe9
- 
+https://dmi-live-a.akamaized.net/Content/Channel/dubai/DASH/master.mpd?hdntl=exp=1769480585~acl=%2f*~data=hdntl~hmac=e14caa476c13ffddd99331d57ad244c71b31f640aa1edf287d9372c1bec7a1df 
  
  
  
