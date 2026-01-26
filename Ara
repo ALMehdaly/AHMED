@@ -38,6 +38,27 @@ https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW
 https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAxIiwiaXAiOiI5OC45MS4yMzguMjM0IiwiaXBfdjQiOiI5OC45MS4yMzguMjM0IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMjYuMiBTYWZhcmkvNjA1LjEuMTUiLCJuYmYiOjE3NjgyMzYyMTcsImV4cCI6MTc2ODI0NzAxNywiaWF0IjoxNzY4MjM2MjE3fQ.ObdEH2HVPS5O_tKg2E9wnoCpBsKa_3LIysfbxH9GsaU/live/ch10/index.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8live",Thmanyah• 1 FHD
+ 
+https://raw.github.com/ALMehdaly/AHMED/TV/801FHD.m3u
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8live",Thmanyah• 2 FHD
+ 
+https://raw.github.com/ALMehdaly/AHMED/TV/802FHD.m3u
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8live",Thmanyah• 3 FHD
+ 
+https://raw.github.com/ALMehdaly/AHMED/TV/803FHD.m3u
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8live",Thmanyah• 4 FHD
+ 
+https://raw.github.com/ALMehdaly/AHMED/TV/804FHD.m3u
+ 
+
 #EXTINF:-1 group-title="DRM",quran
  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
