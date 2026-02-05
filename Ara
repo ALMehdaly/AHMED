@@ -1085,104 +1085,39 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="key roll",mbc shahid-sports-5 free 1768 65 16/1
-https://shahid-sports-5-enc.edgenextcdn.net/out/v1/192f2ebefbfc47459aa83620540c83f7/start/1768653000/index.m3u8
-
-
-
-#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176849 16/1 x
+#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 177031 7000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
-https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1768497200/index.mpd
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1770317000/index.mpd
 
 
-
-#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176857 x
+#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 177039 7000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
-https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1768577200/index.mpd
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1770397000/index.mpd
 
 
-#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176865
+#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 177047 7000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
-https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1768657200/index.mpd
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1770477000/index.mpd
 
 
 
-#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176873
+#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 177055 7000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
-https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1768737200/index.mpd
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1770557000/index.mpd
 
 
-#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176881
+
+#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 177063 7000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
-https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1768817200/index.mpd
-
-#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176889
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
-https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1768897200/index.mpd
-
-
-#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176897 7200
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
-https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1768977200/index.mpd
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1770637000/index.mpd
 
 
 
-#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176905 7200
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
-https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1769057200/index.mpd
-
-
-#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176913 7200
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
-https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1769137200/index.mpd
-
-
-
-#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176921 7200
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
-https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1769217200/index.mpd
-
-
-#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176929 7200
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
-https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1769297200/index.mpd
-
-
-#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176937 7200
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
-https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1769377200/index.mpd
-
-
-#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176945 7200
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
-https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1769145200/index.mpd
-
-#EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176953 7200
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
-https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/start/1769537200/index.mpd
 
 #EXTINF:-1 group-title="key roll",mbc shahid-sports-1 176961 7200
 #KODIPROP:inputstream.adaptive.license_type=clearkey
