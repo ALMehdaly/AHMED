@@ -545,7 +545,7 @@ https://raw.github.com/ALMehdaly/AHMED/TV/MBC1.m3u
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBCMasr1.png"group-title="Main",MBC Masr 1
-https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
 
 
 
@@ -553,10 +553,10 @@ https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 
 #EXTINF:-1 tvg-id="MBCMasrDrama.sa" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="Main",MBC Masr Drama
-https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OdaIfw3.png"group-title="Main",MBC Drama HD 
-https://shls-live-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pPb91xM.png"group-title="Main",MBC+ Drama HD
