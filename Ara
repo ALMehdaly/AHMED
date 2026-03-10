@@ -437,9 +437,12 @@ https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png"group-title="NEWS",Al Arabiya HD 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png"group-title="NEWS",Al Arabiya  
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png"group-title="NEWS",Al Arabiya FHD 
+https://live.alarabiya.net/alarabiapublish/alarabiya_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlHadath.png"group-title="NEWS",Al Hadath HD 
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
