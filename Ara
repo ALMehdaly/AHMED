@@ -491,7 +491,9 @@ https://cnbc-live.akamaized.net/cnbc/master.m3u8
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ue2VZLn.png"group-title="NEWS",Al Arabiya HD  sh
-https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_38.m3u8
+
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rZy3Sxq.png"group-title="NEWS",Al Hadath HD sh
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
