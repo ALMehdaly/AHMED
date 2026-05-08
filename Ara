@@ -551,8 +551,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc04
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBC1.png"group-title="Main",MBC1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBC1.png"group-title="Main",MBC1 m
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBC1.png"group-title="Main",MBC1 FHD
 https://raw.github.com/ALMehdaly/AHMED/TV/MBC1.m3u
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBCIraq.png"group-title="Main",MBC Iraq
