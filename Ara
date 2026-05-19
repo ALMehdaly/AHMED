@@ -3,39 +3,80 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 1
-https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAxIiwiaXAiOiI5OC45MS4yMzguMjM0IiwiaXBfdjQiOiI5OC45MS4yMzguMjM0IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMjYuMiBTYWZhcmkvNjA1LjEuMTUiLCJuYmYiOjE3NjgyMzYyMTcsImV4cCI6MTc2ODI0NzAxNywiaWF0IjoxNzY4MjM2MjE3fQ.ObdEH2HVPS5O_tKg2E9wnoCpBsKa_3LIysfbxH9GsaU/live/ch01/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 1 HDR
+https://ms-live.servers8.com/live/ch01/index.m3u8
+
  
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 2
-https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAxIiwiaXAiOiI5OC45MS4yMzguMjM0IiwiaXBfdjQiOiI5OC45MS4yMzguMjM0IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMjYuMiBTYWZhcmkvNjA1LjEuMTUiLCJuYmYiOjE3NjgyMzYyMTcsImV4cCI6MTc2ODI0NzAxNywiaWF0IjoxNzY4MjM2MjE3fQ.ObdEH2HVPS5O_tKg2E9wnoCpBsKa_3LIysfbxH9GsaU/live/ch02/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 2 HDR
+https://ms-live.servers8.com/live/ch02/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 3
-https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAxIiwiaXAiOiI5OC45MS4yMzguMjM0IiwiaXBfdjQiOiI5OC45MS4yMzguMjM0IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMjYuMiBTYWZhcmkvNjA1LjEuMTUiLCJuYmYiOjE3NjgyMzYyMTcsImV4cCI6MTc2ODI0NzAxNywiaWF0IjoxNzY4MjM2MjE3fQ.ObdEH2HVPS5O_tKg2E9wnoCpBsKa_3LIysfbxH9GsaU/live/ch03/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 3 HDR
+https://ms-live.servers8.com/live/ch03/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 4
-https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAxIiwiaXAiOiI5OC45MS4yMzguMjM0IiwiaXBfdjQiOiI5OC45MS4yMzguMjM0IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMjYuMiBTYWZhcmkvNjA1LjEuMTUiLCJuYmYiOjE3NjgyMzYyMTcsImV4cCI6MTc2ODI0NzAxNywiaWF0IjoxNzY4MjM2MjE3fQ.ObdEH2HVPS5O_tKg2E9wnoCpBsKa_3LIysfbxH9GsaU/live/ch04/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 5
-https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAxIiwiaXAiOiI5OC45MS4yMzguMjM0IiwiaXBfdjQiOiI5OC45MS4yMzguMjM0IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMjYuMiBTYWZhcmkvNjA1LjEuMTUiLCJuYmYiOjE3NjgyMzYyMTcsImV4cCI6MTc2ODI0NzAxNywiaWF0IjoxNzY4MjM2MjE3fQ.ObdEH2HVPS5O_tKg2E9wnoCpBsKa_3LIysfbxH9GsaU/live/ch05/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 4 HDR
+https://ms-live.servers8.com/live/ch04/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 5 HDR
+https://ms-live.servers8.com/live/ch05/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 6
-https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAxIiwiaXAiOiI5OC45MS4yMzguMjM0IiwiaXBfdjQiOiI5OC45MS4yMzguMjM0IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMjYuMiBTYWZhcmkvNjA1LjEuMTUiLCJuYmYiOjE3NjgyMzYyMTcsImV4cCI6MTc2ODI0NzAxNywiaWF0IjoxNzY4MjM2MjE3fQ.ObdEH2HVPS5O_tKg2E9wnoCpBsKa_3LIysfbxH9GsaU/live/ch06/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 6 HDR
+https://ms-live.servers8.com/live/ch06/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 7
-https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAxIiwiaXAiOiI5OC45MS4yMzguMjM0IiwiaXBfdjQiOiI5OC45MS4yMzguMjM0IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMjYuMiBTYWZhcmkvNjA1LjEuMTUiLCJuYmYiOjE3NjgyMzYyMTcsImV4cCI6MTc2ODI0NzAxNywiaWF0IjoxNzY4MjM2MjE3fQ.ObdEH2HVPS5O_tKg2E9wnoCpBsKa_3LIysfbxH9GsaU/live/ch07/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 7 HDR
+https://ms-live.servers8.com/live/ch07/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 8
-https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAxIiwiaXAiOiI5OC45MS4yMzguMjM0IiwiaXBfdjQiOiI5OC45MS4yMzguMjM0IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMjYuMiBTYWZhcmkvNjA1LjEuMTUiLCJuYmYiOjE3NjgyMzYyMTcsImV4cCI6MTc2ODI0NzAxNywiaWF0IjoxNzY4MjM2MjE3fQ.ObdEH2HVPS5O_tKg2E9wnoCpBsKa_3LIysfbxH9GsaU/live/ch08/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 8 HDR
+https://ms-live.servers8.com/live/ch08/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 9
-https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAxIiwiaXAiOiI5OC45MS4yMzguMjM0IiwiaXBfdjQiOiI5OC45MS4yMzguMjM0IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMjYuMiBTYWZhcmkvNjA1LjEuMTUiLCJuYmYiOjE3NjgyMzYyMTcsImV4cCI6MTc2ODI0NzAxNywiaWF0IjoxNzY4MjM2MjE3fQ.ObdEH2HVPS5O_tKg2E9wnoCpBsKa_3LIysfbxH9GsaU/live/ch09/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 9 HDR
+https://ms-live.servers8.com/live/ch09/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 10
-https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJjaDAxIiwiaXAiOiI5OC45MS4yMzguMjM0IiwiaXBfdjQiOiI5OC45MS4yMzguMjM0IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMjYuMiBTYWZhcmkvNjA1LjEuMTUiLCJuYmYiOjE3NjgyMzYyMTcsImV4cCI6MTc2ODI0NzAxNywiaWF0IjoxNzY4MjM2MjE3fQ.ObdEH2HVPS5O_tKg2E9wnoCpBsKa_3LIysfbxH9GsaU/live/ch10/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 10 UHD
+https://ms-live.servers8.com/live/ch10/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 1 
+https://ms-live.servers8.com/live/ch01-fta/index.m3u8
+
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 2 
+https://ms-live.servers8.com/live/ch02-fta/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 3 
+https://ms-live.servers8.com/live/ch03-fta/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 4 
+https://ms-live.servers8.com/live/ch04-fta/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 5 
+https://ms-live.servers8.com/live/ch05-fta/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 6 
+https://ms-live.servers8.com/live/ch06-fta/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 7 
+https://ms-live.servers8.com/live/ch07-fta/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 8 
+https://ms-live.servers8.com/live/ch08-fta/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 9 HDR
+https://ms-live.servers8.com/live/ch09-fta/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 10 
+https://ms-live.servers8.com/live/ch10-fta/index.m3u8
+
+
+
+
 
 
 
