@@ -1737,46 +1737,200 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R1 full auto 25/26x
 https://v2.thmanyahcdn.com/v2/59255600809345024_auto.m3u8
-
+ 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R2 full auto 25/26x
 https://v2.thmanyahcdn.com/v2/59255581498638337_auto.m3u8
-
+ 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R3 full auto 25/26
 https://v2.thmanyahcdn.com/v2/59256323391422464_auto.m3u8
-
+ 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R4 full auto 25/26
 https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-601ed10a04a183fe9c055766299eeed4tt26_transcode_auto_1513595.m3u8
-
+ 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R5 full auto 25/26
 https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-b05ea07d862762541c9b8ba944cfe706tt26_transcode_auto_1513595.m3u8
-
+ 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R6 full auto 25/26
 https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-4a9c99e573068a0c19d1f343a966e64ctt26_transcode_auto_1513595.m3u8
-
+ 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R7 full auto 25/26
 https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-0f1aaa1925f73fa2b87f72e8940af023tt26_transcode_auto_1513595.m3u8
-
+ 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R8 full auto 25/26
 https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-affdb80dd68d784c6c7bc42accb2f69att26_transcode_auto_1513595.m3u8
-
+ 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R9 full auto 25/26
 https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-76a83a2001364f80743713141aa56788tt26_transcode_auto_1513595.m3u8
-
+ 
+ 
+ 
+ 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R11 full auto 25/26
 https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-de5d184eb1a247f94950d8453469ce23tt26_transcode_auto_1513595.m3u8
-
-
-
-
-
-
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R12 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-21b366071ba7b2860249493b6bc8736dtt26_transcode_auto_1513595.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R13 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-12f83705a0b0e29c69e45966bb3faf9ctt26_transcode_auto_1513595.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R14 full auto 25/26 
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-c1530f0c220185eaff6fe1611f8dfe09tt26_transcode_auto_1513595.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R15 full auto 25/26 
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-64a8418d7c3b61239d8a01c4c140df98tt26_transcode_auto_1513595.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R16 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-cee67549c59332824f2e837df0806697tt26_transcode_auto_1513595.m3u8
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R17 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-d09bed502d83b768150c0cdd6e5a4812tt26_transcode_auto_1513595.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R18 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-6ad009c8e6a3cc8b958277cecb1ce988tt26_transcode_auto_1513595.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R19 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-8499be3ee750fd2dce469167424f42cdtt26_transcode_auto_1513595.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R20 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-4492646fbfb72898182737217564ae5ett26_transcode_auto_1513595.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R21 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-d801eb86fedb64f5de644b0771040734tt26_transcode_auto_1513595.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R22 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-af84447d5fbbc1b4a64f32884a614038tt26_transcode_auto_1513595.m3u8
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R23 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-683c53237cbeffbaccc2d03e4b5c2140tt26_transcode_auto_1513595.m3u8
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R10 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-683c53237cbeffbaccc2d03e4b5c2140tt26_transcode_auto_1513595.m3u8
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R24 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-683c53237cbeffbaccc2d03e4b5c2140tt26_transcode_auto_1513595.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R25 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-140f6ebe47a13375d9d31804f8630999tt26_transcode_auto_1513595.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R26 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-32b165d3912bc7d60326b343f0cdb903tt26_transcode_auto_1513595.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R27 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-8e39ba9825f28cceecb99e3286711815tt26_transcode_auto_1513595.m3u8
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R28 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-f78a2342813380d28353c513b6c50882tt26_transcode_auto_1513595.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R29 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-5688fc063349b6c1fd15930254fb877att26_transcode_auto_1513595.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R30 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-cefb5e7c21ca85ba07a35fc3a3aab9d4tt26_transcode_auto_1513595.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R31 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-5dd21b9c19c2552ca481201517574e88tt26_transcode_auto_1513595.m3u8
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R32 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-xxxxxxxxx_transcode_auto_1513595.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R33 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-xxxxxxxxx_transcode_auto_1513595.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R34 full auto 25/26
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-xxxxxxxxx_transcode_auto_1513595.m3u8
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil KingCup 32 full auto 25/26
 https://v2.thmanyahcdn.com/v2/59257347116072960_auto.m3u8
-
+ 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil KingCup 16 full auto 25/26
 https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-0b0977ce66dc15db4aaf36b8b718670ctt26_transcode_auto_1513595.m3u8
-
-
+ 
+ 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil KingCup 8 full auto 25/26
-
+ 
 https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-4ff91d5780d7d1d7bb9ab327a1862563tt26_transcode_auto_1513595.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil KingCup 4 full auto 25/26
+ 
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-1227ff89b455ced003a349d4c9702930tt26_transcode_auto_1513595.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil KingCup final full auto 25/26
+ 
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-5cb8c469e23c31ca2f004b3dc5e57dd6tt26_transcode_auto_1513595.m3u8
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil KingCup final full coverage 25/26
+ 
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-xxx_transcode_auto_1513595.m3u8
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8spain",Thmanyah• super spain full auto 25/26
+ 
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-066051878abfb8af4ea1bec13105fdb3tt26_transcode_auto_1513595.m3u8
+ 
