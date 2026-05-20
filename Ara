@@ -245,16 +245,79 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/BOM/wv-pr/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="STCtv",stc tv TCM
+#EXTINF:-1 group-title="STCtv",stc tv NHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59c626d2eae3ad531022136f1bb4769e:5c83465dc798bab650d802725cc26270
+#KODIPROP:inputstream.adaptive.license_key=276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NHD/wv-pr/manifest.mpd
 
 
 
 
-#EXTINF:-1 group-title="STCtv",stc tv TCM
+
+#EXTINF:-1 group-title="STCtv",stc tv NGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59c626d2eae3ad531022136f1bb4769e:5c83465dc798bab650d802725cc26270
+#KODIPROP:inputstream.adaptive.license_key=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NGO/wv-pr/manifest.mpd
+
+
+
+
+
+#EXTINF:-1 group-title="STCtv",stc tv APL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/APL/wv-pr/manifest.mpd
+
+
+
+
+#EXTINF:-1 group-title="STCtv",stc tv DSC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1eecd547ede99578bdef60af3195929d:f6907d65b8405097d477e0e0b69007f2
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DSC/wv-pr/manifest.mpd
+
+
+
+
+#EXTINF:-1 group-title="STCtv",stc tv DCF
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bce56c8de2f1b27b16dd7d3abc2409b6:8c1c393bb61be740910438f6e49c7c32
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DCF/wv-pr/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="STCtv",stc tv DCX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DCX/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="STCtv",stc tv STC3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fd615ca2c5353fc5393da466ce31cbc:942822c6e7d3b01dd71bffded7ac0aa8
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC3/wv-pr/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
