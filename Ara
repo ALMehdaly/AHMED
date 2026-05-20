@@ -107,6 +107,113 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/JAW1/wv-pr/manifest.mpd
 
 
 
+#EXTINF:-1 group-title="STCtv",stc tv 
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
+https://akmrwb-live.cdn.intigral-ott.net/bpk-tv/STC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="STCtv",stc tv 3
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fd615ca2c5353fc5393da466ce31cbc:942822c6e7d3b01dd71bffded7ac0aa8
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC3/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 group-title="STCtv",stc tv 4
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01065be7ffbb268f2aadf7424b8ee24e:79a541c99e9bb7815e257e4a4ff46dbb
+https://akmrwb-live.cdn.intigral-ott.net/bpk-tv/STC4/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 group-title="STCtv",stc tv T
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ebed7aab13df195c486446acccb4ccc:a514dba4389dbec5a49cc296f838993a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCT/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="STCtv",stc tv D
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCD/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="STCtv",stc tv F
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCF/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="STCtv",stc tv DIS
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DIS/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 group-title="STCtv",stc tv DJR
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DJR/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="STCtv",stc tv W
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STW/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 group-title="STCtv",stc tv FNH
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=781c82a71b2bc5a1ca0a53d97940bab1:3269cae876ddfb30440760e0239cc923
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FNH/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 group-title="STCtv",stc tv TLC
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7742eb49b93c8241631be8920cc07ba:819bcbdf2d6606a3345a2adb1cbbfa57
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/TLC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCtv",stc tv FAT
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2809a502e0ff23f323ff75fcd6dd04ae:59588452aa32e3616a03e32addcdbc4a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FAT/wv-pr/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="STCtv",stc tv sports HD 1x
  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
