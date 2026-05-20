@@ -153,11 +153,7 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCD/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCF/wv-pr/manifest.mpd
 
-#EXTINF:-1 group-title="STCtv",stc tv c
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCC/wv-pr/manifest.mpd
+
 
 
 
@@ -309,10 +305,6 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DCX/wv-pr/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="STCtv",stc tv STC 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1fd615ca2c5353fc5393da466ce31cbc:942822c6e7d3b01dd71bffded7ac0aa8
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC2/wv-pr/manifest.mpd
 
 
 
@@ -344,11 +336,7 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC2/wv-pr/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="STCtv",stc tv sports HD 1x
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0515fcf4f64d6988372bd0a5fc9b8263605b3d7f7ed5be3606e830d7bb46e1c66f
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/JAW1/wv-pr/manifest.mpd
+
 
 
 
