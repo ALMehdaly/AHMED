@@ -198,6 +198,65 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FAT/wv-pr/manifest.mpd
 
 
 
+#EXTINF:-1 group-title="STCtv",stc tv HGTV
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/HGTV/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="STCtv",stc tv TRA
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffc77ff035a2f1839c498d6431de9905:aa4bb62d5c3b25238332511972b1cbc8
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/TRA/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 group-title="STCtv",stc tv FMA
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FMA/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 group-title="STCtv",stc tv STM
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STM/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="STCtv",stc tv TCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59c626d2eae3ad531022136f1bb4769e:5c83465dc798bab650d802725cc26270
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/TCM/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 group-title="STCtv",stc tv BOM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2802f3f0e4538e4e6b9085c179c15dce :5afbd95bb853cc2c104e3b960d51defe
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/BOM/wv-pr/manifest.mpd
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="STCtv",stc tv TCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59c626d2eae3ad531022136f1bb4769e:5c83465dc798bab650d802725cc26270
+
+
+
+
+#EXTINF:-1 group-title="STCtv",stc tv TCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59c626d2eae3ad531022136f1bb4769e:5c83465dc798bab650d802725cc26270
+
+
 
 
 
