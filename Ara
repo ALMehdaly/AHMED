@@ -96,6 +96,28 @@ https://raw.github.com/ALMehdaly/AHMED/TV/803FHD.m3u
 https://raw.github.com/ALMehdaly/AHMED/TV/804FHD.m3u
  
 
+
+
+#EXTINF:-1 group-title="STCtv",stc tv sports HD 1
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/JAW1/wv-pr/manifest.mpd
+
+
+
+
+#EXTINF:-1 group-title="STCtv",stc tv sports HD 1x
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0515fcf4f64d6988372bd0a5fc9b8263605b3d7f7ed5be3606e830d7bb46e1c66f
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/JAW1/wv-pr/manifest.mpd
+
+
+
+
+
+
 #EXTINF:-1 group-title="DRM",quran
  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
