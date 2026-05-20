@@ -301,10 +301,10 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DCX/wv-pr/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="STCtv",stc tv STC3
+#EXTINF:-1 group-title="STCtv",stc tv STC 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fd615ca2c5353fc5393da466ce31cbc:942822c6e7d3b01dd71bffded7ac0aa8
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC3/wv-pr/manifest.mpd
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC2/wv-pr/manifest.mpd
 
 
 
