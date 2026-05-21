@@ -502,13 +502,13 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time/2295a0b3be424fb57734
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/2cea83644508440266f3f48cbbb9fa36/index.mpd
 
 
-#EXTINF:-1 group-title="DRM",MBC_Plus_eLife
+#EXTINF:-1 group-title="starzplay",MBC_Plus_eLife
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=867c8d7670eab5e7aa10571830ad3d8c:030cf68626950b12145bc7147d6a9bda
 https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd
 
 
-#EXTINF:-1 group-title="DRM",Sony_Ent_TV
+#EXTINF:-1 group-title="starzplay",Sony_Ent_TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e35e5ef1aa703050fe19581ccc91add9:09766bbf45149e13808f7be611b2338c
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Sony_Ent_TV_New/DASH/Sony_Ent_TV_New.mpd
@@ -517,12 +517,12 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Sony_Ent_TV_New/DASH/Sony_Ent_T
 
 
 
-#EXTINF:-1 group-title="DRM",FIFA STRZ
+#EXTINF:-1 group-title="starzplay",FIFA STRZ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fc4d9cef573b7143d5c45a707e80933:962df2fcb360027a700bd3cde16aa565
 https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/FIFA_1/dash/drm/index.mpd?aws.sessionId=f0aa35f3-a0f6-4541-9374-7619be894247
 
-#EXTINF:-1 group-title="DRM",DAZN COMBAT
+#EXTINF:-1 group-title="starzplay",DAZN COMBAT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=502ae9931ed21f09e3f992724aafbcbb:240c73b5e0b1967ae73be351bad6675a
 https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/DAZN_1/dash/drm/index.mpd
@@ -531,7 +531,7 @@ https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15
 
 
 
-#EXTINF:-1 group-title="DRM",starzplay sports 1
+#EXTINF:-1 group-title="starzplay",starzplay sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
 https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd
@@ -540,19 +540,19 @@ https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.m
 
 
 
-#EXTINF:-1 group-title="DRM",starzplay sports 2
+#EXTINF:-1 group-title="starzplay",starzplay sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
 https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd
 
-#EXTINF:-1 group-title="DRM",starzplay sports 3
+#EXTINF:-1 group-title="starzplay",starzplay sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
 https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
 
 
 
-#EXTINF:-1 group-title="DRM",Wedo_Sports_MENA x
+#EXTINF:-1 group-title="starzplay",Wedo_Sports_MENA x
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
 https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/Wedo_Sports_MENA/DASH/Wedo_Sports_MENA.mpd
