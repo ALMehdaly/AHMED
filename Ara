@@ -549,15 +549,32 @@ https://dmi-live-a.akamaized.net/Content/Channel/dubaizaman/DASH/master.mpd?hdnt
  
  
  
-#EXTINF:-1 group-title="DRM",dubai 
+#EXTINF:-1 group-title="DRM",dubai ex
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e030f37f88b3bed880c90b0826e6611:daac262ebb7dd4f2391eaac98139d76e
 https://dmi-live-a.akamaized.net/Content/Channel/dubai/DASH/master.mpd?hdntl=exp=1779426580~acl=%2f*~data=hdntl~hmac=c88359be03765b7dbc14e1b795026b46a4190a4583a8d3e6f098b2c3d8d15663 
+
+
+
+
+#EXTINF:-1 group-title="DRM",dubai 
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e030f37f88b3bed880c90b0826e6611:daac262ebb7dd4f2391eaac98139d76e
+https://dmi-live-a.akamaized.net/Content/Channel/dubai/DASH/master.mpd
+
+
+
+
 #EXTINF:-1 group-title="DRM",dubai zaman
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef097295a13e36d6812cf807c6d7340a:249ca3be1c474ad88bc567054340f442
 https://dmi-live-a.akamaized.net/Content/Channel/dubaizaman/DASH/master.mpd
+
+
+
+
  
 
 #EXTINF:-1 group-title="DRM",TNT SPORTS 1
