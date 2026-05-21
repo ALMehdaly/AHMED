@@ -305,7 +305,10 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DCX/wv-pr/manifest.mpd
 
 
 
-
+#EXTINF:-1 group-title="STCtv",stc tv c ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCC/wv-pr/manifest.mpd
 
 
 
