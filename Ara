@@ -318,17 +318,39 @@ https://pop1e5.cdn.intigral-ott.net/bpk-tv/DCX/wv-pr/manifest.mpd
 
 
 
+#EXTINF:-1 group-title="drm3",elevensports14k
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key="1855ecfdfb215785a78ae3c62773dcb2:e9a4f881e7b18a1f0dd10a698690dace","571dba7341575a589d510c83bf94758c:bee392a9b992154bd711c6d31ac9d7ec"
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports14k/default/index.mpd
+
+
+
+#EXTINF:-1 group-title="drm3",CplusExtra1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key="0765a8af0e60467189688fc29b52393c:633722f3e091f5dcfd4e19ced450e109","d93a0d33cda84d12b9a14a28100aa22a:d88b69500b4a6f642975dfa9cf23d05f"
+https://ec08-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1779393973~acl%3D%2Flive%2Fstore01%2FCplusExtra1%2F*~id%3D01KS56VP88AY4S3SAXZ1CP4CTT~data%3Dwid%3D0x140229%26wpt%3Dm-EtEUK9-TvKyRrFFs0pdsyhanmAMXG7FXs4tUEJbhv_xCCXBDJdzJuWrLsJYw4JSJwN5UTJCSFm7TPdRO_A4Q%26wpl%3D512%26dur%3D20000000~hmac%3De5bee52f0c23827f3654794108269c30700c442969da59828eafafcb346a88bc/live/store01/CplusExtra1/hd2-dashdrm02/CplusExtra1.mpd
+
+
+#EXTINF:-1 group-title="drm3",tnt 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+
+#EXTINF:-1 group-title="drm3",dazn protugal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42248a595b0c4e63a182ae77dfbf2174:f586b39426166c2b2d35fd529e5ec869
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE\u0026end=END\u0026device=CMAFDASH_HEVC_UHD
 
 
 
 
 
+#EXTINF:-1 group-title="drm3",ziggo nl
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 
-
-
-
-
-
+https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,
 
 
 
@@ -513,6 +535,10 @@ https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
 https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd
+
+
+
+
 
 #EXTINF:-1 group-title="DRM",starzplay sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
