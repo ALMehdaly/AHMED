@@ -340,11 +340,8 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/clleki
 #EXTINF:-1 group-title="drm3",dazn protugal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42248a595b0c4e63a182ae77dfbf2174:f586b39426166c2b2d35fd529e5ec869
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE\u0026end=END\u0026device=CMAFDASH_HEVC_UHD
 
-
-
-
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_HEVC_UHD
 
 #EXTINF:-1 group-title="drm3",ziggo nl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
