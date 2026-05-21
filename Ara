@@ -540,6 +540,7 @@ https://dmi-live-a.akamaized.net/Content/Channel/dubai/DASH/master.mpd?hdntl=exp
  
  
 #EXTINF:-1 group-title="DRM",dubai zaman f
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef097295a13e36d6812cf807c6d7340a:249ca3be1c474ad88bc567054340f442
 https://dmi-live-a.akamaized.net/Content/Channel/dubaizaman/DASH/master.mpd?hdntl=exp=1769323197~acl=%2f*~data=hdntl~hmac=9d615bc1da724763de191e9b1ed7dd60b9ca8780af77454d6f5876b735d412b8
