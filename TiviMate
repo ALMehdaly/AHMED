@@ -287,3 +287,106 @@ https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/32
 
 
 
+
+#EXTINF:-1 group-title="PT",SportTV+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83b99991d21444b96c2413c02533006:1096aaaa4c1eb6b7a6b6f64a1b945bb9
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$408/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+
+
+#EXTINF:-1 group-title="PT",SportTV 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d012322fb2db4c929a66417c1fa40b00:eac803603f1b2e4658e0f9da317fd05b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_HEVC_UHD
+
+
+
+#EXTINF:-1 group-title="PT",SportTV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+
+#EXTINF:-1 group-title="PT",SportTV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69abb71160ef40eb8175413098db8ad1:dc33a3118d3d975097046d7ca935759f
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_HEVC_UHD
+
+
+
+
+#EXTINF:-1 group-title="PT",SportTV 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a2d23a9e105402b918dd8300c7b7bfe:352ee055e9119cfd17bdb293f83f1c86
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_HEVC_UHD
+
+
+
+
+#EXTINF:-1 group-title="PT",SportTV 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7218f1a116664d6a8886f88ed9ffe141:9ddec5dd46e7ba37b90a28e876d6a08b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_HEVC_UHD
+
+
+
+#EXTINF:-1 group-title="PT",SportTV 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b4d028d541431dbfd5432d20885798:a0915fb919d88235be28dbba14b20666
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$566/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_HEVC_UHD
+
+
+
+
+
+
+#EXTINF:-1 group-title="PT",SportTV 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=400957ac68d549fbbbbc668d3a9eb709:3dd351f1875b0dd40a4e392f06a29b29
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$597/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+
+
+
+#EXTINF:-1 group-title="PT",SportTV NBA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91e094ef69af4534b961ec0ad9dc30a8:af7c766ddecb59a85abafb0ac4908407
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$519/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+
+
+
+
+#EXTINF:-1 group-title="PT",DAZN 1 PT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42248a595b0c4e63a182ae77dfbf2174:f586b39426166c2b2d35fd529e5ec869
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_HEVC_UHD
+
+
+#EXTINF:-1 group-title="PT",DAZN 2 PT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=011e6086a2814b08a23a0bcd5b1508eb:841ae63af583fb0975f7d09801e2bbde
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_HEVC_UHD
+
+
+#EXTINF:-1 group-title="PT",DAZN 3 PT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7224f2a6a14a4d88874d10dd953c88dc:9719ea238d3de66eb073ce842814f464
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+
+#EXTINF:-1 group-title="PT",DAZN 4 PT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_HEVC_UHD
+
+
+#EXTINF:-1 group-title="PT",DAZN 5 PT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d931d671884145dfb392be0cade5088c:beee3956b769c39f00fa3ce84a2efaba
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$525/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+
+
+
