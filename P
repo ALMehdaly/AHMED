@@ -1,0 +1,289 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv sports HD 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv sports HD 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/JAW1_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv sports HD 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fd615ca2c5353fc5393da466ce31cbc:942822c6e7d3b01dd71bffded7ac0aa8
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC3_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv sports HD 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01065be7ffbb268f2aadf7424b8ee24e:79a541c99e9bb7815e257e4a4ff46dbb
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC4_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv Thmanyah
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ebed7aab13df195c486446acccb4ccc:a514dba4389dbec5a49cc296f838993a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCT_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv Drama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCD_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCF_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv DISNEY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DIS_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv DISNEY JR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DJR_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv STAR WORLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STW_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv FOOD NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=781c82a71b2bc5a1ca0a53d97940bab1:3269cae876ddfb30440760e0239cc923
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FNH_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv TLC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7742eb49b93c8241631be8920cc07ba:819bcbdf2d6606a3345a2adb1cbbfa57
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/TLC_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv FATAFEAT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2809a502e0ff23f323ff75fcd6dd04ae:59588452aa32e3616a03e32addcdbc4a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FAT_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv HGTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/HGTV_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv TRAVEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffc77ff035a2f1839c498d6431de9905:aa4bb62d5c3b25238332511972b1cbc8
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/TRA_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv STAR ACTION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FMA_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv STAR MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STM_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv TCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59c626d2eae3ad531022136f1bb4769e:5c83465dc798bab650d802725cc26270
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/TCM_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv BOM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2802f3f0e4538e4e6b9085c179c15dce:5afbd95bb853cc2c104e3b960d51defe
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/BOM_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv N WILD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NHD_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv N GO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NGO_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv ANIMAL PLANET
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/APL_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv DISCOVRY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1eecd547ede99578bdef60af3195929d:f6907d65b8405097d477e0e0b69007f2
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DSC_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv DISCOVRY FAMILY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bce56c8de2f1b27b16dd7d3abc2409b6:8c1c393bb61be740910438f6e49c7c32
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DCF_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 group-title="STCTV HEVC",stc tv DISCOVRY ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DCX_HEVC/wv-pr/manifest.mpd
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="SHAHID DRM",quran
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-mediacdn-live.akamaized.net/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd
+
+
+#EXTINF:-1 group-title="SHAHID DRM",sunna
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-mediacdn-live.akamaized.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd
+
+
+#EXTINF:-1 group-title="SHAHID DRM",MBC ACTION
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
+
+
+#EXTINF:-1 group-title="SHAHID DRM",mbc mbc-masr-2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/7eaa7c0393e9a9637ae311aac75eb40e/index.mpd
+
+
+#EXTINF:-1 group-title="SHAHID DRM",mbc-2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052":"17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
+ 
+
+
+
+#EXTINF:-1 group-title="SHAHID DRM",mbc-MAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052":"17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
+
+
+#EXTINF:-1 group-title="SHAHID DRM",mbc-3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052":"17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3/946fc698e47c30df2193962ca541d868/index.mpd
+
+
+
+#EXTINF:-1 group-title="SHAHID DRM",big-time
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052":"17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time/2295a0b3be424fb57734cd622aaea0a9/index.mpd
+
+
+
+#EXTINF:-1 group-title="SHAHID DRM",thikrayat
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052":"17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/2cea83644508440266f3f48cbbb9fa36/index.mpd
+
+
+
+
+
+#EXTINF:-1 group-title="starzplay",starzplay sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
+https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd
+
+
+
+
+
+#EXTINF:-1 group-title="starzplay",starzplay sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
+https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd
+
+#EXTINF:-1 group-title="starzplay",starzplay sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
+https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
+
+
+
+#EXTINF:-1 group-title="starzplay",DAZN COMBAT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=502ae9931ed21f09e3f992724aafbcbb:240c73b5e0b1967ae73be351bad6675a
+https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/DAZN_1/dash/drm/index.mpd
+
+
+#EXTINF:-1 group-title="starzplay",MBC_Plus_eLife
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=867c8d7670eab5e7aa10571830ad3d8c:030cf68626950b12145bc7147d6a9bda
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd
+
+
+#EXTINF:-1 group-title="starzplay",Sony_Ent_TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e35e5ef1aa703050fe19581ccc91add9:09766bbf45149e13808f7be611b2338c
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Sony_Ent_TV_New/DASH/Sony_Ent_TV_New.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="drm3",elevensports14k
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key="1855ecfdfb215785a78ae3c62773dcb2:e9a4f881e7b18a1f0dd10a698690dace","571dba7341575a589d510c83bf94758c:bee392a9b992154bd711c6d31ac9d7ec"
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports14k/default/index.mpd
+
+
+
+#EXTINF:-1 group-title="drm3",CplusExtra1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key="0765a8af0e60467189688fc29b52393c:633722f3e091f5dcfd4e19ced450e109","d93a0d33cda84d12b9a14a28100aa22a:d88b69500b4a6f642975dfa9cf23d05f"
+https://ec08-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1779393973~acl%3D%2Flive%2Fstore01%2FCplusExtra1%2F*~id%3D01KS56VP88AY4S3SAXZ1CP4CTT~data%3Dwid%3D0x140229%26wpt%3Dm-EtEUK9-TvKyRrFFs0pdsyhanmAMXG7FXs4tUEJbhv_xCCXBDJdzJuWrLsJYw4JSJwN5UTJCSFm7TPdRO_A4Q%26wpl%3D512%26dur%3D20000000~hmac%3De5bee52f0c23827f3654794108269c30700c442969da59828eafafcb346a88bc/live/store01/CplusExtra1/hd2-dashdrm02/CplusExtra1.mpd
+
+
+#EXTINF:-1 group-title="drm3",tnt 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+
+#EXTINF:-1 group-title="drm3",dazn protugal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42248a595b0c4e63a182ae77dfbf2174:f586b39426166c2b2d35fd529e5ec869
+
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_HEVC_UHD
+
+#EXTINF:-1 group-title="drm3",ziggo nl
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+
+https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,
+
+
+
+
+
+
