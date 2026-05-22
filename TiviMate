@@ -388,16 +388,9 @@ https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$525/index.mpd/Manifest.mpd?start=LIVE
 
 
 
-
-
-
-
-
-
 #EXTINF:-1 group-title="UK",BEIN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key= 335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-
 https://a201aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
 
@@ -405,132 +398,86 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/ghw
 #EXTINF:-1 group-title="UK",BEIN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key= 0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-
 https://a201aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
 
 
 
-
-#EXTINF:-1 group-title="UK",sky pl 
+#EXTINF:-1 group-title="UK",skypl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key= 002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 
-
-
-
-
-#EXTINF:-1 group-title="UK",skysaction 
+#EXTINF:-1 group-title="UK",skysaction
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key= "ebe3e04f12c7f7c1557e89962177a3ff:458b6b950555faa563728e4372709748",
-"15eeb6721210c0372f972e171cdc1a13:d2c16030f5bd02f99983c8622f2b2353"
+#KODIPROP:inputstream.adaptive.license_key= ebe3e04f12c7f7c1557e89962177a3ff:458b6b950555faa563728e4372709748,15eeb6721210c0372f972e171cdc1a13:d2c16030f5bd02f99983c8622f2b2353
 https://lin1-gb-s8-prd-cf-bllon.cdn01.skycdp.com/v2/bmff/cenc/t/SKSAHD_HD_SU_SKYUK_4022_100_7888548042053536163.mpd
 
 
 
-
-
-#EXTINF:-1 group-title="UK",skysck 
+#EXTINF:-1 group-title="UK",skysck
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key= "05831a935d04a62511e48984b71dbdb1:96f181183d73f33218ebfa3f148c3691","765f076f6784628df2a307bbb03a7554:5200cc4ae5226fe6a3fc1f246a029aa4"
-                
+#KODIPROP:inputstream.adaptive.license_key= 05831a935d04a62511e48984b71dbdb1:96f181183d73f33218ebfa3f148c3691,765f076f6784628df2a307bbb03a7554:5200cc4ae5226fe6a3fc1f246a029aa4
 https://lin1-gb-s8-prd-ak-sycwr.cdn01.skycdp.com/v2/bmff/cenc/t/SSPOCRH_HD_SU_SKYUK_4081_100_7465583960036894163.mpd
 
 
-
-
-#EXTINF:-1 group-title="UK",skysf1 
+#EXTINF:-1 group-title="UK",skysf1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=  "054cf613af39352717e0ee82f8e49b74:f0dc5b7fa82b1ae0a4d4238dde2c3788",
-"f1d4e8921f9666f4b7596548c24b89d6:e1bc2b304ac1edfe9940658e5943f31f"
+#KODIPROP:inputstream.adaptive.license_key= 054cf613af39352717e0ee82f8e49b74:f0dc5b7fa82b1ae0a4d4238dde2c3788,f1d4e8921f9666f4b7596548c24b89d6:e1bc2b304ac1edfe9940658e5943f31f
 https://lin1-gb-s8-prd-ak-sycwr.cdn01.skycdp.com/v2/bmff/cenc/t/SKYSF1HD_HD_SU_SKYUK_3835_100_5548043508185335163.mpd
 
 
-
-#EXTINF:-1 group-title="UK",skysfootball 
+#EXTINF:-1 group-title="UK",skysfootball
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key= 294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-
 https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 
-
-
-
-#EXTINF:-1 group-title="UK",skysgolf 
+#EXTINF:-1 group-title="UK",skysgolf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key= "bdaf946590703bef483fe5b043593527:9b11c32c2e8e0d9134cb5581ee8e60e0",
-"a2492062d374c62abaa4847227f0be03:1442846a59b1bf304d8d78effefb871d"
-
+#KODIPROP:inputstream.adaptive.license_key= bdaf946590703bef483fe5b043593527:9b11c32c2e8e0d9134cb5581ee8e60e0,a2492062d374c62abaa4847227f0be03:1442846a59b1bf304d8d78effefb871d
 https://lin1-gb-s8-prd-cf-bllon.cdn01.skycdp.com/v2/bmff/cenc/t/SSPOGOD_HD_SU_SKYUK_4026_100_5456092579015190163.mpd
 
 
-
-
-
-#EXTINF:-1 group-title="UK",skysmainevent 
+#EXTINF:-1 group-title="UK",skysmainevent
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key= "152866c56ca812eccd796d5d285720c1:01d2624db75db42abdb7effca53f2cfd",
-"954a34f16013f89b61b59e3bc2f9781d:10e6ca176b44e8cf11e18f51a8644b5f"
-
+#KODIPROP:inputstream.adaptive.license_key= 152866c56ca812eccd796d5d285720c1:01d2624db75db42abdb7effca53f2cfd,954a34f16013f89b61b59e3bc2f9781d:10e6ca176b44e8cf11e18f51a8644b5f
 https://lin1-gb-s8-prd-cf-sycwr.cdn01.skycdp.com/v2/bmff/cenc/t/SSPOMEH_HD_SU_SKYUK_4002_100_5832844211488327163.mpd
 
 
-
-
-
-#EXTINF:-1 group-title="UK",skysmix 
+#EXTINF:-1 group-title="UK",skysmix
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=      "bfbf56792db041e1e3b450f44073f49b:dde93510e8058fa05b056cd6e0eb2b21","8c858f4418d38b6aed8b0096e5407786:465fb9c3f9f8d1e0cd466c9f97fd1943"
-
+#KODIPROP:inputstream.adaptive.license_key= bfbf56792db041e1e3b450f44073f49b:dde93510e8058fa05b056cd6e0eb2b21,8c858f4418d38b6aed8b0096e5407786:465fb9c3f9f8d1e0cd466c9f97fd1943
 https://lin1-gb-s8-prd-ak-sycwr.cdn01.skycdp.com/v2/bmff/cenc/t/SSPOMXH_HD_SU_SKYUK_4090_100_6931399331815121163.mpd
 
 
-
-
-#EXTINF:-1 group-title="UK",skysnews 
+#EXTINF:-1 group-title="UK",skysnews
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="000a465a7a319a11cc128286f17ebac2:b38fef12bd4bcf6d98321d47f89b7ca8","fe621924074963586898d4097f422dec:f90e36ced0d037ff457b220cb411589e"
-
+#KODIPROP:inputstream.adaptive.license_key= 000a465a7a319a11cc128286f17ebac2:b38fef12bd4bcf6d98321d47f89b7ca8,fe621924074963586898d4097f422dec:f90e36ced0d037ff457b220cb411589e
 https://lin1-gb-s8-prd-ak-bllon.cdn01.skycdp.com/v2/bmff/cenc/t/SSPONED_HD_SU_SKYUK_4049_100_4634956060332241163.mpd
 
 
 
-
-
-
-#EXTINF:-1 group-title="UK",skyspl 
+#EXTINF:-1 group-title="UK",skyspl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="211e4f7c9c3a7f736413be12a94ff2fd:a5d7e018b36251034f91be2867852a6e","6f83fc22b4303a6a885bb05b829429aa:13f25ebfa188f5b21b56def4fc47dac2"
-
+#KODIPROP:inputstream.adaptive.license_key= 211e4f7c9c3a7f736413be12a94ff2fd:a5d7e018b36251034f91be2867852a6e,6f83fc22b4303a6a885bb05b829429aa:13f25ebfa188f5b21b56def4fc47dac2
 https://lin1-gb-s8-prd-cf-bllon.cdn01.skycdp.com/v2/bmff/cenc/t/SPLHD_HD_SU_SKYUK_4010_100_4707309603402316163.mpd
 
 
 
-
-
-
-#EXTINF:-1 group-title="UK",skysplus 
+#EXTINF:-1 group-title="UK",skysplus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="3873f9665cd80af5a636c246b12b3693:be092430f1ff95f73e32f52186925261","63c6c87a2fff79ac92e7acdd6e5ae2fa:3ef81237ed0cf58e9b2d55edfa5305eb"
-
+#KODIPROP:inputstream.adaptive.license_key= 3873f9665cd80af5a636c246b12b3693:be092430f1ff95f73e32f52186925261,63c6c87a2fff79ac92e7acdd6e5ae2fa:3ef81237ed0cf58e9b2d55edfa5305eb
 https://lin1-gb-s8-prd-ak-bllon.cdn01.skycdp.com/v2/bmff/cenc/t/SSPOAHD_HD_SU_SKYUK_3940_100_9112281886241957163.mpd
-
 
 
 
 #EXTINF:-1 group-title="UK",skysrc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="c462f73c9889f1942d0ccdc4de32e136:24cdbfd6a4a8f44bff56f66ebcbf4f47","35539f88175ef9968a5017926cd86393:16de78f6272933b98252a551ed215bbe"
-
+#KODIPROP:inputstream.adaptive.license_key= c462f73c9889f1942d0ccdc4de32e136:24cdbfd6a4a8f44bff56f66ebcbf4f47,35539f88175ef9968a5017926cd86393:16de78f6272933b98252a551ed215bbe
 https://lin1-gb-s8-prd-cf-bllon.cdn01.skycdp.com/v2/bmff/cenc/t/SSPORAC_HD_SU_SKYUK_4032_100_6589946639981733163.mpd
-
-
-
 
 
 #EXTINF:-1 group-title="UK",skystennis
@@ -539,34 +486,512 @@ https://lin1-gb-s8-prd-cf-bllon.cdn01.skycdp.com/v2/bmff/cenc/t/SSPORAC_HD_SU_SK
 https://lin1-gb-s8-prd-ak-sycwr.cdn01.skycdp.com/v2/bmff/cenc/t/UK1284_HD_SU_SKYUK_1284_100_6129645287911736163.mpd
 
 
-
 #EXTINF:-1 group-title="UK",tntsports1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+#KODIPROP:inputstream.adaptive.license_key= 294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="UK",tntsports2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+#KODIPROP:inputstream.adaptive.license_key= f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
 
 
 #EXTINF:-1 group-title="UK",tntsports3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+#KODIPROP:inputstream.adaptive.license_key= 1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 #EXTINF:-1 group-title="UK",tntsports4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-
+#KODIPROP:inputstream.adaptive.license_key= 192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+
+#EXTINF:-1 group-title="NL",ziggo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,
+
+
+#EXTINF:-1 group-title="NL",1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,
+
+
+#EXTINF:-1 group-title="NL",espn1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 7e4242db04e642a3bfeee4322f6c3309:f888913716258cab8bda7217ed116958
+https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw263607846_-506634908/PLTV/42/224/3221237151/3221237151.mpd?zoneoffset=0\u0026devkbps=1-7000\u0026servicetype=1\u0026icpid=42\u0026accounttype=1\u0026limitflux=-1\u0026limitdur=-1\u0026tenantId=3103\u0026accountinfo=%7E%7EV2.0%7EDe_V7dONdiLmDTIXZJVjFQ4e9198ddf5c717dc8220f5260f5babf5%7EYWLKBE5mOzXaHhFihQw3yKABqIwJl8s_smDxn2cQbqJp09IZCiGMid2G4mq4oiin1bf05b2bf40c6872c86b8ec1ff3d1863%7EExtInfoaVv0w75bG4yPFxLChlA61w%3D%3Df323d84652d62ad20444009f681eb9ab%3A20240531144721%3AUTC%2C10001003332628%2C145.128.205.77%2C20240531144721%2C3103_FS1%2C10001003332628%2C-1%2C0%2C1%2C%2C%2C2%2C3103_BasispakketTV%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CMzk0OTAzNjMyMzMxMDMyNjczMDYzMDU2%2C%2C%2C5%2C1%2CEND\u0026GuardEncType=2\u0026RTS=1717166843\u0026from=16\u0026hms_devid=1014\u0026online=1717166843\u0026mag_hms=1014,296,298\u0026_=1717166857141
+
+
+#EXTINF:-1 group-title="NL",espn2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 877c908de48c4587a26bcf15e69209e9:3fa8773739511fd77a34df324baca236
+https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw3480132229_1148556782/PLTV/42/224/3221236705/3221236705.mpd?zoneoffset=0\u0026devkbps=1-7000\u0026servicetype=1\u0026icpid=42\u0026accounttype=1\u0026limitflux=-1\u0026limitdur=-1\u0026tenantId=3103\u0026accountinfo=%7E%7EV2.0%7ES_G5x_0rj0SxLLnkih2Gswcf5b95e61987253d0dcefc8dddf58abf%7ET8F9HZIZoFqKaUS-1u6soSS9Q-AB4_8iVhn_tBpWq2zo6uSpvV18emE3i5OFed7Kf5478a52478d7d9caf191d034489a482%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601011339%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601011339%2C3103_FS2%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_FOXSportsCompleet%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND\u0026GuardEncType=2\u0026RTS=1717204419\u0026from=11\u0026hms_devid=299\u0026online=1717204419\u0026mag_hms=299\u0026_=1717204444514
+
+
+
+#EXTINF:-1 group-title="NL",espn3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 81ef5e3512df4254bc6f84cad8afd28b:be79c7f7e552369bb3dd6ed50dfc564f
+https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw3793419033_-522250660/PLTV/42/224/3221240625/3221240625.mpd?zoneoffset=0\u0026devkbps=1-7000\u0026servicetype=1\u0026icpid=42\u0026accounttype=1\u0026limitflux=-1\u0026limitdur=-1\u0026tenantId=3103\u0026accountinfo=%7E%7EV2.0%7E1u4Nx72r4CScDnP9TleJ7Qe133597d301c5ac6606d70bcf6c80fb8%7EoYDAN7_me0l9gzBpq2jqroyCj90JVYN0pnjnV-z5mnx7FsBl0m2bU2rcLYgJPLV9d65a90b8fed763e73042f21ec56dd4a2%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601011852%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601011852%2C3103_FS3%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_FOXSportsCompleet%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND\u0026GuardEncType=2\u0026_=1717204732627\u0026RTS=1717204732\u0026from=16\u0026hms_devid=296\u0026online=1717204732\u0026mag_hms=296
+
+#EXTINF:-1 group-title="NL",espn4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 881667cba813441295cf85501dbb6e98:d91f5dc38fd720ca7e67a05ad512c0ef
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw3938405433_768685155/PLTV/42/224/3221240640/3221240640.mpd?zoneoffset=0\u0026devkbps=1-7000\u0026servicetype=1\u0026icpid=42\u0026accounttype=1\u0026limitflux=-1\u0026limitdur=-1\u0026tenantId=3103\u0026accountinfo=%7E%7EV2.0%7E_J2lSgjaV4brjHkpDbKgYAb925ce73ca161fcae24d173988874292%7EJ7k3cOwkqNuKBfK4KFrq-3IvfHM25Whz1GWtgGDrLwOR4I5z7hcrNY5Jh37NbThta2e5491a5d1cd1c427ea79d052b77441%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012117%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012117%2C3103_FS4%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_FOXSportsCompleet%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND\u0026GuardEncType=2\u0026RTS=1717204877\u0026from=14\u0026hms_devid=307\u0026online=1717204877\u0026mag_hms=307\u0026_=1717204890918
+
+
+#EXTINF:-1 group-title="NL",ziggos1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,
+
+
+
+#EXTINF:-1 group-title="NL",ziggos2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
+
+
+
+#EXTINF:-1 group-title="NL",ziggos3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
+https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
+
+
+#EXTINF:-1 group-title="NL",ziggos4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= b5c04cfb6da84104ba5bbe51cd065b12:d96561be4819d3ed4e5f4f54015baaca
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd?zoneoffset=0\u0026devkbps=1-7000\u0026servicetype=1\u0026icpid=86\u0026accounttype=1\u0026limitflux=-1\u0026limitdur=-1\u0026tenantId=3103\u0026accountinfo=%7E%7EV2.0%7Eu0jaHTa0MTNW18tBSpXw1Ad47f31195be578ee163e34a9e557d481%7E-tEuN4yI47Z49lA_lxVw3r26rEF-eIM-4N-YRBTnBjXeDlL3yoAcCSTfh367bmnJfe93264045ad9787422349ffe59c4e2f%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013557%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013557%2C3103_SP1T%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND\u0026GuardEncType=2\u0026_=1717205757900\u0026RTS=1717205758\u0026from=11\u0026hms_devid=538\u0026online=1717205758\u0026mag_hms=538\u0026ck=
+
+
+
+#EXTINF:-1 group-title="NL",ziggos5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
+https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
+
+
+#EXTINF:-1 group-title="NL",ziggos6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
+
+
+#EXTINF:-1 group-title="POL",canalpluslive1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 590f0b8717b24d88b8bfc2101e9d0971:c7b6f5f4d014412dd698bd29ee047fa5,1b64cc0cc17d4587b00c24bd40623b56:1733b0c4d7341030b726cf858cd2c421
+https://ec04-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1772169689~acl%3D%2Flive%2Fstore01%2FEVENT1%2F*~id%3D01KJDX80YQS6VCRGTSYM1E9YF7~data%3Dwid%3D0xc44bff97~hmac%3D5ace3410f203702e5a77126b108016a85dba593e889fdbe75054c94a53c0990f/live/store01/EVENT1/hd2-dashdrm02/EVENT1.mpd
+
+
+
+#EXTINF:-1 group-title="POL",canalplusport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://r.playcdn.tv/livedash/play/playtv/indigo/live/canalplus_sport_1/live.livx?indexMode
+
+
+#EXTINF:-1 group-title="POL",canalplusport2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://r.playcdn.tv/livedash/play/playtv/indigo/live/canalplus_sport_2/live.livx?indexMode\u0026futc
+
+
+#EXTINF:-1 group-title="POL",canalplusport3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 5b869f492ace427290770464e7d94c86:e508cea2e4becd7a87adfbd863d9f827,b4274e5bdb7e4370bb87af609a74a64e:4763cbd2fa26f4de8bead22db09b0f46
+https://ec09-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1776039527~acl%3D%2Flive%2Fstore01%2FCplusSport3HD%2F*~id%3D01KP17T4D40R1FY66FJVZ9G6BM~data%3Dwid%3D0x4bff97%26wpt%3DtoMXWhTs_PnDiCqVt841NGsAcCuRI_AvAPoAhAHnX15PriKNl-TKhMsXr5cdL3SMUtiOoVSjKrusjBP0X0-Ahw%26wpl%3D512%26dur%3D20000000~hmac%3Db81ab680c84ae4623326e4d385deaf2b9838384400d66024f5d153da7934d5bc/live/store01/CplusSport3HD/hd2-dashdrm02/CplusSport3HD.mpd
+
+
+#EXTINF:-1 group-title="POL",canalplusport4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= bb22610c6783458f8300ef9a1f159a8e:48878c1f8963c79e74908a32e73030a1,bdcfde35c73f4c2dbd628fa3694010b9:96a0683d85cc793eeb116b94731b2a4e
+https://ec07-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1776039648~acl%3D%2Flive%2Fstore01%2FCplusSport4HD%2F*~id%3D01KP17XTQ4JG6TEHBQWT1VT8QM~data%3Dwid%3D0x4bff97%26wpt%3DtoMXWhTs_PnDiCqVt841NGsAcCuRI_AvAPoAhAHnX15PriKNl-TKhMsXr5cdL3SMUtiOoVSjKrusjBP0X0-Ahw%26wpl%3D512%26dur%3D20000000~hmac%3D630bfbae4cbc33625479b3adadb39939a2685aa294ad45563fcfea98aaecfb94/live/store01/CplusSport4HD/hd5-dashdrm02/CplusSport4HD.mpd
+
+
+#EXTINF:-1 group-title="POL",canalplusport5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= b7455fce1f794300b68c97b4c9088781:e19dfeeb5dc417f85b15669a6a50bf86,d8f713ce3f9443f7bdd07160d181d535:54ef8a5499686d0c88be6ef84fc4267e
+https://ec11-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1776039770~acl%3D%2Flive%2Fstore01%2FCplusSport5%2F*~id%3D01KP181H0867YF5VNNYTF9DC3Q~data%3Dwid%3D0xc44bff97~hmac%3De781fb2002df4a297bb4c6ddc7fdf57b0435fedd2ce4149bbc916d31045d1128/live/store01/CplusSport5/hd5-dashdrm02/CplusSport5.mpd
+
+
+#EXTINF:-1 group-title="POL",cdok
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= fc4c055869d84c088199da9588bd1748:db814a0c650ff9f1a8d2475ce9ecc5c2,d8521f5c3b5d4debb91d2d851677c2e3:35af009b29f153ac7a48e2cfd83e4241
+https://ec06-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1768363369~acl%3D%2Flive%2Fstore01%2FCplusDok%2F*~id%3D01KEWF8C8W08JE9SCT3DT5XZ2R~data%3Dwid%3D0xc90693c4~hmac%3D0e17bd099ff882ca7e08d1f77e913182a0dfc2d98978cb3ac8d2ef32f19388db/live/store01/CplusDok/hd2-dashdrm02/CplusDok.mpd
+
+
+
+#EXTINF:-1 group-title="POL",cextra1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 0765a8af0e60467189688fc29b52393c:633722f3e091f5dcfd4e19ced450e109,d93a0d33cda84d12b9a14a28100aa22a:d88b69500b4a6f642975dfa9cf23d05f
+https://ec08-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1778778890~acl%3D%2Flive%2Fstore01%2FCplusExtra1%2F*~id%3D01KRJW8VFGE058TQKGCEC9XEDC~data%3Dwid%3D0x140229%26wpt%3Dm-EtEUK9-TvKyRrFFs0pdsyhanmAMXG7FXs4tUEJbhv_xCCXBDJdzJuWrLsJYw4JSJwN5UTJCSFm7TPdRO_A4Q%26wpl%3D512%26dur%3D20000000~hmac%3D8889d09686382227622d855b0a57526507658efa4bc6f0fb9b3344817f0ce6ba/live/store01/CplusExtra1/hd2-dashdrm02/CplusExtra1.mpd
+
+
+#EXTINF:-1 group-title="POL",cextra2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= ef5798ad98814621a1094c1ed568c177:4a644be2cd1b82afeb934c281f71c7a1,84ebf9d58a7e457fb204e5f03a43d4d6:593d826410c7f26cef534c2d5ab3bc41
+https://ec09-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1778779011~acl%3D%2Flive%2Fstore01%2FCplusExtra2%2F*~id%3D01KRJWCH5Y3JBZ5FBB06TTZ57F~data%3Dwid%3D0x140229%26wpt%3Dm-EtEUK9-TvKyRrFFs0pdsyhanmAMXG7FXs4tUEJbhv_xCCXBDJdzJuWrLsJYw4JSJwN5UTJCSFm7TPdRO_A4Q%26wpl%3D512%26dur%3D20000000~hmac%3D2891cce8f24b401e098457cb3edebf3c9dc508cd35b9c251085206e543fb5a65/live/store01/CplusExtra2/hd2-dashdrm02/CplusExtra2.mpd
+
+
+
+#EXTINF:-1 group-title="POL",cextra3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= ac6aa1a70677401c9e33132251100092:8b2df20af24a02a0a6cecb97f59c8122,fed217d0958d44c58a21a935a2a350b1:6f05d2e14918cdb4c7a514f307bb835f
+https://ec01-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1778779131~acl%3D%2Flive%2Fstore01%2FCplusExtra3%2F*~id%3D01KRJWG70EG7VY388ESWT96MGY~data%3Dwid%3D0x140229%26wpt%3Dm-EtEUK9-TvKyRrFFs0pdsyhanmAMXG7FXs4tUEJbhv_xCCXBDJdzJuWrLsJYw4JSJwN5UTJCSFm7TPdRO_A4Q%26wpl%3D512%26dur%3D20000000~hmac%3D2960f71da2bd009fc8a5ecb50eef8d583cc54c29573bbb7de0cc7195da2e5009/live/store01/CplusExtra3/hd2-dashdrm02/CplusExtra3.mpd
+
+
+
+
+
+#EXTINF:-1 group-title="POL",cextra4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= ceccfccc645f4178a7d7d5dee8e857af:0b442878c04e0480562f373c7aa2b419,d1fad99bbf034f3fb1504daec67bcd26:3ed06f370044924cff116f6fb66d89ff
+https://ec08-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1778779252~acl%3D%2Flive%2Fstore01%2FCplusExtra4%2F*~id%3D01KRJWKWQQV4XTFE5A8YFWAJNN~data%3Dwid%3D0x140229%26wpt%3Dm-EtEUK9-TvKyRrFFs0pdsyhanmAMXG7FXs4tUEJbhv_xCCXBDJdzJuWrLsJYw4JSJwN5UTJCSFm7TPdRO_A4Q%26wpl%3D512%26dur%3D20000000~hmac%3D6f11abf846a64d7cb7d0bd695c474eee451cef98153791f3d6ff4e422d1d1b18/live/store01/CplusExtra4/hd2-dashdrm02/CplusExtra4.mpd
+
+
+
+#EXTINF:-1 group-title="POL",cextra5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70028d841e4c4609aef8471ecde003f7:f738a67c344409e9e42cc6f9fbd4debf,60c625aabf7e4501b088bebd6d069e11:5c12e217b2d2e698ee6dc70287b87e65
+https://live-aka-canalplus-pol.akamaized.net/__token__exp%3D1778779373~acl%3D%2Flive%2Fstore01%2FCplusExtra5%2F*~id%3D01KRJWQJFDVZWBWGHFTJXZWS04~data%3Dwid%3D0x140229%26wpt%3Dm-EtEUK9-TvKyRrFFs0pdsyhanmAMXG7FXs4tUEJbhv_xCCXBDJdzJuWrLsJYw4JSJwN5UTJCSFm7TPdRO_A4Q%26wpl%3D512%26dur%3D20000000~hmac%3Db809fc18b85f36f740068075b6ebb3b94c429dba371c846abdcb66ebfe146f27/live/store01/CplusExtra5/hd2-dashdrm02/CplusExtra5.mpd
+
+#EXTINF:-1 group-title="POL",cextra6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22a50ef9a8204278ae86a561feb1c54a:bd53cc245347e97b9d69f53df7b36f29,58841174353644278cb3f23c0e2ae27e:38e4c5f644de30089648ade30bdea82f
+https://ec10-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1776471995~acl%3D%2Flive%2Fstore01%2FCplusExtra6%2F*~id%3D01KPE480D1KKGNJGAD4XCB8D64~data%3Dwid%3D0x4bff97%26wpt%3DtoMXWhTs_PnDiCqVt841NGsAcCuRI_AvAPoAhAHnX15PriKNl-TKhMsXr5cdL3SMUtiOoVSjKrusjBP0X0-Ahw%26wpl%3D512%26dur%3D20000000~hmac%3De5d3e0e0a84280a6c03ba80ce4360b955948e506306f010468d860efc3324923/live/store01/CplusExtra6/hd2-dashdrm02/CplusExtra6.mpd
+
+#EXTINF:-1 group-title="POL",cextra7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=590f0b8717b24d88b8bfc2101e9d0971:c7b6f5f4d014412dd698bd29ee047fa5,1b64cc0cc17d4587b00c24bd40623b56:1733b0c4d7341030b726cf858cd2c421
+https://ec08-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1777076205~acl%3D%2Flive%2Fstore01%2FEVENT1%2F*~id%3D01KQ04F0NXHVVNDQGSQM857NYC~data%3Dwid%3D0x48fae6b6~hmac%3Dc1cb4431e10c533e6208826087fe0897e4d469d5fbc722329affb6446d0c284f/live/store01/EVENT1/hd2-dashdrm02/EVENT1.mpd
+
+#EXTINF:-1 group-title="POL",cfilm
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd98a9090af2440a9b10bd8f99baca98:c60b6ac4bb4746f4bb68d2fbd1e3084a,8741188b18084b2d8a09f235310ef2c8:05ad1442f1ed3dae900e007f347723bf
+https://ec09-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1768458410~acl%3D%2Flive%2Fstore01%2FCplusFilmHD%2F*~id%3D01KEZ9WSKB14XZP1ZKTPXKM3YW~data%3Dwid%3D0xc90693c4~hmac%3Df50c3749ee314e21f3dfb6aa5792c77eb94092fc2c92a6e654c6835c691e6f8f/live/store01/CplusFilmHD/hd2-dashdrm02/CplusFilmHD.mpd
+
+#EXTINF:-1 group-title="POL",clive1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=590f0b8717b24d88b8bfc2101e9d0971:c7b6f5f4d014412dd698bd29ee047fa5,1b64cc0cc17d4587b00c24bd40623b56:1733b0c4d7341030b726cf858cd2c421
+https://ec05-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1774117304~acl%3D%2Flive%2Fstore01%2FEVENT1%2F*~id%3D01KM7YMHA07ZRG53B9K80HZMFG~data%3Dwid%3D0xc44bff97~hmac%3D19e2dd7b580aa5e1631e972b5562951bec8389e9f9e59ae9ab32ab33f64979f1/live/store01/EVENT1/hd2-dashdrm02/EVENT1.mpd
+
+#EXTINF:-1 group-title="POL",cplus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f08bd2afe5643c881793c4b21659761:e95e5c90661c1177d6d6cf42338eb3e0,89e763e8ccab4b01bab8320713da176f:4b7c2965590f59fcfdd9b6ec3309a33e
+https://ec09-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1769374794~acl%3D%2Flive%2Fstore01%2FCANALplusHD%2F*~id%3D01KFTKTKWJTD458T5J8Z9VNXEC~data%3Dwid%3D0xcf2e4c53~hmac%3D1b2767ad0244caebfc615994679dd00638830d6d8c221e1e84076a22dfed9502/live/store01/CANALplusHD/hd2-dashdrm02/CANALplusHD.mpd
+
+#EXTINF:-1 group-title="POL",cplus360
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=933278f6a2a04e5aada2669351c79e0e:b8cf8901b1e91f6cbd51c6617dfaf884,289017ccc66f457ab09b5adc52805c5e:9749bda3b3f0ff9ff641541337377cb3
+https://ec05-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1775780084~acl%3D%2Flive%2Fstore01%2FCplus360%2F*~id%3D01KNSGCHDJ51X5HB32GJZM7WS9~data%3Dwid%3D0x4bff97%26wpt%3DtoMXWhTs_PnDiCqVt841NGsAcCuRI_AvAPoAhAHnX15PriKNl-TKhMsXr5cdL3SMUtiOoVSjKrusjBP0X0-Ahw%26wpl%3D512%26dur%3D20000000~hmac%3D21b6aae12d827f3344e68b47ba9ebeef73cb0ceac9587704f35aa587d07da4f9/live/store01/Cplus360/hd2-dashdrm02/Cplus360.mpd
+
+#EXTINF:-1 group-title="POL",cplusnow
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27ab5b5c4734475a6baae4e0932293d:7a79ff67e3119ace9df5591ae803728b,e4faffcdef4e428cbaf2ec8d610c72cc:bc6f3140f504eb663dfa5096425a288c
+https://ec01-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1768363246~acl%3D%2Flive%2Fstore01%2FCplusNowHD%2F*~id%3D01KEWF4KQ57NJTP6BXHG0EVCBP~data%3Dwid%3D0xc90693c4~hmac%3D18b75bbf5c2a10126e2c760ac78a1048784e174d9652d0dd51ee5cf8db8ab593/live/store01/CplusNowHD/hd2-dashdrm02/CplusNowHD.mpd
+
+#EXTINF:-1 group-title="POL",cserial
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=976b0d1b3fb54d9584a9b688fb74815f:139f9eb32e07ee21dd968d5f82f128bf,69ccf8d116854ea699bb1cddfb5da496:5d9e0e60c98b5ab27847a0180a6e1ada
+https://ec01-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1769374915~acl%3D%2Flive%2Fstore01%2FCplusSeriale%2F*~id%3D01KFTKY9XXJES2JP8GSVQJKCQF~data%3Dwid%3D0xcf2e4c53~hmac%3D9c3a59789600e9aa15d75227fb5d089331bf1786059eab4afb6ee73d5c0a84c9/live/store01/CplusSeriale/hd2-dashdrm02/CplusSeriale.mpd
+
+#EXTINF:-1 group-title="POL",csport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=28fef2867ed69d4b3884d24ea50ffb4d:71b4360abcefb0aa69396fd9ed9085d2
+https://r.playcdn.tv/livedash/play/playtv/indigo/live/canalplus_sport_1/live.livx?indexMode&futc
+
+#EXTINF:-1 group-title="POL",csport1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c35f5ae279941b7be726157476d7031:53dcc0a61387ce3fa3bfa290a9bc80c7,4e942b1dad92436baad0c6a6901f6d13:5adefdb3f4edd5ceee23d37c10c37e5c
+https://live-aka-canalplus-pol.akamaized.net/__token__exp%3D1776989684~acl%3D%2Flive%2Fstore01%2FCplusSportHD%2F*~id%3D01KPXHYM0TPXZ8MARFHECK0RTD~data%3Dwid%3D0x7ae6b6%26wpt%3D20eN0kDuyWW5WmOO1NaoUGwE0UuyM8elFu9g9wsvVpxXvejMPebMzl4cC-U0RxRL85msxfSgGPpsqxvV18bOqw%26wpl%3D512%26dur%3D20000000~hmac%3D7b1b80d80766943206ca1a4a3e5f3219b8920b59e14e9c4c5cee8f829aedc6eb/live/store01/CplusSportHD/hd5-dashdrm02/CplusSportHD.mpd
+
+#EXTINF:-1 group-title="POL",csport2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a6e747c79dc4c2a8892197611e37987:cb92d1bb2e92ffa4de9c7d23c5677879,f5c080517f6c4366b1930315a6aa70e7:581eba7045254d1de036557789932a05
+https://ec03-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1769375157~acl%3D%2Flive%2Fstore01%2FCplusSport2HD%2F*~id%3D01KFTM5NX0QTZEW0WVXSA50BMR~data%3Dwid%3D0xcf2e4c53~hmac%3D78f12f3dfc929306688d5a2433121bc17dbe48e274247f93c148fbc1f02a34ba/live/store01/CplusSport2HD/hd2-dashdrm02/CplusSport2HD.mpd
+
+#EXTINF:-1 group-title="POL",csport3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b869f492ace427290770464e7d94c86:e508cea2e4becd7a87adfbd863d9f827,b4274e5bdb7e4370bb87af609a74a64e:4763cbd2fa26f4de8bead22db09b0f46
+https://ec09-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1769217027~acl%3D%2Flive%2Fstore01%2FCplusSport3HD%2F*~id%3D01KFNXBYGCP9BVFW7ZBPVJV1YF~data%3Dwid%3D0xcf2e4c53~hmac%3D3be7cc0e4889e0b1b3d5c24857cd7ff383cb483482f23629a13e941c36539c0e/live/store01/CplusSport3HD/hd2-dashdrm02/CplusSport3HD.mpd
+
+#EXTINF:-1 group-title="POL",csport4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb22610c6783458f8300ef9a1f159a8e:48878c1f8963c79e74908a32e73030a1,bdcfde35c73f4c2dbd628fa3694010b9:96a0683d85cc793eeb116b94731b2a4e
+https://ec07-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1776039648~acl%3D%2Flive%2Fstore01%2FCplusSport4HD%2F*~id%3D01KP17XTQ4JG6TEHBQWT1VT8QM~data%3Dwid%3D0x4bff97%26wpt%3DtoMXWhTs_PnDiCqVt841NGsAcCuRI_AvAPoAhAHnX15PriKNl-TKhMsXr5cdL3SMUtiOoVSjKrusjBP0X0-Ahw%26wpl%3D512%26dur%3D20000000~hmac%3D630bfbae4cbc33625479b3adadb39939a2685aa294ad45563fcfea98aaecfb94/live/store01/CplusSport4HD/hd5-dashdrm02/CplusSport4HD.mpd
+
+#EXTINF:-1 group-title="POL",elevens4k
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1855ecfdfb215785a78ae3c62773dcb2:e9a4f881e7b18a1f0dd10a698690dace,571dba7341575a589d510c83bf94758c:bee392a9b992154bd711c6d31ac9d7ec
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports14k/default/index.mpd
+
+#EXTINF:-1 group-title="POL",elevensport1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=525a9da2120045a6973709dbcd685609:d8a7578d81ce754755a503ad8ac98ec0
+https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
+
+#EXTINF:-1 group-title="POL",elevensport2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cd12eaca5c14b30a3280b1a89484809:e2c14f6cc245c1a5ebbce8c8c704fc6c
+https://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
+
+#EXTINF:-1 group-title="POL",elevensport3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e006dab396714c0b9dd6228255c1b709:2cdf44e960bbc4d276968012fe659272
+https://cdn-s-lb2.pluscdn.pl/ch/1457736/145/dash/58566515/live.mpd
+
+#EXTINF:-1 group-title="POL",elevensport4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e943ad288964c77917cc654fc60d109:18cf07106507f411210c4a26d901a9e4
+https://cdn-s-lb2.pluscdn.pl/ch/1457740/146/dash/e653c27f/live.mpd
+
+#EXTINF:-1 group-title="POL",elevensport4k
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f8025a77e033566a0e2ce5bf9ceb816:unknown
+https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1_4K/DUH1/Manifest.mpd
+
+
+
+#EXTINF:-1 group-title="CANAL+VIP",bein1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6362975ca29d0685b7cac721b6faa26:da04d180e9028af27482b6a37c81e020,6ca2f2c822444ff76d9570741dec7b2b:9fc3d71ab30e8d33f09ee29e5e453608
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",bein1low
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d8b1b819cfdcff845625b86cc4968f3:480b03fe4476bc187c6a9d43ba85b9db,6ca2f2c822444ff76d9570741dec7b2b:9fc3d71ab30e8d33f09ee29e5e453608
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.m3u8
+
+#EXTINF:-1 group-title="CANAL+VIP",bein2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a62a516c5d980553f497c6bfc469b19:a0eeb97b4d14d6bb7a5c39755dd7c41c,f81df5cf72bd43c3da84d04dc8691fcb:4a60e4e009560c40766a0fa38770ef4e
+https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",bein2low
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c976caa628fde89aacedbd47059967e:0d1e54565950c1e2f58d45c561a47187,f81df5cf72bd43c3da84d04dc8691fcb:4a60e4e009560c40766a0fa38770ef4e
+https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",bein3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43faba2da98eeeeb42481dca873d3460:f8b58939398e5a5574c18408d304d44e,92e8cc9527c7f56a10777278cb801027:4ce3f3e2234f00b21ba77006f197832a
+https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",beinsmax10
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c2a25bbabc8d3804df46418069ef07:27ca457a2bb9751a5c1eb158474346a0,c41b8b295c08307ddc1e3a22ea912772:d925fe683ed91e5837aaa4e5147ad885
+https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",beinsmax4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b346d39ea28f79dcf8b4a1de35bc4c3a:21275742c1da5f3ace30bb3a6033005b,9502ee217a75900cf2d7608b1a186a03:fcd6e00f9ecf85f3b4ea91471c9ef02e
+https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",beinsmax5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad2dbd3aefe207034f24050ebc98cd1:0b121fe769d0b1b45a3a6bb8c40e3405,b0478fd26424e88fa1e6478ee35d7f08:f5044242d8d224cae4087fd8ef654023
+https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",beinsmax6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c98631345149436c3778caeab57d97c5:6125590eb9a0cb8c9a17dd2680000292,9f899ca412e180776f885c0c214b02a0:3f357dd3dfaf92623903ca91b88b05f4
+https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",beinsmax7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=337348892caabbb14763548ccb1a6ac7:7445c17d6da33a64ea8238a433f9cbe3,3fabbf841767a645ad2d85c1e099e94d:bde635aa3028aab38d680672f88a0c7c
+https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",beinsmax8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0525914e6c3e6be6fe85dcdb8a3be2f:da1c96b903c0c252f1b1d82f2517c07e,4b09dd7a5aff601212f3d498309e467c:7ed57d36a85bba88b737693ab368330e
+https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",beinsmax9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a31894f0c41a0fe0c508784d0d1569b:121164311f7b308a37e5504b717ae3d5,a8d5f0e00214e3777d75b89b05daf64d:f0371e88f6c2bf7844d69d9b9e0a52af
+https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",c360
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f332c077eb054f3ea30c664a1086ce73:f92dbc62b0fb61121b92433f30dcb6a6,f64deae5c55f430eb66e528b89df6dd1:139d901ac558b546a6ad1225bb677148
+https://dsh-m006-live-aka-canalplus.akamaized.net/__token__exp%3D1778778717~acl%3D%2Flive%2Fdisk%2Fcanalplussport360-hd%2F*~id%3D01KRJW3JD6R729KBNCTN55EPPF~data%3Dwid%3D0x9c2ede91~hmac%3D663b6323f57bddad52f86e1ca41ec6a6fff5769eed08ad6ab8b2bbad7659b06e/live/disk/canalplussport360-hd/dash-fhddvr-event/canalplussport360-hd.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",cbox
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f664168ed35d48ed852263fa33bccc56:547ad160d120d1116c041ae70cfe9555,469d4f031b2546e6b9cdd8beb078530f:b135265d77da6b7f8b77682f2c7c6dd2
+https://dsh-m008.p-cdnlive-edge020105-dual.scy.canalplus-cdn.net/__token__exp%3D1774289660~acl%3D%2Flive%2Fdisk%2Fcanalplusboxoffice-hd%2F*~id%3D01KMD30DQNKN1XGZQHHP5ZHT8V~data%3Dwid%3D0xb9d6048b~hmac%3D55b8e0d223c041d8ad03fc1dd62ed1131d5e3ad0ff64d96136f03405d799c3a7/live/disk/canalplusboxoffice-hd/dash-fhddvr-event/canalplusboxoffice-hd.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",ccinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba21096a4b824c1d8606eb38470c675f:96e63aa705180e10edd056aadfe9e017,f9282754ba3348b5b094183707830dd6:6093c6219fe8d13b81d38aa63a3ce3c7
+https://dsh-m006.p-cdnlive-edge020301-dual.scy.canalplus-cdn.net/__token__exp%3D1774289789~acl%3D%2Flive%2Fdisk%2Fcanalpluscinema-hd%2F*~id%3D01KMD34BTHZMWMX8RWNBMJCHWP~data%3Dwid%3D0xb9d6048b~hmac%3D1e5d0302486b175485242266b81667cf0dc621c5c69d35cb1593d2ffbc375740/live/disk/canalpluscinema-hd/dash-fhddvr-event/canalpluscinema-hd.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",cdocs
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78ed79b60bf74f22ba81922eb2384094:9e9ab52dc5afd58ea5a8d1f7efda54e5,ffc2568447ea4a6da3e4d0b2e65b092a:7d73ffb30a338a1ed95d7e197a2f86c9
+https://dsh-m006.p-cdnlive-edge020310-dual.scy.canalplus-cdn.net/__token__exp%3D1768439468~acl%3D%2Flive%2Fdisk%2Fcanalplusdocs-hd%2F*~id%3D01KEYQTQ3RZ6HZMZ5T82DWS9HM~data%3Dwid%3D0xb9d6048b~hmac%3D0fc8312feb63dfe3d7eb11b7abb45e370f2a081e274aaf6edc9fdf25e08fe9aa/live/disk/canalplusdocs-hd/dash-fhddvr/canalplusdocs-hd.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",cfoot
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8455c071bce94919901a34d61058a9cb:25612e82d6a77382a356740767b4cefa,71e5c1f0d8d7465b9995699bf3bcb4e9:ec6b89a936f8320b1392fc101cdfb3c4
+https://dsh-m004-live-aka-canalplus.akamaized.net/__token__exp%3D1778778179~acl%3D%2Flive%2Fdisk%2Fcanalplusfoot-hd%2F*~id%3D01KRJVK4H245HQ7X71680WRQ9K~data%3Dwid%3D0x9c2ede91~hmac%3D51eec3f131557932f5e0849c81a0f4af0624284d99ced8f75190e374dfb98cd9/live/disk/canalplusfoot-hd/dash-fhddvr-event/canalplusfoot-hd.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",cfootraw
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8455c071bce94919901a34d61058a9cb:25612e82d6a77382a356740767b4cefa,71e5c1f0d8d7465b9995699bf3bcb4e9:ec6b89a936f8320b1392fc101cdfb3c4
+https://dsh-m004.p-cdnlive-edge020405-dual.scy.canalplus-cdn.net/__token__exp%3D1772216185~acl%3D%2Flive%2Fdisk%2Fcanalplusfoot-hd%2F*~id%3D01KJF9JZ68EWK4CT73FQC23XVA~data%3Dwid%3D0xb9d6048b~hmac%3Db58149d61c4aa7a9160a0c70644acb776e11f1f47b4409b43e540335adb61577/live/disk/canalplusfoot-hd/dash-fhddvr-event/canalplusfoot-hd.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",cge
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4412e75a54a43c6865d7929cc65f0ea:8cb4e9de94ebc871431c0576d30604a1,fcb58f1a11b14d17aaf42bb6e829f6e7:237b1675b02086449cf4802604b0a5e4
+https://dsh-m006.p-cdnlive-edge020410-dual.scy.canalplus-cdn.net/__token__exp%3D1766625297~acl%3D%2Flive%2Fdisk%2Fcanalplusgrandecran-hd%2F*~id%3D01KD8NPMCMF04M93GHT4Q5WFCA~data%3Dwid%3D0x9c2ede91~hmac%3D1729d11b366d09ec4a266b6d29c481310b79583c1d176159d7cd1858a2e5e44b/live/disk/canalplusgrandecran-hd/dash-fhddvr/canalplusgrandecran-hd.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",cgolf
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff6e4ccd20114f749541d1df3156c941:fe36684e617c35ab73e2713fb7f60c64,88f50daadfbb4b9a9983dc9af52c4319:9206bb5b5c4fe971b291a79bcf93993e
+https://dsh-m001.p-cdnlive-edge020303-dual.scy.canalplus-cdn.net/__token__exp%3D1768439189~acl%3D%2Flive%2Fdisk%2Fgolfplus-hd%2F*~id%3D01KEYQJ6WMHYS572G5FY79HN4G~data%3Dwid%3D0xb9d6048b~hmac%3D039c8f9e8d0b54ef43ef863931418678a2c4796e765efabbe5e273daa7cb41ba/live/disk/golfplus-hd/dash-fhddvr/golfplus-hd.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",cinef
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54048563958d9b5fb86fc8d1951f9cfc:f0c675c40072d5c68198e27a333f55fe,69ffdc4622ba9368e18ab540bffc8508:697b47d2ccfda8b781601a8e302f2ae3
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1053/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",cinep
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f11f8c4c283c7f3bede627224a557821:02f82a68fc59d524633b191cd15d97c4,d82c91c9cd9e84e7b689ac8ca276a3a7:c72d11fc9bc2ac69783d13d4b50151fe
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1051/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",clive1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf2629814e554b7684b3d9b63bfde42a:0e9d10bc2e42ff61c0378447446d4143,10174ab39a1340c2ac55e8c52e62a38b:a66d9f3e249b29bc71be2edce5aa7d5b
+https://dsh-m014-live-aka-canalplus.akamaized.net/__token__exp%3D1778778447~acl%3D%2Flive%2Fdisk%2Fcanalpluslive1-hd%2F*~id%3D01KRJVVAG98JKNJJJXS4W6G90N~data%3Dwid%3D0x9c2ede91~hmac%3Dd67cf429ca69f6cfc34ded411b2ff489e70c96949545ce870ae0d6ff2500909e/live/disk/canalpluslive1-hd/dash-fhddvr-event/canalpluslive1-hd.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",clive2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9661e4cb2c494ad6bf74c42ba262b4d1:e13972bed3e4abbf8b7635aeb094d643,4e18dcfb8d0546469d0d5bcb0a393206:8f27e31891de96735bf5b2bbeb26050d
+https://dsh-m014.p-cdnlive-edge020408-dual.scy.canalplus-cdn.net/__token__exp%3D1778026488~acl%3D%2Flive%2Fdisk%2Fcanalpluslive2-hd%2F*~id%3D01KQWEQBC8W75B32AQ0H6S29AR~data%3Dwid%3D0x9c2ede91~hmac%3Deca33dc4954d835aaaf66aa9f4325700d68aee7070e55cc7bba689307c4a06e5/live/disk/canalpluslive2-hd/dash-fhddvr-event/canalpluslive2-hd.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",clive3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90b1049198b64f44bf192c47fe26ba55:b811a541c4ff561c5e9a5843f52575d9,21a3eba72cbc4e0a9036826c5c65c97e:fc6801185bc99cadd34e03c201d2dbe1
+https://dsh-m014.p-cdnlive-edge020201-dual.scy.canalplus-cdn.net/__token__exp%3D1776999333~acl%3D%2Flive%2Fdisk%2Fcanalpluslive3-hd%2F*~id%3D01KPXV529H07PY8R6DNB268EJT~data%3Dwid%3D0x9c2ede91~hmac%3Dd71c24be92b46c64a50f66068af3983741fd4c491bd7b1363ce2f50f9d6cbc31/live/disk/canalpluslive3-hd/dash-fhddvr-event/canalpluslive3-hd.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",clive4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e7fa108c21640c9b9b0481a85d3410a:1e792bc429b697a4bba9b1743938e7f5,99aaa5959a0746a4ae86ee066a4f0936:86bc48a14f8a83fd7a105281418f23a7
+https://dsh-m014.p-cdnlive-edge020208-dual.scy.canalplus-cdn.net/__token__exp%3D1776999421~acl%3D%2Flive%2Fdisk%2Fcanalpluslive4-hd%2F*~id%3D01KPXV7RVHAR1RSQ1D0A7T51NX~data%3Dwid%3D0x9c2ede91~hmac%3D4202745144f4e03f3704e1b283e7e420605da1af96aae8682d0cbe1f7a6ff1dc/live/disk/canalpluslive4-hd/dash-fhddvr-event/canalpluslive4-hd.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",clive5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a33ccb0f22e64265a6c6a14379b691e6:83a74ad19875ff320fc85efa7274e40d,f8998ee9fe3349d98eef6fbf3ad1828b:4c36bd6eba24d192ede9fc832f02e9d4
+https://dsh-m014.p-cdnlive-edge020206-dual.scy.canalplus-cdn.net/__token__exp%3D1768954325~acl%3D%2Flive%2Fdisk%2Fcanalpluslive5-hd%2F*~id%3D01KFE2TXMAVNRK4M1KCV0XCAK8~data%3Dwid%3D0xb9d6048b~hmac%3Dcb499c707da0e209e77a7c193be10b085b8c95a33bb160fc31c90a0a25c1e5e9/live/disk/canalpluslive5-hd/dash-fhddvr/canalpluslive5-hd.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",clive6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=878be4e5a8f64e5bb36814d907d6302c:e2b08bab836d4c0f70870ac28dc9cb61,eb7a7d31096f465e977a87848f07f2c3:b2c04018f5ee76892a9b83eb33832011
+https://dsh-m014.p-cdnlive-edge020109-dual.scy.canalplus-cdn.net/__token__exp%3D1768439437~acl%3D%2Flive%2Fdisk%2Fcanalpluslive6-hd%2F*~id%3D01KEYQSRR9H1TFGJ53WXFJEWVP~data%3Dwid%3D0xb9d6048b~hmac%3D5b2e2cb28123c3213e2ce81683b984937831a886d9ba4fdeab1ff544b3d5caca/live/disk/canalpluslive6-hd/dash-fhddvr/canalpluslive6-hd.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",cplus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa80fa5aa71d49aa9fbe14ebb1bb1cc2:3c55eb14dc53978cf30de06a831a2b78,52bd3818c4b44bab8d477088879048ba:5635c05cf8d20f2f21f8eaef7c0b5a5b
+https://dsh-m007.p-cdnlive-edge020208-dual.scy.canalplus-cdn.net/__token__exp%3D1774289285~acl%3D%2Flive%2Fdisk%2Fcanalplus-hd%2F*~id%3D01KMD2MZ6PW7BQWJS44EVTTTDV~data%3Dwid%3D0xb9d6048b~hmac%3Defceedea2768d79488a9b01e0ce37ba85c469beae19d5f344ba234f879b10733/live/disk/canalplus-hd/dash-fhddvr-event/canalplus-hd.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",csport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=359ba35f49404ff99e30b54e52333c1c:b26cc549b34acf10ff80cddbc5bb1f20,773f31e8869047ae9eb8c6703f5591c6:4ef66e5071bfd407cdef1a7a487e604b
+https://dsh-m006-live-aka-canalplus.akamaized.net/__token__exp%3D1778778987~acl%3D%2Flive%2Fdisk%2Fcanalplussport-hd%2F*~id%3D01KRJWBSX9YJXKA2D6SR2H7NK0~data%3Dwid%3D0x9c2ede91~hmac%3Dae664cf20c47ef8ff430144791c312cd870514442be041962f957173aa9f07cb/live/disk/canalplussport-hd/dash-fhddvr-event/canalplussport-hd.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",discovery
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e10a9522a3794e273db4884e0871fd6:36da737e44e9563da0a398ec50f3ff7c,633d3cff1108f8122aa5df29d962e820:bcd2d38546a0e56e617bd6bd8c7416f4
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1620/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",equipe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6d8216125f3fa393df9a396e43ec795:1051960ec81ce875a253fa86f38ff8e7,0fa7ad6c5e2a9d384a31c0c2ba421bab:c4a138340a81f63dba904ccfb7402187
+https://api-proxad.dc2.oqee.net/playlist/v1/live/994/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",f24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=080785b81b65d258ea8243f70b991324:66e9c86fc5c7502d20f16c0edc139bde,1ddbfa63bc8fbdd50460cb271a7b09ef:6ef92d8bb0fcd34af507f8cc3c7bc54a
+https://api-proxad.dc2.oqee.net/playlist/v1/live/739/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",f2uhd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c4df87e9790da6e41d53d91ce0e9e2:687adcd5953b831e51b8992336d1ea61,2cd8a04c1ccf0350414092cea7a29287:23de78b4e2feee0cacc4fb155603f661
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1673/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",infosport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65133eee3512de1cbae027f133ee4b0b:unknown
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1215/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",lbein1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6362975ca29d0685b7cac721b6faa26:da04d180e9028af27482b6a37c81e020,6ca2f2c822444ff76d9570741dec7b2b:9fc3d71ab30e8d33f09ee29e5e453608
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",ligue1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=293295ca4a875a3a81c7639aea193a6f:bceb8764ffddc9760d8e2f9102f77f4b
+https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-218/stream.mpd?p=web&dazn-token=st%3D1778248410~exp%3D1778334810~acl%3D%2F*~id%3D89b24fc41754~data%3Dproto%3Ddash%23country%3Dfr%23asn%3D215294%23path%3D1s%2C2d%23hashp%3D586ad6db2c0af189ac2fd0cfc9d2fe9c2d1e23d162ee6ac80af7b08a7b26ecf7%23hashua%3D3b52c7acdafae5463e8f7c200f6ad30475b3d6d08f506279b5df0c3dfb79c053~hmac%3D9d499aa3352dcdb4d558e1547e7fe79f1d07e78529b7d067d561896a745eff5e
+
+#EXTINF:-1 group-title="CANAL+VIP",ligue12
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66581ba6ce05d13670fccedac78aec13:unknown
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1777/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",ligue1low
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80c4329ad9b70debf49be84c10024c90:unknown
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1776/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",m6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a14d4e9a2ec70d060b873622d0fe0a3:4fe37af81e6be1edf17e2f5e00c67ae4,b18ac06789510949f5fee55ee2274151:d7b9d6dba05741b1070d8c19743020f9
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1555/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",m6music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47119e91282ef98d9cc4a1a2cb7debeb:94521d8e25d2826729c4a4079347fccd,8329bc0974ddf745f7bd61048e65fd52:d9d7e6026e14c1ea700a1729aadd8a4d
+https://api-proxad.dc2.oqee.net/playlist/v1/live/430/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",natgeo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bc6aa0a08e049c88f3822d202a441b3:dc3662dc8ed4d4b22c0ddad281f3e2ca,62498e10a3f0e09ddbece330f98c983c:c2cf8d062111e9e3cea591d3b25ec1c9
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1061/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",paramount
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e68f17c1ec0a73fd6aecdd1d0adfda09:9d3077e741f6d151baa1b3632ff9d02d,e58cc0d4dd2395c434199724a4e65e62:be62b624ab901bfcb787fdebbe1f182c
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1050/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",tf1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8be47a53e129b0e0533b28450a1cbb:b06c704d8da89332e257afe414792e01
+http://ncdn-live.pfd.sfr.net/sdash/LIVE$TF1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 group-title="CANAL+VIP",tf14k
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02b07f6394293c409350cded71ce3654:9e03072c3b243bbe9aba03fce2f5cfa4,65006bc6637e7a291061f45870a04e81:0b50bfea6301df542eb9efcca75d5ec8
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1312/1/live.mpd
+
+#EXTINF:-1 group-title="CANAL+VIP",traceu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2703dfafa51e56487c001ae25ff1e182:c884644f52302d0c0a972004044ae6c7,e5bca4855b65b603d9d403f75909501c:820f8e709712fa382299061659f035cf
+https://api-proxad.dc2.oqee.net/playlist/v1/live/228/1/live.mpd
 
 
