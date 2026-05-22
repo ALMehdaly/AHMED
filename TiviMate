@@ -270,11 +270,7 @@ https://ec08-tpnet-waw.cdn-canalplus.pl/__token__exp%3D1779393973~acl%3D%2Flive%
 https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 
-#EXTINF:-1 group-title="drm3",dazn protugal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42248a595b0c4e63a182ae77dfbf2174:f586b39426166c2b2d35fd529e5ec869
 
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_HEVC_UHD
 
 #EXTINF:-1 group-title="drm3",ziggo nl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -285,7 +281,10 @@ https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/32
 
 
 
-
+#EXTINF:-1 group-title="PT",dazn protugal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42248a595b0c4e63a182ae77dfbf2174:f586b39426166c2b2d35fd529e5ec869
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_HEVC_UHD
 
 
 #EXTINF:-1 group-title="PT",SportTV+
