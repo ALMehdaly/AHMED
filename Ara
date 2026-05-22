@@ -305,10 +305,11 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DCX/wv-pr/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="STCtv",stc tv c ID pop
+#EXTINF:-1 group-title="STCtv",stc tv sports HD 1 hevc
+ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188
-https://pop1e5.cdn.intigral-ott.net/bpk-tv/DCX/wv-pr/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC_HEVC/wv-pr/manifest.mpd
 
 
 
