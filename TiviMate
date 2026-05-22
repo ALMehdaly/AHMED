@@ -488,3 +488,48 @@ https://lin1-gb-s8-prd-cf-sycwr.cdn01.skycdp.com/v2/bmff/cenc/t/SSPOMEH_HD_SU_SK
 #KODIPROP:inputstream.adaptive.license_key=      "bfbf56792db041e1e3b450f44073f49b:dde93510e8058fa05b056cd6e0eb2b21","8c858f4418d38b6aed8b0096e5407786:465fb9c3f9f8d1e0cd466c9f97fd1943"
 
 https://lin1-gb-s8-prd-ak-sycwr.cdn01.skycdp.com/v2/bmff/cenc/t/SSPOMXH_HD_SU_SKYUK_4090_100_6931399331815121163.mpd
+
+
+
+
+#EXTINF:-1 group-title="UK",skysnews 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key="000a465a7a319a11cc128286f17ebac2:b38fef12bd4bcf6d98321d47f89b7ca8","fe621924074963586898d4097f422dec:f90e36ced0d037ff457b220cb411589e"
+
+https://lin1-gb-s8-prd-ak-bllon.cdn01.skycdp.com/v2/bmff/cenc/t/SSPONED_HD_SU_SKYUK_4049_100_4634956060332241163.mpd
+
+
+
+
+
+
+#EXTINF:-1 group-title="UK",skyspl 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key="211e4f7c9c3a7f736413be12a94ff2fd:a5d7e018b36251034f91be2867852a6e","6f83fc22b4303a6a885bb05b829429aa:13f25ebfa188f5b21b56def4fc47dac2"
+
+https://lin1-gb-s8-prd-cf-bllon.cdn01.skycdp.com/v2/bmff/cenc/t/SPLHD_HD_SU_SKYUK_4010_100_4707309603402316163.mpd
+
+
+
+
+
+
+#EXTINF:-1 group-title="UK",skysplus 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key="3873f9665cd80af5a636c246b12b3693:be092430f1ff95f73e32f52186925261","63c6c87a2fff79ac92e7acdd6e5ae2fa:3ef81237ed0cf58e9b2d55edfa5305eb"
+
+https://lin1-gb-s8-prd-ak-bllon.cdn01.skycdp.com/v2/bmff/cenc/t/SSPOAHD_HD_SU_SKYUK_3940_100_9112281886241957163.mpd
+
+
+
+
+#EXTINF:-1 group-title="UK",skys
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
+#EXTINF:-1 group-title="UK",skys
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
