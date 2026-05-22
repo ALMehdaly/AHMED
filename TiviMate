@@ -389,3 +389,102 @@ https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$525/index.mpd/Manifest.mpd?start=LIVE
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="UK",BEIN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+
+https://a201aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+
+
+#EXTINF:-1 group-title="UK",BEIN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+
+https://a201aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+
+
+
+
+
+#EXTINF:-1 group-title="UK",sky pl 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+
+
+
+
+
+#EXTINF:-1 group-title="UK",skysaction 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= "ebe3e04f12c7f7c1557e89962177a3ff:458b6b950555faa563728e4372709748",
+"15eeb6721210c0372f972e171cdc1a13:d2c16030f5bd02f99983c8622f2b2353"
+https://lin1-gb-s8-prd-cf-bllon.cdn01.skycdp.com/v2/bmff/cenc/t/SKSAHD_HD_SU_SKYUK_4022_100_7888548042053536163.mpd
+
+
+
+
+
+#EXTINF:-1 group-title="UK",skysck 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= "05831a935d04a62511e48984b71dbdb1:96f181183d73f33218ebfa3f148c3691","765f076f6784628df2a307bbb03a7554:5200cc4ae5226fe6a3fc1f246a029aa4"
+                
+https://lin1-gb-s8-prd-ak-sycwr.cdn01.skycdp.com/v2/bmff/cenc/t/SSPOCRH_HD_SU_SKYUK_4081_100_7465583960036894163.mpd
+
+
+
+
+#EXTINF:-1 group-title="UK",skysf1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=  "054cf613af39352717e0ee82f8e49b74:f0dc5b7fa82b1ae0a4d4238dde2c3788",
+"f1d4e8921f9666f4b7596548c24b89d6:e1bc2b304ac1edfe9940658e5943f31f"
+https://lin1-gb-s8-prd-ak-sycwr.cdn01.skycdp.com/v2/bmff/cenc/t/SKYSF1HD_HD_SU_SKYUK_3835_100_5548043508185335163.mpd
+
+
+
+#EXTINF:-1 group-title="UK",skysfootball 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+
+
+
+
+#EXTINF:-1 group-title="UK",skysgolf 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= "bdaf946590703bef483fe5b043593527:9b11c32c2e8e0d9134cb5581ee8e60e0",
+"a2492062d374c62abaa4847227f0be03:1442846a59b1bf304d8d78effefb871d"
+
+https://lin1-gb-s8-prd-cf-bllon.cdn01.skycdp.com/v2/bmff/cenc/t/SSPOGOD_HD_SU_SKYUK_4026_100_5456092579015190163.mpd
+
+
+
+
+
+#EXTINF:-1 group-title="UK",skysmainevent 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= "152866c56ca812eccd796d5d285720c1:01d2624db75db42abdb7effca53f2cfd",
+"954a34f16013f89b61b59e3bc2f9781d:10e6ca176b44e8cf11e18f51a8644b5f"
+
+https://lin1-gb-s8-prd-cf-sycwr.cdn01.skycdp.com/v2/bmff/cenc/t/SSPOMEH_HD_SU_SKYUK_4002_100_5832844211488327163.mpd
+
+
+
+
+
+#EXTINF:-1 group-title="UK",skysmix 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=      "bfbf56792db041e1e3b450f44073f49b:dde93510e8058fa05b056cd6e0eb2b21","8c858f4418d38b6aed8b0096e5407786:465fb9c3f9f8d1e0cd466c9f97fd1943"
+
+https://lin1-gb-s8-prd-ak-sycwr.cdn01.skycdp.com/v2/bmff/cenc/t/SSPOMXH_HD_SU_SKYUK_4090_100_6931399331815121163.mpd
