@@ -313,6 +313,87 @@ https://chwide02-i.akamaihd.net/watan_a_watar/abr_live/watan_a_watar/live_1080p/
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/RotanaKhaleejiya.png" group-title="Main",Rotana Khaleejiya
+#EXTVLCOPT:http-referrer=https://rotana.net/
+
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6HMluzv.png" group-title="ROTANA",ROTANA khaleejiya
+
+#EXTVLCOPT:http-referrer=https://rotana.net/
+
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="ROTANA",ROTANA Comedy
+
+#EXTVLCOPT:http-referrer=https://rotana.net/
+
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
+
+
+
+
+
+ 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA Cinema 
+
+#EXTVLCOPT:http-referrer=https://rotana.net/
+
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA Cinema Masr
+
+#EXTVLCOPT:http-referrer=https://rotana.net/
+
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA classic
+
+#EXTVLCOPT:http-referrer=https://rotana.net/
+
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA Clip
+
+#EXTVLCOPT:http-referrer=https://rotana.net/
+
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+
+ 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA Drama
+
+#EXTVLCOPT:http-referrer=https://rotana.net/
+
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",LBC
+
+#EXTVLCOPT:http-referrer=https://rotana.net/
+
+https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ALRisala
+
+#EXTVLCOPT:http-referrer=https://rotana.net/
+
+https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
 
 
 
