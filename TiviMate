@@ -242,6 +242,75 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Sony_Ent_TV_New/DASH/Sony_Ent_T
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/al_zaeem.png" group-title="WIDE", al_zaeem
+https://chwide02-i.akamaihd.net/al_zaeem/abr_live/al_zaeem/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185b8bc6cb8cf55886d
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/souad_hosny.png" group-title="WIDE", souad_hosny
+https://chwide02-i.akamaihd.net/souad_hosny/abr_live/souad_hosny/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185b7b88ca7440ce4ad
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/ismail_yasin.png" group-title="WIDE", ismail_yasin
+https://chwide03-i.akamaihd.net/ismail_yasin/abr_live/ismail_yasin/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41855421d37397753eef
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/aflam.png" group-title="WIDE", Aflam
+https://chwide03-i.akamaihd.net/aflam/abr_live/aflam/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41858c99a4967d40091b
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/action.png" group-title="WIDE", Action
+https://chwide05-i.akamaihd.net/akshin/abr_live/akshin/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41851a09d756eb1c929c
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/matbakh_dimashqi.png" group-title="WIDE", matbakh_dimashqi
+https://chwide05-i.akamaihd.net/matbakh_dimashqi/abr_live/matbakh_dimashqi/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185168ee8bf70b57bfe
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/shamiyat.png" group-title="WIDE", shamiyat
+https://chwide03-i.akamaihd.net/shamiyat/abr_live/shamiyat/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185afe27709c9567d7b
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/sham_plus.png" group-title="WIDE", sham_plus
+https://chwide05-i.akamaihd.net/sham_plus/abr_live/sham_plus/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185a1b3592729c3d601
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/bab_alhara.png" group-title="WIDE", bab_alhara
+https://chwide03-i.akamaihd.net/bab_alhara/abr_live/bab_alhara/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41855a7d939f8ecb76f7
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/comedy.png" group-title="WIDE", Comedy
+https://chwide02-i.akamaihd.net/comedy/abr_live/comedy/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41857ca0239daa1ea074
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/classic.png" group-title="WIDE", Classic
+https://chwide03-i.akamaihd.net/classic/abr_live/classic/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185845914a1e60f1d1f
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/khalijiyat.png" group-title="WIDE", khalijiyat
+https://chwide02-i.akamaihd.net/khalijiyat/abr_live/khalijiyat/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d418571cb82e08a4effcb
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/mosalsalat.png" group-title="WIDE", mosalsalat
+https://chwide03-i.akamaihd.net/mosalsalat/abr_live/mosalsalat/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185f7cf031ca5affec7
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/abc_drama.png" group-title="WIDE", abc_drama
+https://chwide07-i.akamaihd.net/abc_drama/abr_live/abc_drama/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185c7ed5986290cabd5
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/drama_plus.png" group-title="WIDE", drama_plus
+https://chwide07-i.akamaihd.net/drama_plus/abr_live/drama_plus/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41854cff0f85bccc9ef9
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/hakayat.png" group-title="WIDE", hakayat
+https://chwide05-i.akamaihd.net/hakayat/abr_live/hakayat/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185ae0a22a66c9322ff
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/nojoom_maser.png" group-title="WIDE", nojoom_maser
+https://chwide07-i.akamaihd.net/nojoom_maser/abr_live/nojoom_maser/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185762bf50798061f4b
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/nasamat_ayloul.png" group-title="WIDE", nasamat_ayloul
+https://chwide02-i.akamaihd.net/nasamat_ayloul/abr_live/nasamat_ayloul/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185355a09d5b4b244cb
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/badaweyat.png" group-title="WIDE", badaweyat
+https://chwide05-i.akamaihd.net/badaweyat/abr_live/badaweyat/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185712f2c862e77ee38
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/heyawhowa.png" group-title="WIDE", heyawhowa
+https://chwide07-i.akamaihd.net/heyawhowa/abr_live/heyawhowa/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d418550a73d2b99a43857
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/shaghaf.png" group-title="WIDE", shaghaf
+https://chwide05-i.akamaihd.net/shaghaf/abr_live/shaghaf/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d418503eaaf4826ebbe20
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/watan_a_watar.png" group-title="WIDE", watan_a_watar
+https://chwide02-i.akamaihd.net/watan_a_watar/abr_live/watan_a_watar/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41857028a3b519b98c96
+
+
+
+
 
 
 
