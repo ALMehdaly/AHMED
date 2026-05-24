@@ -313,10 +313,7 @@ https://chwide02-i.akamaihd.net/watan_a_watar/abr_live/watan_a_watar/live_1080p/
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/RotanaKhaleejiya.png" group-title="Main",Rotana Khaleejiya
-#EXTVLCOPT:http-referrer=https://rotana.net/
 
-https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/6HMluzv.png" group-title="ROTANA",ROTANA khaleejiya
