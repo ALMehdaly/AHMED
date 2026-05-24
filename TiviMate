@@ -1142,3 +1142,24 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/1312/1/live.mpd
 https://api-proxad.dc2.oqee.net/playlist/v1/live/228/1/live.mpd
 
 
+
+#EXTINF:-1 group-title="APP",beIN max 1
+https://s2.marketplace-io-none-kode-steeeee.lol//bmax1080/tracks-v1a1/mono.m3u8?remote=176.47.23.115&token=c3a333b8a1bf9c99217499bce30a66be84855ff7-e9e80949c2bfbea8d50446c4f900b258-1779672580-1779661780
+
+
+#EXTINF:-1 group-title="APP",beIN max 2
+https://s2.marketplace-io-none-kode-steeeee.lol//bmax21080/tracks-v1a1/mono.m3u8?remote=176.47.23.115&token=ad29e7a403c2638935f60d03b81605b1710c2431-7eef424e082725605e6ba895d3750793-1779672627-1779661827
+
+
+#EXTINF:-1 group-title="APP",M6 
+https://s4.marketplace-io-none-kode-steeeee.lol//m6/tracks-v1a1/mono.m3u8?remote=176.47.23.115&remote=176.47.23.115/m6/index.m3u8?token=1f09276a0b2f44f7bebdb4ad9fe353f315bb6800-a92ba384da08c4ed299ff524bc5f73bd-1779671856-1779661056&token=0426abbccf49576b0208cdcba9f91e1727c03a3f-66a998541e03c855fa931cd127706cbc-1779671856-1779661056
+
+
+#EXTINF:-1 group-title="APP",FS 1
+
+https://s4.marketplace-io-none-kode-steeeee.lol//fs1/tracks-v1a1/mono.m3u8?remote=176.47.23.115&remote=176.47.23.115/fs1/index.m3u8?token=68a254fb8aeeab1e4159c4ba29fc205fa65f0a4c-c10ba137cb9c296a0df76bbfb507a26f-1779672502-1779661702&token=11c17dcde304de9eb467b479fafc7c6e63c2744f-d5d97cb53ff6e0241c2f62071171fd54-1779672501-1779661701
+
+
+
+
+
