@@ -400,6 +400,11 @@ https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15
 
 
 
+#EXTINF:-1 group-title="starzplay",RedBull
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90da05e528d71426a11a2318a96018ce:abfab9b4d18d8be44c7ffc619f50e27f
+https://0a889ec3eff14f7c8f04263b594a613b.mediatailor.me-central-1.amazonaws.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Redbull-Live-DASH/live/eds/RedBull2025/DASH/RedBull2025.mpd
+
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/al_zaeem.png" group-title="WIDE", al_zaeem
 https://chwide02-i.akamaihd.net/al_zaeem/abr_live/al_zaeem/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185b8bc6cb8cf55886d
