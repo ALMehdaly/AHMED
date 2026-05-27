@@ -375,7 +375,27 @@ https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec6
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CNN_International_HD/DASH/CNN_International_HD.mpd
 
 
+#EXTINF:-1 group-title="starzplay",CNBC_Arabiya_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=118006f774da4635be8611935c001cf7:d1b50cc42477aea2e6fd58247b42a62f
+https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/CNBC_Arabiya_HD/DASH/CNBC_Arabiya_HD.mpd
 
+
+#EXTINF:-1 group-title="starzplay",Spacetoon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d9d2ff7e16589866e6de748a7a34dcd:91c93471f897aca8db5411a3aebef4db
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Spacetoon/DASH/Spacetoon.mpd
+
+
+#EXTINF:-1 group-title="starzplay",Cartoon_Network_Arabic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18f735985ada8c2183621c4316150095:5bbb37067a13fa42433314b9a89f889b
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Cartoon_Network_Arabic/DASH/Cartoon_Network_Arabic.mpd
+
+#EXTINF:-1 group-title="starzplay",STARZ_ON_KLASSICZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e02025dcc22f9e8014d3a1f9551078ba:d11b8ba4cd46bdf5b8e3502a3d8a6dad
+https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/STARZ_ON_KLASSICZ/dash/drm/index.mpd
 
 
 
