@@ -100,339 +100,256 @@ https://raw.github.com/ALMehdaly/AHMED/TV/804FHD.m3u
 
 
 
-#EXTINF:-1 group-title="STCTV HEVC",stc tv sports HD 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4wVlKPL.png" group-title="STCtv HEVC",STCtv Sports HD 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv sports HD 2
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fetTDcp.png" group-title="STCtv HEVC",STCtv Sports HD 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/JAW1_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv sports HD 3
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9vc9Y0T.png" group-title="STCtv HEVC",STCtv Sports HD 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fd615ca2c5353fc5393da466ce31cbc:942822c6e7d3b01dd71bffded7ac0aa8
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC3_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv sports HD 4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ilvXdQ.png" group-title="STCtv HEVC",STCtv sports HD 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01065be7ffbb268f2aadf7424b8ee24e:79a541c99e9bb7815e257e4a4ff46dbb
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC4_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv Thmanyah
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xhyyAe.png" group-title="STCtv HEVC",STCtv Thmanyah HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ebed7aab13df195c486446acccb4ccc:a514dba4389dbec5a49cc296f838993a
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCT_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv Drama
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kzfwGgm.png" group-title="STCtv HEVC",STCtv Drama HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCD_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv Family
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WcdZffD.png" group-title="STCtv HEVC",STCtv Family HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCF_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv DISNEY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DIS_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv DISNEY JR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DJR_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv STAR WORLD
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pgcfAZK.png" group-title="STCtv HEVC",Star World HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STW_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv FOOD NETWORK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=781c82a71b2bc5a1ca0a53d97940bab1:3269cae876ddfb30440760e0239cc923
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FNH_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv TLC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7742eb49b93c8241631be8920cc07ba:819bcbdf2d6606a3345a2adb1cbbfa57
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/TLC_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv FATAFEAT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2809a502e0ff23f323ff75fcd6dd04ae:59588452aa32e3616a03e32addcdbc4a
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FAT_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv HGTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/HGTV_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv TRAVEL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffc77ff035a2f1839c498d6431de9905:aa4bb62d5c3b25238332511972b1cbc8
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/TRA_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv STAR ACTION
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FMA_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv STAR MOVIES
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ut79uYx.png" group-title="STCtv HEVC",Star Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STM_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv TCM
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x43Abut.png" group-title="STCtv HEVC",Star Action HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FMA_HEVC/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bwXmadU.png" group-title="STCtv HEVC",TCM HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59c626d2eae3ad531022136f1bb4769e:5c83465dc798bab650d802725cc26270
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/TCM_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv BOM
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UMAAad8.png" group-title="STCtv HEVC",Disney Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DIS_HEVC/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VfekuZ8.png" group-title="STCtv HEVC",Disney Jr. HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DJR_HEVC/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RunP3oI.png" group-title="STCtv HEVC",Cartoonito HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2802f3f0e4538e4e6b9085c179c15dce:5afbd95bb853cc2c104e3b960d51defe
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/BOM_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv N WILD
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zn6oazP.png" group-title="STCtv HEVC",Fatafeat HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NHD_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv N GO
+#KODIPROP:inputstream.adaptive.license_key=2809a502e0ff23f323ff75fcd6dd04ae:59588452aa32e3616a03e32addcdbc4a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FAT_HEVC/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IoffBmd.png" group-title="STCtv HEVC",Food Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NGO_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv ANIMAL PLANET
+#KODIPROP:inputstream.adaptive.license_key=781c82a71b2bc5a1ca0a53d97940bab1:3269cae876ddfb30440760e0239cc923
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FNH_HEVC/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://imgur.com/VnrbyDe.png" group-title="STCtv HEVC",TLC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/APL_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv DISCOVRY
+#KODIPROP:inputstream.adaptive.license_key=c7742eb49b93c8241631be8920cc07ba:819bcbdf2d6606a3345a2adb1cbbfa57
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/TLC_HEVC/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QexQYUp.png" group-title="STCtv HEVC",HGTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/HGTV_HEVC/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J6bcluX.png" group-title="STCtv HEVC",Travel Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffc77ff035a2f1839c498d6431de9905:aa4bb62d5c3b25238332511972b1cbc8
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/TRA_HEVC/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5DuDgFi.png" group-title="STCtv HEVC",Discovery Channel HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1eecd547ede99578bdef60af3195929d:f6907d65b8405097d477e0e0b69007f2
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DSC_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv DISCOVRY FAMILY
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3OqwOOj.png" group-title="STCtv HEVC",Discovery Family HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bce56c8de2f1b27b16dd7d3abc2409b6:8c1c393bb61be740910438f6e49c7c32
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DCF_HEVC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCTV HEVC",stc tv DISCOVRY ID
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0mob4n2.png" group-title="STCtv HEVC",Discovery ID HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DCX_HEVC/wv-pr/manifest.mpd
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="STCtv",stc tv sports HD 1
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GMzzuHd.png" group-title="STCtv HEVC",Animal Planet HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/APL_HEVC/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9CALvfR.png" group-title="STCtv HEVC",National Geographic Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NGO_HEVC/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gGjIE6D.png" group-title="STCtv HEVC",National Geographic Wild HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NHD_HEVC/wv-pr/manifest.mpd
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4wVlKPL.png" group-title="STCtv",STCtv Sports HD 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCtv",stc tv sports HD 2
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fetTDcp.png" group-title="STCtv",STCtv Sports HD 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/JAW1/wv-pr/manifest.mpd
-
-
-
-#EXTINF:-1 group-title="STCtv",stc tv sports HD 3
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9vc9Y0T.png" group-title="STCtv",STCtv Sports HD 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fd615ca2c5353fc5393da466ce31cbc:942822c6e7d3b01dd71bffded7ac0aa8
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC3/wv-pr/manifest.mpd
-
-
-#EXTINF:-1 group-title="STCtv",stc tv sports HD 4
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ilvXdQ.png" group-title="STCtv",STCtv Sports HD 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01065be7ffbb268f2aadf7424b8ee24e:79a541c99e9bb7815e257e4a4ff46dbb
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC4/wv-pr/manifest.mpd
-
-
-#EXTINF:-1 group-title="STCtv",stc tv Thmanyah
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xhyyAe.png" group-title="STCtv",STCtv Thmanyah HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ebed7aab13df195c486446acccb4ccc:a514dba4389dbec5a49cc296f838993a
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCT/wv-pr/manifest.mpd
-
-
-
-#EXTINF:-1 group-title="STCtv",stc tv Drama
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kzfwGgm.png" group-title="STCtv",STCtv Drama HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCD/wv-pr/manifest.mpd
-
-
-
-#EXTINF:-1 group-title="STCtv",stc tv Family
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WcdZffD.png" group-title="STCtv",STCtv Family HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCF/wv-pr/manifest.mpd
-
-
-
-
-
-#EXTINF:-1 group-title="STCtv",stc tv DISNEY
  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DIS/wv-pr/manifest.mpd
-
-
-#EXTINF:-1 group-title="STCtv",stc tv DISNEY JR
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DJR/wv-pr/manifest.mpd
-
-
-
-#EXTINF:-1 group-title="STCtv",stc tv STAR WORLD
- 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qf0ibZ2.png" group-title="STCtv",Star World HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STW/wv-pr/manifest.mpd
-
-
-#EXTINF:-1 group-title="STCtv",stc tv FOOD NETWORK
  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=781c82a71b2bc5a1ca0a53d97940bab1:3269cae876ddfb30440760e0239cc923
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FNH/wv-pr/manifest.mpd
-
-
-#EXTINF:-1 group-title="STCtv",stc tv TLC
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7742eb49b93c8241631be8920cc07ba:819bcbdf2d6606a3345a2adb1cbbfa57
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/TLC/wv-pr/manifest.mpd
-
-#EXTINF:-1 group-title="STCtv",stc tv FATAFEAT
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2809a502e0ff23f323ff75fcd6dd04ae:59588452aa32e3616a03e32addcdbc4a
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FAT/wv-pr/manifest.mpd
-
-
-
-
-
-#EXTINF:-1 group-title="STCtv",stc tv HGTV
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/HGTV/wv-pr/manifest.mpd
-
-
-
-#EXTINF:-1 group-title="STCtv",stc tv TRAVEL
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffc77ff035a2f1839c498d6431de9905:aa4bb62d5c3b25238332511972b1cbc8
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/TRA/wv-pr/manifest.mpd
-
-
-#EXTINF:-1 group-title="STCtv",stc tv STAR ACTION
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FMA/wv-pr/manifest.mpd
-
-
-#EXTINF:-1 group-title="STCtv",stc tv STAR MOVIES
- 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ut79uYx.png" group-title="STCtv",Star Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STM/wv-pr/manifest.mpd
-
-
-
-#EXTINF:-1 group-title="STCtv",stc tv TCM
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x43Abut.png" group-title="STCtv",Star Action HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FMA/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bwXmadU.png" group-title="STCtv",TCM HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59c626d2eae3ad531022136f1bb4769e:5c83465dc798bab650d802725cc26270
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/TCM/wv-pr/manifest.mpd
-
-
-#EXTINF:-1 group-title="STCtv",stc tv BOM
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UMAAad8.png" group-title="STCtv",Disney Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DIS/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VfekuZ8.png" group-title="STCtv",Disney Jr. HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DJR/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RunP3oI.png" group-title="STCtv",Cartoonito HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2802f3f0e4538e4e6b9085c179c15dce :5afbd95bb853cc2c104e3b960d51defe
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/BOM/wv-pr/manifest.mpd
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="STCtv",stc tv N WILD
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zn6oazP.png" group-title="STCtv",Fatafeat HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NHD/wv-pr/manifest.mpd
-
-
-
-
-
-#EXTINF:-1 group-title="STCtv",stc tv N GO
+#KODIPROP:inputstream.adaptive.license_key=2809a502e0ff23f323ff75fcd6dd04ae:59588452aa32e3616a03e32addcdbc4a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FAT/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IoffBmd.png" group-title="STCtv",Food Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NGO/wv-pr/manifest.mpd
-
-
-
-
-
-#EXTINF:-1 group-title="STCtv",stc tv ANIMAL PLANET
+#KODIPROP:inputstream.adaptive.license_key=781c82a71b2bc5a1ca0a53d97940bab1:3269cae876ddfb30440760e0239cc923
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FNH/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VnrbyDe.png" group-title="STCtv",TLC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/APL/wv-pr/manifest.mpd
-
-
-
-
-#EXTINF:-1 group-title="STCtv",stc tv DISCOVRY
+#KODIPROP:inputstream.adaptive.license_key=c7742eb49b93c8241631be8920cc07ba:819bcbdf2d6606a3345a2adb1cbbfa57
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/TLC/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QexQYUp.png" group-title="STCtv",HGTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/HGTV/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J6bcluX.png" group-title="STCtv",Travel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffc77ff035a2f1839c498d6431de9905:aa4bb62d5c3b25238332511972b1cbc8
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/TRA/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5DuDgFi.png" group-title="STCtv",Discovery Channel HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1eecd547ede99578bdef60af3195929d:f6907d65b8405097d477e0e0b69007f2
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DSC/wv-pr/manifest.mpd
-
-
-
-
-#EXTINF:-1 group-title="STCtv",stc tv DISCOVRY FAMILY
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3OqwOOj.png" group-title="STCtv",Discovery Family HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bce56c8de2f1b27b16dd7d3abc2409b6:8c1c393bb61be740910438f6e49c7c32
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DCF/wv-pr/manifest.mpd
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="STCtv",stc tv DISCOVRY ID
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0mob4n2.png" group-title="STCtv",Discovery ID HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DCX/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GMzzuHd.png" group-title="STCtv",Animal Planet HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/APL/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9CALvfR.png" group-title="STCtv",National Geographic Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NGO/wv-pr/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gGjIE6D.png" group-title="STCtv",National Geographic Wild HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NHD/wv-pr/manifest.mpd
 
 
 
