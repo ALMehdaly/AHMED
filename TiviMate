@@ -361,9 +361,18 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Sony_Ent_TV_New/DASH/Sony_Ent_T
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/Sky_News_Arabia/dash/drm/index.mpd
 
 
+#EXTINF:-1 group-title="starzplay",Asharq_News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1586c18d11ce5b62266c3fe26884f544:24a1077fbb42787b8ad6588284e06a62
+https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/Asharq_News/DASH/Asharq_News.mpd
 
 
 
+
+#EXTINF:-1 group-title="starzplay",CNN_International_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2457b5bcf38678906291c413375f918:dc4d92fc4a93d031835d903290a6df00
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CNN_International_HD/DASH/CNN_International_HD.mpd
 
 
 
