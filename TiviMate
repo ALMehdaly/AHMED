@@ -718,9 +718,78 @@ https://ev-hw-fast-mpd.starzplayarabia.com/Tom_and_Jerry/dash/drm/index.mpd
 
 
 
+#EXTINF:-1 group-title="starzplay",Sky_New_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa89a9c8a3baee25777a009adfffcfb5:d83b597b588039d4328ff13da9224817
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Sky_New_HD/dash/drm/index.mpd
+
+
+
+#EXTINF:-1 group-title="starzplay",Sony_Max
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1a9ad219693cb276fb3c814a6498b86:0da205da04f49bc77d87db8f4362b777
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Sony_Max/dash/drm/index.mpd
+
+
+
+#EXTINF:-1 group-title="starzplay",Drama_plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be7dadc783ac84b89fd83d9bf96fd2d7:b095bed6f75a5b0e947eefd1a66af81e
+https://ev-hw-fast-mpd.starzplayarabia.com/K-Drama_plus/dash/drm/index.mpd
+
+
+#EXTINF:-1 group-title="starzplay",Asianet_new
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=491d200e25207ae96880a7b3d00be201:ad1de70f9f85ebb9b87b8f41c26b804c
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Asianet_new/dash/drm/index.mpd
+
+
+
+
+#EXTINF:-1 group-title="starzplay",CNN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=491d200e25207ae96880a7b3d00be201:ad1de70f9f85ebb9b87b8f41c26b804c
+https://ev-hw-fast-mpd.starzplayarabia.com/CNN/dash/drm/index.mpd
+
+
+#EXTINF:-1 group-title="starzplay",India_Today
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a766daa54c5fb73702a6da6bb134cbe2:5de3d0126b12951639b338030754ea08
+https://ev-fast-mpd.starzplayarabia.com/live/eds/India_Today/DASH/India_Today.mpd
+
+
+
+
+#EXTINF:-1 group-title="starzplay",Alarabiya Business
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c88afdaa09700b82b9f5e5621b3ee75:5049d4e53fe4d080b66d99996127c776
+https://live-hw-stream.starzplayarabia.com/AlarabiyaBusiness/dash/drm/index.mpd
+
+
+
+
 #EXTINF:-1 group-title="starzplay",
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
+
+
+
+
+#EXTINF:-1 group-title="starzplay",
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
