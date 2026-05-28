@@ -711,14 +711,10 @@ https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec6
 #KODIPROP:inputstream.adaptive.license_key=abf7feb9a2acc125ad47d5cc826af07b:2cbdff4c6d869474ac2dbc81f7ec8eed
 https://ev-fast-mpd.starzplayarabia.com/live/eds/M6/DASH/M6.mpd
 
-
-
 #EXTINF:-1 group-title="starzplay",W9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-678f053f69300b5047b321962c752773:ea20e52073f9baaf1855b7621e1e8213
+#KODIPROP:inputstream.adaptive.license_key=678f053f69300b5047b321962c752773:ea20e52073f9baaf1855b7621e1e8213
 https://ev-fast-mpd.starzplayarabia.com/live/eds/W9/DASH/W9.mpd
-
 
 
 
