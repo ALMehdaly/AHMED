@@ -504,12 +504,8 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/M6/DASH/M6.mpd
 
 #EXTINF:-1 group-title="starzplay",W9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-678f053f69300b5047b321962c752773:ea20e52073f9baaf1855b7621e1e8213
+#KODIPROP:inputstream.adaptive.license_key=678f053f69300b5047b321962c752773:ea20e52073f9baaf1855b7621e1e8213
 https://ev-fast-mpd.starzplayarabia.com/live/eds/W9/DASH/W9.mpd
-
-
-
 
 
 
@@ -631,23 +627,97 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Gulli/DASH/Gulli.mpd
 #KODIPROP:inputstream.adaptive.license_key=ebb10b5af0b289bc021f28fa423f4273:a3053c0f60b417ce991e1d133ad3847a
 https://ev-fast-mpd.starzplayarabia.com/live/eds/2M_Monde/DASH/2M_Monde.mpd
 
+#EXTINF:-1 group-title="starzplay",Tiji
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b594b65dc2db7ba7c17064ec245708f:71bf448384af9e79f6829fbc0fd5ce62
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Tiji/DASH/Tiji.mpd
+
+
+
+
+
+#EXTINF:-1 group-title="starzplay",Rotana_Drama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9636650ce05533716e4e0971a4b38804:09b0d3d9b88d95a362f69c54aa8dfcbc
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Drama/DASH-v2/Rotana_Drama.mpd
+
+
+#EXTINF:-1 group-title="starzplay",Asianet_ME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc3c55943aeac7d8af755891b07de526:eb8538defc9051dc471e9a75dc955180
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Asianet_ME/dash/drm/index.mpd
+
+#EXTINF:-1 group-title="starzplay",AsianetPlus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d96e31216eb9c87bc8f5ba75148cd01:34dc53e52b1ed8ee172e409f6a5d87aa
+https://ev-fast-mpd.starzplayarabia.com/live/eds/AsianetPlus/DASH/AsianetPlus.mpd
+
+#EXTINF:-1 group-title="starzplay",Asianet_Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70c3030b982cd5fa5d5a45c80eff2aff:643d6da87cd5eacc09935ff6d7ff6c00
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Asianet_Movies/DASH/Asianet_Movies.mpd
+
+
+
+
+#EXTINF:-1 group-title="starzplay",Colors_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff3eecf33e0b999771ba7ac06626ed8c:ea86fedba07f3cbe0178e4f99ded187a
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Colors_HD/dash/drm/index.mpd
+
+
+
+
+#EXTINF:-1 group-title="starzplay",Kanal_D_Drama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85bd9cbc011b73a3e9d3ef1c3d6edb81:dd9977387347c3c14d26a3eb58d8fd1d
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Kanal_D_Drama/DASH/Kanal_D_Drama.mpd
+
+#EXTINF:-1 group-title="starzplay",SONY_SAB
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c8141f1033bf7fccde521a6055e891f:429c26c5ba69ffec7bc69b4165b40e99
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/SONY_SAB/dash/drm/index.mpd
+
+
+#EXTINF:-1 group-title="starzplay",Zee_TV_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7aae09291abaf24bfd7a68c0d2534ef5:cb04af41719c30ca141028c08ab7c2c9
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_TV_HD_ME/dash/drm/index.mpd
+
+
+
+
+#EXTINF:-1 group-title="starzplay",Zee_Keralam
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6381366a26d65f42f888fbb9832e7e8:e3e4d5d3cea5a39d6ac53936cb2de428
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Keralam/dash/drm/index.mpd
+
+
+#EXTINF:-1 group-title="starzplay",Zee_Tamil
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d96e31216eb9c87bc8f5ba75148cd01:34dc53e52b1ed8ee172e409f6a5d87aa
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd
+
+#EXTINF:-1 group-title="starzplay",Zee_Marathi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b17542cb9421757bd175971cdc2cf1f5:31aa6906db5a92bc688aadc58e3a1d31
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Marathi/dash/drm/index.mpd
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="starzplay",
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 
-
 #EXTINF:-1 group-title="starzplay",
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 group-title="starzplay",
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-
 
 
 
