@@ -526,6 +526,10 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_tv/abudhabi
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/emarat_tv/emarat_tv_dash_enc/index.mpd
 
 
+#EXTINF:-1 group-title="starzplay",baynounah
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d997b48c7de67d1c8391ddd5d7d9aa4:cd1f319bc0f9a51e41960f4d0d5966a3
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/baynounah/baynounah_dash/index.mpd
 
 #EXTINF:-1 group-title="starzplay",abudhabi_sports_1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -537,6 +541,25 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/ab
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=386a5e1166d9102709888c3468ce1f56:73bd0bd25a148b3a80116ecdd085ead6
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_2/abudhabi_sports_2_dash_enc/index.mpd
+
+
+#EXTINF:-1 group-title="starzplay",yas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b417ef441805842ea16892ff3841d197:b88423638d8d13c030f8a7868a045838
+MPD URL: https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/yas_1/yas_1_dash/index.mpd
+
+
+
+#EXTINF:-1 group-title="starzplay",abudhabi_national_geo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fdd8dd5726d51bea4ccc7358dc018f6:32fab75ba9b398946e8c3afa01917a8f
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_dash/index.mpd
+
+
+#EXTINF:-1 group-title="starzplay",majid
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01ad62cecdb4194d08b227682d7b1935:d534d7f207baae2e51a279107049f544
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_dash/index.mpd
 
 
 
