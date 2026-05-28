@@ -3,6 +3,37 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vKt8dPl.png" group-title="beIN r2",beIN Sports 1 HD
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tu3IIaY.png" group-title="beIN r2",beIN Sports 2 HD
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eb51unM.png" group-title="beIN r2",beIN Sports 3 HD
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hLzHKxF.png" group-title="beIN r2",beIN Sports 4 HD
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0epFlAF.png" group-title="beIN r2",beIN Sports 5 HD
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cNVF4nY.png" group-title="beIN r2",beIN Sports 6 HD
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein6.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCkagQK.png" group-title="beIN r2",beIN Sports 7 HD
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4MvZML8.png" group-title="beIN r2",beIN Sports 8 HD
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ttnrmkk.png" group-title="beIN r2",beIN Sports 9 HD
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein9.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 1 HDR
 https://ms-live.servers8.com/live/ch01/index.m3u8
 
