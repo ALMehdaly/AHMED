@@ -456,9 +456,10 @@ https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec6
 
 
 
-#EXTINF:-1 group-title="starzplay",Unbeaten
+#EXTINF:-1 group-title="starzplay",Saudi_Quran_HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=bff4673a52144d11c8bcb7b3f4ba5c51:51127b0a2598d705d600e345915bb720
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Saudi_Quran_HD/DASH/Saudi_Quran_HD.mpd
 
 
 #EXTINF:-1 group-title="starzplay",Unbeaten
