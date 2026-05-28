@@ -626,10 +626,10 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Gulli/DASH/Gulli.mpd
 
 
 
-#EXTINF:-1 group-title="starzplay",
+#EXTINF:-1 group-title="starzplay",2M_Monde
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
+#KODIPROP:inputstream.adaptive.license_key=ebb10b5af0b289bc021f28fa423f4273:a3053c0f60b417ce991e1d133ad3847a
+https://ev-fast-mpd.starzplayarabia.com/live/eds/2M_Monde/DASH/2M_Monde.mpd
 
 
 #EXTINF:-1 group-title="starzplay",
