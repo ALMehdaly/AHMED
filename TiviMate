@@ -769,12 +769,15 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/India_Today/DASH/India_Today.mp
 https://live-hw-stream.starzplayarabia.com/AlarabiyaBusiness/dash/drm/index.mpd
 
 
-
-
-#EXTINF:-1 group-title="starzplay",
+#EXTINF:-1 group-title="starzplay",starzplay-cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=b660aa26290d401fd3596d41079619ff:f60928c13011b9e6b2f651232e1e7f9e
+https://criclive1.starzplayarabia.com/out/v1/sp_tv_enc/criclife1/criclife1_dash_enc/index.mpd
 
+#EXTINF:-1 group-title="starzplay",starzplay Golf
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba8bc6cb4ea60a7d9bcd53faa56f2a9c:c09034d43abd57b8c6c5707770bd1ce5
+https://live-hw-stream.starzplayarabia.com/GolfLife/dash/drm/index.mpd
 
 
 
