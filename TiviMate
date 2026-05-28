@@ -695,7 +695,7 @@ https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Keralam/dash/drm/index.mpd
 
 #EXTINF:-1 group-title="starzplay",Zee_Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d96e31216eb9c87bc8f5ba75148cd01:34dc53e52b1ed8ee172e409f6a5d87aa
+#KODIPROP:inputstream.adaptive.license_key=2b8718bcc9fc6dc4364677a577b7634d:8078c4d5407afe3e61662852c05b6588
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd
 
 #EXTINF:-1 group-title="starzplay",Zee_Marathi
@@ -711,9 +711,12 @@ https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Marathi/dash/drm/index.mpd
 
 
 
-#EXTINF:-1 group-title="starzplay",
+#EXTINF:-1 group-title="starzplay",teen-titans-go-by-cn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=71c93a752be53b9e590972d363c15544:11af5dc5fc75f9cbcb14fd99541fbde5
+https://ev-hw-fast-mpd.starzplayarabia.com/Tom_and_Jerry/dash/drm/index.mpd
+
+
 
 #EXTINF:-1 group-title="starzplay",
 #KODIPROP:inputstream.adaptive.license_type=clearkey
