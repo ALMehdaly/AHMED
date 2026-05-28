@@ -354,6 +354,25 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus
 #KODIPROP:inputstream.adaptive.license_key=e35e5ef1aa703050fe19581ccc91add9:09766bbf45149e13808f7be611b2338c
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Sony_Ent_TV_New/DASH/Sony_Ent_TV_New.mpd
 
+#EXTINF:-1 group-title="starzplay",RedBull TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90da05e528d71426a11a2318a96018ce:abfab9b4d18d8be44c7ffc619f50e27f
+https://0a889ec3eff14f7c8f04263b594a613b.mediatailor.me-central-1.amazonaws.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Redbull-Live-DASH/live/eds/RedBull2025/DASH/RedBull2025.mpd
+
+
+#EXTINF:-1 group-title="starzplay",Wedo_Sports_MENA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=592dac4308ecfec757b995f03c204018:c6cd0d1765eb8af0aa180aa0d3afc999
+https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/Wedo_Sports_MENA/DASH/Wedo_Sports_MENA.mpd
+
+
+#EXTINF:-1 group-title="starzplay",Unbeaten
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b20799e82605918def53d3d1bb62b4f:5de19fa172940411960b9233f17b4efe
+https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/Unbeaten_1/dash/drm/index.mpd
+
+
+
 
 #EXTINF:-1 group-title="starzplay",Sky news ara
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -400,18 +419,6 @@ https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15
 
 
 
-#EXTINF:-1 group-title="starzplay",RedBull TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90da05e528d71426a11a2318a96018ce:abfab9b4d18d8be44c7ffc619f50e27f
-https://0a889ec3eff14f7c8f04263b594a613b.mediatailor.me-central-1.amazonaws.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Redbull-Live-DASH/live/eds/RedBull2025/DASH/RedBull2025.mpd
-
-
-
-
-#EXTINF:-1 group-title="starzplay",Unbeaten
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5b20799e82605918def53d3d1bb62b4f:5de19fa172940411960b9233f17b4efe
-https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/Unbeaten_1/dash/drm/index.mpd
 
 
 
@@ -431,17 +438,32 @@ https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15
 
 
 
+#EXTINF:-1 group-title="starzplay",RoyaTV_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42cc2661a65b62f12ce34bd963d8d2c1:3591ac4978357f048bc68cf569dfd4d0
+https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/RoyaTV_HD/DASH/RoyaTV_HD.mpd
+
+
+
+
+#EXTINF:-1 group-title="starzplay",Zee_Alwan
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5293e8a1c1910ecb8a7aba0f2a1ee550:6f9db72bfd8e1f1e42d4c92a8a488c74
+https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/Zee_Alwan_FAST/DASH/Zee_Alwan_FAST.mpd
+
+
+
+
+
+
 #EXTINF:-1 group-title="starzplay",Unbeaten
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 
 
-
-
 #EXTINF:-1 group-title="starzplay",Unbeaten
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-
 
 
 
