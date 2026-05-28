@@ -781,6 +781,11 @@ https://live-hw-stream.starzplayarabia.com/GolfLife/dash/drm/index.mpd
 
 
 
+#EXTINF:-1 group-title="starzplay",6ter
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1593506659b7feb11acacba48f8a6794:20f2dba741eaeb92aa5520f6556f67db
+https://ev-fast-mpd.starzplayarabia.com/live/eds/6ter/DASH/6ter.mpd
+
 #EXTINF:-1 group-title="starzplay",
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
