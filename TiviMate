@@ -392,7 +392,7 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Spacetoon/DASH/Spacetoon.mpd
 #KODIPROP:inputstream.adaptive.license_key=18f735985ada8c2183621c4316150095:5bbb37067a13fa42433314b9a89f889b
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Cartoon_Network_Arabic/DASH/Cartoon_Network_Arabic.mpd
 
-#EXTINF:-1 group-title="starzplay",STARZ_ON_KLASSICZ
+#EXTINF:-1 group-title="starzplay",STARZPLAY_KLASSICZ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e02025dcc22f9e8014d3a1f9551078ba:d11b8ba4cd46bdf5b8e3502a3d8a6dad
 https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/STARZ_ON_KLASSICZ/dash/drm/index.mpd
@@ -400,10 +400,64 @@ https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15
 
 
 
-#EXTINF:-1 group-title="starzplay",RedBull
+#EXTINF:-1 group-title="starzplay",RedBull TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90da05e528d71426a11a2318a96018ce:abfab9b4d18d8be44c7ffc619f50e27f
 https://0a889ec3eff14f7c8f04263b594a613b.mediatailor.me-central-1.amazonaws.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Redbull-Live-DASH/live/eds/RedBull2025/DASH/RedBull2025.mpd
+
+
+
+
+#EXTINF:-1 group-title="starzplay",Unbeaten
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b20799e82605918def53d3d1bb62b4f:5de19fa172940411960b9233f17b4efe
+https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/Unbeaten_1/dash/drm/index.mpd
+
+
+
+
+#EXTINF:-1 group-title="starzplay",Saudi_1_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b845ecd8e22295759d10481a2afc095e:e19b9883b13d3e9aca207e9a650f6451
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Saudi_1_HD/DASH/Saudi_1_HD.mpd
+
+
+
+#EXTINF:-1 group-title="starzplay",Al_Jadeed
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ce4f571bc4e4811a092f339be8cec01:d31f3d3bf040a2f504b88d77afb37973
+https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/Al_Jadeed/dash/drm/index.mpd
+
+
+
+
+#EXTINF:-1 group-title="starzplay",Unbeaten
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
+
+
+#EXTINF:-1 group-title="starzplay",Unbeaten
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/al_zaeem.png" group-title="WIDE", al_zaeem
