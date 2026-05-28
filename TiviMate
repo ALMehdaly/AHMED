@@ -420,6 +420,10 @@ https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15
 
 
 
+#EXTINF:-1 group-title="starzplay",Saudi_Quran_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bff4673a52144d11c8bcb7b3f4ba5c51:51127b0a2598d705d600e345915bb720
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Saudi_Quran_HD/DASH/Saudi_Quran_HD.mpd
 
 
 
@@ -446,26 +450,33 @@ https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec6
 
 
 
-#EXTINF:-1 group-title="starzplay",Zee_Alwan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5293e8a1c1910ecb8a7aba0f2a1ee550:6f9db72bfd8e1f1e42d4c92a8a488c74
-https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/Zee_Alwan_FAST/DASH/Zee_Alwan_FAST.mpd
 
 
 
 
 
-
-#EXTINF:-1 group-title="starzplay",Saudi_Quran_HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bff4673a52144d11c8bcb7b3f4ba5c51:51127b0a2598d705d600e345915bb720
-https://ev-fast-mpd.starzplayarabia.com/live/eds/Saudi_Quran_HD/DASH/Saudi_Quran_HD.mpd
 
 
 #EXTINF:-1 group-title="starzplay",Starzplay_Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b59fc6829905f9875d7359cdf6a083b:81474bc4d05be9cb5a6a5bce74da9771
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Starzplay_Movies/DASH/Starzplay_Movies.mpd
+
+#EXTINF:-1 group-title="starzplay",STARZPLAY_ACTION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38c517401bc9397b6baadff823b087cc:1d58f60b29e08f2df930262bf6418647
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/STARZPLAY_ACTION/dash/drm/index.mpd
+
+#EXTINF:-1 group-title="starzplay",STARZPLAY_COMEDY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6c2d59f6380e5f6b553eed84e6e1799:aa05c7615a20a8e871c61cb9f7d1072f
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/STARZPLAY_COMEDY/dash/drm/index.mpd
+
+#EXTINF:-1 group-title="starzplay",StarzPlay_Series
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9fd1dd7d0716e37456c3e17f27ee7ba:3a00049c27da50ba56f081aef1b2d0b1
+https://ev-fast-mpd.starzplayarabia.com/live/eds/StarzPlay_Series/DASH/StarzPlay_Series.mpd
+
 
 
 
@@ -474,6 +485,11 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Starzplay_Movies/DASH/Starzplay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11910ef6b5ff443a4260a764d8da950b:49d8cbabcf414e4356d9112ca6e0592a
 https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/Zee_Aflam_FAST/DASH/Zee_Aflam_FAST.mpd
+
+#EXTINF:-1 group-title="starzplay",Zee_Alwan
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5293e8a1c1910ecb8a7aba0f2a1ee550:6f9db72bfd8e1f1e42d4c92a8a488c74
+https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/Zee_Alwan_FAST/DASH/Zee_Alwan_FAST.mpd
 
 
 
@@ -486,14 +502,11 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/M6/DASH/M6.mpd
 
 
 
-
-
-#EXTINF:-1 group-title="starzplay",STARZPLAY_ACTION
+#EXTINF:-1 group-title="starzplay",W9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=38c517401bc9397b6baadff823b087cc:1d58f60b29e08f2df930262bf6418647
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/STARZPLAY_ACTION/dash/drm/index.mpd
-
-
+#KODIPROP:inputstream.adaptive.license_key=
+678f053f69300b5047b321962c752773:ea20e52073f9baaf1855b7621e1e8213
+https://ev-fast-mpd.starzplayarabia.com/live/eds/W9/DASH/W9.mpd
 
 
 
@@ -563,29 +576,31 @@ https://ev-eu-hw-fast-mpd.starzplayarabia.com/Rotana_Cinema_Egypt/dash/drm/index
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Comedy_HD/DASH/Rotana_Comedy_HD.mpd
 
 
-#EXTINF:-1 group-title="starzplay",
+#EXTINF:-1 group-title="starzplay",Rotana_Classic_HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=bce68ae0b214b322dfac26c0cb3decd2:2a3e76e41f224e04ec9f6a4e57273878
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Classic_HD/DASH/Rotana_Classic_HD.mpd
 
 
-#EXTINF:-1 group-title="starzplay",
+#EXTINF:-1 group-title="starzplay",Star_Plus_HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=331f016d99591a1bf694fff306aba034:c8c70ef61979070e866c696420db968b
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Star_Plus_HD/dash/drm/index.mpd
 
 
-#EXTINF:-1 group-title="starzplay",
+#EXTINF:-1 group-title="starzplay",Bloom
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=febdc915070704d7b189ac70852d5bb2:92874dd5caa9bde9c3f8c515b33671f3
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Bloom/dash/drm/index.mpd
 
 
-#EXTINF:-1 group-title="starzplay",
+#EXTINF:-1 group-title="starzplay",Gulli
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=5dcd9d944c72c49fd6b5a77e854cdaf3:c84848159ac6ea8683e8b6dc6f59a691
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Gulli/DASH/Gulli.mpd
 
 
-#EXTINF:-1 group-title="starzplay",
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+
 
 
 #EXTINF:-1 group-title="starzplay",
