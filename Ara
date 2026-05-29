@@ -1291,7 +1291,6 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_dash
 
 
 
-
 #EXTINF:-1 group-title="starzplay",LBC_Sat_HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ce92792b8c13a88addaa51956024080:445ae86ff85cbb74817fa5963313e641
