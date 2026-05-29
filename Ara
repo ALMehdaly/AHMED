@@ -107,7 +107,6 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/KSA1_HEVC/wv-pr/manifest.mpd
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/KST_HEVC/wv-pr/manifest.mpd
 
 
-a8e921d857311e459cc56a6a59685f71:45e45e7a01659ff7a3d595e95e05584d
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv SABAB BOOMB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -188,6 +187,14 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ADE_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cd958ea8546f458b5afdf0e76f0a4075:3842b43d8f3db44d32cbd80ddd4cbe4e
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DBT_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv SAMA  Dubai 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38f201523e9e04edccfda8ceff5dae8c:86fda252f9f2990c5de7f4d8af26b99e
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DBSM_HEVC/wv-pr/manifest.mpd
+
 
 
 
