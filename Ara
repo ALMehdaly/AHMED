@@ -445,6 +445,11 @@ https://osn-live-channels.anghcdn.co/Content/Channel/cartoon-network-hd/DASH/mas
 https://osn-live-channels.anghcdn.co/Content/Channel/nickelodeon-hd/DASH/master_OSNAVC.mpd?token=P2Fkcy1lbmFibGVkPTAmY2xpZW50LXBsYXRmb3JtPXdlYi1vc24mY2xpZW50LXZlcnNpb249MS43LjExJmNvbnRlbnQtaWQ9Njg3MzQmZXhwaXJ5PTE3ODAxNDUyNTImbGl2ZS1jaGFubmVsLWFkcy1lbmFibGVkPTAmcHJvZmlsZS1pZD0yNzg1NjQ2NSZzaWduYXR1cmU9MDNiMzg1NThkODAyYzkwMWU5NmYyYmM4YmU5MGVjYjdkYjJiZTJiMyZzdHJlYW0taWQ9MTYyNzQ0JnVzZXItaWQ9MTM5NzM4OTQ2
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="OSNTV",OSNTV CNN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb945bf5f8133e3c829dfcc9fd3258d1:c274f2e55f1ac2e3cb8b4a0a96664eb0,e099a896ee38396d95ab798663e957b8:e1e6274d3659467770a0707ea9b060fc,c78c42b84ef2388682d049602844688b:c5f54a6becb1e3b0f87dcfa830c7bdf2
+https://osn-live-channels.anghcdn.co/Content/Channel/cnn-hd/DASH/master_OSNAVC.mpd?token=P2Fkcy1lbmFibGVkPTAmY2xpZW50LXBsYXRmb3JtPXdlYi1vc24mY2xpZW50LXZlcnNpb249MS43LjExJmNvbnRlbnQtaWQ9Njg3NDYmZXhwaXJ5PTE3ODAxNDU0NDkmbGl2ZS1jaGFubmVsLWFkcy1lbmFibGVkPTAmcHJvZmlsZS1pZD0yNzg1NjQ2NSZzaWduYXR1cmU9MzYxOGQ2MTUyNzM5ZjI2ZDVlMTMyNzJhNTU4ZWY2Njg0MDkwMTg5OCZzdHJlYW0taWQ9MTY3NTA2JnVzZXItaWQ9MTM5NzM4OTQ2
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="OSNTV",OSNTV DU TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
