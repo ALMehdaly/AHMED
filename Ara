@@ -10,12 +10,6 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCC_HEVC/wv-pr/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv Rotana K HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce4e01ce30988babcc4ed18ceeef01bc:a5c1b40cae897024745e56343cf43b50
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTK_HEVC/wv-pr/manifest.mpd
-
-
 
 
 
@@ -35,6 +29,14 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MBT_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MB1_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv MBC 2 HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=baa1907a284502eabc320d77051c575c:58fa20cf6055f3aefc15707992c0b685
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MB2H_HEVC/wv-pr/manifest.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv MBC 4 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -60,6 +62,15 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MBDH_HEVC/wv-pr/manifest.mpd
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MBP_HEVC/wv-pr/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv MBC B  HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac459e2ccc351aaee3fc0802084cf5c3:794bfe4df0f487bd4e2789ddb464f82c
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MBB_HEVC/wv-pr/manifest.mpd
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv MBC MASR 1 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -71,6 +82,15 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MBMS_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4da4fec209622c5da04762e8d2d2f1d7:4495168cf1a99038546b9d042dbe7c97
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MBMS2_HEVC/wv-pr/manifest.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv Rotana K HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce4e01ce30988babcc4ed18ceeef01bc:a5c1b40cae897024745e56343cf43b50
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTK_HEVC/wv-pr/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv Rotana K HD 
