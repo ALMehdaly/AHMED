@@ -21,6 +21,90 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/B1_HEVC/wv-pr/manifest.mpd
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv Thmanyeh 1 HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv Thmanyeh 2 HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCT2_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv Thmanyeh 3 HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCT3_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv saudi 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/KSA1_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv sbc
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/KST_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv KSA SP1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/KSS_HEVC/wv-pr/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv Mbc Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MBAH_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",AD TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ADO_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv AD E TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ADE_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv Dubai TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DBT_HEVC/wv-pr/manifest.mpd
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vKt8dPl.png" group-title="beIN r2",beIN Sports 1 HD
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8
 
