@@ -435,14 +435,10 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/KSA24_HEVC/wv-pr/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="OSNTV",OSNTV cartoon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="OSNTV",OSNTV DU TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4323b1d6e5c3c1f933e1b915fd014f6:8a9782cae24be21f3e2ba845e0adb916,0652b93bea293441b402f0dd3e046dd8:51053ed946a24d33d86adc90aa213769,78587327cd1632728c967e7c046424d6:31962349209c7c715b9d6f5f28687e19
-https://osn-live-channels.anghcdn.co/Content/Channel/cartoon-network-hd/DASH/master_OSNAVC.mpd?token=P2Fkcy1lbmFibGVkPTAmY2xpZW50LXBsYXRmb3JtPXdlYi1vc24mY2xpZW50LXZlcnNpb249MS43LjExJmNvbnRlbnQtaWQ9Njg3MzcmZXhwaXJ5PTE3ODAwNzE2NjgmbGl2ZS1jaGFubmVsLWFkcy1lbmFibGVkPTAmcHJvZmlsZS1pZD0yNzg1NjQ2NSZzaWduYXR1cmU9YTQwNzQ3NGFhNjM0MzkzMDhmZmM4MjE3NzE4ZGFiZTYxMTQ1ODY3NSZzdHJlYW0taWQ9MTYyNzM4JnVzZXItaWQ9MTM5NzM4OTQ2
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_key=0652b93bea293441b402f0dd3e046dd8:51053ed946a24d33d86adc90aa213769,78587327cd1632728c967e7c046424d6:31962349209c7c715b9d6f5f28687e19,d4323b1d6e5c3c1f933e1b915fd014f6:8a9782cae24be21f3e2ba845e0adb916
+https://osn-live-channels.anghcdn.co/Content/Channel/dubai-tv/DASH/master_OSNAVC.mpd?token=P2Fkcy1lbmFibGVkPTAmY2xpZW50LXBsYXRmb3JtPXdlYi1vc24mY2xpZW50LXZlcnNpb249MS43LjExJmNvbnRlbnQtaWQ9Njg3NTUmZXhwaXJ5PTE3ODAxNDQ2NzYmbGl2ZS1jaGFubmVsLWFkcy1lbmFibGVkPTAmcHJvZmlsZS1pZD0yNzg1NjQ2NSZzaWduYXR1cmU9MDc4NzJkMjM1YjM2NWE1YmJlMWQxNzUyNzAxYTAwNDVmMTk2Y2Q0OSZzdHJlYW0taWQ9MTYyNTc2JnVzZXItaWQ9MTM5NzM4OTQ2
 
 
 
