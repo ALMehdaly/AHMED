@@ -432,10 +432,19 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/KSA24_HEVC/wv-pr/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="OSNTV",OSNTV cartoon-network-hd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="OSNTV",OSNTV cartoon-network- HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=19cc840f16c33c1e901cc297315c20d8:911f2c58e9c5a7f664ab12c5aa24b694,e426ce3f37c73b4cb4f35643126d0af9:90a00cce15b4032a2391592652aeff26,e84b32141bdd3824aff982e73f9c3395:a7d115c5683f15a0739baf09fc07fa14
 https://osn-live-channels.anghcdn.co/Content/Channel/cartoon-network-hd/DASH/master_OSNAVC.mpd?token=P2Fkcy1lbmFibGVkPTAmY2xpZW50LXBsYXRmb3JtPXdlYi1vc24mY2xpZW50LXZlcnNpb249MS43LjExJmNvbnRlbnQtaWQ9Njg3MzcmZXhwaXJ5PTE3ODAxNDUwMjUmbGl2ZS1jaGFubmVsLWFkcy1lbmFibGVkPTAmcHJvZmlsZS1pZD0yNzg1NjQ2NSZzaWduYXR1cmU9NTZiYTA5MWVkMmI0MjIyZDA2NDdlN2M5YTI2NDUzZWQ4MzkzMDYxNSZzdHJlYW0taWQ9MTYyNzM4JnVzZXItaWQ9MTM5NzM4OTQ2
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="OSNTV",OSNTV nickelodeon HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d708b6b6123342fb09a66b61f9ba2bb:4c16c8cc61d40173d0e561eace95a22c,9bec528634283216ba4ce6fd083d0a02:d517655b4f53e238471e91b167eedb99,4923dc96f53d3d409376c3ccad0eef49:36e9c5f143b3cafefdc88c74a79c831e
+https://osn-live-channels.anghcdn.co/Content/Channel/nickelodeon-hd/DASH/master_OSNAVC.mpd?token=P2Fkcy1lbmFibGVkPTAmY2xpZW50LXBsYXRmb3JtPXdlYi1vc24mY2xpZW50LXZlcnNpb249MS43LjExJmNvbnRlbnQtaWQ9Njg3MzQmZXhwaXJ5PTE3ODAxNDUyNTImbGl2ZS1jaGFubmVsLWFkcy1lbmFibGVkPTAmcHJvZmlsZS1pZD0yNzg1NjQ2NSZzaWduYXR1cmU9MDNiMzg1NThkODAyYzkwMWU5NmYyYmM4YmU5MGVjYjdkYjJiZTJiMyZzdHJlYW0taWQ9MTYyNzQ0JnVzZXItaWQ9MTM5NzM4OTQ2
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="OSNTV",OSNTV DU TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
