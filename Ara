@@ -8,6 +8,19 @@ https://osn-live-channels.anghcdn.co/Content/Channel/cartoon-network-hd/DASH/mas
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv c HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27941c358897e06211225526fd7d7a64:386f6b34cd5f1a8b27696fd58ed35613
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCC_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv MB1 HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCMB1_HEVC/wv-pr/manifest.mpd
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vKt8dPl.png" group-title="beIN r2",beIN Sports 1 HD
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8
 
