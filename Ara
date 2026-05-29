@@ -42,6 +42,24 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MB1_HEVC/wv-pr/manifest.mpd
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MB4H_HEVC/wv-pr/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv MBC V HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5af533daeb9c443a78888ac6b2a2eb4:43ab3a679a943a11877cb219d2b7239c
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MBV_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv MBC  DRAMA HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91fd848bc682f2ab5420a2ac015babda:e43f533738247b56fefebcee90376cd3
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MBDH_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv MBC PLUS DRAMA HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d047b20a11fff140d4691ad839f997da:522f1af7009bc125fe0e40e143532052
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MBP_HEVC/wv-pr/manifest.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv MBC MASR 1 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
