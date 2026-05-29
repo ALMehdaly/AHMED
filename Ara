@@ -57,7 +57,7 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTK_HEVC/wv-pr/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv AFLAM  HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cd2422a351538fe9ef93054e276b664:f5e9d2504dd86d6d180837b8efee6929
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROFP_HEVC/wv-pr/manifest.mpd
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTFP_HEVC/wv-pr/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv Rotana CINEMA M HD 
