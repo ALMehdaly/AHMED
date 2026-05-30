@@ -705,7 +705,7 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/CBD_HEVC/wv-pr/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv NAHAR DRAMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6204e4d7aa3538fded62be8c04ad0c7:0d6e44ff40173c6de135c4544d6cb888
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NHD_HEVC/wv-pr/manifest.mpd
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NAD_HEVC/wv-pr/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv DU ONE 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
