@@ -560,7 +560,7 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ARAH_HEVC/wv-pr/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv AL  ARABIYAH BIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b213a15997516b418e55355c83b17f7:9769594d4af6ce38b47c3d3617710b3f
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/AAR_HEVC/wv-pr/manifest.mpd
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/AAB_HEVC/wv-pr/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv AL  ARABIYAH HADTH
