@@ -639,11 +639,133 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/LAN_HEVC/wv-pr/manifest.mpd
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv ZEE AFLAM 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88945b4394d3d90988d60b474af0b5b9:0888b9c641c5987d6a7e8879938b8eea
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ZEA_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv ZEE ALWAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f446c01f7438ae78bdc808aeec15881e:5786d43cd7b2d29d914ba30b220c190e
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ZEL_HEVC/wv-pr/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv BAHRAN TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=430da64eea5e02531aece95173c2f4e0:0df6402f77dc8df58975671af77dc9e2
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/BHT_HEVC/wv-pr/manifest.mpd
 
 
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv KWN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c39999cf99e9762dcb191583d283feb0:dc8834f755892cf9a53b29f7a2ec2c69
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/KWN1_HEVC/wv-pr/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv KWN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=315720a90ddefcaf91ee58ff35c61cb1:42f5c7725fe335db6715068248fa997e
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/KWN2_HEVC/wv-pr/manifest.mpd
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv CBC SOFRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335b0869905fe50f5078bb2258bbf379:bfb9d58ab091637e5f159207132bfc10
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/CBS_HEVC/wv-pr/manifest.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv CBC DRAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbe52bf1e9dedfb41ec620eee7455c93:7c005ea4fa236bfb9fd5f97336feb637
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/CBD_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv NAHAR DRAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6204e4d7aa3538fded62be8c04ad0c7:0d6e44ff40173c6de135c4544d6cb888
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NHD_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv DU ONE 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab96aca699762f6402588eafe321a975:345f243b66226e22c7637b0050930b18
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DBO_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv ADF
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=534de5e42d981651dd32cb32edd982e9:8f23f73c229e4ac3ea40cf972c8a2e91
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DAF_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv SHK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0168cac3ca8e350b5f3c22b9b681766a:f98618089cb280f3cb826ce353e66646
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/SHK_HEVC/wv-pr/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv WMT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ac58c80fc6ed4ce1998bd597ab921ed:49ae475addfd7c7ff897222a88a8ff68
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/WMT_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv FUJ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcc775fde50a5069a4c51df37bb7eacd:ad053dfe8ea7cbc05664bfed4ae324cd
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FUJ_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv JTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ded8b473e5bca8fbe25ab748b7276f7:7495cf29b425c0f27f41244a0ff256ff
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/JTV_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv AMMAN TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b0c269315b4eff479ec1cfa683d7199:a13990be602b4b4210d9e278b2683a3c
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/AMT_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv OMMAN TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0efe64493c0ac2da33c13744c9f3bb56:00f5b258c26f5bdead76072223a28d87
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/OMT_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv SYRIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d03eec23691d7ab363a9f2bc47d943e:6f69f639c6e5407722ea6df8bf81397a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/SYRIA_HEVC/wv-pr/manifest.mpd
 
 
 
