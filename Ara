@@ -755,11 +755,16 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/AMT_HEVC/wv-pr/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv OMMAN TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv OMAN TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0efe64493c0ac2da33c13744c9f3bb56:00f5b258c26f5bdead76072223a28d87
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/OMT_HEVC/wv-pr/manifest.mpd
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv OMAN TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92f04fe04e60be76663be2a308322408:d4c2127a9a991e5eb9868e5f69690bb0
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/OMCT_HEVC/wv-pr/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv SYRIA
