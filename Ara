@@ -477,11 +477,176 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/BAF_HEVC/wv-pr/manifest.mpd
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv MJD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/_HEVC/wv-pr/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=64d581b1c69f62ded3d3085245ee74d9:ff66c471d1fb0e2c3140ee8a62814d8b
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MAJ_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv KARMESH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1f1a77b191b93d005095fa0d9fe00ad:ebf8d5bda209014ccae62da9400c7ad4
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/KAR_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv TA JANNAH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b72415b4b3b414a35f91925c046582c2:96724e11441077123e2a0b989447dd59
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/TAJ_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv AD NGO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NGO_HEVC/wv-pr/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv ASHRQ W
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be20db73c8ec461007f1d2ea9bd94110:7a2fa6ebc8469ff8823297bceca60ec3
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ASHW_HEVC/wv-pr/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv ASHRQ D
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e7f1745be715fe2a00986a210408c2c:509911a82482f4cf248a534023eb9cdb
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ASHD_HEVC/wv-pr/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv RT D
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf407622e6f9d9e6c06bb185150c6ec7:fb11265af87ca7075329391629771d5e
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/RTD_HEVC/wv-pr/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv RISSALH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfa79dd00db0005b77e18515e3adbdd7:9556d6db1074b82ade91f66f43a6c05b
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ARH_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv SHARJAH QURAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=801fc9a8561073db00c5660ed198e36a:ddef5317d850a6443b6b2cf45e417753
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/SHQ_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv KSA NEWS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c85721a7f9341b34c20577f4a05521a:16bd07488ada6549b1d857fd923c7ca1
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/KSA_HEVC/wv-pr/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv AL  ARABIYAH 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef1ff7d343a5b0394faed9ded0b25dec:16357a06cde91670c0b46c0e2498f0d2
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ARAH_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv AL  ARABIYAH BIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b213a15997516b418e55355c83b17f7:9769594d4af6ce38b47c3d3617710b3f
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/AAR_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv AL  ARABIYAH HADTH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6584d2f0fecbcf9c324ec9d65556bdc4:92a84ec97e2e18ebdb05e57914064534
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/AAH_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv BBC AR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93d965eaefe4e294a4a54d5e35eed854:01e4b80e569bac72e197d1cb1e121e50
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/BBA_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv SKY NEWS ARA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=104dc407e6353d73f825769fdeed5aa4:7e2ffea4c902532b5de3edeb80a352ec
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/SNA_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv ASHRQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8954f60eb1393af51355d03b6289654a:8184a1a2051aef5e6c25b3acce968d0a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ASH_HEVC/wv-pr/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv FR 24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 503af826bacd876454092c8a6894e309:78cd2c5f000d70e7a877eee9e57d8c94
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/24U1_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv CNBC AR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7563546f2eb5853a2080b036ce329dff:fcaeac4e91c1ecf1ba7f71d7e45a54c1
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/CNBA_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv ALMAMLKHAH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0424928a6042dba4e0fc320994e44e4:1dfd658db4f9c9cf2b15c7a586990c43
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MAM_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv BBC W
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b07d44cfa7059a43388b979cc362811:8517c9873aa8a302a691c735b8ce56a3
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/BBW_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv CNN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2450808d87e7f61a7544af75c0dbdd28:4a974370709c0d6abb403006ca4ef581
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/CNN_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv RT AR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=123eb2912ba5edd8350f62565ecf3178:085d25cd89a6f517732a3b9f07b7de5a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/RTA_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv RT N
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=135dfeb4a8c02f0076941edfbc3151f9:b406755ae35cc3774635cbcebe80d558
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/RTN_HEVC/wv-pr/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv LANA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c83f25f98a0fdfccb2823ca2a95bcd6:aa0fe96e3028f7aa4fb7ac182b38157b
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/LAN_HEVC/wv-pr/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
 
 
 
