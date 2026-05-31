@@ -411,7 +411,10 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/LBC_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=92a7d1cd26d3b8f613b29e975116d9fe:0306d8da6fbf308ad1eb3f4a7c9298cd
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MTV_HEVC/wv-pr/manifest.mpd
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv ROYA  HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c94752642ef515d8d4b002c7b2040cc:1a4d31e389f085c3c6adc592c19018f9
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROA_HEVC/wv-pr/manifest.mpd
 
 
 
@@ -651,61 +654,6 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/SHT_HEVC/wv-pr/manifest.mpd
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv BAHRAN TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=430da64eea5e02531aece95173c2f4e0:0df6402f77dc8df58975671af77dc9e2
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/BHT_HEVC/wv-pr/manifest.mpd
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv KWN 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c39999cf99e9762dcb191583d283feb0:dc8834f755892cf9a53b29f7a2ec2c69
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/KWN1_HEVC/wv-pr/manifest.mpd
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv KWN 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=315720a90ddefcaf91ee58ff35c61cb1:42f5c7725fe335db6715068248fa997e
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/KWN2_HEVC/wv-pr/manifest.mpd
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv CBC SOFRA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335b0869905fe50f5078bb2258bbf379:bfb9d58ab091637e5f159207132bfc10
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/CBS_HEVC/wv-pr/manifest.mpd
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv CBC DRAMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bbe52bf1e9dedfb41ec620eee7455c93:7c005ea4fa236bfb9fd5f97336feb637
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/CBD_HEVC/wv-pr/manifest.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv NAHAR DRAMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6204e4d7aa3538fded62be8c04ad0c7:0d6e44ff40173c6de135c4544d6cb888
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NAD_HEVC/wv-pr/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv DU ONE 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab96aca699762f6402588eafe321a975:345f243b66226e22c7637b0050930b18
@@ -754,6 +702,14 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/AMT_HEVC/wv-pr/manifest.mpd
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv BAHRAN TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=430da64eea5e02531aece95173c2f4e0:0df6402f77dc8df58975671af77dc9e2
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/BHT_HEVC/wv-pr/manifest.mpd
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv OMAN TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0efe64493c0ac2da33c13744c9f3bb56:00f5b258c26f5bdead76072223a28d87
@@ -777,8 +733,6 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/OMCT_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d03eec23691d7ab363a9f2bc47d943e:6f69f639c6e5407722ea6df8bf81397a
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/SYRIA_HEVC/wv-pr/manifest.mpd
-
-
 
 
 
@@ -823,6 +777,56 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/CBC_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=15448afa3aefa9e1a6b8342a1c83eb2a:70fe8d1487e639ae3dac4964b4e858b1
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/TEN_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv KWN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c39999cf99e9762dcb191583d283feb0:dc8834f755892cf9a53b29f7a2ec2c69
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/KWN1_HEVC/wv-pr/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv KWN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=315720a90ddefcaf91ee58ff35c61cb1:42f5c7725fe335db6715068248fa997e
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/KWN2_HEVC/wv-pr/manifest.mpd
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv CBC SOFRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335b0869905fe50f5078bb2258bbf379:bfb9d58ab091637e5f159207132bfc10
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/CBS_HEVC/wv-pr/manifest.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv CBC DRAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbe52bf1e9dedfb41ec620eee7455c93:7c005ea4fa236bfb9fd5f97336feb637
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/CBD_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv NAHAR DRAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6204e4d7aa3538fded62be8c04ad0c7:0d6e44ff40173c6de135c4544d6cb888
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NAD_HEVC/wv-pr/manifest.mpd
+
+
+
+
+
+
+
+
 
 
 
