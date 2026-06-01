@@ -23,6 +23,16 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/1673/4/live.mpd
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/tf14k.png" group-title="UHD 4k ",TF1 4k
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02b07f6394293c409350cded71ce3654:9e03072c3b243bbe9aba03fce2f5cfa4,65006bc6637e7a291061f45870a04e81:0b50bfea6301df542eb9efcca75d5ec8
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1312/4/live.mpd
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/m64k.png" group-title="UHD 4k ",M6 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a14d4e9a2ec70d060b873622d0fe0a3:4fe37af81e6be1edf17e2f5e00c67ae4,b18ac06789510949f5fee55ee2274151:d7b9d6dba05741b1070d8c19743020f9
