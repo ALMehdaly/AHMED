@@ -1,6 +1,50 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="oqee",f2uhd 0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c4df87e9790da6e41d53d91ce0e9e2:687adcd5953b831e51b8992336d1ea61,2cd8a04c1ccf0350414092cea7a29287:23de78b4e2feee0cacc4fb155603f661
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1673/0/live.mpd
+
+
+#EXTINF:-1 group-title="oqee",f2uhd 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c4df87e9790da6e41d53d91ce0e9e2:687adcd5953b831e51b8992336d1ea61,2cd8a04c1ccf0350414092cea7a29287:23de78b4e2feee0cacc4fb155603f661
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1673/1/live.mpd
+
+
+#EXTINF:-1 group-title="oqee",f2uhd 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c4df87e9790da6e41d53d91ce0e9e2:687adcd5953b831e51b8992336d1ea61,2cd8a04c1ccf0350414092cea7a29287:23de78b4e2feee0cacc4fb155603f661
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1673/2/live.mpd
+
+
+
+
+#EXTINF:-1 group-title="oqee",f2uhd 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c4df87e9790da6e41d53d91ce0e9e2:687adcd5953b831e51b8992336d1ea61,2cd8a04c1ccf0350414092cea7a29287:23de78b4e2feee0cacc4fb155603f661
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1673/3/live.mpd
+
+
+
+
+
+#EXTINF:-1 group-title="oqee",f2uhd 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c4df87e9790da6e41d53d91ce0e9e2:687adcd5953b831e51b8992336d1ea61,2cd8a04c1ccf0350414092cea7a29287:23de78b4e2feee0cacc4fb155603f661
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1673/4/live.mpd
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4wVlKPL.png" group-title="STCtv HEVC",STCtv Sports HD 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
