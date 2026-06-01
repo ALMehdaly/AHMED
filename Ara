@@ -1177,6 +1177,13 @@ https://osn-live-channels.anghcdn.co/Content/Channel/nickelodeon-hd/DASH/master_
 https://osn-live-channels.anghcdn.co/Content/Channel/cnn-hd/DASH/master_OSNAVC.mpd?token=P2Fkcy1lbmFibGVkPTAmY2xpZW50LXBsYXRmb3JtPXdlYi1vc24mY2xpZW50LXZlcnNpb249MS43LjExJmNvbnRlbnQtaWQ9Njg3NDYmZXhwaXJ5PTE3ODAxNDU0NDkmbGl2ZS1jaGFubmVsLWFkcy1lbmFibGVkPTAmcHJvZmlsZS1pZD0yNzg1NjQ2NSZzaWduYXR1cmU9MzYxOGQ2MTUyNzM5ZjI2ZDVlMTMyNzJhNTU4ZWY2Njg0MDkwMTg5OCZzdHJlYW0taWQ9MTY3NTA2JnVzZXItaWQ9MTM5NzM4OTQ2
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="OSNTV",OSNTV CNN HD hex
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb945bf5f8133e3c829dfcc9fd3258d1:c274f2e55f1ac2e3cb8b4a0a96664eb0,c78c42b84ef2388682d049602844688b:c5f54a6becb1e3b0f87dcfa830c7bdf2,e099a896ee38396d95ab798663e957b8:e1e6274d3659467770a0707ea9b060fc
+https://osn-live-channels.anghcdn.co/Content/Channel/cnn-hd/DASH/master_OSNAVC.mpd?token=?ads-enabled=0&client-platform=web-osn&client-version=1.7.14&content-id=68746&expiry=1780409888&live-channel-ads-enabled=0&profile-id=27856465&signature=548a40f272f940f4c5ebd915ee44cd8e0787b302&stream-id=167506&user-id=139738946
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="OSNTV",OSNTV al-hadath
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86bc5c956eb33e00a91d5a369b08b215:a845caee50ae29305006060aabc55982,fdc333e709693a91a98829288ecab4fa:c4ab980675592b8017ab0aa73ae6f5d,1bae267fdaf23fc990e4cfe4f44a0b13:632796662198c8a5af738c5e2ed49208
