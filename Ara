@@ -2,6 +2,32 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="OSNTV",OSN+ cartoon-network- HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=19cc840f16c33c1e901cc297315c20d8:911f2c58e9c5a7f664ab12c5aa24b694,e426ce3f37c73b4cb4f35643126d0af9:90a00cce15b4032a2391592652aeff26,e84b32141bdd3824aff982e73f9c3395:a7d115c5683f15a0739baf09fc07fa14
+https://osn-live-channels.anghcdn.co/Content/Channel/cartoon-network-hd/DASH/master_OSNAVC.mpd?token=P2Fkcy1lbmFibGVkPTAmY2xpZW50LXBsYXRmb3JtPXdlYi1vc24mY2xpZW50LXZlcnNpb249MS43LjExJmNvbnRlbnQtaWQ9Njg3MzcmZXhwaXJ5PTE3ODAzNDQ5ODgmbGl2ZS1jaGFubmVsLWFkcy1lbmFibGVkPTAmcHJvZmlsZS1pZD0yNzg1NjQ2NSZzaWduYXR1cmU9YTEzYmViZWFmNWY1NGExODE2NjM1NTAzZThmZjQwY2I0NmZkYjY5MCZzdHJlYW0taWQ9MTYyNzM4JnVzZXItaWQ9MTM5NzM4OTQ2
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="OSNTV",OSNTV cartoon-network- HD covert
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=19cc840f16c33c1e901cc297315c20d8:911f2c58e9c5a7f664ab12c5aa24b694,e426ce3f37c73b4cb4f35643126d0af9:90a00cce15b4032a2391592652aeff26,e84b32141bdd3824aff982e73f9c3395:a7d115c5683f15a0739baf09fc07fa14
+https://osn-live-channels.anghcdn.co/Content/Channel/cartoon-network-hd/DASH/master_OSNAVC.mpd?token=?ads-enabled=0&client-platform=web-osn&client-version=1.7.11&content-id=68737&expiry=1780344988&live-channel-ads-enabled=0&profile-id=27856465&signature=a13bebeaf5f54a1816635503e8ff40cb46fdb690&stream-id=162738&user-id=139738946
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
