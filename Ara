@@ -2,25 +2,26 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="orf",ORF 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84fc489595c4541bb6611c0f8e723681:d38eef2e64823b838c309460df2d1ecd
-https://orf1-247.mdn.ors.at/orf/orf1/drmqxa-247/manifest.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="orf",ORF 1 X
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5bfe7cea1755a4e9de159d5404531ef:42d5fdd4f8f405a3981d2e1cb923076e
-https://orf1-247.mdn.ors.at/orf/orf1/drmqxa-247/manifest.mpd
-
+https://orf1-247.mdn.ors.at/orf/orf1/drmqxa-247/manifest.mpd?offset=5&begin=20260601T173000
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="orf",ORF 2 X
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e93eafef4f5053eab2c22b523b6c1ac2:6dfedff73b2ae70745174fbb06ea468f
-https://orf2w-247.mdn.ors.at/orf/orf2w/drmqxa-247/manifest.mpd
+https://orf2w-247.mdn.ors.at/orf/orf2w/drmqxa-247/manifest.mpd?offset=5&begin=20260601T175207
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="orf",ORF 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84fc489595c4541bb6611c0f8e723681:d38eef2e64823b838c309460df2d1ecd
+https://orf1-247.mdn.ors.at/orf/orf1/drmqxa-247/manifest.mpd
 
 
 
