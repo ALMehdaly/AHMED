@@ -2,6 +2,32 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="orf",ORF 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84fc489595c4541bb6611c0f8e723681:d38eef2e64823b838c309460df2d1ecd
+https://orf1-247.mdn.ors.at/orf/orf1/drmqxa-247/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="orf",ORF 1 X
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5bfe7cea1755a4e9de159d5404531ef:42d5fdd4f8f405a3981d2e1cb923076e
+https://orf1-247.mdn.ors.at/orf/orf1/drmqxa-247/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="orf",ORF 2 X
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e93eafef4f5053eab2c22b523b6c1ac2:6dfedff73b2ae70745174fbb06ea468f
+https://orf2w-247.mdn.ors.at/orf/orf2w/drmqxa-247/manifest.mpd
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XXXX.png" group-title="OSNTV",OSN+ cartoon-network- HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=19cc840f16c33c1e901cc297315c20d8:911f2c58e9c5a7f664ab12c5aa24b694,e426ce3f37c73b4cb4f35643126d0af9:90a00cce15b4032a2391592652aeff26,e84b32141bdd3824aff982e73f9c3395:a7d115c5683f15a0739baf09fc07fa14
