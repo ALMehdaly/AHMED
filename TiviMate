@@ -76,15 +76,29 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playli
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/trt1.png" group-title="TR",TRT 1
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/trt1.png" group-title="TR",TRT 1 web
 
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/trt1.png" group-title="TR",TRT 1 1440p
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/trt1.png" group-title="TR",TRT 1 1440p web
 
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?app=web
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/trt1.png" group-title="TR",TRT 1
+tv
+https://trt.daioncdn.net/trt-1/master.m3u8?app=tv
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/trt1.png" group-title="TR",TRT 1 1440p tv
+
+https://trt.daioncdn.net/trt-1/master_1440p.m3u8?app=tv
+
 
 
 
