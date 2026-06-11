@@ -40,13 +40,12 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/1555/4/live.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/makan33.png" group-title="IL",IL Makan 33 R dvr
-https://n-121-4.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?renditions&fmp4&dvr=7200000
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/makan33.png" group-title="IL",IL Makan 33 R FHD
-https://n-121-4.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?bitrate=5500000&videoId=0&renditions&fmp4&dvr=7200000
+
+
+
 
 
 
