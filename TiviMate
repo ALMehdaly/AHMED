@@ -46,6 +46,25 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/1555/4/live.mpd
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/IR.png" group-title="IR", IRIB UHD M
+
+https://lb-cdn.sepehrtv.ir/securelive3/ifaratar/2160p.m3u8?s=u0OUxVBN2xoonxhkccx1sw&t=1781313611
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/IR.png" group-title="IR", IRIB UHD A
+
+https://lb-cdn.sepehrtv.ir/securelive3/ifaratar/2160p.m3u8?s=u0OUxVBN2xoonxhkccx1sw&t=1781313611
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/IR.png" group-title="IR", IRIB UHD AA
+https://lb-cdn.sepehrtv.ir/securelive3/uhd/uhd.m3u8?s=3g4yRi94fBAcfYDA67UnFQ&t=1781314272
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/IR.png" group-title="IR", IRIB  A
+
+https://lb-cdn.sepehrtv.ir/securelive3/ifaratar/ifaratar.m3u8?s=u0OUxVBN2xoonxhkccx1sw&t=1781313611
+
+
+
 
 
 
