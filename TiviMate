@@ -7,6 +7,37 @@
 
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="FOXSports14K.us" tvg-name="FOX Sports 1 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="Sports 4K",FOX Sports 1 4K
+https://nl-081-v1.vivocdn.xyz/1781427593/4b1fc83d0c3441549b2d7c0c71a9cf46/xFKzc8beHb60mDgPmnd_FzzFtgpHjvkB8421hpWBB9w/fox-sports-1-4k.m3u8
+
+#EXTINF:-1 tvg-id="FOXSports1.us" tvg-name="FOX Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="Sports",FOX Sports 1
+https://nl-081-v1.vivocdn.xyz/1781427714/2b25cca999fc4381aaf1bd3b9d27a99b/W_ZW2jyZss4Z6LzNSMy8E5cCmW7k_ZyXr5rWOu4HiIw/fox-sports-1.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="USA",Telemundo USA
+https://nl-081-v1.vivocdn.xyz/1781427765/a3e5966de6cb49c7abdfb6036c6c64b6/e9-AXn0a9GMw_xFAqhkIotDLWnpvX7isSH3Qvl6CPmc/telemundo-usa.m3u8
+
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="UK",BBC One UK
+https://nl-081-v1.vivocdn.xyz/1781428032/7cd0a33bf15e4e47ba91fc5096e346b6/oQzq2M8vQki1PXqxeTcQqSahbGLLBvkRkSsJtPYc1wo/bbcone-uk.m3u8
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV BR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png" group-title="Brazil Sports",SporTV BR
+https://nl-081-v1.vivocdn.xyz/1781435722/8e53cb7a110d420e9734b07c3813bd87/a-ZHd5VmPKrHRx0f-EiFaHXaWBhbVcrePiHt-5LXu4A/sportv-br.m3u8
+
+#EXTINF:-1 tvg-id="DSports.ar" tvg-name="DSports AR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/dsports-ar.png" group-title="Argentina Sports",DSports AR
+https://nl-081-v1.vivocdn.xyz/1781435789/b785db4a26b248f597af41c315c44e45/5xFpfWbT7vytYNc31g4TI6Us9tZZhbHkqLDKE8zY5oM/dsports-ar.m3u8
+
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1 PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp1-pl.png" group-title="Poland",TVP1 PL
+https://nl-081-v1.vivocdn.xyz/1781435916/ba2d985037924c5da3ba21de4ae5e1c1/rC7xXuxZh3QogsK16ZEMREwHGa2tJgGMmGNxksTfNKk/tvp1-pl.m3u8
+
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/orf1-at.png" group-title="Austria",ORF 1
+https://nl-081-v1.vivocdn.xyz/1781435938/ffbd9cc5cd8b4681982b9a0ce3f04236/WLz37bbszsCrUv3TVPgBmdzcTExf87WAYMrG2hSIvZQ/orf1-de.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.fr" tvg-name="beIN Sports 1 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bein-sports-1-fr.png" group-title="France Sports",beIN Sports 1 FR
+https://nl-081-v1.vivocdn.xyz/1781435964/711f971d866048748b6adcb695f0de17/ra5r_yN78z21LTsJT_VQZEjyxOpXYlICjeRBJeTEtzs/beinsports1-fr.m3u8
+
+
+
 
 
 
