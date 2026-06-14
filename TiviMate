@@ -10,6 +10,11 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/fusballtv1uhd-de.png" group-title="UHD 4k ",fusballtv1uhd-de
+https://nl-081-v1.vivocdn.xyz/1781489341/a19c643bf1664bdc8ca0aabe76538eff/19PdCge8Y86zEgmj5k2ceL9L8pMzw2_S1EtCpYRPf6Y/fusballtv1uhd-de.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="WC26" tvg-name="FOX Sports 1 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="Sports 4K",FOX 4k
 https://nl-081-v1.vivocdn.xyz/1781489177/2284320965f948c78c27825c26eea902/CbokvTi7vAUD9RTnho51aZqfYu6DgLyC8nnikOXD8_0/fox-sports-1.m3u8
