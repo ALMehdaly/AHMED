@@ -99,11 +99,12 @@ https://lb-cdn.sepehrtv.ir/securelive3/ifaratar/2160p.m3u8?s=u0OUxVBN2xoonxhkccx
 
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/IR.png" group-title="IR", IRIB UHD AA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://nl2-cdn.sepehrtv.org/securelive3/uhd/2160p.m3u8?s=qxAijqaaej1maH6dElmT2g&t=1781489037
 
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/IR.png" group-title="IR", IRIB  A
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://nl2-cdn.sepehrtv.org/securelive3/uhd/uhd.m3u8?s=qxAijqaaej1maH6dElmT2g&t=1781489037
 
 
