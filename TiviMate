@@ -99,12 +99,12 @@ https://lb-cdn.sepehrtv.ir/securelive3/ifaratar/2160p.m3u8?s=u0OUxVBN2xoonxhkccx
 
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/IR.png" group-title="IR", IRIB UHD AA
-https://lb-cdn.sepehrtv.ir/securelive3/uhd/uhd.m3u8?s=3g4yRi94fBAcfYDA67UnFQ&t=1781314272
+https://nl2-cdn.sepehrtv.org/securelive3/uhd/2160p.m3u8?s=qxAijqaaej1maH6dElmT2g&t=1781489037
+
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/IR.png" group-title="IR", IRIB  A
 
-https://lb-cdn.sepehrtv.ir/securelive3/ifaratar/ifaratar.m3u8?s=u0OUxVBN2xoonxhkccx1sw&t=1781313611
-
+https://nl2-cdn.sepehrtv.org/securelive3/uhd/uhd.m3u8?s=qxAijqaaej1maH6dElmT2g&t=1781489037
 
 
 
@@ -131,10 +131,11 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playli
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="IL",IL kan 11 drm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="IL",IL kan 11 drm x
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa0c2109de82c87508d0e3083c65b9d1:dc95590b15e466108da631e2c49bfb5e
-https://n-121-7.il.cdn-redge.media/livedash/oil/kancdn-live/live/popup3_sports_music/live_drm.livx?indexMode&futc&relativePaths&dvr=7200000
+https://n-160-5.cdn.avcom-bezeq.tv/webcache/redge-il/livedash/oil/kancdn-live/live/popup3_sports_music/live_drm.livx?indexMode&futc&relativePaths&dvr=7200000
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="IL",IL kan 11 drm n
 #KODIPROP:inputstream.adaptive.license_type=clearkey
