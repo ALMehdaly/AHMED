@@ -7,27 +7,31 @@
 
 
 
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/fusballtv1uhd-de.png" group-title="WC26",fusballtv1uhd-de DRM VPN
 
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/fusballtv1uhd-de.png" group-title="UHD 4k ",fusballtv1uhd-de
-https://viznf.gdgdfhbdfidsf.xyz/1781548707/6a2f11210e21404b9e0c061af5be74c0/fIebCpkqcwZ0lHLFGOUTTTCfTZ-zOYZzIpPnnsseuOY/fusballtv1uhd-de.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/fusballtv1uhd-de.png" group-title="UHD 4k ",fusballtv1uhd-de no
-https://viznf.gdgdfhbdfidsf.xyz/1781548743/3459a4df8264482c9a0d88b1703150fb/jbbUt5EHx32WLZH9LnmpdfB7F7n9dDfF2ELfWhlvTlM/fusballtvuhd-de.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="WC26" tvg-name="FOX Sports 1 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="Sports 4K",FOX 4k
-https://viznf.gdgdfhbdfidsf.xyz/1781548423/6f535525c7e1430893099e2f67ff3986/TETuQ1EtP4YBcLkfACDPhOL6ylEYpzvvX63ArLNM1zA/fox4k-usa.m3u8
+#EXTINF:-1 tvg-id="WC26" tvg-name="WC26" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="WC26",FOX 4k DRM VPN
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://live-pv-ta.amazon.fastly-edge.com/pdx-nitro/live/clients/dash/enc/stxrbahabo/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="WC26" tvg-name="FOX Sports 1 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="Sports 4K",FOX Sports 1 4K
-https://nl-081-v1.vivocdn.xyz/1781489177/2284320965f948c78c27825c26eea902/CbokvTi7vAUD9RTnho51aZqfYu6DgLyC8nnikOXD8_0/fox-sports-14k.m3u8
 
-#EXTINF:-1 tvg-id="WC26" tvg-name="FOX Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="Sports",FOX Sports 1
+
+
+
+#EXTINF:-1 tvg-id="WC26" tvg-name="WC26" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="WC26",FOX Sports 1
 https://nl-081-v1.vivocdn.xyz/1781427714/2b25cca999fc4381aaf1bd3b9d27a99b/W_ZW2jyZss4Z6LzNSMy8E5cCmW7k_ZyXr5rWOu4HiIw/fox-sports-1.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="WC26" tvg-name="Telemundo USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="USA",Telemundo USA
 https://nl-081-v1.vivocdn.xyz/1781427765/a3e5966de6cb49c7abdfb6036c6c64b6/e9-AXn0a9GMw_xFAqhkIotDLWnpvX7isSH3Qvl6CPmc/telemundo-usa.m3u8
