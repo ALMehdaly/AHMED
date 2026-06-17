@@ -7,13 +7,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/fusballtv1uhd-de.png" group-title="WC26",fusballtv1uhd-de DRM VPN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-
-
-
 #EXTINF:-1 tvg-id="WC26" tvg-name="WC26" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="WC26",FOX 4k DRM VPN
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -22,21 +15,35 @@ https://live-pv-ta.amazon.fastly-edge.com/pdx-nitro/live/clients/dash/enc/stxrba
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="WC26" tvg-name="WC26" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="WC26",FOX Sports 1
+#EXTINF:-1 tvg-id="WC26" tvg-name="WC26" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="WC26",FOX Sports 1 soon
 https://nl-081-v1.vivocdn.xyz/1781427714/2b25cca999fc4381aaf1bd3b9d27a99b/W_ZW2jyZss4Z6LzNSMy8E5cCmW7k_ZyXr5rWOu4HiIw/fox-sports-1.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="WC26" tvg-name="Telemundo USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="USA",Telemundo USA
-https://nl-081-v1.vivocdn.xyz/1781427765/a3e5966de6cb49c7abdfb6036c6c64b6/e9-AXn0a9GMw_xFAqhkIotDLWnpvX7isSH3Qvl6CPmc/telemundo-usa.m3u8
 
-#EXTINF:-1 tvg-id="WC26" tvg-name="BBC One UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="UK",BBC One UK
-https://nl-081-v1.vivocdn.xyz/1781428032/7cd0a33bf15e4e47ba91fc5096e346b6/oQzq2M8vQki1PXqxeTcQqSahbGLLBvkRkSsJtPYc1wo/bbcone-uk.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/defussballtv1uhd.png" group-title="WC26",fusballtv1uhd-de DRM VPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-id="WC26" tvg-name="Telemundo USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="WC26",Telemundo USA
+
+https://nl-081-v1.xxx.m3u8/
+
+#EXTINF:-1 tvg-id="WC26" tvg-name="BBC One UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="WC26",BBC soon
+https://nl-081-v1.xxx.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="WC26" tvg-name="SporTV BR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png" group-title="Brazil Sports",SporTV BR
 https://nl-081-v1.vivocdn.xyz/1781435722/8e53cb7a110d420e9734b07c3813bd87/a-ZHd5VmPKrHRx0f-EiFaHXaWBhbVcrePiHt-5LXu4A/sportv-br.m3u8
