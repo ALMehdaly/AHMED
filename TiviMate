@@ -17,7 +17,18 @@
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 https://live-pv-ta.amazon.fastly-edge.com/pdx-nitro/live/clients/dash/enc/stxrbahabo/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
  
+
+
+
+#EXTINF:-1 tvg-id="WC26" tvg-name="WC26" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="WC26",FOX 4k DRM VPN new
  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://live-pv-ta.amazon.fastly-edge.com/pdx-nitro/live/clients/dash/enc/pfcxjf1zas/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
+
+
+
+
  
 #EXTINF:-1 tvg-id="WC26" tvg-name="WC26" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="WC26",FOX Sports 1 soon
 https://nl-081-v1.vivocdn.xyz/1781427714/2b25cca999fc4381aaf1bd3b9d27a99b/W_ZW2jyZss4Z6LzNSMy8E5cCmW7k_ZyXr5rWOu4HiIw/fox-sports-1.m3u8
