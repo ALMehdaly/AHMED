@@ -8,12 +8,7 @@
 
 
 
-#EXTINF:-1 tvg-id="WC26" tvg-name="WC26" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="WC26",FOX FHD DRM VPN
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key= f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
- 
-https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
  
  
  
@@ -40,6 +35,16 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
  
  
  
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/orf1-at.png" group-title="WC26",ORF 1 SOON
+
+https://nl-081-v1.vivocdn.xyz/1781435938/ffbd9cc5cd8b4681982b9a0ce3f04236/WLz37bbszsCrUv3TVPgBmdzcTExf87WAYMrG2hSIvZQ/orf1-de.m3u8
+
+
+
+
  
 #EXTINF:-1 tvg-id="WC26" tvg-name="Telemundo USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="WC26",Telemundo DRM
  
@@ -105,8 +110,7 @@ https://nl-081-v1.vivocdn.xyz/1781435789/b785db4a26b248f597af41c315c44e45/5xFpfW
 #EXTINF:-1 tvg-id="WC26" tvg-name="TVP1 PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp1-pl.png" group-title="Poland",TVP1 PL
 https://nl-081-v1.vivocdn.xyz/1781435916/ba2d985037924c5da3ba21de4ae5e1c1/rC7xXuxZh3QogsK16ZEMREwHGa2tJgGMmGNxksTfNKk/tvp1-pl.m3u8
 
-#EXTINF:-1 tvg-id="WC26" tvg-name="ORF 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/orf1-at.png" group-title="Austria",ORF 1
-https://nl-081-v1.vivocdn.xyz/1781435938/ffbd9cc5cd8b4681982b9a0ce3f04236/WLz37bbszsCrUv3TVPgBmdzcTExf87WAYMrG2hSIvZQ/orf1-de.m3u8
+
 
 #EXTINF:-1 tvg-id="WC26" tvg-name="beIN Sports 1 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bein-sports-1-fr.png" group-title="France Sports",beIN Sports 1 FR
 https://nl-081-v1.vivocdn.xyz/1781435964/711f971d866048748b6adcb695f0de17/ra5r_yN78z21LTsJT_VQZEjyxOpXYlICjeRBJeTEtzs/beinsports1-fr.m3u8
