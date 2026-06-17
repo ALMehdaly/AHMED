@@ -82,8 +82,10 @@ https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/
  
  
  
-#EXTINF:-1 tvg-id="WC26" tvg-name="BBC One UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="WC26",BBC soon
-https://nl-081-v1.xxx.m3u8
+#EXTINF:-1 tvg-id="WC26" tvg-name="BBC One UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="WC26",BBC UHD test
+BBC UHD
+
+https://ve-uhd-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_042/iptv_uhd_v1.mpd
  
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/trt1.png" group-title="WC26",TRT 1
