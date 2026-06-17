@@ -7,37 +7,88 @@
 
 
 
-#EXTINF:-1 tvg-id="WC26" tvg-name="WC26" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="WC26",FOX 4k DRM VPN
 
+#EXTINF:-1 tvg-id="WC26" tvg-name="WC26" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="WC26",FOX FHD DRM VPN
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+ 
+https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="WC26" tvg-name="WC26" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="WC26",FOX 4k DRM VPN
+ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 https://live-pv-ta.amazon.fastly-edge.com/pdx-nitro/live/clients/dash/enc/stxrbahabo/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-
-
-
+ 
+ 
+ 
 #EXTINF:-1 tvg-id="WC26" tvg-name="WC26" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="WC26",FOX Sports 1 soon
 https://nl-081-v1.vivocdn.xyz/1781427714/2b25cca999fc4381aaf1bd3b9d27a99b/W_ZW2jyZss4Z6LzNSMy8E5cCmW7k_ZyXr5rWOu4HiIw/fox-sports-1.m3u8
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/defussballtv1uhd.png" group-title="WC26",fusballtv1uhd-de DRM VPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-
-
-
-
-
-#EXTINF:-1 tvg-id="WC26" tvg-name="Telemundo USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="WC26",Telemundo USA
-
-https://nl-081-v1.xxx.m3u8/
-
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="WC26" tvg-name="Telemundo USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="WC26",Telemundo DRM
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+ 
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/cazetv.png" group-title="WC26",CAZE TV DRM
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
+ 
+https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd
+ 
+ 
+ 
+ 
 #EXTINF:-1 tvg-id="WC26" tvg-name="BBC One UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="WC26",BBC soon
 https://nl-081-v1.xxx.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/trt1.png" group-title="WC26",TRT 1
+ 
+https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/cazetv.png" group-title="WC26",CAZE TV 
+ 
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+ 
+#EXTINF:-1 tvg-id="WC26" tvg-name="Telemundo USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="WC26",Telemundo 
+ 
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
