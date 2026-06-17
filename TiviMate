@@ -8,7 +8,6 @@
 
 
 
-
  
  
  
@@ -25,7 +24,15 @@ https://nl-081-v1.vivocdn.xyz/1781427714/2b25cca999fc4381aaf1bd3b9d27a99b/W_ZW2j
  
  
  
+
+?#EXTINF:-1 tvg-id="WC26" tvg-name="WC26" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="WC26",FOX SDR DRM VPN
  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jyocixinuk/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+
+
  
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/defussballtv1uhd.png" group-title="WC26",fusballtv1uhd-de DRM VPN
