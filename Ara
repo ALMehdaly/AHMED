@@ -73,7 +73,15 @@ https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Cartoon_Network_HD/DASH/Car
 #KODIPROP:inputstream.adaptive.license_key=5fd339bc3fc2f0ba0d16ad8be18fe4b6:28be6b28d3c7727f6d9fd9e69e3124c3
 https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Boomerang_HD/DASH/Boomerang_HD.mpd
 
+#EXTINF:-1 tvg-logo="https://www.aljadeed.tv/images/logo.png" group-title="MobilyTv",Al Jadeed
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ce4f571bc4e4811a092f339be8cec01:d31f3d3bf040a2f504b88d77afb37973
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Al_Jadeed/DASH/Al_Jadeed.mpd
 
+#EXTINF:-1 tvg-logo="https://www.almashhad.tv/images/logo.png" group-title="MobilyTv",Al Mashhad TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09c866dc7d2d423cc92c02c1b86ce0b4:04551ce3bae2228685d6c3baf3ac2071
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Al_Mashhad_TV/DASH/Al_Mashhad_TV.mpd
 
 
 
