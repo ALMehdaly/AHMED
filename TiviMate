@@ -52,7 +52,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jyocixinuk/out/v1
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
  
  
- 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/m64k.png" group-title="WC26",M6 4K DRM VPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a14d4e9a2ec70d060b873622d0fe0a3:4fe37af81e6be1edf17e2f5e00c67ae4,b18ac06789510949f5fee55ee2274151:d7b9d6dba05741b1070d8c19743020f9
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1555/4/live.mpd
 
 
 
