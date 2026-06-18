@@ -16,6 +16,7 @@ https://ev-fast-mpd.starzplayarabia.com/MBC_1_HD/dash/drm/index.mpd
 https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd
 
 
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png" group-title="MobilyTv",MBC 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -37,15 +38,40 @@ https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_Iraq_HD/dash/drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=867c8d7670eab5e7aa10571830ad3d8c:030cf68626950b12145bc7147d6a9bda
 https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd
 
+#EXTINF:-1 tvg-logo="https://www.dubaitv.ae/images/logo.png" group-title="MobilyTv",Dubai TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a3da3ceae9d9f6b2b5094ffd3017c34:aa8ed227ee7b2707ba58564fd186b8ed
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Dubai_TV_HD/dash/drm/index.mpd
+
 #EXTINF:-1 tvg-logo="https://www.adsc.ae/en/PublishingImages/logo-abu-dhabi-sports.png" group-title="MobilyTv",Abu Dhabi Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bec6ac7cd9a02dd75da2278ba3183ef:029edcf6b6c737595445a1a3a390edb3
 https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Abu_Dhabi_Sports_1_HD/DASH/Abu_Dhabi_Sports_1_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dubaitv.ae/images/logo.png" group-title="MobilyTv",Dubai TV HD
+#EXTINF:-1 tvg-logo="https://www.adsc.ae/en/PublishingImages/logo-abu-dhabi-sports.png" group-title="MobilyTv",Abu Dhabi Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a3da3ceae9d9f6b2b5094ffd3017c34:aa8ed227ee7b2707ba58564fd186b8ed
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/Dubai_TV_HD/dash/drm/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=528afb1be8ef0e74a8fe703e37e493de:1f58c055fe8028ca00226301d6161729
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Abu_Dhabi_Sports_2_HD/DASH/Abu_Dhabi_Sports_2_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2021/06/FTV-Logo-2017.png" group-title="MobilyTv",Fashion TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2eaacdf5e24c0eff853ca65fef6450ed:a26c165054ad412c5fb11c92c16d1a74
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Fashion_TV_HD/DASH/Fashion_TV_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cartoon_Network_2010_logo.svg" group-title="MobilyTv",Cartoon Network Arabic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18f735985ada8c2183621c4316150095:5bbb37067a13fa42433314b9a89f889b
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Cartoon_Network_Arabic/dash/drm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cartoon_Network_2010_logo.svg" group-title="MobilyTv",Cartoon Network HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=467593479a6b93c17647397533d9961c:979edadc64f49083258c5ada90fee37e
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Cartoon_Network_HD/DASH/Cartoon_Network_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Boomerang_logo.svg" group-title="MobilyTv",Boomerang HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fd339bc3fc2f0ba0d16ad8be18fe4b6:28be6b28d3c7727f6d9fd9e69e3124c3
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Boomerang_HD/DASH/Boomerang_HD.mpd
 
 
 
