@@ -76,8 +76,10 @@ https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Al_Mashhad_TV/DASH/Al_Mashh
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://www.wanasa.tv/images/logo.png" group-title="MobilyTv",MBC MOOD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1abcb40b0afd4c3a1b60e9b1f50d994:8fe20149b7012aa38247914fbf8c8d01
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Wanasa_TV/DASH/Wanasa_TV.mpd
 
 
 
