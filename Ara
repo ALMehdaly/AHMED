@@ -4,19 +4,10 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png" group-title="MobilyTv",MBC 1 HD*
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14916d09434deadb728c72adfcbf0da3:0fc8151014beec32c7bd4abf797f8eb4
-https://ev-fast-mpd.starzplayarabia.com/MBC_1_HD/dash/drm/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-action-logo.png" group-title="MobilyTv",MBC Action HD*
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
-https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd
 
 
-#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png" group-title="MobilyTv",MBC 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -73,7 +64,7 @@ https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Cartoon_Network_HD/DASH/Car
 #KODIPROP:inputstream.adaptive.license_key=5fd339bc3fc2f0ba0d16ad8be18fe4b6:28be6b28d3c7727f6d9fd9e69e3124c3
 https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Boomerang_HD/DASH/Boomerang_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.aljadeed.tv/images/logo.png" group-title="MobilyTv",Al Jadeed
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/aljadeed.png" group-title="MobilyTv",Al Jadeed
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ce4f571bc4e4811a092f339be8cec01:d31f3d3bf040a2f504b88d77afb37973
 https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Al_Jadeed/DASH/Al_Jadeed.mpd
