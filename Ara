@@ -1,8 +1,21 @@
 #EXTM3U
 
 
+https://ev-fast-mpd.starzplayarabia.com
 
-#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png" group-title="MobilyTv",MBC 1 HD*
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14916d09434deadb728c72adfcbf0da3:0fc8151014beec32c7bd4abf797f8eb4
+https://ev-fast-mpd.starzplayarabia.com/MBC_1_HD/dash/drm/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-action-logo.png" group-title="MobilyTv",MBC Action HD*
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png" group-title="MobilyTv",MBC 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
