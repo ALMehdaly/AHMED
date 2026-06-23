@@ -1,5 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/beinsport4khdr.png" group-title="WC26",beIN sports 4k hdr
+https://inproviszon.st/bein4k.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/beinsportsmax2.png" group-title="WC26",beIN SPORTS MAX 1
+https://inproviszon.st/beinmax.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/beinsportsmax1.png" group-title="WC26",beIN SPORTS MAX 2
+https://inproviszon.st/beinmax-2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="WC26",FOX Sports 1
+https://inproviszon.st/fs1.m3u8
+
+
+
 
 
 
@@ -21,15 +38,6 @@ https://inproviszon.st/fs14k.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc.png" group-title="WC26",BBC UHD
 https://inproviszon.st/bbc4k.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/beinsport4khdr.png" group-title="WC26",beIN sports 4k hdr
-https://inproviszon.st/bein4k.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/beinsportsmax1.png" group-title="WC26",beIN SPORTS MAX 1
-https://inproviszon.st/beinmax-2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/beinsportsmax2.png" group-title="WC26",beIN SPORTS MAX 2
-https://inproviszon.st/beinmax.m3u8
-
 
 
 
