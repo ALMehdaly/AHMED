@@ -2,7 +2,6 @@
 
 
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/defussballtv1uhd.png" group-title="WC26",fusballtv 1 uhd
 https://inproviszon.st/fusball4k.m3u8
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/defussballtv1uhd.png" group-title="WC26",fusballtv 1 uhd 
