@@ -7,11 +7,19 @@
 https://inproviszon.st/fusball4k.m3u8
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/defussballtv1uhd.png" group-title="WC26",fusballtv 1 uhd 
 https://inproviszon.st/fusball4k-2.m3u8
-#EXTINF:-1 tvg-id="WC26" tvg-name="WC26" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="WC26",FOX 4k
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tsn.png" group-title="WC26",TSN 4k
+https://inproviszon.st/tsn4k.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="WC26",FOX 4k
 https://inproviszon.st/fox4k.m3u8
-#EXTINF:-1 tvg-id="WC26" tvg-name="WC26" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="WC26",FOX Sports 1 4k
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="WC26",FOX Sports 1 4k
 https://inproviszon.st/fs14k.m3u8
-#EXTINF:-1 tvg-id="WC26" tvg-name="BBC One UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="WC26",BBC UHD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc.png" group-title="WC26",BBC UHD
 https://inproviszon.st/bbc4k.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/beinsport4khdr.png" group-title="WC26",beIN sports 4k hdr
