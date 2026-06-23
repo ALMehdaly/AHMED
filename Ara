@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/irib4k.png" group-title="WC26",irib 4k
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/defussballtv1uhd.png" group-title="WC26 DRM",Fusstball 1 UHD
