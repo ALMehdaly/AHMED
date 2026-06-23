@@ -17,8 +17,10 @@ https://inproviszon.st/bbc4k.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/beinsportsmax1.png" group-title="WC26",beIN SPORTS MAX 1
+https://inproviszon.st/beinmax-2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/beinsportsmax2.png" group-title="WC26",beIN SPORTS MAX 2
+https://inproviszon.st/beinmax.m3u8
 
 
 
