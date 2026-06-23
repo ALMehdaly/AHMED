@@ -16,7 +16,8 @@ https://inproviszon.st/beinmax-2.m3u8
 https://inproviszon.st/fs1.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbcone.png" group-title="WC26",BBC one
+https://inproviszon.st/bbcone.m3u8
 
 
 
