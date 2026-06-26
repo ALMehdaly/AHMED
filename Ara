@@ -1,6 +1,12 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="WC26",FOX 4k *
+https://vildid.hundredmilesperhour.uk/1782448172/a6caf357f59945179d3fca2a0019ef3f/u83_pkWo3KgH291aqAYfEsAuxmC3yApexeBaI2gmqrU/fox4k-usa.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/irib4k.png" group-title="WC26",irib 4k
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
