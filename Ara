@@ -2,6 +2,15 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="WC26",shek vod
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84d800f20ac648dc9dfe7669e4d18a76:e994465757e83fd3d9336deb369fc02e,db8eef8ee9da43038df980a4d9ad5fd4:261ddc7051461553eed35d56ad832eff,b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f
+https://abjp7ymaaaaaaaamjckdvafqp4qap.ta.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CiEIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQQYAQ/ww_zaz/47e6/bbc9/d28e/4881-a727-0f0769085a30/f669a449-1c72-4ff7-983c-cfaa0b5b4ef1_corrected.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.239845.0&encoding=segmentBase
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="WC26",FOX 4k drm x
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
