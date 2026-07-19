@@ -1,6 +1,20 @@
 #EXTM3U
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4wVlKPL.png" group-title="STCtv HEVC",STCtv Sports HD 1 xh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
+https://jawwy2-prod-cdn.intigral-ott.net/bpk-tv/STC_HEVC/wv-pr/manifest.mpd
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4wVlKPL.png" group-title="STCtv HEVC",STCtv Sports HD 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
