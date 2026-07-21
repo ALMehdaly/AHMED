@@ -2,18 +2,18 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv Cinema HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv ",STCtv Cinema HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27941c358897e06211225526fd7d7a64:386f6b34cd5f1a8b27696fd58ed35613
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCC_HEVC/wv-pr/manifest.mpd
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCC/wv-pr/manifest.mpd
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv HEVC",STCtv Cinema HD pop1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv ",STCtv Cinema HD pop1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27941c358897e06211225526fd7d7a64:386f6b34cd5f1a8b27696fd58ed35613
-https://pop1e11.cdn.intigral-ott.net/bpk-tv/STCC_HEVC/wv-pr/manifest.mpd
+https://pop1e11.cdn.intigral-ott.net/bpk-tv/STCC/wv-pr/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4wVlKPL.png" group-title="STCtv HEVC",STCtv Sports HD 1 fastly
