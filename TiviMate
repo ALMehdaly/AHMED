@@ -13,10 +13,10 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=27941c358897e06211225526fd7d7a64:386f6b34cd5f1a8b27696fd58ed35613
 https://uselector.cdn.intigral-ott.net/STCC/STCC.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv ",STCtv Cinema HD cdn
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxx.png" group-title="STCtv ",STCtv Cinema HD artifactory
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27941c358897e06211225526fd7d7a64:386f6b34cd5f1a8b27696fd58ed35613
-https://cdn.intigral-ott.net/bpk-tv/STCC/wv-pr/manifest.mpd
+https://artifactory.intigral-ott.net//bpk-tv/STCC/wv-pr/manifest.mpd
 
 
 
