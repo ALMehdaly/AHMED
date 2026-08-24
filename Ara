@@ -710,9 +710,9 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/RTA_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=135dfeb4a8c02f0076941edfbc3151f9:b406755ae35cc3774635cbcebe80d558
 https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/RTN_HEVC/wv-pr/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/WAN_264_Color.png" group-title="STC TV",STCtv MBC MOOD
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MBMOD_264_Color.png" group-title="STC TV",STCtv MBC MOOD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a26a1741472e9f905b711b896443ebe4:f6d83c1d18d8babf6ef8f744d27aa4b7
+#KODIPROP:inputstream.adaptive.license_key=802e395111b77ed1f322fd0cee6dc58a:c5752ab4c89d8658277750a54ba57209
 https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/MBMOD_HEVC/wv-pr/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ROTS_264_Color.png" group-title="STC TV",STCtv ROTANA MUSIC
