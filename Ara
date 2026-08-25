@@ -91,7 +91,7 @@ https://shd-gcp-live.lg.mncdn.com/live/bitmovin-big-time/2295a0b3be424fb57734cd6
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/16cafd0823d5375d9e5ee1109c1489e6/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID",KSA thikrayat-tv
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2828a599-b458-433a-ad8e-0c26114c7cf4?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="MBC-SHAHID",KSA thikrayat-tv
 https://shd-gcp-live.lg.mncdn.com/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
 
 
