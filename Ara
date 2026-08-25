@@ -87,6 +87,7 @@ https://shd-gcp-live.lg.mncdn.com/live/bitmovin-big-time/2295a0b3be424fb57734cd6
 
 
 #EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID",KSA now-tv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f03c2cb0f2d0463eafefd512616a2c7d:f425e04abde1ae93878d13167151476b
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/16cafd0823d5375d9e5ee1109c1489e6/index.mpd
 
@@ -96,11 +97,13 @@ https://shd-gcp-live.lg.mncdn.com/live/bitmovin-thikrayat/8cfa8fe0c96275735745b8
 
 
 #EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID",KSA sunna-tv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfc8b5a9efbb484dae6664556413a903:438bab2e597b0aa47367eb2612b14446
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID",KSA quran-tv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c30ac7997ecf4865bb87bec09ef2f9b8:6b5c4d5dd0ea097eeb80a58d75e4950a
 https://shd-gcp-live.lg.mncdn.com/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd
 
@@ -247,6 +250,10 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSA24_HEVC/wv-pr/manifest.mpd
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCD_264_Color.png" group-title="STC TV",STCtv Drama HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c
@@ -272,7 +279,15 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCF_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ebed7aab13df195c486446acccb4ccc:a514dba4389dbec5a49cc296f838993a
 https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT_HEVC/wv-pr/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCSB_264_Color.png" group-title="STC TV",STCtv SHABAB BOOMB
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8e921d857311e459cc56a6a59685f71:45e45e7a01659ff7a3d595e95e05584d
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCSB_HEVC/wv-pr/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MB1_264_Color.png" group-title="STC TV",STCtv MBC 1 HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/MB1_HEVC/wv-pr/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STW_264_Color.png" group-title="STC TV",Star World HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -400,15 +415,7 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSU_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=a477def67bb504fb3acf9350e3074501:1ae6a15786914df32103ae155f26ac73
 https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSQ_HEVC/wv-pr/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCSB_264_Color.png" group-title="STC TV",STCtv SHABAB BOOMB
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8e921d857311e459cc56a6a59685f71:45e45e7a01659ff7a3d595e95e05584d
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCSB_HEVC/wv-pr/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MB1_264_Color.png" group-title="STC TV",STCtv MBC 1 HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/MB1_HEVC/wv-pr/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MB2H_264_Color.png" group-title="STC TV",STCtv MBC 2 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
