@@ -47,10 +47,7 @@ https://live-event-1-enc.edgenextcdn.net/out/v1/5e6bf6cec93b4d70be12d109cdd43d4c
 https://live-event-3-enc.edgenextcdn.net/out/v1/1117b28b859948afa6d5660460b392df/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MBAH_264_Color.png" group-title="MBC-SHAHID",MBC ACTION
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=73d6c44e70d24e09a1c4735bb6e2f696:22f2237a1722bf4d4623346a3ea08b7c
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MBAH_264_Color.png" group-title="MBC-SHAHID",MBC ACTION
@@ -59,6 +56,53 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da
 https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
 
 
+
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MB2H_264_Color.png" group-title="MBC-SHAHID",MBC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1a8592dff8a4965983fd7f8ee7006dc:0954d76121a0c33c6e3f52175aca6c05
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID",MBC MAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f494797bdec4203aed785cc18901e5e:784c3fabbb87e741d7a4dcf13d03bc35
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID",MBC masr 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=541bccb5fa1949768f22f59692e0c3f5:e41c71dc9048bfb9bd3409d5e1786ddc
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-2/7eaa7c0393e9a9637ae311aac75eb40e/index.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID",BIG TIME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=225ef5eefa134d0d9852ad7685a15f9f:96e793b1c0efd73f1972277855a57bde
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-big-time/2295a0b3be424fb57734cd622aaea0a9/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID",KSA now-tv
+#KODIPROP:inputstream.adaptive.license_key=f03c2cb0f2d0463eafefd512616a2c7d:f425e04abde1ae93878d13167151476b
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/16cafd0823d5375d9e5ee1109c1489e6/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID",KSA thikrayat-tv
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID",KSA sunna-tv
+#KODIPROP:inputstream.adaptive.license_key=cfc8b5a9efbb484dae6664556413a903:438bab2e597b0aa47367eb2612b14446
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID",KSA quran-tv
+#KODIPROP:inputstream.adaptive.license_key=c30ac7997ecf4865bb87bec09ef2f9b8:6b5c4d5dd0ea097eeb80a58d75e4950a
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd
 
 
 
