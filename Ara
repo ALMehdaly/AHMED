@@ -2662,51 +2662,55 @@ https://pastebin.com/raw/qtnfAXjQ
 
 
 
-#EXTVLCOPT:http-referrer=https://rotana.net/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="ROTANA",ROTANA Comedy
-https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+
 
 
 
 #EXTVLCOPT:http-referrer=https://rotana.net/
-#EXTINF:-1 tvg-logo="https://imgur.com/6HMluzv.png" group-title="ROTANA",ROTANA khaleejiya
+#EXTINF:-1 tvg-logo="https://imgur.com/6HMluzv.png" group-title="ROTANA R",ROTANA khaleejiya
 https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
 
 
+
+#EXTVLCOPT:http-referrer=https://rotana.net/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA R",ROTANA Drama
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://rotana.net/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="ROTANA R",ROTANA Comedy
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+
  
 #EXTVLCOPT:http-referrer=https://rotana.net/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA Cinema 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA R",ROTANA Cinema 
 https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
 
 
 
 #EXTVLCOPT:http-referrer=https://rotana.net/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA Cinema Masr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA R",ROTANA Cinema Masr
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 
 
 #EXTVLCOPT:http-referrer=https://rotana.net/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA classic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA R",ROTANA classic
 https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
 
 
 #EXTVLCOPT:http-referrer=https://rotana.net/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA Clip
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA R",ROTANA Clip
 https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
 
  
 
-#EXTVLCOPT:http-referrer=https://rotana.net/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA Drama
-https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://rotana.net/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",LBC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA R",LBC
 https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
 
 
 #EXTVLCOPT:http-referrer=https://rotana.net/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ALRisala
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA R",ALRisala
 https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
 
 
@@ -2715,6 +2719,45 @@ https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6HMluzv.png" group-title="ROTANA",ROTANA khaleejiya
+https://live.kurdtips.uno/proxy.php?url=https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA Drama
+https://live.kurdtips.uno/proxy.php?url=https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="ROTANA",ROTANA Comedy
+https://live.kurdtips.uno/proxy.php?url=https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA Cinema
+https://live.kurdtips.uno/proxy.php?url=https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA Cinema Masr
+https://live.kurdtips.uno/proxy.php?url=https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA classic
+https://live.kurdtips.uno/proxy.php?url=https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ROTANA Clip
+https://live.kurdtips.uno/proxy.php?url=https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",LBC
+https://live.kurdtips.uno/proxy.php?url=https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA",ALRisala
+https://live.kurdtips.uno/proxy.php?url=https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
 
 
 
