@@ -2,6 +2,64 @@
 
 
 
+
+
+#EXTINF:-1 group-title="ART" tvg-logo="" tvg-name="Art-Aflam",Art-Aflam
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47425a7e8f7e4030d186559852ae97db:264e7cb9dfd6b9e5c281c97db4c2b4fa
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/ART_Aflam/DASH/ART_Aflam.mpd
+
+#EXTINF:-1 group-title="ART" tvg-logo="" tvg-name="art-aflam1",art-aflam1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=264e7cb9dfd6b9e5c281c97db4c2b4fa:47425a7e8f7e4030d186559852ae97db
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam/DASH/ART_Aflam.mpd
+
+#EXTINF:-1 group-title="ART" tvg-logo="" tvg-name="art-aflam2",art-aflam2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=809a386e57689d56c01a5c3190889641:d54639bb7d418d515e5198663a6d7ae5
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam_2/DASH/ART_Aflam_2.mpd
+
+#EXTINF:-1 group-title="ART" tvg-logo="" tvg-name="art-cinema",art-cinema
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd484fc91dcf152010a0e367e15ab60e:d9bed0a77b7da410129820bcc6606670
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Cinema/DASH/ART_Cinema.mpd
+
+#EXTINF:-1 group-title="ART" tvg-logo="" tvg-name="art-hekayat1",art-hekayat1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d614bb04140eda383d117fb55e9a361:b669cdf2cb65eff56d1e3534c7a54b53
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat/DASH/ART_Hekayat.mpd
+
+#EXTINF:-1 group-title="ART" tvg-logo="" tvg-name="art-hekayat2",art-hekayat2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ccb01903d6868e27953ff0298d4ac05:d156518d6ab453d9f9d12c243280be8f
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat_2/DASH/ART_Hekayat_2.mpd
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="MBC-SHAHID", mbc shahid-sports-1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
