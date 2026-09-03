@@ -9,7 +9,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47425a7e8f7e4030d186559852ae97db:264e7cb9dfd6b9e5c281c97db4c2b4fa
-https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/ART_Aflam/DASH/ART_Aflam.mpd
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam/DASH/ART_Aflam.mpd
 
 #EXTINF:-1 group-title="ART" tvg-logo="" tvg-name="art-aflam1",art-aflam1
 #KODIPROP:inputstream=inputstream.adaptive
