@@ -944,6 +944,27 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/OTV_HEVC/wv-pr/manifest.mpd
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png" group-title="MobilyTv",MBC 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14916d09434deadb728c72adfcbf0da3:0fc8151014beec32c7bd4abf797f8eb4
