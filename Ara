@@ -1,6 +1,22 @@
 #EXTM3U
 
 
+#EXTM3U
+#EXTINF:-1 group-title="أتلتيكو مدريد vs ريال مدريد",أتلتيكو مدريد vs ريال مدريد  [halftime] - تود FHD
+https://smarter.majedlive.site/live/ch5/d0c8391b5cdd4e05994679df8b98f95e.1789912549.1789923349.0.c57ab39bb4ea24b0105b94d7b5b9669548b73fcf54223eccc15126dfcd656320/master.css
+#EXTINF:-1 group-title="أتلتيكو مدريد vs ريال مدريد",أتلتيكو مدريد vs ريال مدريد  [halftime] - تود HDR
+https://smarter.majedlive.site/live/ch3/7376b921758447ff88ff654dd3fc8f26.1789914863.1789925663.0.350420fbf6d73a59e9b72fa086a52e3da245f9b1c599e4d7f5731a48893a32bc/master.css
+#EXTINF:-1 group-title="بورنموث vs ليفربول",بورنموث vs ليفربول  [finished] - تود FHD
+https://smarter.majedlive.site/live/ch1/d5f976ffaad241c7be5c837c6adb06fd.1789906660.1789917460.0.ada1f81ccca194c8caf46ded596803613974e9864f73bb5e406799f862324e3e/master.css
+#EXTINF:-1 group-title="بورنموث vs ليفربول",بورنموث vs ليفربول  [finished] - تود HDR
+https://smarter.majedlive.site/live/ch4/01c2cf462fcb4350a8a13553366beb6a.1789908686.1789919486.0.0d9beaf59a72811a153abbb960c2d58ecf1af4e964efaee53de7c304e7dd6acd/master.css
+#EXTINF:-1 group-title="مان سيتي vs سندرلاند",مان سيتي vs سندرلاند  [finished] - تود FHD
+https://smarter.majedlive.site/live/ch2/d565f2d0e8f943b7bb06786fb19c2c82.1789908520.1789919320.0.41b8e3578ae450e397411a6eabba02c960156a68c80a01980f94b3c4d7355061/master.css
+#EXTINF:-1 group-title="مان سيتي vs سندرلاند",مان سيتي vs سندرلاند  [finished] - تود HDR
+https://smarter.majedlive.site/live/ch3/24b9dcb86eec4890aa21f3d3c5fe5dcb.1789908549.1789919349.0.e4a92e3bcc478ce26ed5874890484cfade868028642c97ce0e0a0cd9b2cd6f88/master.css
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.alkass.net/assets/images/one.png" group-title="shoof",alkass 1
