@@ -3,6 +3,7 @@ name: Merge M3U Playlists
 on:
   push:
     paths:
+      - 'SHOOF'
       - 'rotana'
       - 'shahid'
   workflow_dispatch:
