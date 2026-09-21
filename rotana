@@ -16,7 +16,7 @@ https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/RotanaCinema.png" group-title="ROTANA R",ROTANA Cinema
 https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/RotanaMasr.png" group-title="ROTANA R",ROTANA Cinema Masr
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/RotanaCinemaMasr.png" group-title="ROTANA R",ROTANA Cinema Masr
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/RotanaClassic.png" group-title="ROTANA R",ROTANA Classic
