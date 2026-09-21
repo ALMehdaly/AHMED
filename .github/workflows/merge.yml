@@ -19,11 +19,11 @@ jobs:
         run: |
           echo "#EXTM3U" > all.m3u
           echo "" >> all.m3u
-        grep -v "^#EXTM3U" SHOOF >> all.m3u || true
-        echo "" >> all.m3u
+          grep -v "^#EXTM3U" SHOOF >> all.m3u || true
+          echo "" >> all.m3u
           grep -v "^#EXTM3U" rotana >> all.m3u || true
           echo "" >> all.m3u
-        grep -v "^#EXTM3U" shahid >> all.m3u || true
+          grep -v "^#EXTM3U" shahid >> all.m3u || true
 
       - name: Commit and push
         run: |
