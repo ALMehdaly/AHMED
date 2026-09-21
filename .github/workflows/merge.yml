@@ -5,11 +5,11 @@ on:
     paths:
       - 'SHOOF'
       - 'rotana'
+      - 'ART'
       - 'shahid'
       - 'STCtv'
       - 'StarzPlay'
       - 'SHASHA'
-      - 'ART'
       - 'ARABIC'
       - 'GLOBAL'
   workflow_dispatch:
@@ -24,7 +24,7 @@ jobs:
       - name: Merge playlists
         run: |
           echo "#EXTM3U" > all.m3u
-          for file in SHOOF rotana shahid STCtv StarzPlay SHASHA ART ARABIC GLOBAL; do
+          for file in SHOOF rotana ART shahid STCtv StarzPlay SHASHA  ARABIC GLOBAL; do
             if [ -f "$file" ]; then
               echo "" >> all.m3u
               grep -v "^#EXTM3U" "$file" >> all.m3u || true
