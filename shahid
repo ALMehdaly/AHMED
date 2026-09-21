@@ -2,7 +2,83 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="MBC Shahid ©", mbc shahid-sports-1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd
 
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="MBC Shahid ©", mbc shahid-sports-2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714
+https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd
+
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="MBC Shahid ©", mbc shahid-sports-3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b6f6b340aa8467785e4e82f9320fb5a:8889701d704078c4d910ed1409413d9b
+https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe36361587e/index.mpd
+
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="MBC Shahid ©", mbc shahid-sports-4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb
+https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd
+
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="MBC Shahid ©", mbc shahid-sports-5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2df3c205b674360bc6f364ba1090e70:93da2c77bc812bc05a6e20ad8d35ea78
+https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd
+
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="MBC Shahid ©", mbc live-event-1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=487073be27a94a18af3f8c2d17c12bde:cc668b04c6f99b3afb2188a5fd6a7f97
+https://live-event-1-enc.edgenextcdn.net/out/v1/5e6bf6cec93b4d70be12d109cdd43d4c/index.mpd
+
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="MBC Shahid ©", mbc live-event-3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=448128e485ef44d98024e7c5f3fa078b:a5759aeb79afae384819a20c481e2c4a
+https://live-event-3-enc.edgenextcdn.net/out/v1/1117b28b859948afa6d5660460b392df/index.mpd
+
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MBAH_264_Color.png" group-title="MBC Shahid ©",MBC ACTION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73d6c44e70d24e09a1c4735bb6e2f696:22f2237a1722bf4d4623346a3ea08b7c
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
+
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MB2H_264_Color.png" group-title="MBC Shahid ©",MBC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1a8592dff8a4965983fd7f8ee7006dc:0954d76121a0c33c6e3f52175aca6c05
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
+
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC Shahid ©",MBC MAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f494797bdec4203aed785cc18901e5e:784c3fabbb87e741d7a4dcf13d03bc35
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
+
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC Shahid ©",MBC masr 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=541bccb5fa1949768f22f59692e0c3f5:e41c71dc9048bfb9bd3409d5e1786ddc
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-2/7eaa7c0393e9a9637ae311aac75eb40e/index.mpd
+
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC Shahid ©",BIG TIME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=225ef5eefa134d0d9852ad7685a15f9f:96e793b1c0efd73f1972277855a57bde
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-big-time/2295a0b3be424fb57734cd622aaea0a9/index.mpd
+
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC Shahid ©",KSA now-tv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f03c2cb0f2d0463eafefd512616a2c7d:f425e04abde1ae93878d13167151476b
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/16cafd0823d5375d9e5ee1109c1489e6/index.mpd
+
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2828a599-b458-433a-ad8e-0c26114c7cf4?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="MBC Shahid ©",KSA thikrayat-tv
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC Shahid ©",KSA sunna-tv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfc8b5a9efbb484dae6664556413a903:438bab2e597b0aa47367eb2612b14446
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd
+
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC Shahid ©",KSA quran-tv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c30ac7997ecf4865bb87bec09ef2f9b8:6b5c4d5dd0ea097eeb80a58d75e4950a
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd
 
 
 
