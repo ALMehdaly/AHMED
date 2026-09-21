@@ -29,31 +29,34 @@ https://storage.googleapis.com/livealkass-eu/alkass8-p/main.m3u8
 
 
 
+#PLAYLIST:Rotana TV
 
-#EXTINF:-1 group-title="Rotana",Rotana Kids
-https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6HMluzv.png" group-title="ROTANA R",ROTANA khaleejiya
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="Rotana",Rotana khalejia
-https://hiplayer.hibridcdn.net/t/rotana-khaleejiya.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA R",ROTANA Drama
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="Rotana",Rotana Drama
-https://hiplayer.hibridcdn.net/t/rotana-drama.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="ROTANA R",ROTANA Comedy
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="Rotana",Rotana Comedy 
-https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
- 
-#EXTINF:-1 group-title="Rotana",Rotana cinema 
-https://hiplayer.hibridcdn.net/t/rotana-cinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA R",ROTANA Cinema
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="Rotana",Rotana classic 
-https://hiplayer.hibridcdn.net/t/rotana-classical.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA R",ROTANA Cinema Masr
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="Rotana",Rotana LBC
-https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA R",ROTANA Classic
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="Rotana",Rotana RISALA
-https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA R",ROTANA Clip
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/|User-Agent=Mozilla/5.0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA R",LBC
+https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx.png" group-title="ROTANA R",ALRisala
+https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/|User-Agent=Mozilla/5.0
 
 
 
