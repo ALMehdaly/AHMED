@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Playlists",Rotana
+https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/iptv/rotana
+
+#EXTINF:-1 group-title="Playlists",Shahid
+https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/iptv/shahid
